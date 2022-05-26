@@ -1,9 +1,16 @@
-const mongoose = require("mongoose");
-require("dotenv").config();
+import mongoose from "mongoose";
 
-mongoose.connect(process.env.MONGODB_URI, {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
-});
+const createConnectionManager = () => {
+  let current = null;
 
-module.exports = mongoose.connection;
+  return {
+    connect: async () => {
+      if (current) return current;
+      // I think the options you are passing are deprecated/removed from mongoose
+      const instance = await mongoose.connect(process.env.MONGODB_URI);
+      return instance;
+    },
+  };
+};
+
+export const manager = createConnectionManager();

@@ -3,14 +3,20 @@ import { useEffect, useState } from "react";
 import Head from "next/head";
 import Link from "next/link";
 import Pagination from "react-bootstrap/Pagination";
-import { ConnectionToDatabase } from "../utils/connection";
+import { manager } from "../utils/connection";
 
 export const getStaticProps = async () => {
-  const res = await ConnectionToDatabase;
-  const data = await res.json();
+  const { db } = await manager.connect();
+
+  const data = await db
+    .collection("parts")
+    .find({})
+    .sort({})
+    .limit(1000)
+    .toArray();
   return {
     props: {
-      data,
+      data: JSON.parse(JSON.stringify(data)), // why?
     },
     revalidate: 60,
   };
