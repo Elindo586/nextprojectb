@@ -3,10 +3,10 @@ import { useEffect, useState } from "react";
 import Head from "next/head";
 import Link from "next/link";
 import Pagination from "react-bootstrap/Pagination";
-import { manager } from "../utils/connection";
+import { managerdb } from "../utils/connect";
 
 export const getStaticProps = async () => {
-  const { db } = await manager.connect();
+  const { db } = await managerdb.connect();
 
   const data = await db
     .collection("parts")
