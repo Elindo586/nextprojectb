@@ -7,7 +7,7 @@ import {PartsData} from "./PartsData";
 
 
 
-const Inventory = () => {
+const Inventory = ({PartsData}) => {
   const [isActive, setIsActive] = useState([]);
   const [isInventory, setIsInventory] = useState([]);
   const [savedParts, setSavedParts] = useState([]);
