@@ -187,12 +187,14 @@ const Inventory = () => {
   
       <div>
         <div className="col-md-12">
-        {/* style="margin-top: 50px; margin-bottom: 20px" ADD CSS TO ELEMENT BELOW */}
-        <p className="invy-text">
-          Here is a quick overview of regular components coming from our
-          inventory. If you have any requirements on these components you can
-          always <Link to="/ContactUs"> contact us </Link> for a quote request.
-        </p>
+        <span className=" invy-text">
+            <p>
+              Here is a quick overview of regular components coming from our
+              inventory. If you have any requirements on these components you
+              can always <a href="./contact-us"> contact us </a> for a quote
+              request.
+            </p>
+          </span>
       </div>
       <div className="col-md-12">
         <input
