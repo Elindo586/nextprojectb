@@ -3,26 +3,11 @@ import { useEffect, useState } from "react";
 import Head from "next/head";
 import Link from "next/link";
 import Pagination from "react-bootstrap/Pagination";
-import { managerdb } from "../utils/connect";
+import {PartsData} from "./PartsData";
 
-export const getStaticProps = async () => {
-  const { db } = await managerdb.connect();
 
-  const data = await db
-    .collection("parts")
-    .find({})
-    .sort({})
-    .limit(1000)
-    .toArray();
-  return {
-    props: {
-      data: JSON.parse(JSON.stringify(data)), // why?
-    },
-    revalidate: 60,
-  };
-};
 
-const Inventory = ({ data }) => {
+const Inventory = () => {
   const [isActive, setIsActive] = useState([]);
   const [isInventory, setIsInventory] = useState([]);
   const [savedParts, setSavedParts] = useState([]);
@@ -42,28 +27,41 @@ const Inventory = ({ data }) => {
 
   let itemStart = 0;
   let itemEnd = 24;
-  useEffect(() => {
-    partsList = data;
+
+  useEffect(async () => {
+    await getInventory();
+    // console.log(partsList);
     setSavedParts(partsList);
-    // get pages
+    console.log(savedParts);
+
+    // // get pages
+
     for (let i = 1; i <= pages; i++) {
       activepages.push(i);
     }
+
     // get 25 items
     renderItems();
+
     // create paginated elements
     getPagination();
   }, []);
 
   // fetch data from server
-  // const getInventory = async () => {
-  //   await fetch("/api/parts/getallparts")
-  //     .then((data) => {
-  //       partsList = data;
-  //       setSavedParts(partsList)
-  //     })
-  // }
+  const getInventory = {PartsData}
+      .then((response) => {
+        if (!response.ok) {
+          return response.statusText();
+        }
+        return response.json();
+      })
+      .then((invDataArr) => {
+        partsList = invDataArr;
+      })
+      .catch((error) => console.log(error));
+  };
 
+  // return pagination elements
   const getPagination = () => {
     // get pages
     if (activeInventory.length > 0) {
@@ -115,6 +113,7 @@ const Inventory = ({ data }) => {
       }
       setIsInventory(itemsPerPage);
     } else {
+      console.log(partsList.length);
       for (let i = itemStart; i <= itemEnd; i++) {
         if (partsList[i]) {
           itemsPerPage.push(
@@ -183,75 +182,52 @@ const Inventory = ({ data }) => {
       getPagination();
     }
   };
+
   return (
-    <div>
+  
       <div>
-        <Head>
-          <meta name="Description" content="  " />
-          <meta name="keywords" content=" " />
-          <meta name="author" content="Edgar Lindo" />
-
-          <meta
-            property="og:title"
-            content=" TU - Technical Union | Inventory"
-          />
-          <meta
-            property="og:Description"
-            content=" from  TU -Technical Union"
-          />
-          <meta property="og:image" content="" />
-          <meta property="og:url" content="" />
-        </Head>
+        <div className="col-md-12">
+        {/* style="margin-top: 50px; margin-bottom: 20px" ADD CSS TO ELEMENT BELOW */}
+        <p className="invy-text">
+          Here is a quick overview of regular components coming from our
+          inventory. If you have any requirements on these components you can
+          always <Link to="/ContactUs"> contact us </Link> for a quote request.
+        </p>
       </div>
-      <div className="row">
-        <div className="col-md-12">
-          {/* style="margin-top: 50px; margin-bottom: 20px" ADD CSS TO ELEMENT BELOW */}
-          <p className="invy-text">
-            Here is a quick overview of regular components coming from our
-            inventory. If you have any requirements on these components you can
-            always
-            <Link href="/contact">contact us for a quote request.</Link>
-          </p>
-        </div>
-        <div className="col-md-12">
-          <input
-            type="text"
-            id="myInput"
-            // onKeyUp="myFunction()"
-            onKeyUp={searchItems}
-            placeholder="Search for Part Number.."
-            title="Type in a name"
-          />
-          <br />
-          <br />
+      <div className="col-md-12">
+        <input
+          type="text"
+          id="myInput"
+          // onKeyUp="myFunction()"
+          onKeyUp={searchItems}
+          placeholder="Search for Part Number.."
+          title="Type in a name"
+        />
+        <br />
+        <br />
 
-          <table
-            className="my-talbe-sort table table-hover table-striped table-bordered"
-            id="myTable"
-          >
-            <thead>
-              <tr>
-                <th>Reference Number</th>
-                <th>Description / Long Part Number</th>
-                <th>Alternative replacement for:</th>
-              </tr>
-              {/* {savedParts.map((item, index) => (
-                <tr>
+        <table
+          className="my-talbe-sort table table-hover table-striped table-bordered"
+          id="myTable"
+        >
+          <thead>
+            <tr>
               <th>Reference Number</th>
               <th>Description / Long Part Number</th>
               <th>Alternative replacement for:</th>
             </tr>
-              ))} */}
-            </thead>
+          </thead>
 
-            <tbody>{isInventory}</tbody>
-          </table>
+          <tbody>{isInventory}</tbody>
+        </table>
 
-          <Pagination>{isActive}</Pagination>
-        </div>
+        <Pagination>{isActive}</Pagination>
       </div>
-    </div>
+      </div>
+
+      
+
   );
-};
+}
 
 export default Inventory;

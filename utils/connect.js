@@ -1,12 +1,12 @@
-import { MongoClient } from "mongodb";
+// import { MongoClient } from "mongodb";
 
-const createConnection = () => {
-  // let current = null;
-  const client = new MongoClient(process.env.MONGODB_URI);
+// const createConnection = () => {
+//   // let current = null;
+//   const client = new MongoClient(process.env.MONGODB_URI);
 
-  return async function run() {
-    await client.connect();
-  };
-};
+//   return async function run() {
+//     await client.connect();
+//   };
+// };
 
-export const managerdb = createConnection();
+// export const managerdb = createConnection();
