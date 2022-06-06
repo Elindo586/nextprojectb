@@ -3,11 +3,9 @@ import { useEffect, useState } from "react";
 import Head from "next/head";
 import Link from "next/link";
 import Pagination from "react-bootstrap/Pagination";
-import {PartsData} from "./PartsData";
+import { PartsData } from "./PartsData";
 
-
-
-const Inventory = ({PartsData}) => {
+const Inventory = () => {
   const [isActive, setIsActive] = useState([]);
   const [isInventory, setIsInventory] = useState([]);
   const [savedParts, setSavedParts] = useState([]);
@@ -48,18 +46,17 @@ const Inventory = ({PartsData}) => {
   }, []);
 
   // fetch data from server
-  const getInventory = {PartsData}
-      .then((response) => {
-        if (!response.ok) {
-          return response.statusText();
-        }
-        return response.json();
-      })
-      .then((invDataArr) => {
-        partsList = invDataArr;
-      })
-      .catch((error) => console.log(error));
-  };
+  const getInventory = { PartsData }
+    .then((response) => {
+      if (!response.ok) {
+        return response.statusText();
+      }
+      return response.json();
+    })
+    .then((invDataArr) => {
+      partsList = invDataArr;
+    })
+    .catch((error) => console.log(error));
 
   // return pagination elements
   const getPagination = () => {
@@ -184,17 +181,15 @@ const Inventory = ({PartsData}) => {
   };
 
   return (
-  
-      <div>
-        <div className="col-md-12">
+    <div>
+      <div className="col-md-12">
         <span className=" invy-text">
-            <p>
-              Here is a quick overview of regular components coming from our
-              inventory. If you have any requirements on these components you
-              can always <a href="./contact-us"> contact us </a> for a quote
-              request.
-            </p>
-          </span>
+          <p>
+            Here is a quick overview of regular components coming from our
+            inventory. If you have any requirements on these components you can
+            always <a href="./contact-us"> contact us </a> for a quote request.
+          </p>
+        </span>
       </div>
       <div className="col-md-12">
         <input
@@ -225,11 +220,8 @@ const Inventory = ({PartsData}) => {
 
         <Pagination>{isActive}</Pagination>
       </div>
-      </div>
-
-      
-
+    </div>
   );
-}
+};
 
 export default Inventory;
