@@ -12,18 +12,18 @@ export async function getStaticProps() {
   // However you can use another database (e.g. myDatabase) by replacing the `await clientPromise` with the following code:
   //
   const client = await clientPromise;
-  const dbs = client.db("parts");
+  const db = client.db("parts");
   //
   // Then you can execute queries against your database like so:
   // db.find({}) or any of the MongoDB Node Driver commands
 
   return {
-    props: { dbs },
+    props: { db },
     revalidate: 60,
   };
 }
 
-const Inventory = ({ dbs }) => {
+const Inventory = ({ db }) => {
   const [isActive, setIsActive] = useState([]);
   const [isInventory, setIsInventory] = useState([]);
   const [savedParts, setSavedParts] = useState([]);
@@ -64,7 +64,7 @@ const Inventory = ({ dbs }) => {
   }, []);
 
   // fetch data from server
-  const getInventory = { dbs }
+  const getInventory = { db }
     .then((response) => {
       if (!response.ok) {
         return response.statusText();
