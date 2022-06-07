@@ -3,6 +3,7 @@ import { useEffect, useState } from "react";
 import Head from "next/head";
 import Link from "next/link";
 import Pagination from "react-bootstrap/Pagination";
+
 import { clientPromise } from "../utils/mongodb";
 
 export async function getStaticProps() {
@@ -11,18 +12,18 @@ export async function getStaticProps() {
   // However you can use another database (e.g. myDatabase) by replacing the `await clientPromise` with the following code:
   //
   const client = await clientPromise;
-  const db = client.db("parts");
+  const dbs = client.db("parts");
   //
   // Then you can execute queries against your database like so:
   // db.find({}) or any of the MongoDB Node Driver commands
 
   return {
-    props: { db },
+    props: { dbs },
     revalidate: 60,
   };
 }
 
-const Inventory = ({ db }) => {
+const Inventory = ({ dbs }) => {
   const [isActive, setIsActive] = useState([]);
   const [isInventory, setIsInventory] = useState([]);
   const [savedParts, setSavedParts] = useState([]);
@@ -63,7 +64,7 @@ const Inventory = ({ db }) => {
   }, []);
 
   // fetch data from server
-  const getInventory = { db }
+  const getInventory = { dbs }
     .then((response) => {
       if (!response.ok) {
         return response.statusText();
