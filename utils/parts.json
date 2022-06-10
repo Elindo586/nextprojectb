@@ -1,0 +1,3552 @@
+[
+ {
+   "Reference": "B05133002121RM",
+   "Description": "0513R18C3VPV16SM21HYB02",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "B0513400208RM",
+   "Description": "0513R18C3VPV25SM21FYB03",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "B0513700405RM",
+   "Description": "0513R15A7VPV63SM21HZ",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "B0513860250RM",
+   "Description": "0513R18C3VPV130SM21HYB04",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "B9511230659",
+   "Description": "VPV100/130/164 SEAL KIT SAE/METRIC VITON",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "C61237",
+   "Description": "112/113 SEAL KIT SHAFT BUNA 005/006",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "C61238",
+   "Description": "112/113 SEAL KIT REAR BUNA 005/006",
+   "Replacements": "Eaton-Charlynn"
+ },
+ {
+   "Reference": "C61294-000",
+   "Description": "VIS 45 SEAL KIT BEARINGLESS 003",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "D023-08602-0RM",
+   "Description": "M6G5N1D",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "D024-49477-0/03",
+   "Description": "T6CC0310143R03C100P33",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "D029-09883-0RM",
+   "Description": "PV152R1DC00",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "D230-90018-3",
+   "Description": "T6-7EE/T6-7EDC BEARING",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "F080004",
+   "Description": "500375A5120AAAAA",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "F080005",
+   "Description": "500475A5120AAAAA",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "F080012",
+   "Description": "500200A5102AAAAA",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "F080028",
+   "Description": "500160W3120AAAAA",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "F080035",
+   "Description": "500475W3120AAAAA",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "F080038CW",
+   "Description": "501125W3122AAAAA",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "F080072",
+   "Description": "500475A5102AAAAA",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "F080081",
+   "Description": "500475A5110AAAAA",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "F080084",
+   "Description": "500160W3122AAAAA",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "F080100",
+   "Description": "500475W3123AAAAA",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "F2464121",
+   "Description": "V2108W1A12S214",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "F500011300",
+   "Description": "500 SHAFT KIT #22 1-1/4\" TAPERED",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "F500444112V",
+   "Description": "500 SEAL KIT VITON *FFP UNITS ONLY*",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "F922574",
+   "Description": "V200 CART KIT 11W GPM BUNA",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "M800049",
+   "Description": "25VQH17 CART KIT FRONT VITON 30",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "R1649128RM",
+   "Description": "PVQPSSO05ER02",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "R1725239RM",
+   "Description": "PSVPSSF15ERM52",
+   "Replacements": "Bosch-Racine"
+ },
+ {
+   "Reference": "R1866239RM",
+   "Description": "PSVPNCO25ERM50",
+   "Replacements": "Bosch-Racine"
+ },
+ {
+   "Reference": "R1942817RM",
+   "Description": "PSVPNAO15ERM60",
+   "Replacements": "Bosch-Racine"
+ },
+ {
+   "Reference": "R306697",
+   "Description": "BEARING RETAINER",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "R404218",
+   "Description": "PVR SHAFT SEAL S/A BUNA",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "R5926746RM",
+   "Description": "PSVPSSF20HRM54",
+   "Replacements": "Bosch-Racine"
+ },
+ {
+   "Reference": "R978711809",
+   "Description": "VPV25/32 REPAIR KIT SAE",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V014-45091-0",
+   "Description": "M4C 0241N02A101",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V016-86096-0",
+   "Description": "VC5V10 311 A1",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V016-86916-0",
+   "Description": "VR5U1041314A1",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V02-101726",
+   "Description": "COIL D03 DIN 110/120V AC DG4V3S \"B\"",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V02-109025RM",
+   "Description": "DG4V3S2CMUH560",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V02-109690RM",
+   "Description": "DG4V3S2CMFPA5WLB560",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V02-124193",
+   "Description": "COIL",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V02-1522213RM",
+   "Description": "V20101F9B2B11CC12R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V02-159867RM",
+   "Description": "PVH98QICRCF13S10C25V31",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V02-3116270RM",
+   "Description": "F3C2830S2",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V02-321825RM",
+   "Description": "DG5V10S6CTKMFWB10",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V02-335276RM",
+   "Description": "PVM045ER05CS02AAC28110000A0A",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V02-341536RM",
+   "Description": "PVQ20B2RA9SS1S21CM712",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V02-341540RM",
+   "Description": "PVQ20B2RA9SS1S21C2112",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "024-020609-0/01",
+   "Description": "T6DCCMB42B28B082R01B101P31",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "024-030310-0/01",
+   "Description": "T6DCCMB42B28B082R01B101 USE V054-38952-0/01",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "024-050908-0",
+   "Description": "T6DCCMB35B12B081R00B100",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "024-062309-0",
+   "Description": "T6DRMB381R00B20A1",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "024-070608-0",
+   "Description": "T6EM0852L00B1",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "024-102309-0/030",
+   "Description": "T6CRMB173R03B20A1P31",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "024-120909",
+   "Description": "T6EYR723R00A1",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "024-44113-0/02",
+   "Description": "T6CMB101R02C1",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "024-44206-0",
+   "Description": "T6EM0621R00B1",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "024-44492-0",
+   "Description": "T6CCMB22B103R00D100",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "024-44779-0",
+   "Description": "T6CMB283L00C1",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "024-44908-0",
+   "Description": "T6DMB313R00C1",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "024-45228-0/03",
+   "Description": "T6CMB103R03C1",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "024-45643-0",
+   "Description": "T6CMB124R00C1",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "024-45885-0",
+   "Description": "T6CMB144L00C1",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "024-50500-0",
+   "Description": "T6DCMB28B143R00C100",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "024-50528-0",
+   "Description": "T6CCMB31B143R00D100",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "024-94110-0",
+   "Description": "T67DCB42B171R00A100",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "026-65042-0",
+   "Description": "VR5V1043312A1",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "026-65976-0",
+   "Description": "VR5V1263312A1",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "027-00378-0",
+   "Description": "T6BBB08B083R00A100",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "027-00548-0",
+   "Description": "VR4V065353009GOQA1",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "027-00674-0/15",
+   "Description": "T6CCMB14B105R15D110P31",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "027-00739-0/10",
+   "Description": "T6DCMB38B143R10C100P31",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "034-59054-0",
+   "Description": "T6C 010 CAM RING",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "034-70247-0",
+   "Description": "T6E HOUSING - UNC",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "054-37393-0/02",
+   "Description": "T7EES0570571R02A1000",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "V102244",
+   "Description": "PVH57/63 SEAL KIT DSS VITON",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V102262",
+   "Description": "PVH74/81 SEAL KIT DSS VITON",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V10358",
+   "Description": "BOLT",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V109940RM",
+   "Description": "DG4V3S0CMUB560",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V1106814RM",
+   "Description": "PK12200C12",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V114974-025RM",
+   "Description": "PVH57-81/PVM057-81 SCREW-ROT GRP",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V1229137RM",
+   "Description": "PVH74QICRF1S10C2531",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V123AL00344ARM",
+   "Description": "PVM020ER05CS01AAC23110000A0A",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V123AL00741ARM",
+   "Description": "PVM074ER09GS02AAC28200000A0A",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V126455RM",
+   "Description": "DG5S88CSVMFWB530",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V131812",
+   "Description": "45V(Q) BEARING",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V1354467RM",
+   "Description": "4CG10A21",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V139178RM",
+   "Description": "DG5V76C2MUB540",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V143282RM",
+   "Description": "PVQ13A2RSE1S10CM711",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V1510868RM",
+   "Description": "DG4V32AMUB660 USE V859159RM",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V1718594RM",
+   "Description": "DT8P1103011",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V1756071RM",
+   "Description": "C5G805",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V1822RM",
+   "Description": "MHT904545N112",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V1849950RM",
+   "Description": "CG5100ACMFWB5100",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V1852319RM",
+   "Description": "DGPC06DADB51",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V217596",
+   "Description": "45V/Q KEY #1 SHAFT",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V229236",
+   "Description": "V100/V200 V2020 SHAFT SEAL BUNA DBL LIP",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V234204",
+   "Description": "SEAT",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V239371",
+   "Description": "PVB/Q/E  SPRING \"C\" COMP",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V241579",
+   "Description": "PVB5/6 PVQ10/13 COMP PISTON",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V244956",
+   "Description": "PVB/PVQ/PVE GASKET COMP",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V24575786RM",
+   "Description": "DG5S4102CTMFWB50",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V247102",
+   "Description": "4525V SHAFT #19 SPLINED",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V251108",
+   "Description": "PVB20/29/45A BEARING REAR",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V262331",
+   "Description": "O RING VITON",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V262335",
+   "Description": "O RING VITON",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V300AA00001A",
+   "Description": "MCSCS012DG000010 COIL 12DGS DIN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V300AA00081A",
+   "Description": "MCSCJ012DG000010 COIL 12DGJ DIN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V317233RM",
+   "Description": "SPOOL",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V321829RM",
+   "Description": "DG5V10S8CETVMFWB10",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V341364RM",
+   "Description": "PVH131QICRF13S11IC31",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V3425RM",
+   "Description": "MHT1307555N130",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V343580RM",
+   "Description": "DG4V37CMUH760EN21",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V34689RM",
+   "Description": "PVH131CRBF16S10C21V1731",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V349169RM",
+   "Description": "DGFN0650",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V353230",
+   "Description": "PVB20/29/45A BEARING PINTLE",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V354858RM",
+   "Description": "BODY PVB5-45A COMP.",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V356986",
+   "Description": "PVB/E/Q COMP SPOOL",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V360430RM",
+   "Description": "ADJUSTING PLUG",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V36924",
+   "Description": "PVB PLUG PINTLE",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V3757970RM",
+   "Description": "MPVB29LSG11C10",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V388153",
+   "Description": "PVH74 BEARING S/A REAR PVM028/032",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V3884RM",
+   "Description": "V20080D12S148",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V416638",
+   "Description": "TA19 PINTLE COVER",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V417381",
+   "Description": "PVE BEARING S/A PINTLE",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V419627",
+   "Description": "BEARING S/A FRONT SHAFT",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V423617",
+   "Description": "PVE19/21 PVQ40/45 GASKET VALVE BLOCK",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V429282",
+   "Description": "45V(Q) SHAFT SEAL SECONDARY VITON",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V429283",
+   "Description": "20-31V(Q) SHAFT SEAL SECONDARY VITON",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V429284",
+   "Description": "35V(Q) SHAFT SEAL VITON",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V430417RM",
+   "Description": "PVE19/21G5 SHAFT THRU #9",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V433326",
+   "Description": "SHAFT 4535V #113",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V471965",
+   "Description": "PVE19/21 PVQ40/45 SHAFT SEAL BUNA",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V473914",
+   "Description": "PVE19/21 BEARING S/A REAR",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V507848",
+   "Description": "COIL D03 DIN 24V DC DG4V3 60",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V508169",
+   "Description": "COIL D03 WIRE 110/120V AC DG4V3 B 60 HP",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V515554RM",
+   "Description": "3525VSH38A1286BB10LH",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V526639RM",
+   "Description": "PVH74/81-PVM074/81 SPACER-ROT GRP",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V577678RM",
+   "Description": "TA19R9AR21",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V581863RM",
+   "Description": "3525VQSV10/4525VQSV10 COVER REAR",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V584474RM",
+   "Description": "PVH74/81-PVM074/81 SHOE RETAINER-ROT GRP",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V589093",
+   "Description": "PVH74 BEARING S/A SHAFT PVE35",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V616768RM",
+   "Description": "DG4V52AJMUH620",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V616769RM",
+   "Description": "DG4V52AMUA620",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V617471",
+   "Description": "D05 COIL DIN 24V DC DG4V5 H 20",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V631463RM",
+   "Description": "PVE27L-631463",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V637-00004-0",
+   "Description": "M4C SHAFT SEAL BUNA",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V681582RM",
+   "Description": "CGMDC0612510",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V690796RM",
+   "Description": "PVH74/81-PVM074/81 HOLD DOWN STRAPS-ROT GRP",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V694411RM",
+   "Description": "DGMFN3YA1WB1W41",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V70344-51RM",
+   "Description": "VALVE PLATE",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V70344-52",
+   "Description": "VALVE PLATE CCW 2.48 IN3/R 70342/44",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V70422-915",
+   "Description": "SEAL REPAIR KIT BUNA 70422-23-52-53",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V70442-225",
+   "Description": "SHAFT",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V709016RM",
+   "Description": "DG5SH833CTKMFWB560",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V818993RM",
+   "Description": "DGMC 5 ADJUSTMENT HEAD S/A GW",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V849818",
+   "Description": "V20*0 PRESSURE PLATE FRONT 30 DSN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V859183RM",
+   "Description": "DG4V36CVMUH760",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V867315RM",
+   "Description": "DGMC5PTGWS30",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V867334RM",
+   "Description": "DGMFN5YA1W30",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V867337RM",
+   "Description": "DGMFN5XP1W30",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V870041RM",
+   "Description": "DGMFN3ZP1W41",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V8700430RM",
+   "Description": "DGMFN3ZP2W41",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V877006RM",
+   "Description": "PVH074R01AA10A250000001001AB010A",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V919146RM",
+   "Description": "CART KIT V300 15 GPM",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V919214",
+   "Description": "DG4S4 C POS SEAL KIT VITON 115-460V AC 50 DSN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V919663",
+   "Description": "MHT 70/90 12 SEAL KIT VITON",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V919682",
+   "Description": "PVB10-15/PVQ20-32 SEAL KIT BUNA",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V919683",
+   "Description": "PVB20/29/45A SEAL KIT STANDARD BUNA",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V919771",
+   "Description": "SEAL KIT",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V919772",
+   "Description": "V10 SEAL KIT VITON",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V919870",
+   "Description": "MHT 110/130/150 SEAL KIT DUAL VITON",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V920021",
+   "Description": "25-26VQ / 30-31VQ SEAL KIT SSS BUNA",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V920021",
+   "Description": "25-26VQ/30-31VQ SEAL KIT SSS BUNA",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V920025",
+   "Description": "45VQ SEAL KIT SSS BUNA",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V920043",
+   "Description": "2520VQ SEAL KIT DSS VITON",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V920050",
+   "Description": "3520VQ SEAL KIT SSS VITON",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V920166",
+   "Description": "2520VQV10 SEAL KIT DSS VITON",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V920171",
+   "Description": "TA1919V20(P) SEAL KIT",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V920227",
+   "Description": "PVE19/21QW/X PVQ40/45 SEAL KIT BUNA 10 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V922865",
+   "Description": "4525V SEAL KIT BUNA",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V923006",
+   "Description": "MPVB20/29 SEAL KIT BUNA",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V923938",
+   "Description": "PVE/PVQ/TA SHIM KIT",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V923948RM",
+   "Description": "PVE19/PVQ40 ROTATING GROUP",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V923989",
+   "Description": "PVE19/21 SEAL KIT BUNA 20/30/40 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V934382RM",
+   "Description": "PVM045/050 SHAFT #07 SPLINED NON THRU",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V943356RM",
+   "Description": "PVM074 SWASHPLATE",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V943428",
+   "Description": "PVM074/081 SHAFT #09 KEYED NON THRU",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V943433RM",
+   "Description": "PVM074/81 SHAFT 09 KEYED A-M THRU",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V987151RM",
+   "Description": "FG3180K10",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "V9900633-000",
+   "Description": "AUD041-080 SEAL KIT POLYACRYLATE SHAFT SEAL",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "CS14-72941-X",
+   "Description": "T6CCM B00 CART KIT MINUS RING REAR",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S14-24569-0",
+   "Description": "T6C SHAFT #3 SPLINE ASSY SAE B",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S14-24570-0",
+   "Description": "T6C SHAFT #1 KEYED ASSY SAE B",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S14-29879-0",
+   "Description": "M4C SEAL KIT BUNA",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-10133-0",
+   "Description": "T6C SEAL KIT BUNA",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-10133-5",
+   "Description": "T6C SEAL KIT VITON",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-10138-0",
+   "Description": "T6D SEAL KIT BUNA - T7D SEAL KIT BUNA",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-10170-0",
+   "Description": "T6DC SEAL KIT BUNA",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-10219-0",
+   "Description": "T6ED SEAL KIT BUNA",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-10348-0",
+   "Description": "T6CC SHAFT #3 SPLINE ASSY SAE BB",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-10352-0",
+   "Description": "T6CC SEAL KIT BUNA",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-10430-0",
+   "Description": "T6C SHAFT #4 SPLINE ASSY SAE BB",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-10623-0",
+   "Description": "M4D/1 102 CAM RING ASSY B MOD 6.44 IN3/R",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-10625-0",
+   "Description": "M4D/1 128 CAM RING ASSY 8.08 IN3/R",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-10757-0",
+   "Description": "T6CC 010 CART KIT CW REAR",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-10916-0",
+   "Description": "M4D SEAL KIT BUNA",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-25575-0",
+   "Description": "T6DCC SEAL KIT BUNA",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-26206-0",
+   "Description": "T6DCW SHAFT #5 KEYED ASSY NON SAE",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-26208-0",
+   "Description": "T6CCW SHAFT #2 KEYED ASSY SAE BB",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-26351-0",
+   "Description": "T6DR SHAFT #3 SPLINE ASSY SAE C",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-26381-0",
+   "Description": "T6ER SEAL KIT BUNA",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-30105-0",
+   "Description": "T6CM B10 CART KIT  CW",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-30119-0",
+   "Description": "T6CM B28 CART KIT CW",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-30120-0",
+   "Description": "T6CM B28 CART KIT CCW",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40018-0",
+   "Description": "T6EM 062 CART KIT CW",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40059-0",
+   "Description": "T6DCM B28 CART KIT CW FRONT",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40067-0",
+   "Description": "T6DCM B42 CART KIT CW FRONT",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40068-0",
+   "Description": "T6DCM B42 CART KIT CCW FRONT",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40070-0",
+   "Description": "T6DCM B45 CART KIT CCW FRONT",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40071-0",
+   "Description": "T6DCM B50 CART KIT CW FRONT",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40072-0",
+   "Description": "T6DCM B50 CART KIT CCW FRONT",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40164-0",
+   "Description": "T6CCM B17 CART KIT CW FRONT",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40165-0",
+   "Description": "T6CCM B17 CART KIT CCW FRONT",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40187-0",
+   "Description": "T6*CM B14 CART KIT CW REAR",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40189-0",
+   "Description": "T6*CM B17 CART KIT CW REAR",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40195-0",
+   "Description": "T6*CM B25 CART KIT CW REAR",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40198-0",
+   "Description": "T6*CM B28 CART KIT CCW REAR",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40200-0",
+   "Description": "T6CCM B03 CART KIT CW REAR",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40202-0",
+   "Description": "T6CCM B05 CART KIT CW REAR",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40206-0",
+   "Description": "T6CCM B08 CART KIT CW REAR",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40210-0",
+   "Description": "T6CCM B12 CART KIT CW REAR",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40212-0",
+   "Description": "T6CCM B14 CART KIT CW REAR",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40214-0",
+   "Description": "T6CCM B17 CART KIT CW REAR",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40215-0",
+   "Description": "T6CCM B17 CART KIT CCW REAR",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40346-0",
+   "Description": "T6EDM B50 CART KIT CW REAR (T6EDC CTR)",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40383-0",
+   "Description": "T6E*M 066 CART KIT CW FRONT",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40384-0",
+   "Description": "T6E*M 066 CART KIT CCW FRONT",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40511-0",
+   "Description": "T6DCCM B08 CART KIT CW CTR",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40517-0",
+   "Description": "T6DCCM B14 CART KIT CW CTR",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40521-0",
+   "Description": "T6DCCM B20 CART KIT CW CTR",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40523-0",
+   "Description": "T6DCCM B22 CART KIT CW CTR",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40527-0",
+   "Description": "T6DCCM B28 CART KIT CW CTR",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-40767-0",
+   "Description": "T6EM 050 CART KIT CW",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-45775-0",
+   "Description": "T6CCM B31 CART KIT CW REAR",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-58999-0",
+   "Description": "T6E 085 CART KIT CCW",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-76982-0",
+   "Description": "T7D*(S) B42 CART KIT CCW FRONT",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "S24-77687-0",
+   "Description": "T7E*(S) 062 CART KIT CW FRONT",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "T6DCC01HK",
+   "Description": "T6DCC(M) 01 HOUSING KIT",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "000047",
+   "Description": "104/Y KEY FOR 1 1/4\" TAPERED SHAFT",
+   "Replacements": "Eaton-Charlynn"
+ },
+ {
+   "Reference": "02-136811",
+   "Description": "25VTB COUPLING KIT",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "02-142936",
+   "Description": "PVQ20 VALVE BLOCK S/A SIDE RH",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "02-152010",
+   "Description": "V2010/2020 CART KIT 11 GPM FRONT BUNA 12",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "02-334115",
+   "Description": "PVE19/21 COMP S/A \"C\"",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "034-70814-0",
+   "Description": "T6C SHAFT #1 KEYED",
+   "Replacements": "Parker-Denison"
+ },
+ {
+   "Reference": "1011004",
+   "Description": "101-1004",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1011008",
+   "Description": "101-1008",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1011015",
+   "Description": "101-1015",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1011027",
+   "Description": "101-1027",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1011028",
+   "Description": "101-1028",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1011032",
+   "Description": "101-1032",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1011043",
+   "Description": "101-1043",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1011700",
+   "Description": "101-1700",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1011702",
+   "Description": "101-1702",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1011706",
+   "Description": "101-1706",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1011755",
+   "Description": "101-1755",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "102508",
+   "Description": "20V08 CART KIT REAR BUNA 22 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "102509",
+   "Description": "20V11 CART KIT REAR BUNA 22 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "102520",
+   "Description": "20V11 CART KIT FRONT BUNA 22 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "102532",
+   "Description": "25V12 CART KIT FRONT BUNA 22 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "102535",
+   "Description": "25V21 CART KIT FRONT BUNA 22 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "102536",
+   "Description": "25V12 CART KIT REAR BUNA 22 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "102538",
+   "Description": "25V17 CART KIT REAR BUNA 22 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "102539",
+   "Description": "25V21 CART KIT REAR BUNA 22 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "102552",
+   "Description": "35V25 CART KIT FRONT BUNA 22 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "102555",
+   "Description": "35V38 CART KIT FRONT BUNA 22 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "102556",
+   "Description": "35V25 CART KIT REAR BUNA 22 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "102557",
+   "Description": "35V30 CART KIT REAR BUNA 22 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "102572",
+   "Description": "45V42 CART KIT FRONT BUNA 22 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "102574",
+   "Description": "45V50 CART KIT FRONT BUNA 22 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "102575",
+   "Description": "45V60 CART KIT FRONT BUNA 22 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "1031004",
+   "Description": "103-1004",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1031005",
+   "Description": "103-1005",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1031013",
+   "Description": "103-1013",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1031028",
+   "Description": "103-1028",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1031029",
+   "Description": "103-1029",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1031031",
+   "Description": "103-1031",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1031032",
+   "Description": "103-1032",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1031037",
+   "Description": "103-1037",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1031540",
+   "Description": "103-1540",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1031574",
+   "Description": "103-1574",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1033197",
+   "Description": "103-3197",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1041003",
+   "Description": "104-1003",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1041004",
+   "Description": "104-1004",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1041006",
+   "Description": "104-1006",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1041016",
+   "Description": "104-1016",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1041020",
+   "Description": "104-1020",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1041022",
+   "Description": "104-1022",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1041023",
+   "Description": "104-1023",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1041024",
+   "Description": "104-1024",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1041025",
+   "Description": "104-1025",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1041026",
+   "Description": "104-1026",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1041028",
+   "Description": "104-1028",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1041029",
+   "Description": "104-1029",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1041034",
+   "Description": "104-1034",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1041035",
+   "Description": "104-1035",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1041228",
+   "Description": "104-1228",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1041229",
+   "Description": "104-1229",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1041250",
+   "Description": "104-1250",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1041561",
+   "Description": "104-1561",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1041797",
+   "Description": "104-1797",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1041819",
+   "Description": "104-1819",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1051002",
+   "Description": "105-1002",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1051003",
+   "Description": "105-1003",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1051007",
+   "Description": "105-1007",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1091102",
+   "Description": "109-1102",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1091105",
+   "Description": "109-1105",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1091112",
+   "Description": "109-1112",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1091118",
+   "Description": "109-1118",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1091119",
+   "Description": "109-1119",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1091120",
+   "Description": "109-1120",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1091160",
+   "Description": "109-1160",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1091189",
+   "Description": "109-1189",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1091215",
+   "Description": "109-1215",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1091278",
+   "Description": "109-1278",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1121056",
+   "Description": "112-1056",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1121062",
+   "Description": "112-1062",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1121067",
+   "Description": "112-1067",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1121068",
+   "Description": "112-1068",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1121069",
+   "Description": "112-1069",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1121107",
+   "Description": "112-1107",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1121111",
+   "Description": "112-1111",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1131057",
+   "Description": "113-1057",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1191028",
+   "Description": "119-1028",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1191029",
+   "Description": "119-1029",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1191030",
+   "Description": "119-1030",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1191031",
+   "Description": "119-1031",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "1290330",
+   "Description": "129-0330",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "201837-1",
+   "Description": "112 SHAFT 1 1/2\" STRAIGHT KEYED & BEARING",
+   "Replacements": "Eaton-Charlynn"
+ },
+ {
+   "Reference": "2111008",
+   "Description": "211-1008",
+   "Replacements": "Eaton-charlynn"
+ },
+ {
+   "Reference": "21618-4",
+   "Description": "104 SHAFT & BRG 1 1/4\" 14T 1.30\"L SHORT SPLINE",
+   "Replacements": "Eaton-Charlynn"
+ },
+ {
+   "Reference": "238755",
+   "Description": "25V/Q SHAFT #1 KEYED (SEE PART NOTES)",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "250818",
+   "Description": "3520V INLET HOUSING",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "254848",
+   "Description": "2520V/Q SHAFT #11 SPLINED",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "254964",
+   "Description": "2520V(Q) SHAFT #1 KEYED",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "289083",
+   "Description": "4535V(Q) SHAFT #1 KEYED",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "297503",
+   "Description": "45V(Q)60 RING",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "309423",
+   "Description": "50M SHAFT #1",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "310864",
+   "Description": "50M255 RING",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "310865",
+   "Description": "50M300 RING",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "319399",
+   "Description": "35V(Q)38 RING",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "326988",
+   "Description": "25V(Q)21 RING",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "328096",
+   "Description": "V20 SHAFT #38 SPLINED",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "334835",
+   "Description": "PVH74 BEARING/YOKE KIT",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "358347",
+   "Description": "V2010/V2020 FRONT PRESSURE PLATE",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "361760",
+   "Description": "45V SHAFT #86",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "361762",
+   "Description": "4525V SHAFT #86 KEYED HD",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "361763",
+   "Description": "4535V(Q) SHAFT #86 KEYED",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "370071",
+   "Description": "4525V INLET HOUSING",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "373795",
+   "Description": "V2010 PRESSURE PLATE REAR 12",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "374339",
+   "Description": "V10 SHAFT #11 SPLINE",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "379543",
+   "Description": "V10F COVER P 2 GPM ASSY W/VALVE",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "387481",
+   "Description": "V10 SHAFT #38 SPLINED",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "388745",
+   "Description": "PVB20/29/45A PINTLE",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "404957",
+   "Description": "PVE19/21 PVQ40/45 COMP PISTON ROD",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "404958",
+   "Description": "PVE19/21 PVQ40/45 COMP PISTON",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "409997",
+   "Description": "PVE19/21 PVQ40/45 YOKE S/A",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "413023",
+   "Description": "3525V(Q) SHAFT #111 SPLINED DSS",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "413419",
+   "Description": "35VQ38 CART KIT FRONT BUNA 20 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "413422",
+   "Description": "35VQ30 CART KIT FRONT BUNA 20 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "416429",
+   "Description": "20VQ14 CART KIT REAR BUNA 20 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "416435",
+   "Description": "45VQ42 CART KIT FRONT BUNA 20 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "416436",
+   "Description": "45VQ50 CART KIT FRONT BUNA 20 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "416437",
+   "Description": "45VQ60 CART KIT FRONT BUNA 20 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "416439",
+   "Description": "25VQ12 CART KIT FRONT BUNA 20 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "416440",
+   "Description": "25VQ14 CART KIT FRONT BUNA 20 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "416441",
+   "Description": "25VQ17 CART KIT FRONT BUNA 20 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "416442",
+   "Description": "25VQ21 CART KIT FRONT BUNA 20 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "421233",
+   "Description": "45VQ57 CART KIT FRONT BUNA 20 DSN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "421243",
+   "Description": "35VQ38 CART KIT REAR BUNA 20 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "421574",
+   "Description": "25VQ21 CART KIT FRONT VITON 20 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "424481",
+   "Description": "TA19 WAFER PLATE RH",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "424492",
+   "Description": "TA19 WAFER PLATE LH",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "424544",
+   "Description": "PVE19/21 #9 PVQ40/45 #3 SHAFT SPLINED",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "425415",
+   "Description": "PVE19 WAFER PLATE LH",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "425416",
+   "Description": "PVE21 WAFER PLATE LH",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "433559",
+   "Description": "PVE19/21 #16-PVQ40/45 #1 SHAFT KEYED",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "497121",
+   "Description": "20VQ12 CART KIT FRONT BUNA 30 DSN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "497122",
+   "Description": "20VQ14 CART KIT FRONT BUNA 30 DSN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "513885",
+   "Description": "PVH57/63 SADDLE BEARING NARROW",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "513886",
+   "Description": "PVH57/63 SADDLE BEARING WIDE",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "513889",
+   "Description": "PVH74 VALVE PLATE QI RH",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "572823",
+   "Description": "2520VQSV WEAR PLATE ADAPTER",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "574922",
+   "Description": "20VQ11 CART KIT CENTER VITON 20 DSN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "575476",
+   "Description": "35V38 RING",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "584926",
+   "Description": "25VTB COUPLING",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "629539",
+   "Description": "PVE19/21 Q1830-PVQ40/45 WAFER PLATE RH",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "680631",
+   "Description": "PVH57 VALVE PLATE C LH",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "690218",
+   "Description": "PVH57 LIMITER",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "690832",
+   "Description": "PVH57 YOKE S/A",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "800008",
+   "Description": "PVB15RSY40C11",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "800015",
+   "Description": "PVQ10A2RSE1S20C2112",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "800019",
+   "Description": "PVQ20B2RSE1S21C2112",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "800048",
+   "Description": "PVH57CRF1S11C2531",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "800079",
+   "Description": "PVQ32B2RSE1S21C1412",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "800086",
+   "Description": "PVB29LS20C11S124",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "800088",
+   "Description": "PVB29RS20C11",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "800094",
+   "Description": "PVQ13A2RSE1S20CM712",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8001067",
+   "Description": "PVH74QICRF1S10C2531",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8001077",
+   "Description": "PVB20RSFW20C11",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "800111",
+   "Description": "PVB6RSY40CM12",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8001115",
+   "Description": "PVH98QICRCF13S10C25V31",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8001141",
+   "Description": "PVH74QPCRM1S10C16V1931091",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8001162",
+   "Description": "PVH131QICRBF16S10CM731",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "800123",
+   "Description": "PVB5RSY40C12",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8001345",
+   "Description": "PVH131CRBF16S10IC1431133",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8001377-2",
+   "Description": "PVH131R16AF30A140000001AD1AC010A",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8001395",
+   "Description": "PVH98QICRSF2S11C25V31",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8001408",
+   "Description": "PVH74QICRBF13S10C25V31",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8001444",
+   "Description": "PVQ10A2RSE1S20C21V11B13",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8001448",
+   "Description": "PVH74QICRF1S10C16V31",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8001474",
+   "Description": "PVH131CRBF16S10C2531",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "800161",
+   "Description": "PVB29RS20CC11",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "800233",
+   "Description": "PVH131QICRCF16S11C21V1731",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "800301",
+   "Description": "PVH98CRF2S10C25V31",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "800315",
+   "Description": "PVQ32B2RSE3S21C1412",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "800340-2",
+   "Description": "PVH131R16AF30B211700001AA1AE010A",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "800576",
+   "Description": "PVQ20B2RSS1S21C21D12",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "800607",
+   "Description": "PVB29RS20CG20",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "800793",
+   "Description": "PVH74QICRF1S11C14V31",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "800796",
+   "Description": "PVE21R130C10",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "800820",
+   "Description": "PVH74QICRSF1S11IC31",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "800844",
+   "Description": "PVH74QICRF1S10C2531057",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "800845",
+   "Description": "PVB20RSFW20CM11",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "800947",
+   "Description": "PVE21R930CVP12",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "800953",
+   "Description": "PVQ40B2RSE3F20C2112",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "800967",
+   "Description": "PVQ40B2RSE1F20C2112",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "800967-2",
+   "Description": "PVQ40AR01AB10G2100000100100CD0A",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "800972",
+   "Description": "PVQ40B2RSS1F20C2112",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "810018",
+   "Description": "25VQ21A1C20R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "810019",
+   "Description": "25VQ17A1C20R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "810028",
+   "Description": "3525VQ38A211CC20R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8101055",
+   "Description": "25VQ14A1A20R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8101063",
+   "Description": "2520VQV10S21A11S577DBB20L",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8101378",
+   "Description": "35V35A11A22R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "810162",
+   "Description": "25V14A1C22R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "810170",
+   "Description": "25VQ21A1C20L",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "810179",
+   "Description": "25VQ12A1C20R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8101899",
+   "Description": "3520VQ35A111AD20R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8102052",
+   "Description": "3525VQV10S30A21S7297AAD20R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8102099",
+   "Description": "35V21A1C22R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8102188",
+   "Description": "2520VQ12A81CC20R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "810245",
+   "Description": "20VQ5A1C30R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "810246",
+   "Description": "2520VQ17E1111CC20L",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8102499",
+   "Description": "2520VQ12A51BC20R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "810259",
+   "Description": "45V50A1A22R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "810273",
+   "Description": "25V21A11C22L",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "810278",
+   "Description": "25V14A1A22R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8102905",
+   "Description": "3525VQ38A2186AA20R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8102926",
+   "Description": "3520V38A511AA22R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "810296",
+   "Description": "2520VQ21C1411CC20R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8102998",
+   "Description": "25VQH21A1C20R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "810317",
+   "Description": "4525V50A1786AA22R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "810382",
+   "Description": "25V12A1C22R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "810385",
+   "Description": "35V30A1A22R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "810403",
+   "Description": "35VQ25A1C20R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "810428",
+   "Description": "2520VQ21A1411CC20R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "810453",
+   "Description": "45V60A86A22R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "810574",
+   "Description": "3520V38A141BB22R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "810743",
+   "Description": "4535VQ60A3811CC20R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "810758",
+   "Description": "20V12A1C22R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "810788",
+   "Description": "20V11A1C22R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "810951",
+   "Description": "2520VQ17A81AA20R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820000",
+   "Description": "V101P1P1C20R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820001",
+   "Description": "V101P2P1C20R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820002",
+   "Description": "V101P3P1C20R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820003",
+   "Description": "V101P4P1C20R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820004",
+   "Description": "V101P5P1C20R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820006",
+   "Description": "V101P7P1C20R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820008",
+   "Description": "V201P6P1C11R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820009",
+   "Description": "V201P7P1C11R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820010",
+   "Description": "V201P8P1C11R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820011",
+   "Description": "V201P9P1C11R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820013",
+   "Description": "V201P11P1C11R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820014",
+   "Description": "V201P12P1C11R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820015",
+   "Description": "V201P13P1C11R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820016",
+   "Description": "V20F1P9P38C6G22R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820070",
+   "Description": "V101P5P11C20R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820078",
+   "Description": "V201P13P38C11R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820081",
+   "Description": "V101P3P11C20R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8201098",
+   "Description": "V201E13K23C11R018",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8201281",
+   "Description": "V201P13P38A11R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820136",
+   "Description": "V201P13P1A11R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8201366",
+   "Description": "V201B9B1A11REN1000",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8201900",
+   "Description": "V20F1P6P38C6C11R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8201954",
+   "Description": "V20F1S11P38A10G22L",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8201964",
+   "Description": "V201B8B1A11REN1000",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820228",
+   "Description": "V201P8P1A11R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8202401",
+   "Description": "V20F1R6P38C6H22R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820273",
+   "Description": "V101P5P1A20R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820330",
+   "Description": "V101P1P1A20R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820363",
+   "Description": "V101B3B1C20R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820398",
+   "Description": "V201P6P38C11R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820404",
+   "Description": "V201P11P1A11R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820730",
+   "Description": "V20P1S11T18C7H12L",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820750",
+   "Description": "V201B13B1A11REN1000",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820907",
+   "Description": "V20F1P8P38C6F22R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "820988",
+   "Description": "V20P1P12T38C2F12R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "825021",
+   "Description": "V20101F11S2S1CC12R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "825056",
+   "Description": "V20201F13S9S11CC30R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "825155",
+   "Description": "V20101F8S4S1AA12R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "825167",
+   "Description": "V20101F8S5S1AA12R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "825289",
+   "Description": "V20101F7S5S11CD12L",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "825365",
+   "Description": "V20101F9S5S1AA12R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "825375",
+   "Description": "V20201F12S8S1CD30R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "825588",
+   "Description": "VTM42504515NOR114",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "825728",
+   "Description": "V20201F8S6S1AA30R",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "840002",
+   "Description": "25M42A1C20",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "840009",
+   "Description": "45M155A1C20",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "840022",
+   "Description": "50M255A1C20",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "840124",
+   "Description": "25M55A211C20",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "850002",
+   "Description": "A10VS045DFR31RPKC62N00",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "850004",
+   "Description": "A10VS028DFR31RPKC62N00",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "850007",
+   "Description": "A10VS045DFLR31RPKC62N00",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "850015",
+   "Description": "A10VS028DR31RPSC62N00",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "850025",
+   "Description": "A10VS045DFR52LPUC64N00SO97",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "850040",
+   "Description": "A10VS028DR31RPKC62N00",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "850048",
+   "Description": "A10VS045DFR31RPPA12N00",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "850052",
+   "Description": "A10VS0100DFR31RPKC62N00",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "850057",
+   "Description": "A10VS0140DFR31RPKD62N00",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "850073",
+   "Description": "A10VS045DFR31RPUC62N00",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "8501007",
+   "Description": "A10VS071DR31RVSC62/92N00",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "8501011",
+   "Description": "A10VS045DR52RPKC64N00SO97",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "850102",
+   "Description": "A10VS071DRG31RPKC62N00",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "8501040",
+   "Description": "A10VS045DFR52RPUC64N00SO97",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "8501047",
+   "Description": "A10VS0100DFR131RPKC62K02",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "850107",
+   "Description": "A10VS018DR31RPPA12N00",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "8501073",
+   "Description": "A10VS045DR52RVKC64N00SO97",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "8501119",
+   "Description": "A10VS028DFR131RVSC62N00",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "8501220",
+   "Description": "A10VS045DFR31RPUC62K01",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "8501412",
+   "Description": "A10VS045DFR152LPRC61N00",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "8501432",
+   "Description": "A10VS045DR52RPKC62K01SO97",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "8501534",
+   "Description": "A10VS045DFR152RPUC62N00SO779",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "850154",
+   "Description": "A10VS0140DFLR31RPKD61N00",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "8501710",
+   "Description": "A10VS0100DFR31RVSC62K02",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "8501743",
+   "Description": "A10VS045DFR31LPKC12N00",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "8501749",
+   "Description": "A10VS045DR52LVKC64N00SO97",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "8501782",
+   "Description": "A10V060DFR152LVSC61N00",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "8501831",
+   "Description": "A10VS074DFR31RPKC62N00",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "8501895",
+   "Description": "A4VSO125LR2D30RPKD75U99",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "8501976",
+   "Description": "A10VS0100DFR31RVPA12N00",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "8502011",
+   "Description": "A10VS045DFR31LPRC62K02",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "8502052",
+   "Description": "A10VS0140DFLR31RVKD61N00",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "8502072",
+   "Description": "A10V060DFR52LVKC62N00",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "850279",
+   "Description": "A10VS0100DFR131RPPA12N00",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "850441",
+   "Description": "A10VS010DR52RPPA14N00",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "850466",
+   "Description": "A10VS0100DFR131RPSC62K02",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "850521",
+   "Description": "A10VS071DRG31RPKC62K03",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "850528",
+   "Description": "A10VS0140DFR131RPKD62KA5S1106",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "850650",
+   "Description": "A10VS0140DR31RPPB12N00",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "850670",
+   "Description": "A10VS045DR31RPUC62N00",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "850944",
+   "Description": "A10VS045DFR152LVSC12N00",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85101",
+   "Description": "A10V28 ROTATING GROUP LH",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85102",
+   "Description": "A10V45 ROTATING GROUP RH",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85103",
+   "Description": "A10V45 ROTATING GROUP LH",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85104",
+   "Description": "A10V71 ROTATING GROUP RH",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85107",
+   "Description": "A10V28 LENS PLATE LH",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85109",
+   "Description": "A10V45 LENS PLATE LH",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85110",
+   "Description": "A10V71 LENS PLATE RH",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85113",
+   "Description": "A10V28 SHAFT S SPLINED SAE NON-THRU",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85122",
+   "Description": "A10V71 CRADLE ASSY RH",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85132",
+   "Description": "A10V71 SEAL KIT BUNA 31",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85134",
+   "Description": "A10V45 BEARING KIT SADDLE 31",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85137",
+   "Description": "A10V45 SEAL KIT VITON 52",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85142",
+   "Description": "A10V71 ROTATING GROUP NO LENS PLT",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85144",
+   "Description": "A10V10-100 COMP DRG S/A",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85172",
+   "Description": "A10V45 COUPLING S/A K04",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85199",
+   "Description": "A10V10-100 COMP DFR S/A",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85204",
+   "Description": "A10V100 ROTATING GROUP NO LENS PLT",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85210",
+   "Description": "A10V60/63 SEAL KIT BUNA 52",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85232",
+   "Description": "A10V140 LENS PLATE RH",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85241",
+   "Description": "A10V100 BEARING SHAFT FRONT S/A",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85256",
+   "Description": "A10V140 PRESS PINS",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85257",
+   "Description": "A10V18 ROTATING GROUP NO LENS PLATE",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85258",
+   "Description": "A10V18 LENS PLATE RH",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85261",
+   "Description": "A10V18 CRADLE (YOKE) RH",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85264",
+   "Description": "A10V100 BEARING KIT SADDLE 31",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85265",
+   "Description": "A10V140 BEARING KIT SADDLE 31",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85269",
+   "Description": "A10V71 PRESSURE PIN",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85273",
+   "Description": "A10V10-100 COMP DFR1 S/A",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85282",
+   "Description": "A10V100 COUPLING S/A K02/K68",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85324",
+   "Description": "A10V100 ROTATING GROUP RH",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85326",
+   "Description": "A10V100 LENS PLATE LH",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85327",
+   "Description": "A10V100 LENS PLATE RH",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85328",
+   "Description": "A10V100 CRADLE ASSY RH",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85331",
+   "Description": "A10V100 SEAL KIT BUNA 31",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85334",
+   "Description": "A10V140 PISTON KIT",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85335",
+   "Description": "A10V140 ROTATING GROUP RH",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85339",
+   "Description": "A10V140 CRADLE RH",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85343",
+   "Description": "A10V100 SHAFT SEAL 31 BUNA",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85350",
+   "Description": "A10V140 SHAFT SEAL 31 BUNA",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85362",
+   "Description": "A10V140 BEARING REAR S/A",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85363",
+   "Description": "A10V140 BEARING FRONT S/A",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85370",
+   "Description": "A10V71 VALVE BLOCK 31 62/92K01 RH",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85371",
+   "Description": "A10V18 BEARING KIT COMPLETE 31",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85414-X",
+   "Description": "A4VSO 180 ROTATING GROUP RH 30",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85434",
+   "Description": "A10V18 SEAL KIT BUNA 31",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85439",
+   "Description": "A10V140 SEAL KIT BUNA 31",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85443",
+   "Description": "A10V100 SHAFT P KEYED METRIC NON THRU",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85457",
+   "Description": "A10V71 BEARING KIT COMPLETE 31",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85459",
+   "Description": "A10V140 BEARING KIT COMPLETE 31",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85477",
+   "Description": "A10V60/63 BEARING KIT COMPLETE 52",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85478",
+   "Description": "A10V60/63 SHAFT K KEYED NON THRU",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85480",
+   "Description": "A10V60/63 ROTATING GROUP RH",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85481",
+   "Description": "A10V60/63 ROTATING GROUP LH",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85482",
+   "Description": "A10V60/63 LENS PLATE RH",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85483",
+   "Description": "A10V60/63 LENS PLATE LH",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85485",
+   "Description": "A10V60/63 CRADLE LH 52",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85492",
+   "Description": "A10V60/63 SEAL KIT VITON 52",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85542",
+   "Description": "A10V100 BEARING REAR S/A",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85553",
+   "Description": "A10V60/63 BEARING SADDLE LH 52/53",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85557",
+   "Description": "A10V71 COUPLING S/A K03",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85599-X",
+   "Description": "A4VSO 180 ROTATING GROUP LH 30",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85612",
+   "Description": "A4VSO 180 BEARING KIT COMPLETE 22/30",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85612-2",
+   "Description": "A4VSO 180 BEARING REAR-VALVE BLOCK 30",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "85785",
+   "Description": "A10V140 COUPLING S/A KA5",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "860032",
+   "Description": "C5G825",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860041",
+   "Description": "DG4V3S6CMUB560",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860049",
+   "Description": "DG4V3S2CMUH560",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860056",
+   "Description": "DG4V3S2CMUG560",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860058",
+   "Description": "DG4V3S6CMUG560",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860064",
+   "Description": "DG4S4012CUB60",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860072",
+   "Description": "DG4S4012CUH60",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860077",
+   "Description": "DGMPC3ABKBAK41",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860083",
+   "Description": "DGMX23PPBHN41",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8601015",
+   "Description": "DG4V3S0CMUD560",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860106",
+   "Description": "DGMFN3XA2HB2H41",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8601077",
+   "Description": "4WE10D3X/CG24N9Z45LV",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "8601102-I",
+   "Description": "CT5100AFMFWB5100",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860112",
+   "Description": "DGMFN5XA2HB2H30",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8601267",
+   "Description": "DGMFN5YA2WB2W30",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8601297",
+   "Description": "DG4V3S0CMFWH560",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "8601428",
+   "Description": "4WE6E6X/EW220N9Z45L",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "860160",
+   "Description": "F800SFV",
+   "Replacements": "Parker"
+ },
+ {
+   "Reference": "860161",
+   "Description": "F1200SFV",
+   "Replacements": "Parker"
+ },
+ {
+   "Reference": "860162",
+   "Description": "F1600SFV",
+   "Replacements": "Parker"
+ },
+ {
+   "Reference": "860175",
+   "Description": "DG17V32C60",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860198",
+   "Description": "DGMC3PTCH41",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860203",
+   "Description": "DGMC5PTGH30",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860230",
+   "Description": "DG4V3S8CVMUG561",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860240-I",
+   "Description": "C175B20",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860257-I",
+   "Description": "CT06B50",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860258-I",
+   "Description": "CT06C50",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860259-I",
+   "Description": "CT06F50",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860261-I",
+   "Description": "CT10C30",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860262-I",
+   "Description": "CT10F30",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860263",
+   "Description": "DG4V3S2ALMUH560",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860308",
+   "Description": "DG4V3S2CMUD560",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860312",
+   "Description": "4WE6G6X/EG12N9Z45L",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "860315",
+   "Description": "4WE6J6X/EG24N9Z45L",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "860316",
+   "Description": "4WE6D6X/EW110N9Z45L",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "860323",
+   "Description": "DG4V3S2ALMUB560",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860358RC",
+   "Description": "4WE6J6X/EW220RN9Z55L",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "860474",
+   "Description": "CG10C30",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860518",
+   "Description": "4WE6D6X/EG24N9Z45L",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "860574",
+   "Description": "DG4V3S6CMFWB560",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860578",
+   "Description": "4WE6J6X/EW110N9DAL",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "860607",
+   "Description": "DG4S4016CB60",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860666",
+   "Description": "DG4S4018CB60",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860677",
+   "Description": "CG06F50",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860806",
+   "Description": "DG5S88CSVMFTWLB530",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860903",
+   "Description": "DG4V3S2BMUD560",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "860924",
+   "Description": "4WE6M6X/EG24N9Z45L",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "860964",
+   "Description": "4WE6E6X/EW110N9DALV",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "860968",
+   "Description": "DGMC5PTCH30",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "86225",
+   "Description": "D03 SPOOL D (2A) & Y (2AL) WF3/4WE6",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "864457",
+   "Description": "PVH 74/81 COUPLING \"B\"",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "877419",
+   "Description": "PVH131/PVM131 ROTATING GROUP",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "877420",
+   "Description": "PVH57 ROTATING GROUP",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "877421",
+   "Description": "PVH74/PVM074 ROTATING GROUP",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "880440",
+   "Description": "C102-2.5-R-A-2",
+   "Replacements": "Parker "
+ },
+ {
+   "Reference": "883302",
+   "Description": "PVQ20/32 SHAFT #1 KEYED THRU \"A9\"",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "913330",
+   "Description": "2520VQSV10 SHAFT #297 SPLINE",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "923100",
+   "Description": "50M255 CART KIT",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "923101",
+   "Description": "50M300 CART KIT",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "923109",
+   "Description": "45M185 CART KIT",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "923110",
+   "Description": "45M155 CART KIT",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "923267",
+   "Description": "35V21 CART KIT FRONT BUNA 10 DSN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "923468",
+   "Description": "V10 CART KIT 5 GPM BUNA",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "923481",
+   "Description": "V20 CART KIT 7 GPM  BUNA 11/12 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "923936",
+   "Description": "TA19 ROT GRP",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "923947",
+   "Description": "PVE21/PVQ45 ROTATING GROUP",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "923948",
+   "Description": "PVE19/PVQ40 ROTATING GROUP",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "923953",
+   "Description": "35VQ FLEX PLATE KIT",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "923954",
+   "Description": "45VQ FLEX PLATE KIT",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "924061",
+   "Description": "PVE12-21 COMP S/A CVP 20-40 DESIGN",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "938273",
+   "Description": "PVB15/PVQ32 ROTATING GROUP",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "938274",
+   "Description": "PVB20 ROTATING GROUP",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "938275",
+   "Description": "PVB29 ROTATING GROUP",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "938276",
+   "Description": "PVB10/PVQ20 ROTATING GROUP",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "941424",
+   "Description": "PVH74/PVM074 PISTON & SHOE KIT-ROT GRP",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "942158",
+   "Description": "PVB/E/Q COMP S/A 'C'",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "942353",
+   "Description": "25V/Q FRONT BODY S/A NEW A/D",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "9900107-000",
+   "Description": "PVM074/081 SEAL KIT VITON",
+   "Replacements": "Eaton-Vickers "
+ },
+ {
+   "Reference": "C61258",
+   "Description": "104/Y/105 SEAL KIT BUNA WITH HIGH PSI SHAFT SEAL",
+   "Replacements": "Eaton-Charlynn"
+ },
+ {
+   "Reference": "C61285-00B",
+   "Description": "112/113 SEAL KIT COMPLETE BUNA",
+   "Replacements": "Eaton-Charlynn"
+ },
+ {
+   "Reference": "XR902460431",
+   "Description": "A10V18-100 COMP D** SO32/SO109/SO119",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "XR910978876RM",
+   "Description": "A10V140 RETAINING/SHOE PLATE",
+   "Replacements": "Bosch-Rexroth"
+ },
+ {
+   "Reference": "ZMB21S318LE8",
+   "Description": "MB-2/1S-3/18L/E-8�MONOBLOCK DIR VALVE",
+   "Replacements": "Eaton-Vickers "
+ }
+]

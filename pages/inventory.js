@@ -4,24 +4,24 @@ import Head from "next/head";
 import Link from "next/link";
 import Pagination from "react-bootstrap/Pagination";
 
-import { clientPromise } from "../utils/mongodb";
+import db from "../utils/parts.json";
 
 export async function getStaticProps() {
   // await clientPromise;
   // `await clientPromise` will use the default database passed in the MONGODB_URI
   // However you can use another database (e.g. myDatabase) by replacing the `await clientPromise` with the following code:
   //
-  const client = await clientPromise;
-  const db = client.db("parts");
+  // const client = await clientPromise;
+  // const db = client.db("parts");
   //
   // Then you can execute queries against your database like so:
   // db.find({}) or any of the MongoDB Node Driver commands
 
   return {
     props: { db },
-    revalidate: 60,
   };
 }
+// console.log({ db });
 
 const Inventory = ({ db }) => {
   const [isActive, setIsActive] = useState([]);
@@ -44,11 +44,9 @@ const Inventory = ({ db }) => {
   let itemStart = 0;
   let itemEnd = 24;
 
-  useEffect(async () => {
-    await getInventory();
-    // console.log(partsList);
+  useEffect(() => {
+    partsList = db;
     setSavedParts(partsList);
-    console.log(savedParts);
 
     // // get pages
 
@@ -63,18 +61,18 @@ const Inventory = ({ db }) => {
     getPagination();
   }, []);
 
-  // fetch data from server
-  const getInventory = { db }
-    .then((response) => {
-      if (!response.ok) {
-        return response.statusText();
-      }
-      return response.json();
-    })
-    .then((invDataArr) => {
-      partsList = invDataArr;
-    })
-    .catch((error) => console.log(error));
+  // // fetch data from server
+  // const getInventory = db;
+  // // .then((response) => {
+  // //   if (!response.ok) {
+  // //     return response.statusText();
+  // //   }
+  // //   return response.json();
+  // // })
+  // // .then((invDataArr) => {
+  // //   partsList = invDataArr;
+  // // })
+  // // .catch((error) => console.log(error));
 
   // return pagination elements
   const getPagination = () => {
