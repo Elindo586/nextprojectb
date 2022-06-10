@@ -27,7 +27,7 @@ const PistonPumps = () => {
           <meta property="og:description" content="Hydraulic Piston Pumps" />
           <meta
             property="og:image"
-            content="/images/oppictures/piston-pumps.png"
+            content="public\images\oppictures\piston-pumps.png"
           />
           <meta property="og:url" content="http://www.tu.biz/Products" />
         </Head>
