@@ -8,7 +8,7 @@ function ProductNav() {
   useEffect(() => {
     const url = window.location.pathname;
     setPathName(url);
-  });
+  }, []);
 
   return (
     <div className=" col-md-3">

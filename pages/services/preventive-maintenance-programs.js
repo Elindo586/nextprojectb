@@ -49,7 +49,7 @@ const Preventive = () => {
                 height={400}
               />
             </span>
-            <p class="preventive-maintenance-text">
+            <p className="preventive-maintenance-text">
               In order to obtain the most productivity out of your machinery, it
               is important to follow proper preventive maintenance practices to
               keep your machinery working in optimum conditions.

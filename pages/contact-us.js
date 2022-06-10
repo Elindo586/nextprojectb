@@ -38,7 +38,7 @@ const Contact = () => {
           <div className="ratio ratio-21x9">
             <iframe
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d376620.65888018865!2d-83.65734297763709!3d42.48413467775062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8824ae2f8c7e3c7f%3A0x1978ab227e003bbc!2sFarmington%20Hills%2C%20MI!5e0!3m2!1sen!2sus!4v1640206161066!5m2!1sen!2sus"
-              allowfullscreen=""
+              allowFullScreen=""
               loading="lazy"
               className="contact-iframe"
             ></iframe>
@@ -51,7 +51,7 @@ const Contact = () => {
               className="contact-us-form"
               action="https://formsubmit.co/info@tu.biz"
               method="post"
-              enctype="multipart/form-data"
+              encType="multipart/form-data"
             >
               <input
                 type="hidden"
@@ -59,7 +59,7 @@ const Contact = () => {
                 // value="http://www.tu.biz/thankyou.html"
               />
 
-              <label for="firstname" className="form-label">
+              <label htmlFor="firstname" className="form-label">
                 * Name:{" "}
               </label>
               <input
@@ -72,7 +72,7 @@ const Contact = () => {
               />
               <br />
 
-              <label for="company" className="form-label">
+              <label htmlFor="company" className="form-label">
                 {" "}
                 Company:{" "}
               </label>
@@ -85,7 +85,7 @@ const Contact = () => {
               />
               <br />
 
-              <label for="email" className="form-label">
+              <label htmlFor="email" className="form-label">
                 {" "}
                 * E-mail:{" "}
               </label>
@@ -99,7 +99,7 @@ const Contact = () => {
               />
               <br />
 
-              <label for="country" className="form-label">
+              <label htmlFor="country" className="form-label">
                 {" "}
                 * Country:{" "}
               </label>
@@ -113,7 +113,7 @@ const Contact = () => {
               />
               <br />
 
-              <label for="notes"> * Your Message: </label>
+              <label htmlFor="notes"> * Your Message: </label>
 
               <textarea
                 className="form-control"
@@ -154,7 +154,7 @@ const Contact = () => {
                   viewBox="0 0 16 16"
                 >
                   <path
-                    fill-rule="evenodd"
+                    fillRule="evenodd"
                     d="M1.885.511a1.745 1.745 0 0 1 2.61.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.678.678 0 0 0 .178.643l2.457 2.457a.678.678 0 0 0 .644.178l2.189-.547a1.745 1.745 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.634 18.634 0 0 1-7.01-4.42 18.634 18.634 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877L1.885.511z"
                   />
                 </svg>

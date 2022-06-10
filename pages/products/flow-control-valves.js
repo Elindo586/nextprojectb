@@ -102,8 +102,8 @@ const FlowControlValves = () => {
                   <td>
                     Flow Control <br /> without <br /> check valve
                   </td>
-                  <td>1/4", 1-1/2"</td>
-                  <td>1/4", 1-1/4"</td>
+                  <td>1/4&quot;, 1-1/2&quot;</td>
+                  <td>1/4&quot;, 1-1/4&quot;</td>
                   <td>5-100</td>
                   <td>5-70</td>
                 </tr>
@@ -112,8 +112,8 @@ const FlowControlValves = () => {
                   <td>
                     Flow Control <br /> with <br /> check valve
                   </td>
-                  <td>1/4", 1-1/2"</td>
-                  <td>1/4", 1-1/4"</td>
+                  <td>1/4&quot;, 1-1/2&quot;</td>
+                  <td>1/4&quot;, 1-1/4&quot;</td>
                   <td>5-100</td>
                   <td>5-70</td>
                 </tr>

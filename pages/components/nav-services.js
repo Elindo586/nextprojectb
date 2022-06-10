@@ -8,7 +8,7 @@ function ServicesNav() {
   useEffect(() => {
     const url = window.location.pathname;
     setPathName(url);
-  });
+  }, []);
 
   return (
     <>

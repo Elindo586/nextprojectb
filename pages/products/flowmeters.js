@@ -83,7 +83,7 @@ const Flowmeters = () => {
                     3,500 (aluminum or brass) <br /> 6,000 (Stainless Steel)
                   </td>
                   <td>
-                    #6, #8, #10 <br /> 1/4", 3/8", 1/2"
+                    #6, #8, #10 <br /> 1/4&quot;, 3/8&quot;, 1/2&quot;
                   </td>
                   <td>
                     {" "}
@@ -98,7 +98,7 @@ const Flowmeters = () => {
                   </td>
                   <td>
                     #12, #16
-                    <br /> 3/4", 1"
+                    <br /> 3/4&quot;, 1&quot;
                   </td>
                   <td>
                     {" "}
@@ -112,7 +112,7 @@ const Flowmeters = () => {
                     3,500 (aluminum or brass) <br /> 6,000 (Stainless Steel)
                   </td>
                   <td>
-                    #20, #24, #32 <br /> 1-1/4", 1-1/2", 2"
+                    #20, #24, #32 <br /> 1-1/4&quot;, 1-1/2&quot;, 2&quot;
                   </td>
                   <td>
                     {" "}

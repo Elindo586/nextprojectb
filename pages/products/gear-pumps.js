@@ -164,8 +164,8 @@ const GearPumps = () => {
                 <tr className="inside-table-text">
                   <td></td>
                   <td></td>
-                  <td>2"</td>
-                  <td>2.5"</td>
+                  <td>2&quot;</td>
+                  <td>2.5&quot;</td>
                   <td></td>
                 </tr>
 
