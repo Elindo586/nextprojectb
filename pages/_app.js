@@ -27,7 +27,7 @@ function MyApp({ Component, pageProps }) {
         </Head>
         <Script
           strategy="afterInteractive"
-          src="https://www.googletagmanager.com/gtag/js?id=UA-36867189-2"
+          src="https://www.googletagmanager.com/gtag/js?id=UA-36867189-36"
         />
 
         <Script
@@ -38,7 +38,7 @@ function MyApp({ Component, pageProps }) {
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-              gtag('config', 'UA-36867189-2');
+              gtag('config', 'UA-36867189-36');
             `,
           }}
         />
