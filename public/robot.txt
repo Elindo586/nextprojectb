@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
 
-Host: http://www.tu.biz
+Host: https://www.tu.biz
 
-Sitemap: http://www.tu.biz/sitemap.xml
+Sitemap: https://www.tu.biz/sitemap.xml
