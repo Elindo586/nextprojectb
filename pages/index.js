@@ -39,12 +39,12 @@ const Home = () => {
           <meta
             name="image"
             property="og:image"
-            content="http://www.tu.biz/public/images/vane-motors.png"
+            content="https://www.tu.biz/public/images/vane-motors.png"
             id="meta-og-image"
           />
           <meta
             property="og:url"
-            content="http://www.tu.biz"
+            content="https://www.tu.biz"
             id="meta-og-url"
           />
         </Head>
