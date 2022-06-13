@@ -40,15 +40,15 @@ const DirectionalControlValves = () => {
           <meta name="twitter:card" content="summary_large_image" />
 
           <meta
-            property="twitter:title"
+            name="twitter:title"
             content=" Technical Union | Directional Control Valves"
           />
           <meta
-            property="twitter:description"
+            name="twitter:description"
             content="Find Directional Control Valves from TU Technical Union"
           />
           <meta
-            property="twitter:image"
+            name="twitter:image"
             content="./oppictures/directional-control-valves.png"
           />
         </Head>
