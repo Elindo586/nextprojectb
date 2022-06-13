@@ -30,11 +30,11 @@ const Preventive = () => {
           />
           <meta
             property="og:image"
-            content="./Images/oppictures/maintenance-programs.png"
+            content="https://www.tu.biz/oppictures/maintenance-programs.png"
           />
           <meta
             property="og:url"
-            content="http://www.tu.biz/Services/PreventiveMaintenancePrograms"
+            content="https://www.tu.biz/services/preventive-maintenance-programs"
           />
         </Head>
       </div>

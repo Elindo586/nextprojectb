@@ -31,7 +31,7 @@ const Laboratory = () => {
           />
           <meta
             property="og:image"
-            content="./Images/oppictures/tribology.png"
+            content="https://www.tu.biz//oppictures/tribology.png"
           />
           <meta property="og:url" content="https://www.tu.biz/services" />
         </Head>
