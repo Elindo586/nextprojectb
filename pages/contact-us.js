@@ -19,10 +19,7 @@ const Contact = () => {
             property="og:description"
             content="Contact TU Technical Union"
           />
-          <meta
-            property="og:image"
-            content="https://www.tu.biz/oppictures/Tubiz-contact.png"
-          />
+          <meta property="og:image" content="./oppictures/Tubiz-contact.png" />
           <meta property="og:url" content="https://www.tu.biz/constact-us" />
         </Head>
       </div>
