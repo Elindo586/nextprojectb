@@ -190,9 +190,9 @@ const Interactive = () => {
           />
           <meta
             property="og:image"
-            content="./Images/oppictures/interactive.png"
+            content="https://www.tu.biz/oppictures/interactive.png"
           />
-          <meta property="og:url" content="http://www.tu.biz/Interactive" />
+          <meta property="og:url" content="https://www.tu.biz/interactive" />
         </Head>
       </div>
 

@@ -21,9 +21,9 @@ const Contact = () => {
           />
           <meta
             property="og:image"
-            content="http://www.tu.biz/Images/oppictures/Tubiz-contact.png"
+            content="https://www.tu.biz/oppictures/Tubiz-contact.png"
           />
-          <meta property="og:url" content="http://www.tu.biz/ContactUs" />
+          <meta property="og:url" content="https://www.tu.biz/constact-us" />
         </Head>
       </div>
       <div className="row">

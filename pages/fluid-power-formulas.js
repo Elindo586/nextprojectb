@@ -386,9 +386,12 @@ const Formulas = () => {
           />
           <meta
             property="og:image"
-            content="./Images/oppictures/formulas.png"
+            content="https://www.tu.biz//oppictures/formulas.png"
           />
-          <meta property="og:url" content="http://www.tu.biz/Formulas" />
+          <meta
+            property="og:url"
+            content="https://www.tu.biz/fluid-power-formulas"
+          />
         </Head>
       </div>
       <div className="row">
