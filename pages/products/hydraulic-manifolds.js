@@ -32,13 +32,10 @@ const HydraulicManifolds = () => {
             property="og:description"
             content="Find Hydraulic Manifolds from Technical Union"
           />
-          <meta
-            property="og:image"
-            content="/images/oppictures/manifolds.png"
-          />
+          <meta property="og:image" content="./oppictures/manifolds.png" />
           <meta
             property="og:url"
-            content="http://www.tu.biz/products/hydraulic-manifolds"
+            content="https://www.tu.biz/products/hydraulic-manifolds"
           />
         </Head>
       </div>

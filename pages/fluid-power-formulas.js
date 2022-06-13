@@ -384,10 +384,7 @@ const Formulas = () => {
             property="og:description"
             content="Interactive Fluid Power Formulas"
           />
-          <meta
-            property="og:image"
-            content="https://www.tu.biz//oppictures/formulas.png"
-          />
+          <meta property="og:image" content="./oppictures/formulas.png" />
           <meta
             property="og:url"
             content="https://www.tu.biz/fluid-power-formulas"

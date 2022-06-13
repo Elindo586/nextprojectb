@@ -188,10 +188,7 @@ const Interactive = () => {
             property="og:description"
             content="Simple hydraulic circuit animation"
           />
-          <meta
-            property="og:image"
-            content="https://www.tu.biz/oppictures/interactive.png"
-          />
+          <meta property="og:image" content="./oppictures/interactive.png" />
           <meta property="og:url" content="https://www.tu.biz/interactive" />
         </Head>
       </div>

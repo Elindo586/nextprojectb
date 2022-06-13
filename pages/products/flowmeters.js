@@ -24,13 +24,10 @@ const Flowmeters = () => {
             property="og:description"
             content="Find flowmeters from Technical Union"
           />
-          <meta
-            property="og:image"
-            content="/images/oppictures/flowmeters.png"
-          />
+          <meta property="og:image" content="./oppictures/flowmeters.png" />
           <meta
             property="og:url"
-            content="http://www.tu.biz/products/flowMeters"
+            content="https://www.tu.biz/products/flowMeters"
           />
         </Head>
       </div>

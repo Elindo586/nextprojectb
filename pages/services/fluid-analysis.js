@@ -29,10 +29,7 @@ const Laboratory = () => {
             property="og:description"
             content="We provide tribology fluid analysis."
           />
-          <meta
-            property="og:image"
-            content="https://www.tu.biz//oppictures/tribology.png"
-          />
+          <meta property="og:image" content="./oppictures/tribology.png" />
           <meta property="og:url" content="https://www.tu.biz/services" />
         </Head>
       </div>
