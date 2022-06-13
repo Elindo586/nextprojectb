@@ -37,6 +37,20 @@ const DirectionalControlValves = () => {
             property="og:url"
             content="https://www.tu.biz/products/directional-control-valves"
           />
+          <meta name="twitter:card" content="summary_large_image" />
+
+          <meta
+            property="twitter:title"
+            content=" Technical Union | Directional Control Valves"
+          />
+          <meta
+            property="twitter:description"
+            content="Find Directional Control Valves from TU Technical Union"
+          />
+          <meta
+            property="twitter:image"
+            content="./oppictures/directional-control-valves.png"
+          />
         </Head>
       </div>
       <div className="row">
