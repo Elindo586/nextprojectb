@@ -21,6 +21,8 @@ const DirectionalControlValves = () => {
           <meta name="keywords" content=" directional control valves" />
           <meta name="author" content="Edgar Lindo" />
 
+          {/* OpenGraph tags */}
+
           <meta
             property="og:title"
             content=" Technical Union | Directional Control Valves"
@@ -37,12 +39,16 @@ const DirectionalControlValves = () => {
             property="og:url"
             content="https://www.tu.biz/products/directional-control-valves"
           />
+
+          {/* Twitter tags */}
+
           <meta name="twitter:card" content="summary_large_image" />
 
           <meta
             name="twitter:title"
             content=" Technical Union | Directional Control Valves"
-          />
+          ></meta>
+
           <meta
             name="twitter:description"
             content="Find Directional Control Valves from TU Technical Union"
