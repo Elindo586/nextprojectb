@@ -3,4 +3,4 @@ Allow: /
 
 Host: https://www.tu.biz
 
-Sitemap: https://www.tu.biz/sitemap.xml
+Sitemap: https://www.tu.biz/public/sitemap.xml
