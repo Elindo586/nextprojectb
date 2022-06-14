@@ -38,7 +38,25 @@ const FlowControlValves = () => {
           />
           <meta
             property="og:url"
-            content="https://www.tu.biz/Products/flow-control-valves"
+            content="https://www.tu.biz/products/flow-control-valves"
+          />
+
+          {/* Twitter tags */}
+
+          <meta name="twitter:card" content="summary_large_image" />
+
+          <meta
+            name="twitter:title"
+            content=" Technical Union | Flow Control Valves"
+          ></meta>
+
+          <meta
+            name="twitter:description"
+            content="Find Flow Control Valves from TU Technical Union"
+          />
+          <meta
+            name="twitter:image"
+            content="./oppictures/directional-control-valves.png"
           />
         </Head>
       </div>
