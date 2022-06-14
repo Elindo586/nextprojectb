@@ -20,6 +20,8 @@ const Preventive = () => {
           />
           <meta name="author" content="Edgar Lindo" />
 
+          {/* OG tags */}
+
           <meta
             property="og:title"
             content=" Technical Union | Preventive Maintenance Programs"
@@ -30,11 +32,29 @@ const Preventive = () => {
           />
           <meta
             property="og:image"
-            content="./oppictures/maintenance-programs.png"
+            content="https://www.tu.biz//oppictures/maintenance-programs.png"
           />
           <meta
             property="og:url"
             content="https://www.tu.biz/services/preventive-maintenance-programs"
+          />
+          {/* Twitter tags */}
+
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:creator" content="@MrEdgarLindo" />
+
+          <meta
+            name="twitter:title"
+            content=" Technical Union | Preventive maintenance programs"
+          />
+
+          <meta
+            name="twitter:description"
+            content="Find preventive maintenance programs from TU Technical Union"
+          />
+          <meta
+            name="twitter:image"
+            content="https://www.tu.biz//oppictures/maintenance-programs.png"
           />
         </Head>
       </div>

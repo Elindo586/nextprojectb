@@ -21,6 +21,8 @@ const Laboratory = () => {
           />
           <meta name="author" content="Edgar Lindo" />
 
+          {/* OG tags */}
+
           <meta
             property="og:title"
             content=" Technical Union | Tribology Services"
@@ -29,8 +31,30 @@ const Laboratory = () => {
             property="og:description"
             content="We provide tribology fluid analysis."
           />
-          <meta property="og:image" content="./oppictures/tribology.png" />
+          <meta
+            property="og:image"
+            content="https://www.tu.biz//oppictures/tribology.png"
+          />
           <meta property="og:url" content="https://www.tu.biz/services" />
+
+          {/* Twitter card */}
+
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:creator" content="@MrEdgarLindo" />
+
+          <meta
+            name="twitter:title"
+            content=" Technical Union | Fluid Analysis"
+          />
+
+          <meta
+            name="twitter:description"
+            content="Find industrial fluid analysis from TU Technical Union"
+          />
+          <meta
+            name="twitter:image"
+            content="https://www.tu.biz//oppictures/tribology.png"
+          />
         </Head>
       </div>
       <div className="row">

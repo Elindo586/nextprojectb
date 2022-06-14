@@ -24,6 +24,7 @@ const PistonPumps = () => {
           {/* Twitter tags */}
 
           <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:creator" content="@MrEdgarLindo" />
 
           <meta
             name="twitter:title"
