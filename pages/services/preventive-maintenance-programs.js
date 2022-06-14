@@ -54,7 +54,7 @@ const Preventive = () => {
           />
           <meta
             name="twitter:image"
-            content="https://www.tu.biz//oppictures/maintenance-programs.png"
+            content="https://www.tu.biz/oppictures/maintenance-programs.png"
           />
         </Head>
       </div>

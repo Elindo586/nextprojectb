@@ -411,7 +411,7 @@ const Formulas = () => {
           />
           <meta
             name="twitter:image"
-            content="https://www.tu.biz//oppictures/formulas.png"
+            content="https://www.tu.biz/oppictures/formulas.png"
           />
         </Head>
       </div>

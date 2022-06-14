@@ -212,7 +212,7 @@ const Interactive = () => {
           />
           <meta
             name="twitter:image"
-            content="https://www.tu.biz//oppictures/interactive.png"
+            content="https://www.tu.biz/oppictures/interactive.png"
           />
         </Head>
       </div>

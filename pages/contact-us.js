@@ -40,7 +40,7 @@ const Contact = () => {
           />
           <meta
             name="twitter:image"
-            content="https://www.tu.biz//oppictures/Tubiz-contact.png"
+            content="https://www.tu.biz/oppictures/Tubiz-contact.png"
           />
         </Head>
       </div>

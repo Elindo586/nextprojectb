@@ -53,7 +53,7 @@ const Laboratory = () => {
           />
           <meta
             name="twitter:image"
-            content="https://www.tu.biz//oppictures/tribology.png"
+            content="https://www.tu.biz/oppictures/tribology.png"
           />
         </Head>
       </div>

@@ -198,6 +198,53 @@ const Inventory = ({ db }) => {
 
   return (
     <div>
+      <div>
+        <Head>
+          <title>TU- Technical Union | Hydraulic Inventory</title>
+
+          <meta
+            name="description"
+            content="Large inventory of hydraulic components to replace Vickers, Parker, Rexroth, and Char-lynn"
+          />
+          <meta
+            name="keywords"
+            content="inventory, hdyraulics, rexroth, parker, char-lynn"
+          />
+          <meta name="author" content="Edgar Lindo" />
+
+          {/* OG tags */}
+
+          <meta property="og:title" content=" Technical Union Inventory" />
+          <meta
+            property="og:description"
+            content="Large inventory to replace Vickers, Rexroth, Parker, and Char-lynn"
+          />
+          <meta
+            property="og:image"
+            content="https://www.tu.biz//oppictures/inventory.png"
+          />
+          <meta property="og:url" content="https://www.tu.biz/inventory" />
+
+          {/* Twitter card */}
+
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:creator" content="@MrEdgarLindo" />
+
+          <meta
+            name="twitter:title"
+            content=" TU - Technical Union | Inventory"
+          />
+
+          <meta
+            name="twitter:description"
+            content="Large inventory for hydraulic pumps, motors, valves, everything for quick delivery."
+          />
+          <meta
+            name="twitter:image"
+            content="https://www.tu.biz/oppictures/inventory.png"
+          />
+        </Head>
+      </div>
       <div className="col-md-12">
         <span className=" invy-text">
           <p>

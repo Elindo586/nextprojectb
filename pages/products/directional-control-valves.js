@@ -56,7 +56,7 @@ const DirectionalControlValves = () => {
           />
           <meta
             name="twitter:image"
-            content="./oppictures/directional-control-valves.png"
+            content="https://www.tu.biz/oppictures/directional-control-valves.png"
           />
         </Head>
       </div>
