@@ -45,7 +45,10 @@ const VanePumps = () => {
             name="twitter:description"
             content="Find Hydraulic Vane Pumps from TU Technical Union"
           />
-          <meta name="twitter:image" content="./oppictures/vane-pumps.png" />
+          <meta
+            name="twitter:image"
+            content="https://www.tu.biz//oppictures/vane-pumps.png"
+          />
         </Head>
       </div>
       <div className="row">
