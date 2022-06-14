@@ -29,6 +29,20 @@ const VanePumps = () => {
             property="og:url"
             content="https://www.tu.biz/Products/VanePumps"
           />
+          {/* Twitter tags */}
+
+          <meta name="twitter:card" content="summary_large_image" />
+
+          <meta
+            name="twitter:title"
+            content=" Technical Union | Hydraulic Vane Pumps"
+          />
+
+          <meta
+            name="twitter:description"
+            content="Find Hydraulic Vane Pumps from TU Technical Union"
+          />
+          <meta name="twitter:image" content="./oppictures/vane-pumps.png" />
         </Head>
       </div>
       <div className="row">

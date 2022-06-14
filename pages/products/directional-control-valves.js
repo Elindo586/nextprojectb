@@ -47,7 +47,7 @@ const DirectionalControlValves = () => {
           <meta
             name="twitter:title"
             content=" Technical Union | Directional Control Valves"
-          ></meta>
+          />
 
           <meta
             name="twitter:description"

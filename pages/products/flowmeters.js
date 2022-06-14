@@ -29,6 +29,20 @@ const Flowmeters = () => {
             property="og:url"
             content="https://www.tu.biz/products/flowMeters"
           />
+          {/* Twitter tags */}
+
+          <meta name="twitter:card" content="summary_large_image" />
+
+          <meta
+            name="twitter:title"
+            content=" Technical Union | Hydraulic Flowmeters."
+          />
+
+          <meta
+            name="twitter:description"
+            content="Find hydraulic flowmeters from Technical Union."
+          />
+          <meta name="twitter:image" content="./oppictures/flowmeters.png" />
         </Head>
       </div>
       <div className="row">

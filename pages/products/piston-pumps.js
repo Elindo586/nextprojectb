@@ -27,6 +27,20 @@ const PistonPumps = () => {
           <meta property="og:description" content="Hydraulic Piston Pumps" />
           <meta property="og:image" content="./oppictures/piston-pumps.png" />
           <meta property="og:url" content="https://www.tu.biz/Products" />
+          {/* Twitter tags */}
+
+          <meta name="twitter:card" content="summary_large_image" />
+
+          <meta
+            name="twitter:title"
+            content=" Technical Union | Hydraulic Piston Pumps"
+          />
+
+          <meta
+            name="twitter:description"
+            content="Find Hydraulic Piston Pumps from TU Technical Union"
+          />
+          <meta name="twitter:image" content="./oppictures/piston-pumps.png" />
         </Head>
       </div>
 

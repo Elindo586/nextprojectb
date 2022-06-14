@@ -32,6 +32,23 @@ const GerolerMotor = () => {
             property="og:url"
             content="https://www.tu.biz/products/geroler-motors"
           />
+          {/* Twitter tags */}
+
+          <meta name="twitter:card" content="summary_large_image" />
+
+          <meta
+            name="twitter:title"
+            content=" Technical Union | Hydraulic geroler motors"
+          />
+
+          <meta
+            name="twitter:description"
+            content="Find hydraulic geroler motors from TU Technical Union"
+          />
+          <meta
+            name="twitter:image"
+            content="./oppictures/geroler-motors.png"
+          />
         </Head>
       </div>
       <div className="row">

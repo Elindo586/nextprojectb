@@ -26,6 +26,21 @@ const GearPumps = () => {
             property="og:url"
             content="https://www.tu.biz/products/gear-pumps"
           />
+
+          {/* Twitter tags */}
+
+          <meta name="twitter:card" content="summary_large_image" />
+
+          <meta
+            name="twitter:title"
+            content=" Technical Union | Hydraulic gear pumps"
+          />
+
+          <meta
+            name="twitter:description"
+            content="Find hydraulic gear pumps from TU Technical Union"
+          />
+          <meta name="twitter:image" content="./oppictures/gear-pumps.png" />
         </Head>
       </div>
       <div className="row">

@@ -37,6 +37,20 @@ const HydraulicManifolds = () => {
             property="og:url"
             content="https://www.tu.biz/products/hydraulic-manifolds"
           />
+          {/* Twitter tags */}
+
+          <meta name="twitter:card" content="summary_large_image" />
+
+          <meta
+            name="twitter:title"
+            content=" Technical Union | Hydraulic Manifolds"
+          />
+
+          <meta
+            name="twitter:description"
+            content="Find Hydraulic manifolds  from TU Technical Union"
+          />
+          <meta name="twitter:image" content="./oppictures/manifolds.png" />
         </Head>
       </div>
       <div className="row">

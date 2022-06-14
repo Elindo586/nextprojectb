@@ -29,6 +29,20 @@ const VaneMotors = () => {
             property="og:url"
             content="https://www.tu.biz/products/vane-motors"
           />
+          {/* Twitter tags */}
+
+          <meta name="twitter:card" content="summary_large_image" />
+
+          <meta
+            name="twitter:title"
+            content=" Technical Union | Hydraulic Vane Motors"
+          />
+
+          <meta
+            name="twitter:description"
+            content="Find Hydraulic Vane Motors  from TU Technical Union"
+          />
+          <meta name="twitter:image" content="./oppictures/vane-motors.png" />
         </Head>
       </div>
       <div className="row">
