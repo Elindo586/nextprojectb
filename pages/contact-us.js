@@ -14,13 +14,34 @@ const Contact = () => {
           <meta name="keywords" content=" Contact, page " />
           <meta name="author" content="Edgar Lindo" />
 
+          {/* OG tags */}
+
           <meta property="og:title" content=" Technical Union" />
           <meta
             property="og:description"
             content="Contact TU Technical Union"
           />
-          <meta property="og:image" content="./oppictures/Tubiz-contact.png" />
+          <meta
+            property="og:image"
+            content="https://www.tu.biz//oppictures/Tubiz-contact.png"
+          />
           <meta property="og:url" content="https://www.tu.biz/constact-us" />
+
+          {/* Twitter card */}
+
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:creator" content="@MrEdgarLindo" />
+
+          <meta name="twitter:title" content=" Technical Union | Contact Us" />
+
+          <meta
+            name="twitter:description"
+            content="Contact TU- Technical Union"
+          />
+          <meta
+            name="twitter:image"
+            content="https://www.tu.biz//oppictures/Tubiz-contact.png"
+          />
         </Head>
       </div>
       <div className="row">

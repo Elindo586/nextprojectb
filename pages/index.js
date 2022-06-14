@@ -39,13 +39,28 @@ const Home = () => {
           <meta
             name="image"
             property="og:image"
-            content="./oppictures/Tubiz-contact.png"
+            content="https://wwww.tu.biz//oppictures/Tubiz-contact.png"
             id="meta-og-image"
           />
           <meta
             property="og:url"
             content="https://www.tu.biz"
             id="meta-og-url"
+          />
+          {/* Twitter card */}
+
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:creator" content="@MrEdgarLindo" />
+
+          <meta name="twitter:title" content=" TU -Technical Union | " />
+
+          <meta
+            name="twitter:description"
+            content="Industrial exporter from USA for hydraulics, pneumatics, electrical and mechanical components."
+          />
+          <meta
+            name="twitter:image"
+            content="https://www.tu.biz//oppictures/Tubiz-contact.png"
           />
         </Head>
       </div>

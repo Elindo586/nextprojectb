@@ -376,6 +376,8 @@ const Formulas = () => {
           <meta name="keywords" content="Fluid Power, Formulas, Calculator" />
           <meta name="author" content="Edgar Lindo" />
 
+          {/* OG tags */}
+
           <meta
             property="og:title"
             content=" Fluid Power Formulas Calculator"
@@ -384,10 +386,32 @@ const Formulas = () => {
             property="og:description"
             content="Interactive Fluid Power Formulas"
           />
-          <meta property="og:image" content="./oppictures/formulas.png" />
+          <meta
+            property="og:image"
+            content="https://www.tu.biz//oppictures/formulas.png"
+          />
           <meta
             property="og:url"
             content="https://www.tu.biz/fluid-power-formulas"
+          />
+
+          {/* Twitter card */}
+
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:creator" content="@MrEdgarLindo" />
+
+          <meta
+            name="twitter:title"
+            content=" TU -Technical Union | Fluid Power Formulas "
+          />
+
+          <meta
+            name="twitter:description"
+            content="TU - Fluid Power Formulas"
+          />
+          <meta
+            name="twitter:image"
+            content="https://www.tu.biz//oppictures/formulas.png"
           />
         </Head>
       </div>

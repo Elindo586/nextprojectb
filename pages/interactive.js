@@ -180,6 +180,8 @@ const Interactive = () => {
           />
           <meta name="author" content="Edgar Lindo" />
 
+          {/* OG tags */}
+
           <meta
             property="og:title"
             content=" Technical Union Interactive hydraulic circuits"
@@ -188,8 +190,30 @@ const Interactive = () => {
             property="og:description"
             content="Simple hydraulic circuit animation"
           />
-          <meta property="og:image" content="./oppictures/interactive.png" />
+          <meta
+            property="og:image"
+            content="https://www.tu.biz//oppictures/interactive.png"
+          />
           <meta property="og:url" content="https://www.tu.biz/interactive" />
+
+          {/* Twitter card */}
+
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:creator" content="@MrEdgarLindo" />
+
+          <meta
+            name="twitter:title"
+            content=" Technical Union | interactive animation"
+          />
+
+          <meta
+            name="twitter:description"
+            content="Interactive hydraulic animation of typical extension and retraction of hydraulic cylinder"
+          />
+          <meta
+            name="twitter:image"
+            content="https://www.tu.biz//oppictures/interactive.png"
+          />
         </Head>
       </div>
 
