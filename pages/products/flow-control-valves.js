@@ -34,7 +34,7 @@ const FlowControlValves = () => {
           />
           <meta
             property="og:image"
-            content="./oppictures/flow-control-valves.png"
+            content="https://www.tu.biz//oppictures/flow-control-valves.png"
           />
           <meta
             property="og:url"

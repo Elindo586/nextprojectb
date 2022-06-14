@@ -24,7 +24,10 @@ const VaneMotors = () => {
             property="og:description"
             content="Find hydraulic vane motors from Technical Union"
           />
-          <meta property="og:image" content="./oppictures/vane-motors.png" />
+          <meta
+            property="og:image"
+            content="https://www.tu.biz//oppictures/vane-motors.png"
+          />
           <meta
             property="og:url"
             content="https://www.tu.biz/products/vane-motors"

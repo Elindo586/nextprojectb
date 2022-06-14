@@ -27,7 +27,10 @@ const GerolerMotor = () => {
             property="og:description"
             content=" Hydraulic geroler motors from Technical Union"
           />
-          <meta property="og:image" content="./oppictures/geroler-motors.png" />
+          <meta
+            property="og:image"
+            content="https://www.tu.biz//oppictures/geroler-motors.png"
+          />
           <meta
             property="og:url"
             content="https://www.tu.biz/products/geroler-motors"

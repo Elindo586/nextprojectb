@@ -43,7 +43,10 @@ const PistonPumps = () => {
             content=" Technical Union | Hydraulic Piston Pumps"
           />
           <meta property="og:description" content="Hydraulic Piston Pumps" />
-          <meta property="og:image" content="./oppictures/piston-pumps.png" />
+          <meta
+            property="og:image"
+            content="https://www.tu.biz//oppictures/piston-pumps.png"
+          />
           <meta property="og:url" content="https://www.tu.biz/Products" />
         </Head>
       </div>

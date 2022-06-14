@@ -24,7 +24,10 @@ const VanePumps = () => {
             property="og:description"
             content=" Hydraulic vane pumps from Technical Union"
           />
-          <meta property="og:image" content="./oppictures/vane-pumps.png" />
+          <meta
+            property="og:image"
+            content="https://www.tu.biz//oppictures/vane-pumps.png"
+          />
           <meta
             property="og:url"
             content="https://www.tu.biz/Products/VanePumps"

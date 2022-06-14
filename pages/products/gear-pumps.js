@@ -21,7 +21,10 @@ const GearPumps = () => {
             property="og:description"
             content="Find Hydraulic gear pumps from Technical Union"
           />
-          <meta property="og:image" content="./oppictures/gear-pumps.png" />
+          <meta
+            property="og:image"
+            content="https://www.tu.biz//oppictures/gear-pumps.png"
+          />
           <meta
             property="og:url"
             content="https://www.tu.biz/products/gear-pumps"
