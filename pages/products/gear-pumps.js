@@ -44,7 +44,10 @@ const GearPumps = () => {
             name="twitter:description"
             content="Find hydraulic gear pumps from TU Technical Union"
           />
-          <meta name="twitter:image" content="./oppictures/gear-pumps.png" />
+          <meta
+            name="twitter:image"
+            content="https://www.tu.biz/oppictures/gear-pumps.png"
+          />
         </Head>
       </div>
       <div className="row">

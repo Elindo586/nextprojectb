@@ -46,7 +46,10 @@ const Flowmeters = () => {
             name="twitter:description"
             content="Find hydraulic flowmeters from Technical Union."
           />
-          <meta name="twitter:image" content="./oppictures/flowmeters.png" />
+          <meta
+            name="twitter:image"
+            content="https://www.tu.biz/oppictures/flowmeters.png"
+          />
         </Head>
       </div>
       <div className="row">

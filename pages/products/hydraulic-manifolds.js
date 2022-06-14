@@ -54,7 +54,10 @@ const HydraulicManifolds = () => {
             name="twitter:description"
             content="Find Hydraulic manifolds  from TU Technical Union"
           />
-          <meta name="twitter:image" content="./oppictures/manifolds.png" />
+          <meta
+            name="twitter:image"
+            content="https://www.tu.biz/oppictures/manifolds.png"
+          />
         </Head>
       </div>
       <div className="row">

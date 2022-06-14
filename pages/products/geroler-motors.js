@@ -51,7 +51,7 @@ const GerolerMotor = () => {
           />
           <meta
             name="twitter:image"
-            content="./oppictures/geroler-motors.png"
+            content="https:www.tu.biz/oppictures/geroler-motors.png"
           />
         </Head>
       </div>

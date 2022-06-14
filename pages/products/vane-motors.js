@@ -46,7 +46,10 @@ const VaneMotors = () => {
             name="twitter:description"
             content="Find Hydraulic Vane Motors  from TU Technical Union"
           />
-          <meta name="twitter:image" content="./oppictures/vane-motors.png" />
+          <meta
+            name="twitter:image"
+            content="https:www.tu.biz/oppictures/vane-motors.png"
+          />
         </Head>
       </div>
       <div className="row">

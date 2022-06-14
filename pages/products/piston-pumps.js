@@ -35,7 +35,10 @@ const PistonPumps = () => {
             name="twitter:description"
             content="Find Hydraulic Piston Pumps from TU Technical Union"
           />
-          <meta name="twitter:image" content="./oppictures/piston-pumps.png" />
+          <meta
+            name="twitter:image"
+            content="https:www.tu.biz/oppictures/piston-pumps.png"
+          />
 
           {/* OpenGraph tags */}
 
