@@ -33,7 +33,7 @@ const DirectionalControlValves = () => {
           />
           <meta
             property="og:image"
-            content="https://www.tu.biz//oppictures/directional-control-valves.png"
+            content="https://www.tu.biz/oppictures/directional-control-valves.png"
           />
           <meta
             property="og:url"
