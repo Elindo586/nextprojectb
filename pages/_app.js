@@ -11,20 +11,6 @@ function MyApp({ Component, pageProps }) {
   return (
     <div>
       <div>
-        <Head>
-          <meta charset="UTF-8" />
-          <meta name="viewport" content="width=device-width, initial-scale=1" />
-          <link
-            rel="shortcut icon"
-            type="image/png"
-            href="/images/tu-favicon.png"
-          />
-
-          <meta
-            name="facebook-domain-verification"
-            content="fzctnjbrtlybvytmamk8glkng9af7p"
-          />
-        </Head>
         <Script
           strategy="afterInteractive"
           src="https://www.googletagmanager.com/gtag/js?id=UA-36867189-2"

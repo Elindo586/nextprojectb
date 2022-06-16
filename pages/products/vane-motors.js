@@ -10,15 +10,24 @@ const VaneMotors = () => {
     <div>
       <div>
         <Head>
+          <meta charset="UTF-8" />
+          <meta name="viewport" content="width=device-width, initial-scale=1" />
+          <link
+            rel="shortcut icon"
+            type="image/png"
+            href="/images/tu-favicon.png"
+          />
+          <meta
+            name="facebook-domain-verification"
+            content="fzctnjbrtlybvytmamk8glkng9af7p"
+          />{" "}
           <title>TU - Technical Union | Hydraulic Vane Motors </title>
-
           <meta
             name="description"
             content=" Find our hydraulic vane motor catalog "
           />
           <meta name="keywords" content="hydraulic, vane, motors " />
           <meta name="author" content="Edgar Lindo" />
-
           <meta property="og:title" content=" Technical Union | Vane Motors" />
           <meta
             property="og:description"
@@ -33,15 +42,12 @@ const VaneMotors = () => {
             content="https://www.tu.biz/products/vane-motors"
           />
           {/* Twitter tags */}
-
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:creator" content="@MrEdgarLindo" />
-
           <meta
             name="twitter:title"
             content=" Technical Union | Hydraulic Vane Motors"
           />
-
           <meta
             name="twitter:description"
             content="Find Hydraulic Vane Motors  from TU Technical Union"
