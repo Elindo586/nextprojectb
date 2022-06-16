@@ -123,6 +123,13 @@ function MainNav() {
               </a>
             </Link>
           </li>
+          <li className="nav-item">
+            <Link href="/blog/english/what-is-a-pressure-relief-valve">
+              <a className="nav-link" onClick={title}>
+                | Blogs
+              </a>
+            </Link>
+          </li>
 
           <li className="nav-item">
             {/* <a className="nav-link" href="contactus.html">| Contact Us</a> */}
