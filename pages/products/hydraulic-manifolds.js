@@ -31,10 +31,10 @@ const HydraulicManifolds = () => {
           <meta name="keywords" content="hydraulic, manifolds,  " />
           <meta name="author" content="Edgar Lindo" />
 
-          <meta
-            name="facebook-domain-verification"
-            content="fzctnjbrtlybvytmamk8glkng9af7p"
-          />
+          {/* OG tags */}
+
+          <meta property="og:locale" content="en" />
+          <meta property="site_name" content="TU-Technical Union" />
 
           <meta
             property="og:title"

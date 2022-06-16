@@ -36,6 +36,11 @@ const FlowControlValves = () => {
           />
           <meta name="author" content="Edgar Lindo" />
 
+          {/* OG tags */}
+
+          <meta property="og:locale" content="en" />
+          <meta property="site_name" content="TU-Technical Union" />
+
           <meta
             property="og:title"
             content=" Technical Union | Flow Control Valves"

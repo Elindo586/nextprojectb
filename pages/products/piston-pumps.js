@@ -34,6 +34,22 @@ const PistonPumps = () => {
           />
           <meta name="author" content="Edgar Lindo" />
 
+          {/* OpenGraph tags */}
+
+          <meta property="og:locale" content="en" />
+          <meta property="site_name" content="TU-Technical Union" />
+
+          <meta
+            property="og:title"
+            content=" Technical Union | Hydraulic Piston Pumps"
+          />
+          <meta property="og:description" content="Hydraulic Piston Pumps" />
+          <meta
+            property="og:image"
+            content="https://www.tu.biz//oppictures/piston-pumps.png"
+          />
+          <meta property="og:url" content="https://www.tu.biz/Products" />
+
           {/* Twitter tags */}
 
           <meta name="twitter:card" content="summary_large_image" />
@@ -52,19 +68,6 @@ const PistonPumps = () => {
             name="twitter:image"
             content="https:www.tu.biz/oppictures/piston-pumps.png"
           />
-
-          {/* OpenGraph tags */}
-
-          <meta
-            property="og:title"
-            content=" Technical Union | Hydraulic Piston Pumps"
-          />
-          <meta property="og:description" content="Hydraulic Piston Pumps" />
-          <meta
-            property="og:image"
-            content="https://www.tu.biz//oppictures/piston-pumps.png"
-          />
-          <meta property="og:url" content="https://www.tu.biz/Products" />
         </Head>
       </div>
 

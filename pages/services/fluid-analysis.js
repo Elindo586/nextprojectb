@@ -9,6 +9,19 @@ const Laboratory = () => {
     <div>
       <div>
         <Head>
+          <meta charset="UTF-8" />
+          <meta name="viewport" content="width=device-width, initial-scale=1" />
+          <link
+            rel="shortcut icon"
+            type="image/png"
+            href="/images/tu-favicon.png"
+          />
+
+          <meta
+            name="facebook-domain-verification"
+            content="fzctnjbrtlybvytmamk8glkng9af7p"
+          />
+
           <title> TU - Technical Union | Services </title>
 
           <meta
@@ -22,6 +35,9 @@ const Laboratory = () => {
           <meta name="author" content="Edgar Lindo" />
 
           {/* OG tags */}
+
+          <meta property="og:locale" content="en" />
+          <meta property="site_name" content="TU-Technical Union" />
 
           <meta
             property="og:title"

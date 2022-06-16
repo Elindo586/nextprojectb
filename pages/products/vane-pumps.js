@@ -31,6 +31,11 @@ const VanePumps = () => {
           <meta name="keywords" content="vane, pumps " />
           <meta name="author" content="Edgar Lindo" />
 
+          {/* OG Tags */}
+
+          <meta property="og:locale" content="en" />
+          <meta property="site_name" content="TU-Technical Union" />
+
           <meta property="og:title" content=" Technical Union" />
           <meta
             property="og:description"

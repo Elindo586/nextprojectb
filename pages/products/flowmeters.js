@@ -31,6 +31,11 @@ const Flowmeters = () => {
           <meta name="keywords" content=" flowmeters , hydraulic" />
           <meta name="author" content="Edgar Lindo" />
 
+          {/* OG tags */}
+
+          <meta property="og:locale" content="en" />
+          <meta property="site_name" content="TU-Technical Union" />
+
           <meta property="og:title" content=" Technical Union | Flowmeters" />
           <meta
             property="og:description"

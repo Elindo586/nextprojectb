@@ -28,6 +28,9 @@ const VaneMotors = () => {
           />
           <meta name="keywords" content="hydraulic, vane, motors " />
           <meta name="author" content="Edgar Lindo" />
+          {/* OG tags */}
+          <meta property="og:locale" content="en" />
+          <meta property="site_name" content="TU-Technical Union" />
           <meta property="og:title" content=" Technical Union | Vane Motors" />
           <meta
             property="og:description"

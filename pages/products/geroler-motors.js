@@ -31,6 +31,11 @@ const GerolerMotor = () => {
           <meta name="keywords" content=" geroloer motorsS" />
           <meta name="author" content="Edgar Lindo" />
 
+          {/* OG Tags */}
+
+          <meta property="og:locale" content="en" />
+          <meta property="site_name" content="TU-Technical Union" />
+
           <meta
             property="og:title"
             content=" Technical Union | Hydraulic Geroler Motors"
