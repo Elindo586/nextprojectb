@@ -28,8 +28,11 @@ const Post2 = () => {
               content="fzctnjbrtlybvytmamk8glkng9af7p"
             />
             <title>TU-Technical Union</title>
-            <meta name="description" content="" />
-            <meta name="keywords" content="" />
+            <meta
+              name="description"
+              content="Here is where you can learn how to test a pressure compensated pump quick and easy."
+            />
+            <meta name="keywords" content="pressure compensated pump " />
             <meta name="author" content="Edgar Lindo" />
 
             {/* Open Graph tags */}
@@ -39,7 +42,11 @@ const Post2 = () => {
               content=" Technical Union"
               id="meta-og-title"
             />
-            <meta property="og:description" content="" id="meta-og-desc" />
+            <meta
+              property="og:description"
+              content=" Here is where you can learn how to test a pressure compensated pump quick and easy. "
+              id="meta-og-desc"
+            />
             <meta
               property="og:url"
               content="https://www.tu.biz"
@@ -50,7 +57,7 @@ const Post2 = () => {
             <meta
               name="image"
               property="og:image"
-              content="https://wwww.tu.biz//"
+              content="https://wwww.tu.biz//blog-images-english/pressure-comp-pump-test.png"
               id="meta-og-image"
             />
 
@@ -61,10 +68,13 @@ const Post2 = () => {
 
             <meta name="twitter:title" content=" TU -Technical Union | " />
 
-            <meta name="twitter:description" content="" />
+            <meta
+              name="twitter:description"
+              content=" Here is how to properly test a pressure compensated pump quick and easy."
+            />
             <meta
               name="twitter:image"
-              content="https://www.tu.biz/blog-images-english/How to set a pressure compensated control.jpg"
+              content="https://www.tu.biz/blog-images-english/pressure-comp-pump-test.png"
             />
           </div>
         </Head>

@@ -24,7 +24,7 @@ function MetaSpanish(props) {
 
       {/* Open Graph */}
 
-      <meta property="og:title" content=" Technical Union" id="meta-og-title" />
+      <meta property="og:title" content=" " id="meta-og-title" />
       <meta property="og:description" content="" id="meta-og-desc" />
       <meta property="og:url" content="https://www.tu.biz" id="meta-og-url" />
       <meta property="og:locale" content="es" />
@@ -32,7 +32,7 @@ function MetaSpanish(props) {
       <meta
         name="image"
         property="og:image"
-        content="https://wwww.tu.biz//"
+        content="https://wwww.tu.biz//blog-images-spanish"
         id="meta-og-image"
       />
 
@@ -41,10 +41,13 @@ function MetaSpanish(props) {
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:creator" content="@MrEdgarLindo" />
 
-      <meta name="twitter:title" content=" TU -Technical Union | " />
+      <meta name="twitter:title" content=" " />
 
       <meta name="twitter:description" content="" />
-      <meta name="twitter:image" content="https://www.tu.biz/oppictures/.png" />
+      <meta
+        name="twitter:image"
+        content="https://www.tu.biz/blog-images-spanish/"
+      />
     </div>
   );
 }
