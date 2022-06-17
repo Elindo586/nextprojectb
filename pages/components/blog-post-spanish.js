@@ -20,7 +20,7 @@ function Blogger2(props) {
               <Link href={props.previous}>
                 <a
                   className="btn btn-info d-flex justify-content-center"
-                  target="blank"
+                  target=""
                 >
                   Previo
                 </a>
@@ -30,7 +30,7 @@ function Blogger2(props) {
               <Link href={props.next}>
                 <a
                   className="btn btn-info d-flex justify-content-center"
-                  target="blank"
+                  target=""
                 >
                   Proximo
                 </a>

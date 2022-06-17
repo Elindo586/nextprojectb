@@ -17,7 +17,7 @@ function Blogger1(props) {
               <Link href={props.previous}>
                 <a
                   className="btn btn-info d-flex justify-content-center"
-                  target="blank"
+                  target=""
                 >
                   Previous
                 </a>
@@ -27,7 +27,7 @@ function Blogger1(props) {
               <Link href={props.next}>
                 <a
                   className="btn btn-info d-flex justify-content-center"
-                  target="blank"
+                  target=""
                 >
                   Next
                 </a>
