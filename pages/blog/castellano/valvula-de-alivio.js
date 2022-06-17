@@ -27,19 +27,26 @@ const Post3 = () => {
               name="facebook-domain-verification"
               content="fzctnjbrtlybvytmamk8glkng9af7p"
             />
-            <title>TU-Technical Union</title>
-            <meta name="description" content="" />
-            <meta name="keywords" content="" />
+            <title>Válvula de alivio</title>
+            <meta
+              name="description"
+              content="¿Cómo funciona  una válvula de alivio para un sistema hidráulico? "
+            />
+            <meta name="keywords" content="valvula de alivio " />
             <meta name="author" content="Edgar Lindo" />
 
             {/* Open Graph */}
 
             <meta
               property="og:title"
-              content=" Technical Union"
+              content=" Funcionamiento de válvula de alivio hidráulica"
               id="meta-og-title"
             />
-            <meta property="og:description" content="" id="meta-og-desc" />
+            <meta
+              property="og:description"
+              content="Aprenda como funciona una válvula de alivio para un sistema oleohidráulico"
+              id="meta-og-desc"
+            />
             <meta
               property="og:url"
               content="https://www.tu.biz"
@@ -50,7 +57,7 @@ const Post3 = () => {
             <meta
               name="image"
               property="og:image"
-              content="https://wwww.tu.biz//"
+              content="https://wwww.tu.biz//blog-images-spanish/valvula-de-alivio.png"
               id="meta-og-image"
             />
 
@@ -59,12 +66,18 @@ const Post3 = () => {
             <meta name="twitter:card" content="summary_large_image" />
             <meta name="twitter:creator" content="@MrEdgarLindo" />
 
-            <meta name="twitter:title" content=" TU -Technical Union | " />
+            <meta
+              name="twitter:title"
+              content=" Válvula de alivio hidráulica"
+            />
 
-            <meta name="twitter:description" content="" />
+            <meta
+              name="twitter:description"
+              content="Aprenda como funciona una válvula de alivio hiráulica"
+            />
             <meta
               name="twitter:image"
-              content="https://www.tu.biz/oppictures/.png"
+              content="https://www.tu.biz/blog-images-spanish/valvula-de-alivio.png"
             />
           </div>
         </Head>

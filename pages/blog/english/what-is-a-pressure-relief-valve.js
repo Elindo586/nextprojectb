@@ -27,22 +27,26 @@ const Post1 = () => {
               name="facebook-domain-verification"
               content="fzctnjbrtlybvytmamk8glkng9af7p"
             />
-            <title>TU-Technical Union</title>
+            <title>TU-Technical Union | Relief Valve</title>
             <meta
               name="description"
-              content="Here is the proper way to test a pressure compensated pump quick and easy. "
+              content="Understanding a pressure relief valve, uses, requirements, and why it is important in the hydraulic system. "
             />
-            <meta name="keywords" content=" pressure compensated pump" />
+            <meta name="keywords" content=" relief valve" />
             <meta name="author" content="Edgar Lindo" />
 
             {/* Open Graph tags */}
 
             <meta
               property="og:title"
-              content=" Technical Union"
+              content=" Hydraulic relief valve"
               id="meta-og-title"
             />
-            <meta property="og:description" content="" id="meta-og-desc" />
+            <meta
+              property="og:description"
+              content="Understanding why is important to use a hydraulic relief valve for your hydraulic machinery"
+              id="meta-og-desc"
+            />
             <meta
               property="og:url"
               content="https://www.tu.biz"
@@ -53,7 +57,7 @@ const Post1 = () => {
             <meta
               name="image"
               property="og:image"
-              content="https://wwww.tu.biz//blog-images-english/"
+              content="https://wwww.tu.biz//blog-images-english/pressure-relief-valve.png"
               id="meta-og-image"
             />
 
@@ -62,12 +66,18 @@ const Post1 = () => {
             <meta name="twitter:card" content="summary_large_image" />
             <meta name="twitter:creator" content="@MrEdgarLindo" />
 
-            <meta name="twitter:title" content=" TU -Technical Union | " />
+            <meta
+              name="twitter:title"
+              content=" What is a hydraulic relief valve? "
+            />
 
-            <meta name="twitter:description" content="" />
+            <meta
+              name="twitter:description"
+              content="Understanding how a hydraulic relief valve work, and why it is important to use a relief valve in a hydraulic system."
+            />
             <meta
               name="twitter:image"
-              content="https://www.tu.biz/oppictures/.png"
+              content="https://www.tu.biz/blog-images-english/pressure-relief-valve.png"
             />
           </div>
         </Head>
