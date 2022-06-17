@@ -9,76 +9,68 @@ const Post3 = () => {
     <div>
       <div>
         <Head>
-          <div>
-            {/* Main */}
-            <meta charset="UTF-8" />
-            <meta
-              name="viewport"
-              content="width=device-width, initial-scale=1"
-            />
-            <link
-              rel="shortcut icon"
-              type="image/png"
-              href="/images/tu-favicon.png"
-            />
+          {/* Main */}
+          <meta charset="UTF-8" />
+          <meta name="viewport" content="width=device-width, initial-scale=1" />
+          <link
+            rel="shortcut icon"
+            type="image/png"
+            href="/images/tu-favicon.png"
+          />
 
-            <meta
-              name="facebook-domain-verification"
-              content="fzctnjbrtlybvytmamk8glkng9af7p"
-            />
-            <title>Válvula de alivio</title>
-            <meta
-              name="description"
-              content="¿Cómo funciona  una válvula de alivio para un sistema hidráulico? "
-            />
-            <meta name="keywords" content="valvula de alivio " />
-            <meta name="author" content="Edgar Lindo" />
+          <meta
+            name="facebook-domain-verification"
+            content="fzctnjbrtlybvytmamk8glkng9af7p"
+          />
+          <title>Válvula de alivio</title>
+          <meta
+            name="description"
+            content="¿Cómo funciona  una válvula de alivio para un sistema hidráulico? "
+          />
+          <meta name="keywords" content="valvula de alivio " />
+          <meta name="author" content="Edgar Lindo" />
 
-            {/* Open Graph */}
+          {/* Open Graph */}
 
-            <meta
-              property="og:title"
-              content=" Funcionamiento de válvula de alivio hidráulica"
-              id="meta-og-title"
-            />
-            <meta
-              property="og:description"
-              content="Aprenda como funciona una válvula de alivio para un sistema oleohidráulico"
-              id="meta-og-desc"
-            />
-            <meta
-              property="og:url"
-              content="https://www.tu.biz"
-              id="meta-og-url"
-            />
-            <meta property="og:locale" content="es" />
-            <meta property="site_name" content="TU-Technical Union" />
-            <meta
-              name="image"
-              property="og:image"
-              content="https://wwww.tu.biz//blog-images-spanish/valvula-de-alivio.png"
-              id="meta-og-image"
-            />
+          <meta
+            property="og:title"
+            content=" Funcionamiento de válvula de alivio hidráulica"
+            id="meta-og-title"
+          />
+          <meta
+            property="og:description"
+            content="Aprenda como funciona una válvula de alivio para un sistema oleohidráulico"
+            id="meta-og-desc"
+          />
+          <meta
+            property="og:url"
+            content="https://www.tu.biz"
+            id="meta-og-url"
+          />
+          <meta property="og:locale" content="es" />
+          <meta property="site_name" content="TU-Technical Union" />
+          <meta
+            name="image"
+            property="og:image"
+            content="https://wwww.tu.biz//blog-images-spanish/valvula-de-alivio.png"
+            id="meta-og-image"
+          />
 
-            {/* Twitter card */}
+          {/* Twitter card */}
 
-            <meta name="twitter:card" content="summary_large_image" />
-            <meta name="twitter:creator" content="@MrEdgarLindo" />
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:creator" content="@MrEdgarLindo" />
 
-            <meta
-              name="twitter:title"
-              content=" Válvula de alivio hidráulica"
-            />
+          <meta name="twitter:title" content=" Válvula de alivio hidráulica" />
 
-            <meta
-              name="twitter:description"
-              content="Aprenda como funciona una válvula de alivio hiráulica"
-            />
-            <meta
-              name="twitter:image"
-              content="https://www.tu.biz/blog-images-spanish/valvula-de-alivio.png"
-            />
-          </div>
+          <meta
+            name="twitter:description"
+            content="Aprenda como funciona una válvula de alivio hiráulica"
+          />
+          <meta
+            name="twitter:image"
+            content="https://www.tu.biz/blog-images-spanish/valvula-de-alivio.png"
+          />
         </Head>
       </div>
       <Blogger2

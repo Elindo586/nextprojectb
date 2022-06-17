@@ -9,76 +9,71 @@ const Post4 = () => {
     <div>
       <div>
         <Head>
-          <div>
-            {/* Main */}
-            <meta charset="UTF-8" />
-            <meta
-              name="viewport"
-              content="width=device-width, initial-scale=1"
-            />
-            <link
-              rel="shortcut icon"
-              type="image/png"
-              href="/images/tu-favicon.png"
-            />
+          {/* Main */}
+          <meta charset="UTF-8" />
+          <meta name="viewport" content="width=device-width, initial-scale=1" />
+          <link
+            rel="shortcut icon"
+            type="image/png"
+            href="/images/tu-favicon.png"
+          />
 
-            <meta
-              name="facebook-domain-verification"
-              content="fzctnjbrtlybvytmamk8glkng9af7p"
-            />
-            <title>TU-Technical Union | Prueba de bomba hidráulica</title>
-            <meta
-              name="description"
-              content="Aprenda como se hace una prueba de bomba hidráulica de presión compensada"
-            />
-            <meta name="keywords" content="bomba hidraulica" />
-            <meta name="author" content="Edgar Lindo" />
+          <meta
+            name="facebook-domain-verification"
+            content="fzctnjbrtlybvytmamk8glkng9af7p"
+          />
+          <title>TU-Technical Union | Prueba de bomba hidráulica</title>
+          <meta
+            name="description"
+            content="Aprenda como se hace una prueba de bomba hidráulica de presión compensada"
+          />
+          <meta name="keywords" content="bomba hidraulica" />
+          <meta name="author" content="Edgar Lindo" />
 
-            {/* Open Graph */}
+          {/* Open Graph */}
 
-            <meta
-              property="og:title"
-              content=" Prueba de bomba hidráulica"
-              id="meta-og-title"
-            />
-            <meta
-              property="og:description"
-              content="Aprenda como se hace una prueba de bomba hidráulica de presión compensada"
-              id="meta-og-desc"
-            />
-            <meta
-              property="og:url"
-              content="https://www.tu.biz"
-              id="meta-og-url"
-            />
-            <meta property="og:locale" content="es" />
-            <meta property="site_name" content="TU-Technical Union" />
-            <meta
-              name="image"
-              property="og:image"
-              content="https://wwww.tu.biz//blog-images-spanish/prueba-de-bomba-hidraulica-de-presion-compensada.png"
-              id="meta-og-image"
-            />
+          <meta
+            property="og:title"
+            content=" Prueba de bomba hidráulica"
+            id="meta-og-title"
+          />
+          <meta
+            property="og:description"
+            content="Aprenda como se hace una prueba de bomba hidráulica de presión compensada"
+            id="meta-og-desc"
+          />
+          <meta
+            property="og:url"
+            content="https://www.tu.biz"
+            id="meta-og-url"
+          />
+          <meta property="og:locale" content="es" />
+          <meta property="site_name" content="TU-Technical Union" />
+          <meta
+            name="image"
+            property="og:image"
+            content="https://wwww.tu.biz//blog-images-spanish/prueba-de-bomba-hidraulica-de-presion-compensada.png"
+            id="meta-og-image"
+          />
 
-            {/* Twitter card */}
+          {/* Twitter card */}
 
-            <meta name="twitter:card" content="summary_large_image" />
-            <meta name="twitter:creator" content="@MrEdgarLindo" />
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:creator" content="@MrEdgarLindo" />
 
-            <meta
-              name="twitter:title"
-              content=" Prueba de bomba hidráulica de presión compensada "
-            />
+          <meta
+            name="twitter:title"
+            content=" Prueba de bomba hidráulica de presión compensada "
+          />
 
-            <meta
-              name="twitter:description"
-              content="Aprenda como hacer una prueba para bomba hidráulica de presión compensada"
-            />
-            <meta
-              name="twitter:image"
-              content="https://www.tu.biz/blog-images-spanish/prueba-de-bomba-hidraulica-de-presion-compensada.png"
-            />
-          </div>
+          <meta
+            name="twitter:description"
+            content="Aprenda como hacer una prueba para bomba hidráulica de presión compensada"
+          />
+          <meta
+            name="twitter:image"
+            content="https://www.tu.biz/blog-images-spanish/prueba-de-bomba-hidraulica-de-presion-compensada.png"
+          />
         </Head>
       </div>
       <Blogger2

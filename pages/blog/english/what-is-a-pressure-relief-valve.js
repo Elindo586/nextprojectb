@@ -9,76 +9,71 @@ const Post1 = () => {
     <div>
       <div>
         <Head>
-          <div>
-            {/* Main */}
-            <meta charset="UTF-8" />
-            <meta
-              name="viewport"
-              content="width=device-width, initial-scale=1"
-            />
-            <link
-              rel="shortcut icon"
-              type="image/png"
-              href="/images/tu-favicon.png"
-            />
+          {/* Main */}
+          <meta charset="UTF-8" />
+          <meta name="viewport" content="width=device-width, initial-scale=1" />
+          <link
+            rel="shortcut icon"
+            type="image/png"
+            href="/images/tu-favicon.png"
+          />
 
-            <meta
-              name="facebook-domain-verification"
-              content="fzctnjbrtlybvytmamk8glkng9af7p"
-            />
-            <title>TU-Technical Union | Relief Valve</title>
-            <meta
-              name="description"
-              content="Understanding a pressure relief valve, uses, requirements, and why it is important in the hydraulic system. "
-            />
-            <meta name="keywords" content=" relief valve" />
-            <meta name="author" content="Edgar Lindo" />
+          <meta
+            name="facebook-domain-verification"
+            content="fzctnjbrtlybvytmamk8glkng9af7p"
+          />
+          <title>TU-Technical Union | Relief Valve</title>
+          <meta
+            name="description"
+            content="Understanding a pressure relief valve, uses, requirements, and why it is important in the hydraulic system. "
+          />
+          <meta name="keywords" content=" relief valve" />
+          <meta name="author" content="Edgar Lindo" />
 
-            {/* Open Graph tags */}
+          {/* Open Graph tags */}
 
-            <meta
-              property="og:title"
-              content=" Hydraulic relief valve"
-              id="meta-og-title"
-            />
-            <meta
-              property="og:description"
-              content="Understanding why is important to use a hydraulic relief valve for your hydraulic machinery"
-              id="meta-og-desc"
-            />
-            <meta
-              property="og:url"
-              content="https://www.tu.biz"
-              id="meta-og-url"
-            />
-            <meta property="og:locale" content="en" />
-            <meta property="site_name" content="TU-Technical Union" />
-            <meta
-              name="image"
-              property="og:image"
-              content="https://wwww.tu.biz//blog-images-english/pressure-relief-valve.png"
-              id="meta-og-image"
-            />
+          <meta
+            property="og:title"
+            content=" Hydraulic relief valve"
+            id="meta-og-title"
+          />
+          <meta
+            property="og:description"
+            content="Understanding why is important to use a hydraulic relief valve for your hydraulic machinery"
+            id="meta-og-desc"
+          />
+          <meta
+            property="og:url"
+            content="https://www.tu.biz"
+            id="meta-og-url"
+          />
+          <meta property="og:locale" content="en" />
+          <meta property="site_name" content="TU-Technical Union" />
+          <meta
+            name="image"
+            property="og:image"
+            content="https://wwww.tu.biz//blog-images-english/pressure-relief-valve.png"
+            id="meta-og-image"
+          />
 
-            {/* Twitter card */}
+          {/* Twitter card */}
 
-            <meta name="twitter:card" content="summary_large_image" />
-            <meta name="twitter:creator" content="@MrEdgarLindo" />
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:creator" content="@MrEdgarLindo" />
 
-            <meta
-              name="twitter:title"
-              content=" What is a hydraulic relief valve? "
-            />
+          <meta
+            name="twitter:title"
+            content=" What is a hydraulic relief valve? "
+          />
 
-            <meta
-              name="twitter:description"
-              content="Understanding how a hydraulic relief valve work, and why it is important to use a relief valve in a hydraulic system."
-            />
-            <meta
-              name="twitter:image"
-              content="https://www.tu.biz/blog-images-english/pressure-relief-valve.png"
-            />
-          </div>
+          <meta
+            name="twitter:description"
+            content="Understanding how a hydraulic relief valve work, and why it is important to use a relief valve in a hydraulic system."
+          />
+          <meta
+            name="twitter:image"
+            content="https://www.tu.biz/blog-images-english/pressure-relief-valve.png"
+          />
         </Head>
       </div>
       <Blogger1
