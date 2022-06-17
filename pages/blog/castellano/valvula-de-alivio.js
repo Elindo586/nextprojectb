@@ -82,7 +82,7 @@ const Post3 = () => {
             allowFullScreen
           ></iframe>
         }
-        previous=""
+        previous="/blog/castellano/valvula-de-alivio"
         next="/blog/castellano/prueba-de-bomba-hidraulica-de-presion-compensada"
         description="La válvula de alivio hidráulica es utilizada para limitar la presión del sistema hidráulico. Con mayor presión de trabajo se puede levantar una caraga mas pesada. "
       />

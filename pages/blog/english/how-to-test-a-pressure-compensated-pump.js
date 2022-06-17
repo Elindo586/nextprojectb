@@ -27,7 +27,7 @@ const Post2 = () => {
           ></iframe>
         }
         previous="/blog/english/what-is-a-pressure-relief-valve"
-        next=""
+        next="/blog/english/how-to-test-a-pressure-compensated-pump"
         description="These are directions on how to test a pressure compensated pump."
       />
     </div>
