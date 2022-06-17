@@ -13,28 +13,29 @@ function Blogger1(props) {
           <div className="text-center"> {props.body} </div>
 
           <div className="col-md-12 centering-btn">
-            <Link href={props.previous}>
-              <a
-                className="btn btn-info d-flex justify-content-center"
-                target="blank"
-              >
-                Previous
-              </a>
-            </Link>
-            <Link href={props.next}>
-              <a
-                className="btn btn-info d-flex justify-content-center"
-                target="blank"
-              >
-                Next
-              </a>
-            </Link>{" "}
+            {props.previous && (
+              <Link href={props.previous}>
+                <a
+                  className="btn btn-info d-flex justify-content-center"
+                  target="blank"
+                >
+                  Previous
+                </a>
+              </Link>
+            )}
+            {props.previous && (
+              <Link href={props.next}>
+                <a
+                  className="btn btn-info d-flex justify-content-center"
+                  target="blank"
+                >
+                  Next
+                </a>
+              </Link>
+            )}
           </div>
           <br />
-          <div className="">
-            {" "}
-            <p>{props.description} </p>{" "}
-          </div>
+          <div className=""> {props.description} </div>
         </div>
         <div className="col-md-3">
           {" "}

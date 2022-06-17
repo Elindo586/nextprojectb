@@ -16,22 +16,26 @@ function Blogger2(props) {
           </div>
 
           <div className="col-md-12 centering-btn">
-            <Link href={props.previous}>
-              <a
-                className="btn btn-info d-flex justify-content-center"
-                target="blank"
-              >
-                Previo
-              </a>
-            </Link>
-            <Link href={props.next}>
-              <a
-                className="btn btn-info d-flex justify-content-center"
-                target="blank"
-              >
-                Proximo
-              </a>
-            </Link>{" "}
+            {props.previous && (
+              <Link href={props.previous}>
+                <a
+                  className="btn btn-info d-flex justify-content-center"
+                  target="blank"
+                >
+                  Previo
+                </a>
+              </Link>
+            )}
+            {props.previous && (
+              <Link href={props.next}>
+                <a
+                  className="btn btn-info d-flex justify-content-center"
+                  target="blank"
+                >
+                  Proximo
+                </a>
+              </Link>
+            )}
           </div>
           <br />
           <div className="">
