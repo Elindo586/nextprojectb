@@ -2,7 +2,6 @@ import React from "react";
 import Image from "next/image";
 import Head from "next/head";
 import Link from "next/link";
-import Meta from "../../components/meta-data";
 import Blogger2 from "../../components/blog-post-spanish";
 
 const Post4 = () => {
