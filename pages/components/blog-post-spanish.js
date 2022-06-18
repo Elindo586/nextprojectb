@@ -31,7 +31,7 @@ function Blogger2(props) {
                   className="btn btn-info d-flex justify-content-center"
                   target=""
                 >
-                  Proximo
+                  Próximo
                 </a>
               </Link>
             )}
