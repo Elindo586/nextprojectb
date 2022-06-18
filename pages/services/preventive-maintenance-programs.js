@@ -43,7 +43,7 @@ const Preventive = () => {
           />
           <meta
             property="og:description"
-            content="Contact TU Technical Union | Services"
+            content="Preventive maintenance programs to keep your machinery running in optimal condition. Oil analysis, filtration, proper cooling, among other products and services. "
           />
           <meta
             property="og:image"
@@ -65,7 +65,7 @@ const Preventive = () => {
 
           <meta
             name="twitter:description"
-            content="Find preventive maintenance programs from TU Technical Union"
+            content="Find preventive maintenance programs from TU Technical Union to keep your machine running in optimal condition, less downtime and higher overall productivity."
           />
           <meta
             name="twitter:image"

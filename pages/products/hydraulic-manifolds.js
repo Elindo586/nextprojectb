@@ -26,7 +26,7 @@ const HydraulicManifolds = () => {
 
           <meta
             name="description"
-            content=" Find our hydraulic manifold catalog "
+            content=" Find our hydraulic manifold catalog. Everything from inventory for faster delivery times at competitive market pricing for your convenience. "
           />
           <meta name="keywords" content="hydraulic, manifolds,  " />
           <meta name="author" content="Edgar Lindo" />
@@ -42,7 +42,7 @@ const HydraulicManifolds = () => {
           />
           <meta
             property="og:description"
-            content="Find Hydraulic Manifolds from Technical Union"
+            content="Find Hydraulic Manifolds from Technical Union. Everything from inventory for faster delivery times at competitive market pricing for your convenience."
           />
           <meta
             property="og:image"
@@ -64,7 +64,7 @@ const HydraulicManifolds = () => {
 
           <meta
             name="twitter:description"
-            content="Find Hydraulic manifolds  from TU Technical Union"
+            content="Find Hydraulic manifolds  from TU Technical Union. Everything from inventory for faster delivery times at competitive market pricing for your convenience."
           />
           <meta
             name="twitter:image"

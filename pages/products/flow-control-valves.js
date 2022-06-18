@@ -28,7 +28,7 @@ const FlowControlValves = () => {
 
           <meta
             name="description"
-            content=" Catalog for Flow control valves and needle valves. "
+            content=" Catalog for Flow control valves and needle valves. Everything from inventory for faster delivery times. "
           />
           <meta
             name="keywords"
@@ -47,7 +47,7 @@ const FlowControlValves = () => {
           />
           <meta
             property="og:description"
-            content="Find Flow Control Valves from TU Technical Union"
+            content=" Catalog for Flow control valves and needle valves. Everything from inventory for faster delivery times."
           />
           <meta
             property="og:image"
@@ -70,7 +70,7 @@ const FlowControlValves = () => {
 
           <meta
             name="twitter:description"
-            content="Find Flow Control Valves from TU Technical Union"
+            content=" Catalog for Flow control valves and needle valves. Everything from inventory for faster delivery times."
           />
           <meta
             name="twitter:image"

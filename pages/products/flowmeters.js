@@ -26,7 +26,7 @@ const Flowmeters = () => {
 
           <meta
             name="description"
-            content=" Find our catalog for flowmeters "
+            content=" Find our catalog for flowmeters. Everything from inventory for faster delivery times at competitive market pricing for your convenience. "
           />
           <meta name="keywords" content=" flowmeters , hydraulic" />
           <meta name="author" content="Edgar Lindo" />
@@ -39,7 +39,7 @@ const Flowmeters = () => {
           <meta property="og:title" content=" Technical Union | Flowmeters" />
           <meta
             property="og:description"
-            content="Find flowmeters from Technical Union"
+            content="Find flowmeters from Technical Union. Everything from inventory for faster delivery times at competitive market pricing for your convenience."
           />
           <meta
             property="og:image"
@@ -61,7 +61,7 @@ const Flowmeters = () => {
 
           <meta
             name="twitter:description"
-            content="Find hydraulic flowmeters from Technical Union."
+            content="Find hydraulic flowmeters from Technical Union.Everything from inventory for faster delivery times at competitive market pricing for your convenience."
           />
           <meta
             name="twitter:image"

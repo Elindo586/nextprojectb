@@ -28,7 +28,7 @@ const DirectionalControlValves = () => {
 
           <meta
             name="description"
-            content=" Find our catalog for directional control valves for hydraulics "
+            content=" Find our catalog for directional control valves for hydraulics. Everything from inventory for faster delivery times. "
           />
           <meta name="keywords" content=" directional control valves" />
           <meta name="author" content="Edgar Lindo" />
@@ -44,7 +44,7 @@ const DirectionalControlValves = () => {
           />
           <meta
             property="og:description"
-            content="Find Directional Control Valves from TU Technical Union"
+            content="Find Directional Control Valves from TU Technical Union. Everything from inventory for faster delivery times"
           />
           <meta
             property="og:image"
@@ -67,7 +67,7 @@ const DirectionalControlValves = () => {
 
           <meta
             name="twitter:description"
-            content="Find Directional Control Valves from TU Technical Union"
+            content="Find Directional Control Valves from TU Technical Union. Everything from inventory for faster delivery times."
           />
           <meta
             name="twitter:image"

@@ -25,7 +25,10 @@ const GearPumps = () => {
 
           <title> TU - Technical Union | Gear Pumps </title>
 
-          <meta name="description" content=" Find our gear pump catalog " />
+          <meta
+            name="description"
+            content=" Find our gear pump catalog. Everything from inventory for faster delivery times at competitive market pricing for your convenience. "
+          />
           <meta name="keywords" content="gear pumps " />
           <meta name="author" content="Edgar Lindo" />
 
@@ -37,7 +40,7 @@ const GearPumps = () => {
           <meta property="og:title" content=" Technical Union | Gear Pumps" />
           <meta
             property="og:description"
-            content="Find Hydraulic gear pumps from Technical Union"
+            content="Find Hydraulic gear pumps from Technical Union. Everything from inventory for faster delivery times at competitive market pricing for your convenience."
           />
           <meta
             property="og:image"
@@ -60,7 +63,7 @@ const GearPumps = () => {
 
           <meta
             name="twitter:description"
-            content="Find hydraulic gear pumps from TU Technical Union"
+            content="Find hydraulic gear pumps from TU Technical Union. Everything from inventory for faster delivery times at competitive market pricing for your convenience."
           />
           <meta
             name="twitter:image"

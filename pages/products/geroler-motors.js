@@ -26,7 +26,7 @@ const GerolerMotor = () => {
 
           <meta
             name="description"
-            content=" Find our geroler hydraulic motor catalog"
+            content=" Find our geroler hydraulic motor catalog. Everything from inventory for faster delivery times at competitive market pricing for your convenience."
           />
           <meta name="keywords" content=" geroloer motorsS" />
           <meta name="author" content="Edgar Lindo" />
@@ -42,7 +42,7 @@ const GerolerMotor = () => {
           />
           <meta
             property="og:description"
-            content=" Hydraulic geroler motors from Technical Union"
+            content=" Hydraulic geroler motors from Technical Union. Everything from inventory for faster delivery times at competitive market pricing for your convenience."
           />
           <meta
             property="og:image"

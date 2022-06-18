@@ -45,7 +45,7 @@ const Laboratory = () => {
           />
           <meta
             property="og:description"
-            content="We provide tribology fluid analysis."
+            content="We provide tribology fluid analysis. Quick turn around of analysis samples for your convenience."
           />
           <meta
             property="og:image"
@@ -65,7 +65,7 @@ const Laboratory = () => {
 
           <meta
             name="twitter:description"
-            content="Find industrial fluid analysis from TU Technical Union"
+            content="Find industrial fluid analysis from TU Technical Union. Quick turn around of analysis samples for your convenience."
           />
           <meta
             name="twitter:image"

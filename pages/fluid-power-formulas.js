@@ -383,7 +383,7 @@ const Formulas = () => {
 
           <meta
             name="description"
-            content="Fluid Power calculator | PSI, Force, GPM, Speed, etc.. "
+            content="Fluid Power calculator | PSI, Force, GPM, Speed, etc.. fluid power calculation at your finger tips. "
           />
           <meta name="keywords" content="Fluid Power, Formulas, Calculator" />
           <meta name="author" content="Edgar Lindo" />
@@ -399,7 +399,7 @@ const Formulas = () => {
           />
           <meta
             property="og:description"
-            content="Interactive Fluid Power Formulas"
+            content="Interactive Fluid Power Formulas. Calculation of force, speed, pressure, etc, everything at your finger tips."
           />
           <meta
             property="og:image"
@@ -422,7 +422,7 @@ const Formulas = () => {
 
           <meta
             name="twitter:description"
-            content="TU - Fluid Power Formulas"
+            content="Calculation of force, pressure, speed, rpm, HP, everything you need in fluid power calculations at your finger tips."
           />
           <meta
             name="twitter:image"

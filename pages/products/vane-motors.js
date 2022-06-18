@@ -24,7 +24,7 @@ const VaneMotors = () => {
           <title>TU - Technical Union | Hydraulic Vane Motors </title>
           <meta
             name="description"
-            content=" Find our hydraulic vane motor catalog "
+            content=" Find our hydraulic vane motor catalog. Everything from inventory for faster delivery times at competitive market pricing for your convenience. "
           />
           <meta name="keywords" content="hydraulic, vane, motors " />
           <meta name="author" content="Edgar Lindo" />
@@ -53,7 +53,7 @@ const VaneMotors = () => {
           />
           <meta
             name="twitter:description"
-            content="Find Hydraulic Vane Motors  from TU Technical Union"
+            content="Find Hydraulic Vane Motors  from TU Technical Union. Everything from inventory for faster delivery times at competitive market pricing for your convenience."
           />
           <meta
             name="twitter:image"

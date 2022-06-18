@@ -44,7 +44,7 @@ const Home = () => {
           />
           <meta
             property="og:description"
-            content="Industrial Supplies | Exports from USA"
+            content="Industrial Supplies | Exports from USA | Hydraulics, Electrical, Mechanical, and more. Everything you need for your industrial machinery you can find it with us. "
             id="meta-og-desc"
           />
           <meta
@@ -67,7 +67,7 @@ const Home = () => {
 
           <meta
             name="twitter:description"
-            content="Industrial exporter from USA for hydraulics, pneumatics, electrical and mechanical components."
+            content="Industrial exporter from USA for hydraulics, pneumatics, electrical and mechanical components.  Everything you need to keep your industrial machinery running you can find it for exports from us. "
           />
           <meta
             name="twitter:image"

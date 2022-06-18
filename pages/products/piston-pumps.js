@@ -23,7 +23,7 @@ const PistonPumps = () => {
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
 
-          <title>TU - Technical Union | Products </title>
+          <title>TU - Technical Union | Piston Pumps </title>
           <meta
             name="description"
             content=" Find all of our industrial product supply. "
@@ -43,7 +43,10 @@ const PistonPumps = () => {
             property="og:title"
             content=" Technical Union | Hydraulic Piston Pumps"
           />
-          <meta property="og:description" content="Hydraulic Piston Pumps" />
+          <meta
+            property="og:description"
+            content="Hydraulic Piston Pumps. Everything from inventory for faster delivery times at competitive market pricing for your convenience."
+          />
           <meta
             property="og:image"
             content="https://www.tu.biz//oppictures/piston-pumps.png"
@@ -62,7 +65,7 @@ const PistonPumps = () => {
 
           <meta
             name="twitter:description"
-            content="Find Hydraulic Piston Pumps from TU Technical Union"
+            content="Find Hydraulic Piston Pumps from TU Technical Union. Everything from inventory for faster delivery times at competitive market pricing for your convenience."
           />
           <meta
             name="twitter:image"

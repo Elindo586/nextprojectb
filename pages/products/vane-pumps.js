@@ -26,7 +26,7 @@ const VanePumps = () => {
 
           <meta
             name="description"
-            content=" Find our hydraulic vane pump catalog "
+            content=" Find our hydraulic vane pump catalog. Everything from inventory for faster delivery times at competitive market pricing for your convenience. "
           />
           <meta name="keywords" content="vane, pumps " />
           <meta name="author" content="Edgar Lindo" />
@@ -39,7 +39,7 @@ const VanePumps = () => {
           <meta property="og:title" content=" Technical Union" />
           <meta
             property="og:description"
-            content=" Hydraulic vane pumps from Technical Union"
+            content=" Hydraulic vane pumps from Technical Union. Everything from inventory for faster delivery times at competitive market pricing for your convenience."
           />
           <meta
             property="og:image"

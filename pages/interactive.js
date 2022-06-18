@@ -184,7 +184,7 @@ const Interactive = () => {
 
           <meta
             name="description"
-            content="Interactive animation of a simple hydraulic circuit."
+            content="Interactive animation of a simple hydraulic circuit. Cylinder extends and retract in relation to your commands. Complete hydraulic circuit."
           />
           <meta
             name="keywords"
@@ -203,7 +203,7 @@ const Interactive = () => {
           />
           <meta
             property="og:description"
-            content="Simple hydraulic circuit animation"
+            content="Simple hydraulic circuit animation. Cylinder extends and retract according to your commands. Complete hydraulic schematic. "
           />
           <meta
             property="og:image"

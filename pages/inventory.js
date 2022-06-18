@@ -216,11 +216,11 @@ const Inventory = ({ db }) => {
 
           <meta
             name="description"
-            content="Large inventory of hydraulic components to replace Vickers, Parker, Rexroth, and Char-lynn"
+            content="Large inventory of hydraulic components to replace Vickers, Parker, Rexroth, and Char-lynn. Contact us with your requirements."
           />
           <meta
             name="keywords"
-            content="inventory, hdyraulics, rexroth, parker, char-lynn"
+            content="inventory, hydraulics, rexroth, parker, char-lynn"
           />
           <meta name="author" content="Edgar Lindo" />
 
@@ -232,7 +232,7 @@ const Inventory = ({ db }) => {
           <meta property="og:title" content=" Technical Union Inventory" />
           <meta
             property="og:description"
-            content="Large inventory to replace Vickers, Rexroth, Parker, and Char-lynn"
+            content="Large inventory to replace Vickers, Rexroth, Parker, and Char-lynn. Contact us with your requirements and we will find the items you need."
           />
           <meta
             property="og:image"
