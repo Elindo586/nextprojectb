@@ -10,8 +10,7 @@ function Blogger1(props) {
             {" "}
             <h3>{props.title}</h3> <br />
           </div>
-          <div className="text-center"> {props.body} </div>
-
+          <div className="ratio ratio-16x9"> {props.body} </div> <br />
           <div className="col-md-12 centering-btn">
             {props.previous && (
               <Link href={props.previous}>
