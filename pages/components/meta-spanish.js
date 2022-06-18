@@ -32,7 +32,7 @@ function MetaSpanish(props) {
       <meta
         name="image"
         property="og:image"
-        content="https://wwww.tu.biz//blog-images-spanish"
+        content="https://www.tu.biz//blog-images-spanish"
         id="meta-og-image"
       />
 

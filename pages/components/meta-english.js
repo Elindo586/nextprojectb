@@ -32,7 +32,7 @@ function MetaEnglish(props) {
       <meta
         name="image"
         property="og:image"
-        content="https://wwww.tu.biz//blog-images-english/"
+        content="https://www.tu.biz//blog-images-english/"
         id="meta-og-image"
       />
 

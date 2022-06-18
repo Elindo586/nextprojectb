@@ -52,7 +52,7 @@ const Post2 = () => {
           <meta
             name="image"
             property="og:image"
-            content="https://wwww.tu.biz//blog-images-english/pressure-comp-pump-test.png"
+            content="https://www.tu.biz//blog-images-english/pressure-comp-pump-test.png"
             id="meta-og-image"
           />
 

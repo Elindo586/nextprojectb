@@ -52,7 +52,7 @@ const Post4 = () => {
           <meta
             name="image"
             property="og:image"
-            content="https://wwww.tu.biz//blog-images-spanish/prueba-de-bomba-hidraulica-de-presion-compensada.png"
+            content="https://wwww.tu.biz//blog-images-spanish/prueba-bomba-hidraulica-presion-compensada.png"
             id="meta-og-image"
           />
 
@@ -72,7 +72,7 @@ const Post4 = () => {
           />
           <meta
             name="twitter:image"
-            content="https://www.tu.biz/blog-images-spanish/prueba-de-bomba-hidraulica-de-presion-compensada.png"
+            content="https://www.tu.biz/blog-images-spanish/prueba-bomba-hidraulica-presion-compensada.png"
           />
         </Head>
       </div>

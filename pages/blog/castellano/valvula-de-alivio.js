@@ -52,7 +52,7 @@ const Post3 = () => {
           <meta
             name="image"
             property="og:image"
-            content="https://wwww.tu.biz//blog-images-spanish/valvula-de-alivio.png"
+            content="https://www.tu.biz//blog-images-spanish/valvula-de-alivio.png"
             id="meta-og-image"
           />
 
