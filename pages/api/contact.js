@@ -1,17 +1,15 @@
 export default function handler(req, res) {
   let nodemailer = require("nodemailer");
   const transporter = nodemailer.createTransport({
-    port: 587,
-    host: "smtp.office365.com",
+    service: "Outlook365",
     auth: {
       user: process.env.EMAIL,
       pass: process.env.EPASSWORD,
     },
-    secure: true,
   });
 
   const mailData = {
-    from: process.env.EMAIL,
+    from: "info@tu.biz",
     to: "info@tu.biz",
     subject: `Message From ${req.body.firstName}`,
     text:

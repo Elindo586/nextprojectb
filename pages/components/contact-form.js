@@ -34,11 +34,11 @@ export default function ContactForm() {
       if (res.status === 200) {
         console.log("Response succeeded!");
         setSubmitted(true);
-        setFirstName("");
-        setCompany("");
-        setEmail("");
-        setCountry("");
-        setNotes("");
+        setFirstName();
+        setCompany();
+        setEmail();
+        setCountry();
+        setNotes();
       }
     });
   };
