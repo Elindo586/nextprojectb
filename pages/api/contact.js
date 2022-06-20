@@ -11,7 +11,7 @@ export default function handler(req, res) {
   const mailData = {
     from: "info@tu.biz",
     to: "info@tu.biz",
-    subject: `Message From ${req.body.firstName}`,
+    subject: "contact form",
     text:
       req.body.company +
       " | Sent from: " +

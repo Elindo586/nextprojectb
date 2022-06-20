@@ -1,6 +1,7 @@
 import React from "react";
 import Head from "next/head";
 import Link from "next/link";
+import ContactForm from "./components/contact-form";
 
 const Contact = () => {
   return (
@@ -78,103 +79,7 @@ const Contact = () => {
           </div>
         </div>
         <div className="row">
-          <div className="col-md-6 bg-light">
-            <h4 className="get-in-touch">Get in touch with us.</h4>
-            <form
-              className="contact-us-form"
-              action="https://formsubmit.co/info@tu.biz"
-              method="post"
-              encType="multipart/form-data"
-            >
-              <input
-                type="hidden"
-                name="_next"
-                // value="http://www.tu.biz/thankyou.html"
-              />
-
-              <label htmlFor="firstname" className="form-label">
-                * Name:{" "}
-              </label>
-              <input
-                className="form-control"
-                type="text"
-                id="firstname"
-                name="firstname"
-                placeholder=" Your Name"
-                required=""
-              />
-              <br />
-
-              <label htmlFor="company" className="form-label">
-                {" "}
-                Company:{" "}
-              </label>
-              <input
-                className="form-control"
-                type="text"
-                id="company"
-                name="company"
-                placeholder="Your company"
-              />
-              <br />
-
-              <label htmlFor="email" className="form-label">
-                {" "}
-                * E-mail:{" "}
-              </label>
-              <input
-                className="form-control"
-                type="email"
-                id="email"
-                name="email"
-                placeholder="Your E-mail"
-                required=""
-              />
-              <br />
-
-              <label htmlFor="country" className="form-label">
-                {" "}
-                * Country:{" "}
-              </label>
-              <input
-                className="form-control"
-                type="text"
-                id="country"
-                name="country"
-                placeholder="Your Country"
-                required=""
-              />
-              <br />
-
-              <label htmlFor="notes"> * Your Message: </label>
-
-              <textarea
-                className="form-control"
-                type="text"
-                id="notes"
-                name="notes"
-                placeholder="Include any additional information"
-                rows="5"
-                required=""
-              ></textarea>
-              <br />
-
-              <input
-                className="contact-your-message-input"
-                type="text"
-                name="_honey"
-              />
-              <br />
-              <Link href="/thankyou">
-                <input
-                  type="submit"
-                  name="submit"
-                  value="Submit"
-                  className="btn btn-primary"
-                />
-              </Link>
-            </form>
-          </div>
+          <ContactForm />
           <div className="col-md-6">
             <div className="row">
               <div className="col-3">
