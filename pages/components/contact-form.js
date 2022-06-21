@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import { useState } from "react";
+import { useRouter } from "next/router";
 
 export default function ContactForm() {
   const [firstName, setFirstName] = useState("");
@@ -9,9 +10,12 @@ export default function ContactForm() {
   const [country, setCountry] = useState("");
   const [notes, setNotes] = useState("");
   const [submitted, setSubmitted] = useState(false);
+  const router = useRouter();
+  const [route, setRoute] = useState();
 
   const handleSubmit = (e) => {
     e.preventDefault();
+
     console.log("Sending");
 
     let data = {
@@ -41,6 +45,7 @@ export default function ContactForm() {
         setNotes("");
       }
     });
+    router.push("/thankyou");
   };
 
   return (
@@ -141,17 +146,19 @@ export default function ContactForm() {
           name="_honey"
         />
         <br />
-        <Link href="/thankyou">
-          <input
-            type="submit"
-            name="submit"
-            value="submit"
-            className="btn btn-primary"
-            onClick={(e) => {
-              handleSubmit(e);
-            }}
-          />
-        </Link>
+
+        <input
+          type="submit"
+          name="submit"
+          value="submit"
+          className="btn btn-primary"
+          onClick={(e) => {
+            handleSubmit(e);
+            (r) => {
+              setRoute(r.target.value);
+            };
+          }}
+        />
       </form>
     </div>
   );
