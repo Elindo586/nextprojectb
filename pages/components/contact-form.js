@@ -11,7 +11,6 @@ export default function ContactForm() {
   const [notes, setNotes] = useState("");
   const [submitted, setSubmitted] = useState(false);
   const router = useRouter();
-  const [route, setRoute] = useState();
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -43,9 +42,9 @@ export default function ContactForm() {
         setEmail("");
         setCountry("");
         setNotes("");
+        router.replace("/thankyou");
       }
     });
-    router.push("/thankyou");
   };
 
   return (
@@ -154,9 +153,6 @@ export default function ContactForm() {
           className="btn btn-primary"
           onClick={(e) => {
             handleSubmit(e);
-            (r) => {
-              setRoute(r.target.value);
-            };
           }}
         />
       </form>
