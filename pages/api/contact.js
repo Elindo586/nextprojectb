@@ -1,4 +1,4 @@
-export default function handler(req, res) {
+export default async function stuff(req, res) {
   let nodemailer = require("nodemailer");
   const transporter = nodemailer.createTransport({
     service: "Outlook365",
@@ -6,6 +6,19 @@ export default function handler(req, res) {
       user: process.env.EMAIL,
       pass: process.env.EPASSWORD,
     },
+  });
+
+  await new Promise((resolve, reject) => {
+    // verify connection configuration
+    transporter.verify(function (error, success) {
+      if (error) {
+        console.log(error);
+        reject(error);
+      } else {
+        console.log("Server is ready to take our messages");
+        resolve(success);
+      }
+    });
   });
 
   const mailData = {
@@ -21,9 +34,11 @@ export default function handler(req, res) {
     html: `<div>${req.body.company}</div><div>Sent from: ${req.body.email}</div><div> ${req.body.country}</div> <div> ${req.body.notes}`,
   };
 
-  transporter.sendMail(mailData, function (err, info) {
-    if (err) console.log(err);
-    else console.log(info);
+  await new Promise((resolve, reject) => {
+    transporter.sendMail(mailData, function (err, info) {
+      if (err) console.log(err);
+      else console.log(info);
+    });
   });
 
   console.log(req.body);
