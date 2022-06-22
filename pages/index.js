@@ -50,7 +50,7 @@ const Home = () => {
           <meta
             name="image"
             property="og:image"
-            content="https://wwww.tu.biz//oppictures/Tubiz-contact.png"
+            content="https://www.tu.biz//oppictures/Tubiz-contact.png"
             id="meta-og-image"
           />
           <meta
