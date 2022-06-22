@@ -44,7 +44,7 @@ const Post1 = () => {
           />
           <meta
             property="og:url"
-            content="https://www.tu.biz"
+            content="https://www.tu.biz/what-is-a-pressure-relief-valve"
             id="meta-og-url"
           />
           <meta property="og:locale" content="en" />
@@ -52,7 +52,7 @@ const Post1 = () => {
           <meta
             name="image"
             property="og:image"
-            content="https://wwww.tu.biz//blog-images-english/pressure-relief-valve.png"
+            content="https://www.tu.biz//blog-images-english/pressure-relief-valve.png"
             id="meta-og-image"
           />
 

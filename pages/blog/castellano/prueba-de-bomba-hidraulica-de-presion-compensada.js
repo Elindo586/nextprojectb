@@ -44,7 +44,7 @@ const Post4 = () => {
           />
           <meta
             property="og:url"
-            content="https://www.tu.biz"
+            content="https://www.tu.biz/prueba-de-bomba-hidraulica-de-presion-compensada"
             id="meta-og-url"
           />
           <meta property="og:locale" content="es" />
@@ -52,7 +52,7 @@ const Post4 = () => {
           <meta
             name="image"
             property="og:image"
-            content="https://wwww.tu.biz//blog-images-spanish/prueba-bomba-hidraulica-presion-compensada.png"
+            content="https://www.tu.biz//blog-images-spanish/prueba-bomba-hidraulica-presion-compensada.png"
             id="meta-og-image"
           />
 

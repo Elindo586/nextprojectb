@@ -44,7 +44,7 @@ const Post3 = () => {
           />
           <meta
             property="og:url"
-            content="https://www.tu.biz"
+            content="https://www.tu.biz/valvula-de-alivio"
             id="meta-og-url"
           />
           <meta property="og:locale" content="es" />

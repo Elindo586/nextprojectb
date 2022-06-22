@@ -44,7 +44,7 @@ const Post2 = () => {
           />
           <meta
             property="og:url"
-            content="https://www.tu.biz"
+            content="https://www.tu.biz/how-to-test-a-pressure-compensated-pump"
             id="meta-og-url"
           />
           <meta property="og:locale" content="en" />
