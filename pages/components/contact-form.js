@@ -24,6 +24,7 @@ export default function ContactForm() {
       country,
       notes,
     };
+    router.replace("/thankyou");
 
     fetch("/api/contact", {
       method: "POST",
@@ -34,7 +35,7 @@ export default function ContactForm() {
       body: JSON.stringify(data),
     }).then((res) => {
       console.log("Response received");
-      router.replace("/thankyou");
+
       if (res.status === 200) {
         console.log("Response succeeded!");
         setSubmitted(true);
@@ -43,8 +44,6 @@ export default function ContactForm() {
         setEmail("");
         setCountry("");
         setNotes("");
-        // router.replace("/thankyou");
-        // res.redirect(307, "/thankyou");
       }
     });
   };
