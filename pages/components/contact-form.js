@@ -42,7 +42,7 @@ export default function ContactForm() {
         setEmail("");
         setCountry("");
         setNotes("");
-        // // router.replace("/thankyou");
+        // router.replace("/thankyou");
         // res.redirect(307, "/thankyou");
       }
     });

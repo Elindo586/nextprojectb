@@ -34,19 +34,15 @@ export default async function stuff(req, res) {
     html: `<div>${req.body.company}</div><div>Sent from: ${req.body.email}</div><div> ${req.body.country}</div> <div> ${req.body.notes}`,
   };
 
-  await new Promise((resolve, reject) => {
-    transporter.sendMail(mailData, function (err, info) {
-      if (err) console.log(err);
-      // else console.log(info);
+  try {
+    await new Promise((req, res) => {
+      transporter.sendMail(mailData, function (err, info) {
+        // if (err) console.log(err);
+        // // else console.log(info);
+      });
+      res.redirect(307, "/thankyou");
     });
-  });
-
-  await new Promise((req, res) => {
-    res.redirect(307, "/thankyou");
-  });
-
-  await new Promise((req, res) => {
-    console.log(req.body);
-    res.send("success");
-  });
+  } catch (err) {
+    res.status(500).send({ error: "failed to fetch data" });
+  }
 }
