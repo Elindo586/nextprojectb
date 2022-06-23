@@ -25,8 +25,6 @@ export default function ContactForm() {
       notes,
     };
 
-    router.replace("/thankyou");
-
     fetch("/api/contact", {
       method: "POST",
       headers: {
@@ -36,6 +34,7 @@ export default function ContactForm() {
       body: JSON.stringify(data),
     }).then((res) => {
       console.log("Response received");
+      router.replace("/thankyou");
       if (res.status === 200) {
         console.log("Response succeeded!");
         setSubmitted(true);
