@@ -37,10 +37,16 @@ export default async function stuff(req, res) {
   await new Promise((resolve, reject) => {
     transporter.sendMail(mailData, function (err, info) {
       if (err) console.log(err);
-      else console.log(info);
+      // else console.log(info);
     });
   });
 
-  console.log(req.body);
-  res.send("success");
+  await new Promise((req, res) => {
+    res.redirect(307, "/thankyou");
+  });
+
+  await new Promise((req, res) => {
+    console.log(req.body);
+    res.send("success");
+  });
 }
