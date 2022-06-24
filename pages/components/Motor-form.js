@@ -204,6 +204,7 @@ const MotorForm = () => {
           type="submit"
           name="submit"
           value="Submit"
+          className="btn btn-primary"
           onClick={(e) => {
             handleSubmit(e);
           }}

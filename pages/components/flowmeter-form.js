@@ -1,8 +1,68 @@
 import React from "react";
-import Image from "next/image";
-import Link from "next/link";
+import { useState } from "react";
+import { useRouter } from "next/router";
 
 const FlowmeterForm = () => {
+  const [gpm, setGpm] = useState("");
+  const [pressure, setPressure] = useState("");
+  const [fluid, setFluid] = useState("");
+  const [flowDirection, setFlowDirection] = useState("");
+  const [readingDirection, setReadingDirection] = useState("");
+
+  const [firstName, setFirstName] = useState("");
+  const [lastName, setLastName] = useState("");
+  const [company, setCompany] = useState("");
+  const [email, setEmail] = useState("");
+  const [notes, setNotes] = useState("");
+  const [submitted, setSubmitted] = useState(false);
+  const router = useRouter();
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+
+    console.log("Sending");
+
+    let data = {
+      firstName,
+      lastName,
+      company,
+      email,
+      notes,
+      gpm,
+      pressure,
+      fluid,
+      flowDirection,
+      readingDirection,
+    };
+    router.replace("/thankyou");
+
+    fetch("/api/back-flowmeter", {
+      method: "POST",
+      headers: {
+        Accept: "application/json, text/plain, */*",
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(data),
+    }).then((res) => {
+      console.log("Response received");
+
+      if (res.status === 200) {
+        console.log("Response succeeded!");
+        setSubmitted(true);
+        setFirstName("");
+        setLastName("");
+        setCompany("");
+        setEmail("");
+        setNotes("");
+        setGpm("");
+        setPressure("");
+        setFluid("");
+        setFlowDirection("");
+        setReadingDirection("");
+      }
+    });
+  };
+
   return (
     <div>
       <div className="col-md-12 bg-light">
@@ -14,27 +74,27 @@ const FlowmeterForm = () => {
 
         <h4 className="flowmeter-configurator">Flowmeter Quote Configurator</h4>
 
-        <form
-          action="https://formsubmit.co/info@tu.biz"
-          method="post"
-          encType="multipart/form-data"
-        >
+        <form>
           <h6>
             <u>Flowmeter info:</u>
           </h6>
           <label
             className="flowmeter-form-labels form-label-style"
-            htmlFor="torque"
+            htmlFor="gpm"
           >
             {" "}
             GPM:{" "}
           </label>
           <input
             type="number"
-            id="torque"
+            id="gpm"
             className="input-fields"
             placeholder="gpm"
+            name="gpm"
             required
+            onChange={(e) => {
+              setGpm(e.target.value);
+            }}
           />
           <br />
           <label
@@ -51,48 +111,99 @@ const FlowmeterForm = () => {
             name="pressure"
             placeholder="Max Cont. pressure"
             required
+            onChange={(e) => {
+              setPressure(e.target.value);
+            }}
           />{" "}
           <br />
-          <label className="flowmeter-form-labels" htmlFor="rpm">
+          <label className="flowmeter-form-labels" htmlFor="fluid">
             Type of fluid{" "}
           </label>
-          <input placeholder="Fluid used" required />
+          <input
+            type="string"
+            placeholder="Fluid used"
+            name="fluid"
+            required
+            onChange={(e) => {
+              setFluid(e.target.value);
+            }}
+          />
           <br /> <br />
           <h6>* Flow Direction Options</h6>
-          <input type="radio" name="flow-direction" defaultChecked />
-          <label> Uni-directional </label> &nbsp;
-          <input type="radio" name="flow-direction" />
-          <label> Bi-directional </label>
+          <input
+            type="radio"
+            name="flowDirection"
+            value="Uni Directional"
+            id="flowUnidirectional"
+            defaultChecked
+            onChange={(e) => {
+              setFlowDirection(e.target.value);
+            }}
+          />
+          <label htmlFor="flowUniDirectional"> Uni-directional </label> &nbsp;
+          <input
+            type="radio"
+            name="flowDirection"
+            value="Bi Directional"
+            id="flowBiDirectional"
+            onChange={(e) => {
+              setFlowDirection(e.target.value);
+            }}
+          />
+          <label htmlFor="flowBiDirectional"> Bi-directional </label>
           <br /> <br />
           <h6>* Flow Reading Options</h6>
-          <input type="radio" name="reading-direction" defaultChecked />
-          <label> Uni-directional</label> &nbsp;
-          <input type="radio" name="reading-direction" />
-          <label> Bi-directional </label>
+          <input
+            type="radio"
+            name="readingDirection"
+            id="readingUniDirectional"
+            defaultChecked
+            value="Uni Directional"
+            onChange={(e) => {
+              setReadingDirection(e.target.value);
+            }}
+          />
+          <label htmlFor="readingUniDirectional"> Uni-directional</label> &nbsp;
+          <input
+            type="radio"
+            name="readingDirection"
+            id="readingBiDirectional"
+            value="Bi Directional"
+            onChange={(e) => {
+              setReadingDirection(e.target.value);
+            }}
+          />
+          <label htmlFor="readingBiDirectional"> Bi-directional </label>
           <br />
           <br />
-          <label className="flowmeter-labels-final" htmlFor="firstname">
+          <label className="flowmeter-labels-final" htmlFor="firstName">
             * First Name:{" "}
           </label>
           <input
             type="text"
-            id="firstname"
+            id="firstName"
             className="input-fields"
-            name="firstname"
+            name="firstName"
             placeholder=" First Name"
             required
+            onChange={(e) => {
+              setFirstName(e.target.value);
+            }}
           />{" "}
           <br />
-          <label className="flowmeter-labels-final" htmlFor="lastname">
+          <label className="flowmeter-labels-final" htmlFor="lastName">
             * Last Name:{" "}
           </label>
           <input
             type="text"
-            id="lastname"
+            id="lastName"
             className="input-fields"
-            name="firstname"
+            name="firstName"
             placeholder="Last Name"
             required
+            onChange={(e) => {
+              setLastName(e.target.value);
+            }}
           />{" "}
           <br />
           <label className="flowmeter-labels-final" htmlFor="company">
@@ -104,6 +215,9 @@ const FlowmeterForm = () => {
             className="input-fields"
             name="company"
             placeholder="Your company"
+            onChange={(e) => {
+              setCompany(e.target.value);
+            }}
           />{" "}
           <br />
           <label className="flowmeter-labels-final" htmlFor="email">
@@ -117,6 +231,9 @@ const FlowmeterForm = () => {
             name="email"
             placeholder="Your E-mail"
             required
+            onChange={(e) => {
+              setEmail(e.target.value);
+            }}
           />{" "}
           <br />
           <label className="form-display-block" htmlFor="notes">
@@ -129,12 +246,21 @@ const FlowmeterForm = () => {
             id="notes"
             name="notes"
             placeholder="Include any additional information"
+            onChange={(e) => {
+              setNotes(e.target.value);
+            }}
           />{" "}
           <br />
           <input className="form-display-none" type="text" name="_honey" />
-          <Link href="/thankyou">
-            <input type="submit" name="submit" value="Submit" />
-          </Link>
+          <input
+            type="submit"
+            name="submit"
+            value="Submit"
+            className="btn btn-primary"
+            onClick={(e) => {
+              handleSubmit(e);
+            }}
+          />
         </form>
       </div>
     </div>
