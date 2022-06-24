@@ -45,7 +45,6 @@ const PumpForm = () => {
   const [lastName, setLastName] = useState("");
   const [company, setCompany] = useState("");
   const [email, setEmail] = useState("");
-  const [country, setCountry] = useState("");
   const [notes, setNotes] = useState("");
   const [submitted, setSubmitted] = useState(false);
   const router = useRouter();
@@ -71,7 +70,6 @@ const PumpForm = () => {
       lastName,
       company,
       email,
-      country,
       notes,
     };
     router.replace("/thankyou");
@@ -104,7 +102,6 @@ const PumpForm = () => {
         setLastName("");
         setCompany("");
         setEmail("");
-        setCountry("");
         setNotes("");
       }
     });
