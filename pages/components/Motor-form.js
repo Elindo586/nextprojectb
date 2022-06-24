@@ -1,8 +1,62 @@
 import React from "react";
-import Image from "next/image";
-import Link from "next/link";
+import { useState } from "react";
+import { useRouter } from "next/router";
 
 const MotorForm = () => {
+  const [torque, setTorque] = useState("");
+  const [pressure, setPressure] = useState("");
+  const [rpm, setRpm] = useState("");
+
+  const [firstName, setFirstName] = useState("");
+  const [lastName, setLastName] = useState("");
+  const [company, setCompany] = useState("");
+  const [email, setEmail] = useState("");
+  const [notes, setNotes] = useState("");
+  const [submitted, setSubmitted] = useState(false);
+  const router = useRouter();
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+
+    console.log("Sending");
+
+    let data = {
+      firstName,
+      lastName,
+      company,
+      email,
+      notes,
+      torque,
+      pressure,
+      rpm,
+    };
+    router.replace("/thankyou");
+
+    fetch("/api/back-motor", {
+      method: "POST",
+      headers: {
+        Accept: "application/json, text/plain, */*",
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(data),
+    }).then((res) => {
+      console.log("Response received");
+
+      if (res.status === 200) {
+        console.log("Response succeeded!");
+        setSubmitted(true);
+        setFirstName("");
+        setLastName("");
+        setCompany("");
+        setEmail("");
+        setNotes("");
+        setTorque("");
+        setPressure("");
+        setRpm("");
+      }
+    });
+  };
+
   return (
     <div className="col-md-12 bg-light">
       <p>
@@ -15,11 +69,7 @@ const MotorForm = () => {
         Hydraulic Motor Quote Configurator
       </h4>
 
-      <form
-        action="https://formsubmit.co/info@tu.biz"
-        method="post"
-        encType="multipart/form-data"
-      >
+      <form>
         <h6>
           <u>Hydraulic Motor info:</u>
         </h6>
@@ -31,9 +81,12 @@ const MotorForm = () => {
           type="number"
           id="torque"
           className="input-fields"
-          name="gpmPump1"
+          name="torque"
           placeholder="Torque required"
           required
+          onChange={(e) => {
+            setTorque(e.target.value);
+          }}
         />
         <br />
         {/* style="display:inline-block" ADD TO CSS FOR ELEMENT BELOW */}
@@ -51,6 +104,9 @@ const MotorForm = () => {
           name="pressure"
           placeholder="Max Cont. pressure"
           required
+          onChange={(e) => {
+            setPressure(e.target.value);
+          }}
         />{" "}
         <br />
         <label className="motor-form-labels" htmlFor="rpm">
@@ -63,6 +119,9 @@ const MotorForm = () => {
           name="rpm"
           placeholder="Max Cont. RPM"
           required
+          onChange={(e) => {
+            setRpm(e.target.value);
+          }}
         />
         <br /> <br />
         <label className="motor-labels-final" htmlFor="firstname">
@@ -70,11 +129,14 @@ const MotorForm = () => {
         </label>
         <input
           type="text"
-          id="firstname"
+          id="firstName"
           className="input-fields"
-          name="firstname"
+          name="firstName"
           placeholder=" First Name"
           required
+          onChange={(e) => {
+            setFirstName(e.target.value);
+          }}
         />{" "}
         <br />
         <label className="motor-labels-final" htmlFor="lastname">
@@ -82,11 +144,14 @@ const MotorForm = () => {
         </label>
         <input
           type="text"
-          id="lastname"
+          id="lastName"
           className="input-fields"
-          name="firstname"
+          name="firstName"
           placeholder="Last Name"
           required
+          onChange={(e) => {
+            setLastName(e.target.value);
+          }}
         />{" "}
         <br />
         <label className="motor-labels-final" htmlFor="company">
@@ -98,6 +163,9 @@ const MotorForm = () => {
           className="input-fields"
           name="company"
           placeholder="Your company"
+          onChange={(e) => {
+            setCompany(e.target.value);
+          }}
         />{" "}
         <br />
         <label className="motor-labels-final" htmlFor="email">
@@ -111,6 +179,9 @@ const MotorForm = () => {
           name="email"
           placeholder="Your E-mail"
           required
+          onChange={(e) => {
+            setEmail(e.target.value);
+          }}
         />{" "}
         <br />
         <label className="form-display-block" htmlFor="notes">
@@ -123,12 +194,20 @@ const MotorForm = () => {
           id="notes"
           name="notes"
           placeholder="Include any additional information"
+          onChange={(e) => {
+            setNotes(e.target.value);
+          }}
         />{" "}
         <br />
         <input className="form-display-none" type="text" name="_honey" />
-        <Link href="/thankyou">
-          <input type="submit" name="submit" value="Submit" />
-        </Link>
+        <input
+          type="submit"
+          name="submit"
+          value="Submit"
+          onClick={(e) => {
+            handleSubmit(e);
+          }}
+        />
       </form>
     </div>
   );
