@@ -28,6 +28,7 @@ export default async function stuff(req, res) {
     text:
       req.body.company +
       " | Sent from: " +
+      req.body.firstName +
       req.body.email +
       req.body.country +
       req.body.notes,
