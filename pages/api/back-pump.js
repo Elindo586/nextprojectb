@@ -48,15 +48,15 @@ export default async function BackPump(req, res) {
     <div> Name: ${req.body.firstName}</div>
     <div> Last name: ${req.body.lastName}</div> 
     <div> Email: ${req.body.email}</div>
-    <div> Notes: ${req.body.notes}</div>
+    <div> Notes: ${req.body.notes}</div> <div> </br>
     <div> Pump type: ${req.body.pumpSelect}</div>
     <div> Pump 1 flow: ${req.body.gpmPump1}</div>
     <div> Pump 1 pressure: ${req.body.pressure}</div>
     <div> Pump 1 RPM: ${req.body.rpm}</div>
-    <div> Pump 1 control:  ${req.body.p1type}</div>
+    <div> Pump 1 control:  ${req.body.p1type}</div> </br>
     <div> Pump 2 flow: ${req.body.gpmPump2}</div>
     <div> Pump 2 pressure: ${req.body.pressure2}</div>
-    <div> Pump 2 control: ${req.body.p2type}</div>
+    <div> Pump 2 control: ${req.body.p2type}</div> <div> </br>
     <div> Pump 3 flow: ${req.body.gpmPump3}</div>
     <div> Pump 3 pressure: ${req.body.pressure3}</div>
     <div> Pump 3 control: ${req.body.p3type}</div>`,

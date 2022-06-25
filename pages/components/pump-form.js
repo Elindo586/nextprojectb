@@ -29,17 +29,17 @@ const PumpForm = () => {
     }
   }
 
-  const [pumpSelect, setPumpSelect] = useState("");
+  const [pumpSelect, setPumpSelect] = useState("single-pump");
   const [gpmPump1, setGpmPump1] = useState("");
   const [pressure, setPressure] = useState("");
   const [rpm, setRpm] = useState("");
-  const [p1type, setP1type] = useState("");
+  const [p1type, setP1type] = useState("no-control");
   const [gpmPump2, setGpmPump2] = useState("");
   const [pressure2, setPressure2] = useState("");
-  const [p2type, setP2type] = useState("");
+  const [p2type, setP2type] = useState("no-control");
   const [gpmPump3, setGpmPump3] = useState("");
   const [pressure3, setPressure3] = useState("");
-  const [p3type, setP3type] = useState("");
+  const [p3type, setP3type] = useState("no-control");
 
   const [firstName, setFirstName] = useState("");
   const [lastName, setLastName] = useState("");
@@ -133,9 +133,9 @@ const PumpForm = () => {
             type="radio"
             name="pumpSelect"
             id="pump1"
-            value="singlePump"
+            value="single-pump"
             onClick={singlePumpf}
-            defaultChecked
+            checked={pumpSelect === "single-pump"}
             onChange={(e) => {
               setPumpSelect(e.target.value);
             }}
@@ -147,7 +147,8 @@ const PumpForm = () => {
             type="radio"
             name="pumpSelect"
             id="pump2"
-            value="doublePump"
+            value="double-pump"
+            checked={pumpSelect === "double-pump"}
             onClick={doublePumpf}
             onChange={(e) => {
               setPumpSelect(e.target.value);
@@ -160,7 +161,8 @@ const PumpForm = () => {
             type="radio"
             name="pumpSelect"
             id="pump3"
-            value="Triplepump"
+            value="triple-pump"
+            checked={pumpSelect === "triple-pump"}
             onClick={triplePumpf}
             onChange={(e) => {
               setPumpSelect(e.target.value);
@@ -234,9 +236,9 @@ const PumpForm = () => {
               <input
                 type="radio"
                 name="p1type"
-                value="p1fixed"
-                id="p1fixedselect"
-                defaultChecked
+                value="no-control"
+                id="p1fixed"
+                checked={p1type === "no-control"}
                 onChange={(e) => {
                   setP1type(e.target.value);
                 }}
@@ -246,7 +248,9 @@ const PumpForm = () => {
               <input
                 type="radio"
                 name="p1type"
-                value="p1pressurecomp"
+                id="p1pressurecomp"
+                value="pressure-comp"
+                checked={p1type === "pressure-comp"}
                 onChange={(e) => {
                   setP1type(e.target.value);
                 }}
@@ -259,7 +263,9 @@ const PumpForm = () => {
               <input
                 type="radio"
                 name="p1type"
-                value="p1loadsensing"
+                id="p1loadsensing"
+                value="load-sensing"
+                checked={p1type === "load-sensing"}
                 onChange={(e) => {
                   setP1type(e.target.value);
                 }}
@@ -272,7 +278,9 @@ const PumpForm = () => {
               <input
                 type="radio"
                 name="p1type"
-                value="p1pressurecompwithremote"
+                id="p1pressurecompwithremote"
+                value="pressure-comp-remote"
+                checked={p1type === "pressure-comp-remote"}
                 onChange={(e) => {
                   setP1type(e.target.value);
                 }}
@@ -285,7 +293,9 @@ const PumpForm = () => {
               <input
                 type="radio"
                 name="p1type"
-                value="p1hplimiter"
+                id="p1hplimiter"
+                value="HP-limiter"
+                checked={p1type === "HP-limiter"}
                 onChange={(e) => {
                   setP1type(e.target.value);
                 }}
@@ -298,7 +308,9 @@ const PumpForm = () => {
               <input
                 type="radio"
                 name="p1type"
-                value="p1other"
+                id="p1other"
+                value="other"
+                checked={p1type === "other"}
                 onChange={(e) => {
                   setP1type(e.target.value);
                 }}
@@ -352,8 +364,9 @@ const PumpForm = () => {
               <input
                 type="radio"
                 name="p2type"
-                value="p2fixed"
-                defaultChecked
+                id="p2fixed"
+                value="no-control"
+                checked={p2type === "no-control"}
                 onChange={(e) => {
                   setP2type(e.target.value);
                 }}
@@ -363,7 +376,9 @@ const PumpForm = () => {
               <input
                 type="radio"
                 name="p2type"
-                value="p2pressurecomp"
+                id="p2pressurecomp"
+                value="pressure-comp"
+                checked={p2type === "pressure-comp"}
                 onChange={(e) => {
                   setP2type(e.target.value);
                 }}
@@ -376,7 +391,9 @@ const PumpForm = () => {
               <input
                 type="radio"
                 name="p2type"
-                value="p2loadsensing"
+                id="p2loadsensing"
+                value="load-sensing"
+                checked={p2type === "load-sensing"}
                 onChange={(e) => {
                   setP2type(e.target.value);
                 }}
@@ -389,7 +406,9 @@ const PumpForm = () => {
               <input
                 type="radio"
                 name="p2type"
-                value="p2pressurecompwithremote"
+                id="p2pressurecompwithremote"
+                value="pressure-comp-remote"
+                checked={p2type === "pressure-comp-remote"}
                 onChange={(e) => {
                   setP2type(e.target.value);
                 }}
@@ -402,7 +421,9 @@ const PumpForm = () => {
               <input
                 type="radio"
                 name="p2type"
-                value="p2hplimiter"
+                id="p2hplimiter"
+                value="HP-limiter"
+                checked={p2type === "HP-limiter"}
                 onChange={(e) => {
                   setP2type(e.target.value);
                 }}
@@ -415,7 +436,9 @@ const PumpForm = () => {
               <input
                 type="radio"
                 name="p2type"
-                value="p2other"
+                id="p2other"
+                value="other"
+                checked={p2type === "other"}
                 onChange={(e) => {
                   setP2type(e.target.value);
                 }}
@@ -469,7 +492,9 @@ const PumpForm = () => {
               <input
                 type="radio"
                 name="p3type"
-                value="p3fixed"
+                id="p3fixed"
+                value="no-control"
+                checked={p3type === "no-control"}
                 defaultChecked
                 onChange={(e) => {
                   setP3type(e.target.value);
@@ -480,7 +505,9 @@ const PumpForm = () => {
               <input
                 type="radio"
                 name="p3type"
-                value="p3pressurecomp"
+                id="p3pressurecomp"
+                value="pressure-comp"
+                checked={p3type === "pressure-comp"}
                 onChange={(e) => {
                   setP3type(e.target.value);
                 }}
@@ -493,7 +520,9 @@ const PumpForm = () => {
               <input
                 type="radio"
                 name="p3type"
-                value="p3loadsensing"
+                id="p3loadsensing"
+                value="load-sensing"
+                checked={p3type === "load-sensing"}
                 onChange={(e) => {
                   setP3type(e.target.value);
                 }}
@@ -506,7 +535,9 @@ const PumpForm = () => {
               <input
                 type="radio"
                 name="p3type"
-                value="p3pressurecompwithremote"
+                id="p3pressurecompwithremote"
+                value="pressure-comp-remote"
+                checked={p3type === "pressure-comp-remote"}
                 onChange={(e) => {
                   setP3type(e.target.value);
                 }}
@@ -519,7 +550,9 @@ const PumpForm = () => {
               <input
                 type="radio"
                 name="p3type"
-                value="p3hplimiter"
+                id="p3hplimiter"
+                value="HP-limiter"
+                checked={p3type === "HP-limiter"}
                 onChange={(e) => {
                   setP3type(e.target.value);
                 }}
@@ -532,7 +565,9 @@ const PumpForm = () => {
               <input
                 type="radio"
                 name="p3type"
-                value="p3other"
+                id="p3other"
+                value="other"
+                checked={p3type === "other"}
                 onChange={(e) => {
                   setP3type(e.target.value);
                 }}
