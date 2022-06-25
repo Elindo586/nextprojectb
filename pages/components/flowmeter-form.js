@@ -1,20 +1,24 @@
 import React from "react";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { useRouter } from "next/router";
 
 const FlowmeterForm = () => {
+  const [flowDirection, setFlowDirection] = useState("uni-directional-flow");
+  const [readingDirection, setReadingDirection] = useState(
+    "uni-directional-reading"
+  );
+  const [submitted, setSubmitted] = useState(false);
+
   const [gpm, setGpm] = useState("");
   const [pressure, setPressure] = useState("");
   const [fluid, setFluid] = useState("");
-  const [flowDirection, setFlowDirection] = useState("");
-  const [readingDirection, setReadingDirection] = useState("");
 
   const [firstName, setFirstName] = useState("");
   const [lastName, setLastName] = useState("");
   const [company, setCompany] = useState("");
   const [email, setEmail] = useState("");
   const [notes, setNotes] = useState("");
-  const [submitted, setSubmitted] = useState(false);
+
   const router = useRouter();
 
   const handleSubmit = (e) => {
@@ -49,6 +53,7 @@ const FlowmeterForm = () => {
       if (res.status === 200) {
         console.log("Response succeeded!");
         setSubmitted(true);
+
         setFirstName("");
         setLastName("");
         setCompany("");
@@ -133,9 +138,9 @@ const FlowmeterForm = () => {
           <input
             type="radio"
             name="flowDirection"
-            value="Uni Directional"
+            value="uni-directional-flow"
             id="flowUnidirectional"
-            defaultChecked
+            checked={flowDirection === "uni-directional-flow"}
             onChange={(e) => {
               setFlowDirection(e.target.value);
             }}
@@ -144,8 +149,9 @@ const FlowmeterForm = () => {
           <input
             type="radio"
             name="flowDirection"
-            value="Bi Directional"
+            value="bi-directional-flow"
             id="flowBiDirectional"
+            checked={flowDirection === "bi-directional-flow"}
             onChange={(e) => {
               setFlowDirection(e.target.value);
             }}
@@ -157,8 +163,8 @@ const FlowmeterForm = () => {
             type="radio"
             name="readingDirection"
             id="readingUniDirectional"
-            defaultChecked
-            value="Uni Directional"
+            value="uni-directional-reading"
+            checked={readingDirection === "uni-directional-reading"}
             onChange={(e) => {
               setReadingDirection(e.target.value);
             }}
@@ -168,7 +174,8 @@ const FlowmeterForm = () => {
             type="radio"
             name="readingDirection"
             id="readingBiDirectional"
-            value="Bi Directional"
+            value="bi-directional-reading"
+            checked={readingDirection === "bi-directional-reading"}
             onChange={(e) => {
               setReadingDirection(e.target.value);
             }}
