@@ -1,0 +1,1006 @@
+﻿{
+  "Sheet1": [
+    {
+      "Reference": "1354973",
+      "Description ": "H80L7/01P",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "1354979",
+      "Description ": "H80LF2",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "602046",
+      "Description ": "H80LF27/01P",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "B9511230597",
+      "Description ": "VPV 25/32 SEAL KIT",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "B9511230639",
+      "Description ": "VPV63 REPAIR KIT",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "B9511230658",
+      "Description ": "VPV45/63/80 SEAL KIT",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1354977RM",
+      "Description ": "H80HF2",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1354978RM",
+      "Description ": "H80L",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1354981RM",
+      "Description ": "H80MF2",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1649288RM",
+      "Description ": "PSVDSSO10HRM",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1653677RM",
+      "Description ": "PSVPSSF25ERD20",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R16542851RM",
+      "Description ": "PSVPSCF80GRM65",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1656872RM",
+      "Description ": "PSVPNRO40HRM12",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1671882RM",
+      "Description ": "PSVPSSF20HRM12",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1671962RM",
+      "Description ": "PSVPSSO20ERL11",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1672386RM",
+      "Description ": "PSVDNCO20HRM12",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1673448RM",
+      "Description ": "PSVPNCF80GLM62",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1673538RM",
+      "Description ": "PSVPNCO80GRM62",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1673749RM",
+      "Description ": "PSVPSCF80GRM50",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1673754RM",
+      "Description ": "PSVPSCF80GRM62",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1673826RM",
+      "Description ": "PSVPSCO80GRM62",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1725098RM",
+      "Description ": "PSVPNSF10HRM55",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R17251111RM",
+      "Description ": "PSVPNSF15ERM56",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R17252231RM",
+      "Description ": "PSVPSSF10HRM56",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1725223RM",
+      "Description ": "PSVPSSF10HRM52",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1725239RM",
+      "Description ": "PSVPSSF15ERM52",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1725303RM",
+      "Description ": "PSVPSSO15ERM52",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1726361RM",
+      "Description ": "PSQPSSF09ERM20",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1726522RM",
+      "Description ": "PSQPSCO09GRM20",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1726642RM",
+      "Description ": "PSQPSSF09ERM01",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1755751RM",
+      "Description ": "PSVPNCF40HRM62",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1755823RM",
+      "Description ": "PSVPNRF40HRM62",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1755854RM",
+      "Description ": "PSVPNRO40HRM50",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1865485RM",
+      "Description ": "PSVPNSF25ERM52",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1865486RM",
+      "Description ": "PSVPNSF25ERM56",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1865600RM",
+      "Description ": "PSVPNSO20HRB50",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1865610RM",
+      "Description ": "PSVPNSO20HRM51",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1865611RM",
+      "Description ": "PSVPNSO20HRM52",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R18657371RM",
+      "Description ": "PSVPSSF20ERM56",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1865774RM",
+      "Description ": "PSVPSSF20HRL50",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1865777RM",
+      "Description ": "PSVPSSF20HRM50",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1865779RM",
+      "Description ": "PSVPSSF20HRM52",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1865948RM",
+      "Description ": "PSVPSSO20HRM56",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1866089RM",
+      "Description ": "PSVPNCF20HRM50",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R18660911RM",
+      "Description ": "PSVPNCF20HRM56",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1866091RM",
+      "Description ": "PSVPNCF20HRM52",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1866092RM",
+      "Description ": "PSVPNCF20HRM55",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1866209RM",
+      "Description ": "PSVPNCO20HRM50",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1866239RM",
+      "Description ": "PSVPNCO25ERM50",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1866449RM",
+      "Description ": "PSVPSCO20HRM50",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1866451RM",
+      "Description ": "PSVPSCO20HRM52",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1866528RM",
+      "Description ": "PSVPNAF20HRM66",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1866625RM",
+      "Description ": "PSVPNCF20HRM62",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1866631RM",
+      "Description ": "PSVPNCF25ERM62",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1866815RM",
+      "Description ": "PSVPSCF20HRM60",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1866817RM",
+      "Description ": "PSVPSCF20HRM62",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1866839RM",
+      "Description ": "PSVPSCO20HRM60",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1887594RM",
+      "Description ": "PSVPSCF100ERM62",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1942817RM",
+      "Description ": "PSVPNAO15ERM60",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R19428851RM",
+      "Description ": "PSVPSAF10HRM66",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1942885RM",
+      "Description ": "PSVPSAF10HRM62",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R1963638RM",
+      "Description ": "PSVPNCF40HRM55",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R23164347RM",
+      "Description ": "PSMPSAO07CRJ35B1",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R307492",
+      "Description ": "H80 SEAL COLLAR",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R308138",
+      "Description ": "RING PVR 50  GPM",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R308730RM",
+      "Description ": "SV ADJUSTING KNOB",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R308769RM",
+      "Description ": "SV20/25 SHAFT THRU KEYED LONG",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R308903RM",
+      "Description ": "SV25 SPACER RING",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R350303",
+      "Description ": "H80 OIL SEAL SHAFT COLLAR HIGH PSI",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R4252RM",
+      "Description ": "PSVPSSF15ERM50",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R4557RM",
+      "Description ": "PSVSSCF40HRM63",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R457535",
+      "Description ": "SV COIL DUAL PSI COMP 110/115V AC",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R490175",
+      "Description ": "BEARING 80/H80",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R490287",
+      "Description ": "80 BEARING HEX",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R490534",
+      "Description ": "COIL",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R491889RM",
+      "Description ": "COIL DO2 -50 110/115",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R492394RM",
+      "Description ": "RETAINER",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R492395RM",
+      "Description ": "SPRING",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R492568",
+      "Description ": "GASKET VITON SV COMBO COVER",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R492706RM",
+      "Description ": "COIL 110/115 50/60    EPS",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R5925870RM",
+      "Description ": "PSVSNSF20HRM56",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R5926746RM",
+      "Description ": "PSVPSSF20HRM54",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R59267471RM",
+      "Description ": "PSVPSSF20HRM56",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R5928776RM",
+      "Description ": "PSVSSSF15ERM52",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R602044",
+      "Description ": "H80LF27/01P",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R69151361RM",
+      "Description ": "PSVPNCF100ERM65",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R6915147RM",
+      "Description ": "PSVSSCF80GRM63",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R6915217RM",
+      "Description ": "PSVSNCF80GRMC63110/115",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R6915333RM",
+      "Description ": "PSVPNRF40HRM66",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R691544RM",
+      "Description ": "PSVPNCF40HRM65",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R69258461RM",
+      "Description ": "PSVPNCF20HRM66",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R692894365RM",
+      "Description ": "PSVSNAF10HRM65",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R6928943RM",
+      "Description ": "PSVSNAF10HRM66 110/115 DIN",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R700027RM",
+      "Description ": "SV SECOND STAGE COMPENSATOR",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R700440RM",
+      "Description ": "FD4 DNKS 102S 52",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R720014",
+      "Description ": "H80 SEAL KIT",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R723255",
+      "Description ": "PSV20/25 SEAL KIT 12 DESIGN - BUNA",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R794426",
+      "Description ": "PSQ SEAL KIT 20 DESIGN VITON",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R926752RM",
+      "Description ": "PSQPSCF09ERM20",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R956113",
+      "Description ": "SV40/80 COMP 2 STAGE",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R956241RM",
+      "Description ": "SV COMP S/A 2 PRESSURE 110/115VAC",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R975224RM",
+      "Description ": "FF1SHPO04H",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R975549RM",
+      "Description ": "FF1SHSO10S",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R977588RM",
+      "Description ": "FF2DHSM03A",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R977834RM",
+      "Description ": "FE1SBADC02S",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R978051RM",
+      "Description ": "FF2EHSS06S01",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R978063RM",
+      "Description ": "FF2EHSS06E",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R978709407RM",
+      "Description ": "PSVPNCF80GRM65",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R978709518RM",
+      "Description ": "PSVPNAF10HRM66",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "308128",
+      "Description ": "SV20 RING",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "308330",
+      "Description ": "SV10 RING",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "308333",
+      "Description ": "SV10/15 SHAFT STANDARD",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "308419",
+      "Description ": "SV80 RING",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "308511",
+      "Description ": "SV40 RING",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "308513",
+      "Description ": "SV40 SHAFT SINGLE",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "308666",
+      "Description ": "SV15 RING",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "308675",
+      "Description ": "SV25 RING",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "308760",
+      "Description ": "SV20/25 SHAFT SINGLE MEDIUM KEY",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "308985",
+      "Description ": "SV10/15 SHAFT COMBO",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "308987",
+      "Description ": "SV40 SHAFT COMBO",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "308988",
+      "Description ": "SV80 SHAFT COMBO",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "723724",
+      "Description ": "SV20/25 SEAL KIT VITON 50-64 DESIGN",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "723726",
+      "Description ": "SV20/25 SEAL KIT BUNA 50-64 DESIGN",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "723731",
+      "Description ": "SV40 SEAL KIT VITON",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "723733",
+      "Description ": "SV80/100 SEAL KIT SNGL/COMBO VITON 60-65",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "778277",
+      "Description ": "SV10/15 VANE KIT",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "778279",
+      "Description ": "SV80/100 VANE KIT",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "778355",
+      "Description ": "SV10/15 BEARING S/A",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "778358",
+      "Description ": "SV10/15 SEAL KIT VITON",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "778364",
+      "Description ": "SV10/15 SEAL KIT THRU VITON",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794101",
+      "Description ": "SV80 REPAIR KIT MED KEY VITON",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794105",
+      "Description ": "SV100 REPAIR KIT MED KEY VITON",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794107",
+      "Description ": "SV10 REPAIR KIT MED KEY VITON",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794110",
+      "Description ": "SV15 REPAIR KIT MED KEY VITON",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794111",
+      "Description ": "SV15 REPAIR KIT DOUBLE SHAFT VITON",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794115",
+      "Description ": "SV20/25 SEAL KIT DOUBLE VITON",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794119",
+      "Description ": "SV80/100-50 SEAL KIT VITON",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794121",
+      "Description ": "SV40 REPAIR KIT SINGLE VITON",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794130",
+      "Description ": "SV20 REPAIR KIT SHORT SINGLE BUNA",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794131",
+      "Description ": "SV20 REPAIR KIT SHORT SINGLE VITON",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794132",
+      "Description ": "SV20 REPAIR KIT MEDIUM SINGLE BUNA",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794133",
+      "Description ": "SV20 REPAIR KIT MEDIUM SINGLE VITON",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794134",
+      "Description ": "SV20 REPAIR KIT LONG SGL NON-THRU BUNA",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794135",
+      "Description ": "SV20 REPAIR KIT LONG SINGLE VITON",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794139",
+      "Description ": "SV20 REPAIR KIT THRU VITON 'S' 50 DSN",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794140",
+      "Description ": "SV20 REPAIR KIT MEDIUM DOUBLE BUNA",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794141",
+      "Description ": "SV20 REPAIR KIT MEDIUM DOUBLE VITON",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794143",
+      "Description ": "SV20 REPAIR KIT THRU VITON 'L'",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794144",
+      "Description ": "SV25 REPAIR KIT MEDIUM SINGLE VITON",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794146",
+      "Description ": "SV25 REPAIR KIT MEDIUM DOUBLE VITON",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794147",
+      "Description ": "SV25 REPAIR KIT MEDIUM SINGLE VITON",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794149",
+      "Description ": "SV25 REPAIR KIT MEDIUM DOUBLE BUNA",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794395",
+      "Description ": "SV10 REPAIR KIT COMBO VITON",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794397",
+      "Description ": "SV15 REPAIR KIT COMBO VITON",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794398",
+      "Description ": "SV20 REPAIR KIT COMBO BUNA",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794399",
+      "Description ": "SV20 REPAIR KIT COMBO VITON",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794400",
+      "Description ": "SV25 REPAIR KIT COMBO BUNA",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794401",
+      "Description ": "SV25 REPAIR KIT COMBO VITON",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794403",
+      "Description ": "SV40 REPAIR KIT COMBO VITON",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794405",
+      "Description ": "SV80 REPAIR KIT COMBO VITON 62-66 DSN",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794449",
+      "Description ": "SV80 SHAFT SEAL UNIVERSAL",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794468",
+      "Description ": "SV20/25 SHAFT SEAL UNIVERSAL",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "794471",
+      "Description ": "SV40 SHAFT SEAL UNIVERSAL",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R222749RM",
+      "Description ": "SV80 PORT PLATE, RH COVER, LH BODY",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R222959RM",
+      "Description ": "SV80/100 COVER COMBO (-62)",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R302015",
+      "Description ": "SHAFT PVF/20(L)",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    },
+    {
+      "Reference": "R309204RM",
+      "Description ": "SHAFT PSQ SGL END",
+      "Replacements": "Bosch-Racine",
+      "undefined": "1"
+    }
+  ]
+}
