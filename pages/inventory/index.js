@@ -85,34 +85,34 @@ const Inventory2 = () => {
       <div className="col-md-12">
         <ul>
           <li>
-            <Link href="/invent/vickers">
+            <Link href="/inventory/vickers">
               <a className="inventory-list">Eaton-Vickers</a>
             </Link>
           </li>
           <li>
-            <Link href="/invent/vickers">
+            <Link href="/inventory/charlynn">
               <a className="inventory-list">Eaton-Charlynn</a>
             </Link>{" "}
           </li>
           <li>
             {" "}
-            <Link href="/invent/vickers">
+            <Link href="/inventory/rexroth">
               <a className="inventory-list">Bosch-Rexroth</a>
             </Link>
           </li>
           <li>
             {" "}
-            <Link href="/invent/vickers">
+            <Link href="/inventory/racine">
               <a className="inventory-list">Bosch-Racine</a>
             </Link>
           </li>
           <li>
-            <Link href="/invent/vickers">
+            <Link href="/inventory/parker">
               <a className="inventory-list">Parker</a>
             </Link>{" "}
           </li>
           <li>
-            <Link href="/invent/vickers">
+            <Link href="/inventory/denison">
               <a className="inventory-list">Parker Denison</a>
             </Link>{" "}
           </li>
