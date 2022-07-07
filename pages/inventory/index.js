@@ -85,7 +85,7 @@ const Inventory2 = () => {
       </div>
 
       <div className="col-md-12 ">
-        Alternative components to replace items such as:
+        Click below for alternative components to replace items such as:
         <br /> <br />
       </div>
       <div className="col-md-12 footer-margin">
