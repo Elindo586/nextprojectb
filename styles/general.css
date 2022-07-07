@@ -671,3 +671,12 @@
 .get-in-touch {
   padding-left: 1em;
 }
+
+.inventory-list {
+  color: black;
+  display: block;
+  text-decoration: none;
+}
+.inventory-list:hover {
+  color: #016698;
+}

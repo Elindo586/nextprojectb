@@ -4,7 +4,7 @@ import Head from "next/head";
 import Link from "next/link";
 import Pagination from "react-bootstrap/Pagination";
 
-import db from "../../utils/parts-parker.json";
+import db from "../../utils/parts-denison.json";
 
 export async function getStaticProps() {
   // await clientPromise;
@@ -23,7 +23,7 @@ export async function getStaticProps() {
 }
 // console.log({ db });
 
-const ParkerList = ({ db }) => {
+const DenisonList = ({ db }) => {
   const [isActive, setIsActive] = useState([]);
   const [isInventory, setIsInventory] = useState([]);
   const [savedParts, setSavedParts] = useState([]);
@@ -302,4 +302,4 @@ const ParkerList = ({ db }) => {
   );
 };
 
-export default ParkerList;
+export default DenisonList;

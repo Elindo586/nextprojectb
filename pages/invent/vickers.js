@@ -4,7 +4,7 @@ import Head from "next/head";
 import Link from "next/link";
 import Pagination from "react-bootstrap/Pagination";
 
-import db from "../../utils/parts-parker.json";
+import db from "../../utils/parts-vickers.json";
 
 export async function getStaticProps() {
   // await clientPromise;
@@ -23,7 +23,7 @@ export async function getStaticProps() {
 }
 // console.log({ db });
 
-const ParkerList = ({ db }) => {
+const VickersList = ({ db }) => {
   const [isActive, setIsActive] = useState([]);
   const [isInventory, setIsInventory] = useState([]);
   const [savedParts, setSavedParts] = useState([]);
@@ -42,7 +42,7 @@ const ParkerList = ({ db }) => {
   let pages;
 
   let itemStart = 0;
-  let itemEnd = 24;
+  let itemEnd = 100;
 
   useEffect(() => {
     partsList = db;
@@ -78,9 +78,9 @@ const ParkerList = ({ db }) => {
   const getPagination = () => {
     // get pages
     if (activeInventory.length > 0) {
-      pages = Math.ceil(activeInventory.length / 25);
+      pages = Math.ceil(activeInventory.length / 100);
     } else {
-      pages = Math.ceil(partsList.length / 25);
+      pages = Math.ceil(partsList.length / 100);
     }
 
     for (let i = 1; i <= pages; i++) {
@@ -99,14 +99,14 @@ const ParkerList = ({ db }) => {
     let pageId = document.activeElement.id;
 
     if (itemStart === 0) {
-      itemEnd = pageId * 25 - 1;
-      itemStart = pageId * 25 - 25;
+      itemEnd = pageId * 100 - 1;
+      itemStart = pageId * 100 - 100;
     }
 
     renderItems();
 
     itemStart = 0;
-    itemEnd = 24;
+    itemEnd = 99;
   };
 
   const renderItems = () => {
@@ -302,4 +302,4 @@ const ParkerList = ({ db }) => {
   );
 };
 
-export default ParkerList;
+export default VickersList;
