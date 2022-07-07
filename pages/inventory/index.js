@@ -77,12 +77,18 @@ const Inventory2 = () => {
         If you have any requirements on these components you can always{" "}
         <a href="./contact-us"> contact us </a> for a quote request.
       </div>
+      <div className="col-md-12">
+        <span>
+          {" "}
+          <h3>General Inventory Items</h3>
+        </span>
+      </div>
 
       <div className="col-md-12 ">
-        we offer alternative components to replace items such as:
+        Alternative components to replace items such as:
         <br /> <br />
       </div>
-      <div className="col-md-12">
+      <div className="col-md-12 footer-margin">
         <ul>
           <li>
             <Link href="/inventory/vickers">

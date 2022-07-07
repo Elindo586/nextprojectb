@@ -680,3 +680,6 @@
 .inventory-list:hover {
   color: #016698;
 }
+.footer-margin {
+  padding-bottom: 10em;
+}
