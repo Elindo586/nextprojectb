@@ -212,16 +212,16 @@ const CharlynnList = ({ db }) => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>TU- Technical Union | Hydraulic Inventory to replace Eaton - Charlynn. </title>
+          <title>
+            TU- Technical Union | Hydraulic Inventory to replace Eaton -
+            Charlynn.{" "}
+          </title>
 
           <meta
             name="description"
             content="Large inventory of hydraulic components to replace Eaton Charlynn hydraulic motors."
           />
-          <meta
-            name="keywords"
-            content="inventory, Eaton,  char-lynn"
-          />
+          <meta name="keywords" content="inventory, Eaton,  char-lynn" />
           <meta name="author" content="Edgar Lindo" />
 
           {/* OG tags */}
@@ -229,16 +229,24 @@ const CharlynnList = ({ db }) => {
           <meta property="og:locale" content="en" />
           <meta property="site_name" content="TU-Technical Union" />
 
-          <meta property="og:title" content=" Replacements for Eaton Charlynn hydraulic motors />
+          <meta
+            property="og:title"
+            content=" Replacements for Eaton Charlynn hydraulic motors"
+          />
+
           <meta
             property="og:description"
-            content="Large inventory to replace Eaton Charlynn hydraulic motors.  "
+            content="Large inventory to replace Eaton Charlynn hydraulic motors."
           />
+
           <meta
             property="og:image"
             content="https://www.tu.biz//oppictures/charlynn-replacement.png"
           />
-          <meta property="og:url" content="https://www.tu.biz/inventory/charlynn" />
+          <meta
+            property="og:url"
+            content="https://www.tu.biz/inventory/charlynn"
+          />
 
           {/* Twitter card */}
 
@@ -264,8 +272,9 @@ const CharlynnList = ({ db }) => {
         <span className=" invy-text">
           <p>
             Here is a quick overview of regular components coming from our
-            inventory to replace the Eaton Charlynn hydraulic motor units. If you have any requirements on these components you can
-            always <a href="./contact-us"> contact us </a> for a quote request.
+            inventory to replace the Eaton Charlynn hydraulic motor units. If
+            you have any requirements on these components you can always{" "}
+            <a href="./contact-us"> contact us </a> for a quote request.
           </p>
         </span>
       </div>
