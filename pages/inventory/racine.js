@@ -212,16 +212,13 @@ const RacineList = ({ db }) => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>TU- Technical Union | Hydraulic Inventory</title>
+          <title>TU- Technical Union | Racine hydraulic parts inventory</title>
 
           <meta
             name="description"
-            content="Large inventory of hydraulic components to replace Vickers, Parker, Rexroth, and Char-lynn. Contact us with your requirements."
+            content="Inventory to replace Racine hydraulic parts. Quick delivery of hydraulic components for your convenience."
           />
-          <meta
-            name="keywords"
-            content="inventory, hydraulics, rexroth, parker, char-lynn"
-          />
+          <meta name="keywords" content="inventory, hydraulics, racine, " />
           <meta name="author" content="Edgar Lindo" />
 
           {/* OG tags */}
@@ -229,16 +226,22 @@ const RacineList = ({ db }) => {
           <meta property="og:locale" content="en" />
           <meta property="site_name" content="TU-Technical Union" />
 
-          <meta property="og:title" content=" Technical Union Inventory" />
+          <meta
+            property="og:title"
+            content=" Racine hydraulic replacement components"
+          />
           <meta
             property="og:description"
-            content="Large inventory to replace Vickers, Rexroth, Parker, and Char-lynn. Contact us with your requirements and we will find the items you need."
+            content="This is a large inventory to replace Racine hydraulic parts. Quick delivery for your convenience."
           />
           <meta
             property="og:image"
-            content="https://www.tu.biz//oppictures/inventory.png"
+            content="https://www.tu.biz//oppictures/racine-replacement.png"
           />
-          <meta property="og:url" content="https://www.tu.biz/inventory" />
+          <meta
+            property="og:url"
+            content="https://www.tu.biz/inventor/racine"
+          />
 
           {/* Twitter card */}
 
@@ -247,16 +250,16 @@ const RacineList = ({ db }) => {
 
           <meta
             name="twitter:title"
-            content=" TU - Technical Union | Inventory"
+            content=" TU - Technical Union | Racine hydraulic parts replacements"
           />
 
           <meta
             name="twitter:description"
-            content="Large inventory for hydraulic pumps, motors, valves, everything for quick delivery."
+            content="Large inventory to replace Racine hydraulic components. Quick delivery for your convenience."
           />
           <meta
             name="twitter:image"
-            content="https://www.tu.biz/oppictures/inventory.png"
+            content="https://www.tu.biz/oppictures/racine-replacement.png"
           />
         </Head>
       </div>
@@ -264,8 +267,9 @@ const RacineList = ({ db }) => {
         <span className=" invy-text">
           <p>
             Here is a quick overview of regular components coming from our
-            inventory. If you have any requirements on these components you can
-            always <a href="./contact-us"> contact us </a> for a quote request.
+            inventory to replace Racine hydraulic components. If you have any
+            requirements on these components you can always{" "}
+            <a href="./contact-us"> contact us </a> for a quote request.
           </p>
         </span>
       </div>

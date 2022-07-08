@@ -212,15 +212,15 @@ const CharlynnList = ({ db }) => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>TU- Technical Union | Hydraulic Inventory</title>
+          <title>TU- Technical Union | Hydraulic Inventory to replace Eaton - Charlynn. </title>
 
           <meta
             name="description"
-            content="Large inventory of hydraulic components to replace Vickers, Parker, Rexroth, and Char-lynn. Contact us with your requirements."
+            content="Large inventory of hydraulic components to replace Eaton Charlynn hydraulic motors."
           />
           <meta
             name="keywords"
-            content="inventory, hydraulics, rexroth, parker, char-lynn"
+            content="inventory, Eaton,  char-lynn"
           />
           <meta name="author" content="Edgar Lindo" />
 
@@ -229,16 +229,16 @@ const CharlynnList = ({ db }) => {
           <meta property="og:locale" content="en" />
           <meta property="site_name" content="TU-Technical Union" />
 
-          <meta property="og:title" content=" Technical Union Inventory" />
+          <meta property="og:title" content=" Replacements for Eaton Charlynn hydraulic motors />
           <meta
             property="og:description"
-            content="Large inventory to replace Vickers, Rexroth, Parker, and Char-lynn. Contact us with your requirements and we will find the items you need."
+            content="Large inventory to replace Eaton Charlynn hydraulic motors.  "
           />
           <meta
             property="og:image"
-            content="https://www.tu.biz//oppictures/inventory.png"
+            content="https://www.tu.biz//oppictures/charlynn-replacement.png"
           />
-          <meta property="og:url" content="https://www.tu.biz/inventory" />
+          <meta property="og:url" content="https://www.tu.biz/inventory/charlynn" />
 
           {/* Twitter card */}
 
@@ -247,16 +247,16 @@ const CharlynnList = ({ db }) => {
 
           <meta
             name="twitter:title"
-            content=" TU - Technical Union | Inventory"
+            content=" TU - Technical Union | Charlynn replacement motors"
           />
 
           <meta
             name="twitter:description"
-            content="Large inventory for hydraulic pumps, motors, valves, everything for quick delivery."
+            content="This is a view of hydraulic motors to replace Eaton Charlynn hydraulic motors."
           />
           <meta
             name="twitter:image"
-            content="https://www.tu.biz/oppictures/inventory.png"
+            content="https://www.tu.biz/oppictures/charlynn-replacement.png"
           />
         </Head>
       </div>
@@ -264,7 +264,7 @@ const CharlynnList = ({ db }) => {
         <span className=" invy-text">
           <p>
             Here is a quick overview of regular components coming from our
-            inventory. If you have any requirements on these components you can
+            inventory to replace the Eaton Charlynn hydraulic motor units. If you have any requirements on these components you can
             always <a href="./contact-us"> contact us </a> for a quote request.
           </p>
         </span>

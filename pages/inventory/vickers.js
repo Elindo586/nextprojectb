@@ -212,15 +212,17 @@ const VickersList = ({ db }) => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>TU- Technical Union | Hydraulic Inventory</title>
+          <title>
+            TU- Technical Union | Alternative Vickers hydraulic parts.{" "}
+          </title>
 
           <meta
             name="description"
-            content="Large inventory of hydraulic components to replace Vickers, Parker, Rexroth, and Char-lynn. Contact us with your requirements."
+            content="Here is a view of our inventory to replace Eaton - Vickers hydraulic parts. Quick delivery for your convenience."
           />
           <meta
             name="keywords"
-            content="inventory, hydraulics, rexroth, parker, char-lynn"
+            content="inventory, hydraulics, eaton, vickers "
           />
           <meta name="author" content="Edgar Lindo" />
 
@@ -229,16 +231,22 @@ const VickersList = ({ db }) => {
           <meta property="og:locale" content="en" />
           <meta property="site_name" content="TU-Technical Union" />
 
-          <meta property="og:title" content=" Technical Union Inventory" />
+          <meta
+            property="og:title"
+            content="Inventory of alternative components to replace Vickers hydraulics"
+          />
           <meta
             property="og:description"
-            content="Large inventory to replace Vickers, Rexroth, Parker, and Char-lynn. Contact us with your requirements and we will find the items you need."
+            content="View our inventory parts to replace Eaton - Vickers components. Quick delivery for your convenience."
           />
           <meta
             property="og:image"
-            content="https://www.tu.biz//oppictures/inventory.png"
+            content="https://www.tu.biz//oppictures/vickers-replacement.png"
           />
-          <meta property="og:url" content="https://www.tu.biz/inventory" />
+          <meta
+            property="og:url"
+            content="https://www.tu.biz/inventory/vickers"
+          />
 
           {/* Twitter card */}
 
@@ -247,16 +255,16 @@ const VickersList = ({ db }) => {
 
           <meta
             name="twitter:title"
-            content=" TU - Technical Union | Inventory"
+            content=" TU - Technical Union | Eaton Vickers replacements parts."
           />
 
           <meta
             name="twitter:description"
-            content="Large inventory for hydraulic pumps, motors, valves, everything for quick delivery."
+            content="Check out our inventory to replace Eaton Vickers hydraulic components. Quick delivery for your convenience."
           />
           <meta
             name="twitter:image"
-            content="https://www.tu.biz/oppictures/inventory.png"
+            content="https://www.tu.biz/oppictures/vickers-replacement.png"
           />
         </Head>
       </div>
@@ -264,7 +272,8 @@ const VickersList = ({ db }) => {
         <span className=" invy-text">
           <p>
             Here is a quick overview of regular components coming from our
-            inventory. If you have any requirements on these components you can
+            inventory to replace Eaton - Vickers parts such as hydraulic valves
+            and pumps. If you have any requirements on these components you can
             always <a href="./contact-us"> contact us </a> for a quote request.
           </p>
         </span>
