@@ -2,6 +2,7 @@
 
 import "bootstrap/dist/css/bootstrap.css";
 import "../styles/general.css";
+import "../styles/pagination.scss";
 import Head from "next/head";
 import Footer from "./components/footer";
 import MainNav from "./components/nav-main";

@@ -683,3 +683,8 @@
 .footer-margin {
   padding-bottom: 10em;
 }
+.pagination-bar {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
