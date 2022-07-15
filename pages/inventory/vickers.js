@@ -24,7 +24,7 @@ export async function getStaticProps() {
 // console.log({ db });
 
 const VickersList = ({ db }) => {
-  let PageSize = 10;
+  let PageSize = 30;
 
   const [currentPage, setCurrentPage] = useState(1);
   const [searchTerm, setSearchTerm] = useState("");
