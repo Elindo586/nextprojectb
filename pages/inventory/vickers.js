@@ -44,14 +44,14 @@ const VickersList = ({ db }) => {
           `${val.Replacements}`.includes(searchTerm)
         );
       }),
-    [searchTerm]
+    [searchTerm, db]
   );
 
   const currentTableData = useMemo(() => {
     const firstPageIndex = (currentPage - 1) * PageSize;
     const lastPageIndex = firstPageIndex + PageSize;
     return filteredDb.slice(firstPageIndex, lastPageIndex);
-  }, [currentPage, searchTerm]);
+  }, [currentPage, PageSize, filteredDb]);
 
   const totalPages = Math.ceil(filteredDb.length / PageSize);
 

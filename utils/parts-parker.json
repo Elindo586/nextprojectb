@@ -1,122 +1,146 @@
 ﻿[
-  {
-    "Reference": "860160",
-    "Description": "F800SFV",
-    "Replacements": "Parker"
-  },
-  {
-    "Reference": "860158",
-    "Description": "F400SFV",
-    "Replacements": "Parker"
-  },
-  {
-    "Reference": "860159",
-    "Description": "F600SFV",
-    "Replacements": "Parker"
-  },
-  {
-    "Reference": "860161",
-    "Description": "F1200SFV",
-    "Replacements": "Parker"
-  },
-  {
-    "Reference": "860162",
-    "Description": "F1600SFV",
-    "Replacements": "Parker"
-  },
-  {
-    "Reference": "860162-I",
-    "Description": "F1600SFV",
-    "Replacements": "Parker"
-  },
-  {
-    "Reference": "860163",
-    "Description": "F2000SFV",
-    "Replacements": "Parker"
-  },
-  {
-    "Reference": "880440",
-    "Description": "C102-2.5-R-A-2",
-    "Replacements": "Parker "
-  },
-  {
-    "Reference": "860144",
-    "Description": "N400SFV",
-    "Replacements": "Parker "
-  },
-  {
-    "Reference": "860146",
-    "Description": "N800SFV",
-    "Replacements": "Parker "
-  },
-  {
-    "Reference": "860146-I",
-    "Description": "N800SFV",
-    "Replacements": "Parker "
-  },
-  {
-    "Reference": "860147",
-    "Description": "N1200SFV",
-    "Replacements": "Parker "
-  },
-  {
-    "Reference": "860149",
-    "Description": "N2000SFV",
-    "Replacements": "Parker "
-  },
-  {
-    "Reference": "880000",
-    "Description": "C102-2.5-L-M-3",
-    "Replacements": "Parker "
-  },
-  {
-    "Reference": "880001",
-    "Description": "C102-2.5-R-M-3",
-    "Replacements": "Parker "
-  },
-  {
-    "Reference": "880005",
-    "Description": "C101-2.5-M-3",
-    "Replacements": "Parker "
-  },
-  {
-    "Reference": "880009",
-    "Description": "C102-2.5-L-A-3",
-    "Replacements": "Parker "
-  },
-  {
-    "Reference": "880014",
-    "Description": "C102-2.0-L-A-3",
-    "Replacements": "Parker "
-  },
-  {
-    "Reference": "880017",
-    "Description": "C101-2.5-A-3",
-    "Replacements": "Parker "
-  },
-  {
-    "Reference": "880288",
-    "Description": "C101-2.5-M-2",
-    "Replacements": "Parker "
-  },
-  {
-    "Reference": "880395",
-    "Description": "C102-2.5-L-A-2",
-    "Replacements": "Parker "
-  },
-  {
-    "Reference": "880412",
-    "Description": "C101-2.5-L-M-3",
-    "Replacements": "Parker "
-  },
-  {
-    "Reference": "880427",
-    "Description": "C101-2.0-M-2",
-    "Replacements": "Parker "
-  },
-  {
-    "Reference": "88100",
-    "Description": "C101/C102 AIR SHIFT KIT",
-    "Replacements": "Parker "
-  }
+    {
+        "Id": "6077071",
+        "Reference": "860160",
+        "Description": "F800SFV",
+        "Replacements": "Parker"
+    },
+    {
+        "Id": "5455418",
+        "Reference": "860158",
+        "Description": "F400SFV",
+        "Replacements": "Parker"
+    },
+    {
+        "Id": "8962386",
+        "Reference": "860159",
+        "Description": "F600SFV",
+        "Replacements": "Parker"
+    },
+    {
+        "Id": "2771313",
+        "Reference": "860161",
+        "Description": "F1200SFV",
+        "Replacements": "Parker"
+    },
+    {
+        "Id": "3788453",
+        "Reference": "860162",
+        "Description": "F1600SFV",
+        "Replacements": "Parker"
+    },
+    {
+        "Id": "4030610",
+        "Reference": "860162-I",
+        "Description": "F1600SFV",
+        "Replacements": "Parker"
+    },
+    {
+        "Id": "5779858",
+        "Reference": "860163",
+        "Description": "F2000SFV",
+        "Replacements": "Parker"
+    },
+    {
+        "Id": "1359493",
+        "Reference": "880440",
+        "Description": "C102-2.5-R-A-2",
+        "Replacements": "Parker "
+    },
+    {
+        "Id": "5077290",
+        "Reference": "860144",
+        "Description": "N400SFV",
+        "Replacements": "Parker "
+    },
+    {
+        "Id": "5394465",
+        "Reference": "860146",
+        "Description": "N800SFV",
+        "Replacements": "Parker "
+    },
+    {
+        "Id": "7241636",
+        "Reference": "860146-I",
+        "Description": "N800SFV",
+        "Replacements": "Parker "
+    },
+    {
+        "Id": "4718132",
+        "Reference": "860147",
+        "Description": "N1200SFV",
+        "Replacements": "Parker "
+    },
+    {
+        "Id": "8135115",
+        "Reference": "860149",
+        "Description": "N2000SFV",
+        "Replacements": "Parker "
+    },
+    {
+        "Id": "1261064",
+        "Reference": "880000",
+        "Description": "C102-2.5-L-M-3",
+        "Replacements": "Parker "
+    },
+    {
+        "Id": "2766922",
+        "Reference": "880001",
+        "Description": "C102-2.5-R-M-3",
+        "Replacements": "Parker "
+    },
+    {
+        "Id": "3006025",
+        "Reference": "880005",
+        "Description": "C101-2.5-M-3",
+        "Replacements": "Parker "
+    },
+    {
+        "Id": "1293694",
+        "Reference": "880009",
+        "Description": "C102-2.5-L-A-3",
+        "Replacements": "Parker "
+    },
+    {
+        "Id": "5252832",
+        "Reference": "880014",
+        "Description": "C102-2.0-L-A-3",
+        "Replacements": "Parker "
+    },
+    {
+        "Id": "4179501",
+        "Reference": "880017",
+        "Description": "C101-2.5-A-3",
+        "Replacements": "Parker "
+    },
+    {
+        "Id": "8680724",
+        "Reference": "880288",
+        "Description": "C101-2.5-M-2",
+        "Replacements": "Parker "
+    },
+    {
+        "Id": "4387037",
+        "Reference": "880395",
+        "Description": "C102-2.5-L-A-2",
+        "Replacements": "Parker "
+    },
+    {
+        "Id": "8423988",
+        "Reference": "880412",
+        "Description": "C101-2.5-L-M-3",
+        "Replacements": "Parker "
+    },
+    {
+        "Id": "2579280",
+        "Reference": "880427",
+        "Description": "C101-2.0-M-2",
+        "Replacements": "Parker "
+    },
+    {
+        "Id": "5549242",
+        "Reference": "88100",
+        "Description": "C101/C102 AIR SHIFT KIT",
+        "Replacements": "Parker "
+    }
 ]
