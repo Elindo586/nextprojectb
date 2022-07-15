@@ -1,7 +1,7 @@
 import React from "react";
 import Head from "next/head";
 import Link from "next/link";
-import ContactForm from "./components/contact-form";
+import ContactForm from "../components/contact-form";
 
 const Contact = () => {
   return (

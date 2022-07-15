@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import Head from "next/head";
 import Link from "next/link";
-import Blogger1 from "../../components/blog-post-english";
+import Blogger1 from "../../../components/blog-post-english";
 
 const Post2 = () => {
   return (

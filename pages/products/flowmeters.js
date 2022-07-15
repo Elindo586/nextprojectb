@@ -2,8 +2,8 @@ import React from "react";
 import Image from "next/image";
 import Head from "next/head";
 import Link from "next/link";
-import FlowmeterForm from "../components/flowmeter-form";
-import ProductNav from "../components/nav-products";
+import FlowmeterForm from "../../components/flowmeter-form";
+import ProductNav from "../../components/nav-products";
 
 const Flowmeters = () => {
   return (

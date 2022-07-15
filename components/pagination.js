@@ -10,7 +10,6 @@ const Pagination = (props) => {
     currentPage,
     pageSize,
     className,
-    firstPage,
   } = props;
 
   const paginationRange = usePagination({
@@ -52,6 +51,7 @@ const Pagination = (props) => {
 
         return (
           <li
+            key=""
             className={classnames("pagination-item", {
               selected: pageNumber === currentPage,
             })}

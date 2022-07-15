@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import Head from "next/head";
 import Link from "next/link";
-import ProductNav from "../components/nav-products";
+import ProductNav from "../../components/nav-products";
 
 const FlowControlValves = () => {
   return (

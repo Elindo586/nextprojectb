@@ -2,8 +2,8 @@ import React from "react";
 import Image from "next/image";
 import Head from "next/head";
 import Link from "next/link";
-import MotorForm from "../components/Motor-form";
-import ProductNav from "../components/nav-products";
+import MotorForm from "../../components/Motor-form";
+import ProductNav from "../../components/nav-products";
 
 const GerolerMotor = () => {
   return (

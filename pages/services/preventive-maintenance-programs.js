@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import Head from "next/head";
-import ServicesNav from "../components/nav-services";
+import ServicesNav from "../../components/nav-services";
 
 const Preventive = () => {
   return (

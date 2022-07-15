@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import Head from "next/head";
 import Link from "next/link";
-import ServicesNav from "../components/nav-services";
+import ServicesNav from "../../components/nav-services";
 
 const Laboratory = () => {
   return (

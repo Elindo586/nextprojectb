@@ -2,8 +2,8 @@ import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 import Head from "next/head";
-import PumpForm from "../components/pump-form";
-import ProductNav from "../components/nav-products";
+import PumpForm from "../../components/pump-form";
+import ProductNav from "../../components/nav-products";
 
 const VanePumps = () => {
   return (
