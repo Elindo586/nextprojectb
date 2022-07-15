@@ -2,7 +2,6 @@ import React from "react";
 import Image from "next/image";
 import Head from "next/head";
 import Link from "next/link";
-import PumpForm from "../../components/pump-form";
 
 const TemplateProducts = () => {
   return (

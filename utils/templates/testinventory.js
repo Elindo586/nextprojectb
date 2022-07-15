@@ -2,9 +2,9 @@ import React from "react";
 import { useEffect, useState, useMemo } from "react";
 import Head from "next/head";
 import Link from "next/link";
-import Pagination from "../../components/pagination";
+// import Pagination from "../../components/pagination";
 
-import db from "../../utils/parts-rexroth.json";
+// import db from "../parts-rexroth.json";
 
 export async function getStaticProps() {
   // await clientPromise;

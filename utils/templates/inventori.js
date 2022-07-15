@@ -4,7 +4,7 @@ import Head from "next/head";
 import Link from "next/link";
 import Pagination from "react-bootstrap/Pagination";
 
-import db from "../utils/parts.json";
+import db from "../parts.json";
 
 export async function getStaticProps() {
   // await clientPromise;
