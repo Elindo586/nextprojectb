@@ -1,4 +1,5 @@
 import Document, { Html, Head, Main, NextScript } from "next/document";
+// import manifest from "../public/manifest.json"
 
 class MyDocument extends Document {
   render() {
@@ -14,7 +15,7 @@ class MyDocument extends Document {
             content=" Technical Union, exports, hydraulics, electrical, mechanical"
           />
 
-          <link rel="manifest" href="/manifest.json " />
+          <link rel="manifest" href="/manifest.json" />
         </Head>
         <body>
           <Main />
