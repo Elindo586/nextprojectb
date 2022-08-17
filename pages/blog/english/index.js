@@ -46,7 +46,7 @@ const BloggerFrontEnglish = ({ db }) => {
           />
           <meta
             property="og:description"
-            content=" Hydrauics, electrical, mechanical, industrial blog"
+            content=" Industrial blogs on Hydraulics, Pneumatics, Electrical, and mechanical... and what-ever else comes to mind.."
             id="meta-og-desc"
           />
           <meta

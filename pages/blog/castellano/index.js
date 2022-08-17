@@ -71,7 +71,10 @@ const BloggerFrontSpanish = ({ db }) => {
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:creator" content="@MrEdgarLindo" />
 
-          <meta name="twitter:title" content=" Blog industrial y más " />
+          <meta
+            name="twitter:title"
+            content=" Blog industrial y más de parte Edgar Lindo para todo el mundo. "
+          />
 
           <meta
             name="twitter:description"
