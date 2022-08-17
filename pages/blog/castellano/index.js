@@ -93,7 +93,12 @@ const BloggerFrontSpanish = ({ db }) => {
                     {" "}
                     <h4>{item.title}</h4>
                   </div>
-                  <Image src={item.picture} width={350} height={200}></Image>
+                  <Image
+                    src={item.picture}
+                    alt="Blog picture"
+                    width={350}
+                    height={200}
+                  ></Image>
                   <div lang="es">
                     {" "}
                     <Link href={item.link}>
