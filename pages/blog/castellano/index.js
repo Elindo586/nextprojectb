@@ -14,6 +14,75 @@ export async function getStaticProps() {
 const BloggerFrontSpanish = ({ db }) => {
   return (
     <div>
+      <div>
+        <Head>
+          {/* Main */}
+          <meta charset="UTF-8" />
+          <meta name="viewport" content="width=device-width, initial-scale=1" />
+          <link
+            rel="shortcut icon"
+            type="image/png"
+            href="/images/tu-favicon.png"
+          />
+
+          <meta
+            name="facebook-domain-verification"
+            content="fzctnjbrtlybvytmamk8glkng9af7p"
+          />
+          <title>TU-Technical Union Blogs en Castellano</title>
+          <meta
+            name="description"
+            content="Blogs industriales entre otras cosas..."
+          />
+          <meta
+            name="keywords"
+            content="blogs, castellano, industrial, hidraulica, mecanica, electrica"
+          />
+          <meta name="author" content="Edgar Lindo" />
+
+          {/* Open Graph */}
+
+          <meta
+            property="og:title"
+            content=" Blogs industriales entre otras cosas "
+            id="meta-og-title"
+          />
+          <meta
+            property="og:description"
+            content=" Hablando de cosas industriales, hidráulica, neumática, eléctrica, mecánica y más"
+            id="meta-og-desc"
+          />
+          <meta
+            property="og:url"
+            content="https://www.tu.biz/blog/castellano"
+            id="meta-og-url"
+          />
+          <meta property="og:locale" content="es" />
+          <meta property="site_name" content="TU-Technical Union" />
+          <meta
+            name="image"
+            property="og:image"
+            content="https://www.tu.biz//blog-images-spanish/blog-index-spanish"
+            id="meta-og-image"
+          />
+
+          {/* Twitter card */}
+
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:creator" content="@MrEdgarLindo" />
+
+          <meta name="twitter:title" content=" Blog industrial y más " />
+
+          <meta
+            name="twitter:description"
+            content="Hablando de cosas industriales, hidráulica, neumática, eléctrica, mecánica, entre otras cosas."
+          />
+          <meta
+            name="twitter:image"
+            content="https://www.tu.biz/blog-images-spanish/blog-index-spanish"
+          />
+        </Head>
+      </div>
       <div className="row">
         <div className="col-md-9">
           <div className="text-center">
