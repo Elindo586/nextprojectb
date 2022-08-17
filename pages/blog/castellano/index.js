@@ -82,7 +82,7 @@ const BloggerFrontSpanish = ({ db }) => {
           />
           <meta
             name="twitter:image"
-            content="https://www.tu.biz//blog-images-spanish/blog-index-spanish.png"
+            content="https://www.tu.biz/blog-images-spanish/blog-index-spanish.png"
           />
         </Head>
       </div>
