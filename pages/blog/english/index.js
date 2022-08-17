@@ -59,7 +59,7 @@ const BloggerFrontEnglish = ({ db }) => {
           <meta
             name="image"
             property="og:image"
-            content="https://www.tu.biz//blog-images-english/blog-index-english"
+            content="https://www.tu.biz//blog-images-english/blog-index-english.png"
             id="meta-og-image"
           />
 
@@ -79,7 +79,7 @@ const BloggerFrontEnglish = ({ db }) => {
           />
           <meta
             name="twitter:image"
-            content="https://www.tu.biz/blog-images-english/blog-index-english"
+            content="https://www.tu.biz/blog-images-english/blog-index-english.png"
           />
         </Head>
       </div>
