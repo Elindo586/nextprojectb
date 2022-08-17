@@ -38,7 +38,7 @@ function Blogger1(props) {
         </div>
         <div className="col-md-3">
           {" "}
-          <Link href="/blog/castellano/valvula-de-alivio">
+          <Link href="/blog/castellano">
             <a
               className="btn btn-info d-flex justify-content-center"
               target="blank"

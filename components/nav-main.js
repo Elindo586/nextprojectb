@@ -124,7 +124,7 @@ function MainNav() {
             </Link>
           </li>
           <li className="nav-item">
-            <Link href="/blog/english/what-is-a-pressure-relief-valve">
+            <Link href="/blog/english">
               <a className="nav-link" onClick={title}>
                 | Blogs
               </a>

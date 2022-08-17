@@ -9,6 +9,11 @@ import Footer from "../components/footer";
 import Script from "next/script";
 
 function MyApp({ Component, pageProps }) {
+  // if ("serviceWorker" in navigator) {
+  //   navigator.serviceWorker.register("/sw.js").then(function () {
+  //     console.log("service worker registered");
+  //   });
+  // }
   return (
     <div>
       <div>
