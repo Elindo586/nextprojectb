@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "next/link";
+import AdBanner from "../components/ad-blog";
 
 function Blogger2(props) {
   return (
@@ -51,6 +52,8 @@ function Blogger2(props) {
               Go to English blog
             </a>
           </Link>{" "}
+          <br /> <br />
+          <AdBanner />
         </div>
       </div>
     </div>
