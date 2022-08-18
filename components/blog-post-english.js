@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import AdBanner from "./ad-blog";
+import Social1 from "./social-english";
 
 function Blogger1(props) {
   return (
@@ -12,6 +13,9 @@ function Blogger1(props) {
             <h3>{props.title}</h3> <br />
           </div>
           <div className="ratio ratio-16x9"> {props.body} </div> <br />
+          <div>
+            <Social1 /> <br />
+          </div>
           <div className="col-md-12 centering-btn">
             {props.previous && (
               <Link href={props.previous}>

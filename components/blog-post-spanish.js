@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import AdBanner from "../components/ad-blog";
+import Social2 from "./social-spanish";
 
 function Blogger2(props) {
   return (
@@ -13,8 +14,11 @@ function Blogger2(props) {
           </div>
           <div className="ratio ratio-16x9" lang="es">
             {props.body}
-          </div>{" "}
+          </div>
           <br />
+          <div>
+            <Social2 /> <br />
+          </div>
           <div className="col-md-12 centering-btn">
             {props.previous && (
               <Link href={props.previous}>
