@@ -22,7 +22,7 @@ module.exports = nextConfig;
 //     skipWaiting: true,
 //     disable: process.env.NODE_ENV === "development",
 //     swSrc: "service-worker.js",
-//     scope: "/app",
+//     scope: "/",
 //     runtimeCaching,
 //   },
 // });
