@@ -1,5 +1,6 @@
 // import "../styles/globals.css";
 
+import { useEffect } from "react";
 import "bootstrap/dist/css/bootstrap.css";
 import "../styles/general.css";
 import "../styles/pagination.scss";
@@ -10,11 +11,24 @@ import Script from "next/script";
 // import Manifest from "../public/manifest.json";
 
 function MyApp({ Component, pageProps }) {
-  // if ("serviceWorker" in navigator) {
-  //   navigator.serviceWorker.register("/sw.js").then(function () {
-  //     console.log("service worker registered");
-  //   });
-  // }
+  useEffect(() => {
+    if ("serviceWorker" in navigator) {
+      window.addEventListener("load", function () {
+        navigator.serviceWorker.register("/sw.js").then(
+          function (registration) {
+            console.log(
+              "Service Worker registration successful with scope: ",
+              registration.scope
+            );
+          },
+          function (err) {
+            console.log("Service Worker registration failed: ", err);
+          }
+        );
+      });
+    }
+  }, []);
+
   return (
     <div>
       <div>

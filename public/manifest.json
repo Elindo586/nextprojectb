@@ -9,6 +9,7 @@
   "name": "Technical Union",
   "short_name": "Technical Union",
   "description": "Industrial Exporter | USA ",
+
   "icons": [
     {
       "src": "/icon-72x72.png",
@@ -42,5 +43,6 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "splash_pages": null
 }
