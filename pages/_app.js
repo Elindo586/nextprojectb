@@ -7,6 +7,7 @@ import Head from "next/head";
 import MainNav from "../components/nav-main";
 import Footer from "../components/footer";
 import Script from "next/script";
+// import Manifest from "../public/manifest.json";
 
 function MyApp({ Component, pageProps }) {
   // if ("serviceWorker" in navigator) {
@@ -16,6 +17,11 @@ function MyApp({ Component, pageProps }) {
   // }
   return (
     <div>
+      <div>
+        <Head>
+          <link rel="manifest" href="/manifest.json" />
+        </Head>
+      </div>
       <div>
         <Script
           strategy="afterInteractive"
