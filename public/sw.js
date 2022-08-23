@@ -1,7 +1,7 @@
 import React from "react";
 import { useEffect } from "react";
 
-const sw = () => {
+const Sw = () => {
   /*
 Copyright 2015, 2019, 2020, 2021 Google LLC. All Rights Reserved.
  Licensed under the Apache License, Version 2.0 (the "License");
@@ -112,4 +112,4 @@ Copyright 2015, 2019, 2020, 2021 Google LLC. All Rights Reserved.
   return;
 };
 
-export default sw;
+export default Sw;

@@ -8,6 +8,7 @@ import Head from "next/head";
 import MainNav from "../components/nav-main";
 import Footer from "../components/footer";
 import Script from "next/script";
+import Sw from "../public/sw";
 // import Manifest from "../public/manifest.json";
 
 function MyApp({ Component, pageProps }) {
