@@ -5,6 +5,7 @@
   "orientation": "any",
   "start_url": "/",
   "scope": "/",
+  "id": "/",
   "dir": "ltr",
   "name": "Technical Union",
   "short_name": "Technical Union",
