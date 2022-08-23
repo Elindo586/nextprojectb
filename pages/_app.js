@@ -8,27 +8,27 @@ import Head from "next/head";
 import MainNav from "../components/nav-main";
 import Footer from "../components/footer";
 import Script from "next/script";
-import Sw from "../public/sw";
+// import Sw from "../public/sw";
 // import Manifest from "../public/manifest.json";
 
 function MyApp({ Component, pageProps }) {
-  useEffect(() => {
-    if ("serviceWorker" in navigator) {
-      window.addEventListener("load", function () {
-        navigator.serviceWorker.register("/sw.js").then(
-          function (registration) {
-            console.log(
-              "Service Worker registration successful with scope: ",
-              registration.scope
-            );
-          },
-          function (err) {
-            console.log("Service Worker registration failed: ", err);
-          }
-        );
-      });
-    }
-  }, []);
+  // useEffect(() => {
+  //   if ("serviceWorker" in navigator) {
+  //     window.addEventListener("load", function () {
+  //       navigator.serviceWorker.register("/sw.js").then(
+  //         function (registration) {
+  //           console.log(
+  //             "Service Worker registration successful with scope: ",
+  //             registration.scope
+  //           );
+  //         },
+  //         function (err) {
+  //           console.log("Service Worker registration failed: ", err);
+  //         }
+  //       );
+  //     });
+  //   }
+  // }, []);
 
   return (
     <div>
@@ -70,6 +70,7 @@ function MyApp({ Component, pageProps }) {
       <footer>
         <Footer />
       </footer>
+      <script async type="module" src="app.js"></script>
     </div>
   );
 }
