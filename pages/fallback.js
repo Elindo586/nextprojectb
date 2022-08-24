@@ -2,8 +2,10 @@ import React from "react";
 
 const fallback = () => (
   <div>
-    <h1>This is fallback page when device is offline </h1>
-    <small>Route will fallback to this page</small>
+    <h1 className="fallback">
+      This is fallback page when your device is offline.{" "}
+    </h1>
+    <br /> <br /> <br />
   </div>
 );
 
