@@ -1,10 +1,8 @@
 import React from "react";
-import Image from "next/image";
 import Head from "next/head";
-import Link from "next/link";
 import Blogger1 from "../../../components/blog-post-english";
 
-const Post2 = () => {
+const Post8 = () => {
   return (
     <div>
       <div>
@@ -22,29 +20,29 @@ const Post2 = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>TU-Technical Union</title>
+          <title>Hydraulic Cylinder Force Calculation</title>
           <meta
             name="description"
-            content="Here is where you can learn how to test a pressure compensated pump quick and easy."
+            content="Learn how to calculate the cylinder force for your hydraulic system."
           />
-          <meta name="keywords" content="pressure compensated pump " />
+          <meta name="keywords" content="cylinder force calculation" />
           <meta name="author" content="Edgar Lindo" />
 
           {/* Open Graph tags */}
 
           <meta
             property="og:title"
-            content=" Technical Union"
+            content=" Cylinder Force Calculation"
             id="meta-og-title"
           />
           <meta
             property="og:description"
-            content=" Here is where you can learn how to test a pressure compensated pump quick and easy. "
+            content="Learn how to calculate the cylinder force in your hydraulic system. "
             id="meta-og-desc"
           />
           <meta
             property="og:url"
-            content="https://www.tu.biz/blog/english/how-to-test-a-pressure-compensated-pump"
+            content="https://www.tu.biz/blog/english/hydraulic-cylinder-force-calculation"
             id="meta-og-url"
           />
           <meta property="og:locale" content="en" />
@@ -52,7 +50,7 @@ const Post2 = () => {
           <meta
             name="image"
             property="og:image"
-            content="https://www.tu.biz//blog-images-english/pressure-comp-pump-test.png"
+            content="https://www.tu.biz//blog-images-english/cylinder-force-calculation.png"
             id="meta-og-image"
           />
 
@@ -61,37 +59,40 @@ const Post2 = () => {
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:creator" content="@MrEdgarLindo" />
 
-          <meta name="twitter:title" content=" TU -Technical Union | " />
+          <meta
+            name="twitter:title"
+            content=" Hydraulic Cylinder Force Calculation. "
+          />
 
           <meta
             name="twitter:description"
-            content=" Here is how to properly test a pressure compensated pump quick and easy."
+            content="Learn how to properly calculate a hydraulic cylinder force for your hydraulic system."
           />
           <meta
             name="twitter:image"
-            content="https://www.tu.biz/blog-images-english/pressure-comp-pump-test.png"
+            content="https://www.tu.biz/blog-images-english/cylinder-force-calculation.png"
           />
         </Head>
       </div>
       <Blogger1
-        title="How to test a pressure compensated pump"
+        title="Hydraulic Cylinder Force Calculation."
         body={
           <iframe
             width="560"
             height="315"
-            src="https://www.youtube.com/embed/Dnwom8tI7FA"
+            src="https://www.youtube.com/embed/M-wsllOxfeA"
             title="YouTube video player"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>
         }
-        previous="/blog/english/horsepower-fluid-power-calculation"
-        next="/blog/english/what-is-a-pressure-relief-valve"
-        description="Understanding how to test a pressure compensated hydraulic pump."
+        previous="/blog/english"
+        next="/blog/english/horsepower-fluid-power-calculation"
+        description="This is how you calculate the work force for a hydraulic cylinder."
       />
     </div>
   );
 };
 
-export default Post2;
+export default Post8;

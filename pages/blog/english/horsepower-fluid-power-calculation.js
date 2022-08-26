@@ -87,9 +87,9 @@ const Post6 = () => {
             allowFullScreen
           ></iframe>
         }
-        previous="/blog/english/"
+        previous="/blog/english/hydraulic-cylinder-force-calculation"
         next="/blog/english/how-to-test-a-pressure-compensated-pump"
-        description="Learn the easiest way to calculate hydraulic horsepower to work properly in your hydraulic system."
+        description="Learn how to calculate the hydraulic horsepower for your hydraulic system."
       />
     </div>
   );
