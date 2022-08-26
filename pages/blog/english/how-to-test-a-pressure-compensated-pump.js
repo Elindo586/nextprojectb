@@ -86,8 +86,8 @@ const Post2 = () => {
             allowFullScreen
           ></iframe>
         }
-        previous="/blog/english/what-is-a-pressure-relief-valve"
-        next="/blog/english/how-to-test-a-pressure-compensated-pump"
+        previous="/blog/english/horsepower-fluid-power-calculation"
+        next="/blog/english/what-is-a-pressure-relief-valve"
         description="These are directions on how to test a pressure compensated pump."
       />
     </div>

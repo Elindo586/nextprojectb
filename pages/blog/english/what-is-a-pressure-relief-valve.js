@@ -89,8 +89,8 @@ const Post1 = () => {
             allowFullScreen
           ></iframe>
         }
-        previous="/blog/english/what-is-a-pressure-relief-valve"
-        next="/blog/english/how-to-test-a-pressure-compensated-pump"
+        previous="/blog/english/how-to-test-a-pressure-compensated-pump"
+        next="/blog/english"
         description="A pressure relief valve is used to limit the amount of pressure used
             in a hydraulic system to do work. Higher working pressures in the
             same area means more force to move heavier items."

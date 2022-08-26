@@ -90,7 +90,7 @@ const Post4 = () => {
           ></iframe>
         }
         previous="/blog/castellano/valvula-de-alivio"
-        next="/blog/castellano/prueba-de-bomba-hidraulica-de-presion-compensada"
+        next="/blog/castellano"
         description="La manera mas simple de hacer una prueba para una bomba hidráulica de presión compensada "
       />
     </div>
