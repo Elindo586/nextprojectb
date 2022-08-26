@@ -1,7 +1,9 @@
 import React from "react";
+import { useEffect, useState, useMemo } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import Head from "next/head";
+import Pagination from "../../../components/pagination";
 
 import db from "../../../utils/blogs-front/spanish/blogs-spanish";
 
@@ -12,6 +14,39 @@ export async function getStaticProps() {
 }
 
 const BloggerFrontSpanish = ({ db }) => {
+  let PageSize = 3;
+
+  const [currentPage, setCurrentPage] = useState(1);
+  const [searchTerm, setSearchTerm] = useState("");
+
+  const filteredDb = useMemo(
+    () =>
+      db.filter((val) => {
+        if (searchTerm === "") {
+          return val;
+        }
+        return (
+          val.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
+          `${val.title}`.includes(searchTerm)
+        );
+      }),
+    [searchTerm, db]
+  );
+
+  const currentTableData = useMemo(() => {
+    const firstPageIndex = (currentPage - 1) * PageSize;
+    const lastPageIndex = firstPageIndex + PageSize;
+    return filteredDb.slice(firstPageIndex, lastPageIndex);
+  }, [currentPage, PageSize, filteredDb]);
+
+  const totalPages = Math.ceil(filteredDb.length / PageSize);
+
+  useEffect(() => {
+    setCurrentPage((prev) =>
+      prev > totalPages ? totalPages : Math.max(1, prev)
+    );
+  }, [totalPages]);
+
   return (
     <div>
       <div>
@@ -86,10 +121,25 @@ const BloggerFrontSpanish = ({ db }) => {
           />
         </Head>
       </div>
+
       <div className="row">
         <div className="col-md-9">
+          <div>
+            <input
+              className="blog-input-spanish"
+              type="text"
+              id="myInput"
+              // onKeyUp="myFunction()"
+              onKeyUp={(event) => {
+                setSearchTerm(event.target.value);
+              }}
+              placeholder="Busqueda en blogs.."
+              title="Type in a name"
+            />{" "}
+            <br /> <br />
+          </div>
           <div className="text-center">
-            {db.map((item, id) => {
+            {currentTableData.map((item, id) => {
               return (
                 <div key={id}>
                   <div>
@@ -114,6 +164,15 @@ const BloggerFrontSpanish = ({ db }) => {
                 </div>
               );
             })}
+          </div>
+          <div className="col-md-12">
+            <Pagination
+              className="pagination-bar"
+              currentPage={currentPage}
+              totalCount={filteredDb.length}
+              pageSize={PageSize}
+              onPageChange={(page) => setCurrentPage(page)}
+            />
           </div>
 
           {/* <div className="col-md-12 centering-btn">
