@@ -1,7 +1,5 @@
 import React from "react";
-import Image from "next/image";
 import Head from "next/head";
-import Link from "next/link";
 import Blogger2 from "../../../components/blog-post-spanish";
 
 const Post5 = () => {

@@ -1,8 +1,8 @@
 import React from "react";
 import Head from "next/head";
-import Blogger2 from "../../../components/blog-post-spanish";
+import Blogger1 from "../../../components/blog-post-english";
 
-const Post7 = () => {
+const Post10 = () => {
   return (
     <div>
       <div>
@@ -20,39 +20,37 @@ const Post7 = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>
-            TU-Technical Union | Cálculo de fuerza para cilindro hidráulico.
-          </title>
+          <title>Hydraulic Cylinder Force Calculation</title>
           <meta
             name="description"
-            content="Aprenda a calcular la fuerza de un cilindro hidráulico correctamente."
+            content="Learn how to calculate the cylinder force for your hydraulic system."
           />
-          <meta name="keywords" content="cilindro hidráulico" />
+          <meta name="keywords" content="cylinder force calculation" />
           <meta name="author" content="Edgar Lindo" />
 
-          {/* Open Graph */}
+          {/* Open Graph tags */}
 
           <meta
             property="og:title"
-            content=" Cálculo de fuerza para cilindro hidráulico."
+            content=" Cylinder Force Calculation"
             id="meta-og-title"
           />
           <meta
             property="og:description"
-            content="Aprenda como calcular la fuerza de un cilindro hidráulico correctamente."
+            content="Learn how to calculate the cylinder force in your hydraulic system. "
             id="meta-og-desc"
           />
           <meta
             property="og:url"
-            content="https://www.tu.biz/blog/castellano/fuerza-hidraulica-de-un-cilindro"
+            content="https://www.tu.biz/blog/english/hydraulic-cylinder-force-calculation"
             id="meta-og-url"
           />
-          <meta property="og:locale" content="es" />
+          <meta property="og:locale" content="en" />
           <meta property="site_name" content="TU-Technical Union" />
           <meta
             name="image"
             property="og:image"
-            content="https://www.tu.biz//blog-images-spanish/calculo-fuerza-de-cilindro.png"
+            content="https://www.tu.biz//blog-images-english/cylinder-force-calculation.png"
             id="meta-og-image"
           />
 
@@ -63,38 +61,38 @@ const Post7 = () => {
 
           <meta
             name="twitter:title"
-            content=" Cálculo de fuerza para cilindro hidráulico. "
+            content=" Hydraulic Cylinder Force Calculation. "
           />
 
           <meta
             name="twitter:description"
-            content="Aprenda como calcular la fuerza de un cilindro hidráulico correctamente."
+            content="Learn how to properly calculate a hydraulic cylinder force for your hydraulic system."
           />
           <meta
             name="twitter:image"
-            content="https://www.tu.biz/blog-images-spanish/calculo-fuerza-de-cilindro.png"
+            content="https://www.tu.biz/blog-images-english/cylinder-force-calculation.png"
           />
         </Head>
       </div>
-      <Blogger2
-        title="Cálculo de fuerza para cilindro hidráulico."
+      <Blogger1
+        title="Hydraulic Cylinder Force Calculation."
         body={
           <iframe
             width="560"
             height="315"
-            src="https://www.youtube.com/embed/47vUcjn2Dl8"
+            src="https://www.youtube.com/embed/M-wsllOxfeA"
             title="YouTube video player"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>
         }
-        previous="/blog/castellano/ajuste-de-control-para-bomba-de-presion-compensada"
-        next="/blog/castellano/calculo-de-potencia-hidraulica"
-        description="Aprenda a calcular la fuerza de un cilindro hidráulico. "
+        previous="/blog/english"
+        next="/blog/english/horsepower-fluid-power-calculation"
+        description="This is how you calculate the work force for a hydraulic cylinder."
       />
     </div>
   );
 };
 
-export default Post7;
+export default Post10;

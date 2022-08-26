@@ -2,7 +2,7 @@ import React from "react";
 import Head from "next/head";
 import Blogger2 from "../../../components/blog-post-spanish";
 
-const Post7 = () => {
+const Post9 = () => {
   return (
     <div>
       <div>
@@ -20,31 +20,29 @@ const Post7 = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>
-            TU-Technical Union | Cálculo de fuerza para cilindro hidráulico.
-          </title>
+          <title>Ajuste de control de bomba de presión compensada.</title>
           <meta
             name="description"
-            content="Aprenda a calcular la fuerza de un cilindro hidráulico correctamente."
+            content="Aprenda como ajustar el control hidráulico de una bomba de presión compensada."
           />
-          <meta name="keywords" content="cilindro hidráulico" />
+          <meta name="keywords" content="presión compensada" />
           <meta name="author" content="Edgar Lindo" />
 
           {/* Open Graph */}
 
           <meta
             property="og:title"
-            content=" Cálculo de fuerza para cilindro hidráulico."
+            content=" Ajuste de control de bomba de presión compensada."
             id="meta-og-title"
           />
           <meta
             property="og:description"
-            content="Aprenda como calcular la fuerza de un cilindro hidráulico correctamente."
+            content="Aprenda como ajustar el control hidráulico de una bomba de presión compensada."
             id="meta-og-desc"
           />
           <meta
             property="og:url"
-            content="https://www.tu.biz/blog/castellano/fuerza-hidraulica-de-un-cilindro"
+            content="https://www.tu.biz/blog/castellano/ajuste-de-control-para-bomba-de-presion-compensada"
             id="meta-og-url"
           />
           <meta property="og:locale" content="es" />
@@ -52,7 +50,7 @@ const Post7 = () => {
           <meta
             name="image"
             property="og:image"
-            content="https://www.tu.biz//blog-images-spanish/calculo-fuerza-de-cilindro.png"
+            content="https://www.tu.biz//blog-images-spanish/ajuste-presion-compensada.png"
             id="meta-og-image"
           />
 
@@ -63,38 +61,38 @@ const Post7 = () => {
 
           <meta
             name="twitter:title"
-            content=" Cálculo de fuerza para cilindro hidráulico. "
+            content="Ajuste de control de bomba de presión compensada. "
           />
 
           <meta
             name="twitter:description"
-            content="Aprenda como calcular la fuerza de un cilindro hidráulico correctamente."
+            content="Aprenda como ajustar el control hidráulico de una bomba de presión compensada."
           />
           <meta
             name="twitter:image"
-            content="https://www.tu.biz/blog-images-spanish/calculo-fuerza-de-cilindro.png"
+            content="https://www.tu.biz/blog-images-spanish/ajuste-presion-compensada.png"
           />
         </Head>
       </div>
       <Blogger2
-        title="Cálculo de fuerza para cilindro hidráulico."
+        title="Ajuste de control de bomba de presión compensada."
         body={
           <iframe
             width="560"
             height="315"
-            src="https://www.youtube.com/embed/47vUcjn2Dl8"
+            src="https://www.youtube.com/embed/Q7go3yQiphw"
             title="YouTube video player"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>
         }
-        previous="/blog/castellano/ajuste-de-control-para-bomba-de-presion-compensada"
-        next="/blog/castellano/calculo-de-potencia-hidraulica"
-        description="Aprenda a calcular la fuerza de un cilindro hidráulico. "
+        previous="/blog/castellano"
+        next="/blog/castellano/fuerza-hidraulica-de-un-cilindro"
+        description="Como hacer ajuste de control hidráulico para una bomba de presión compensada. "
       />
     </div>
   );
 };
 
-export default Post7;
+export default Post9;
