@@ -48,7 +48,7 @@ function Blogger2(props) {
         </div>
         <div className="col-md-3">
           {" "}
-          <Link href="/blog/english/what-is-a-pressure-relief-valve">
+          <Link href="">
             <a
               className="btn btn-info d-flex justify-content-center"
               target="blank"

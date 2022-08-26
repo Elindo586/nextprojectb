@@ -42,7 +42,7 @@ const Post6 = () => {
           />
           <meta
             property="og:url"
-            content="https://www.tu.biz/horsepower-fluid-power-calculation"
+            content="https://www.tu.biz/blog/english/horsepower-fluid-power-calculation"
             id="meta-og-url"
           />
           <meta property="og:locale" content="en" />

@@ -46,7 +46,7 @@ const Post5 = () => {
           />
           <meta
             property="og:url"
-            content="https://www.tu.biz/calculo-de-potencia-hidraulica"
+            content="https://www.tu.biz/blog/castellano/calculo-de-potencia-hidraulica"
             id="meta-og-url"
           />
           <meta property="og:locale" content="es" />
@@ -91,7 +91,7 @@ const Post5 = () => {
             allowFullScreen
           ></iframe>
         }
-        previous="/blog/castellano"
+        previous="/blog/castellano/fuerza-hidraulica-de-un-cilindro"
         next="/blog/castellano/valvula-de-alivio"
         description="La manera más simple de hacer un cálculo de potencia requierida para el trabajo de una bomba hidráulica. "
       />
