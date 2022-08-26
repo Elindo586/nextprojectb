@@ -87,7 +87,7 @@ const Post8 = () => {
             allowFullScreen
           ></iframe>
         }
-        previous="/blog/english"
+        previous="/blog/english/pressure-compensated-pump-control-adjustment"
         next="/blog/english/horsepower-fluid-power-calculation"
         description="This is how you calculate the work force for a hydraulic cylinder."
       />

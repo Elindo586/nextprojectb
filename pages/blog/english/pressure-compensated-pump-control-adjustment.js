@@ -20,10 +20,10 @@ const Post10 = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>Hydraulic Cylinder Force Calculation</title>
+          <title>Pressure compensated pump control adjustment</title>
           <meta
             name="description"
-            content="Learn how to calculate the cylinder force for your hydraulic system."
+            content="Learn how to properly adjust a pressure compensated control of a hydraulic pump."
           />
           <meta name="keywords" content="cylinder force calculation" />
           <meta name="author" content="Edgar Lindo" />
@@ -32,17 +32,17 @@ const Post10 = () => {
 
           <meta
             property="og:title"
-            content=" Cylinder Force Calculation"
+            content=" Pressure compensated pump control adjustment"
             id="meta-og-title"
           />
           <meta
             property="og:description"
-            content="Learn how to calculate the cylinder force in your hydraulic system. "
+            content="Learn how to properly adjust a pressure compensated control of a hydraulic pump."
             id="meta-og-desc"
           />
           <meta
             property="og:url"
-            content="https://www.tu.biz/blog/english/hydraulic-cylinder-force-calculation"
+            content="https://www.tu.biz/blog/english/pressure-compensated-pump-control-adjustment"
             id="meta-og-url"
           />
           <meta property="og:locale" content="en" />
@@ -50,7 +50,7 @@ const Post10 = () => {
           <meta
             name="image"
             property="og:image"
-            content="https://www.tu.biz//blog-images-english/cylinder-force-calculation.png"
+            content="https://www.tu.biz//blog-images-english/pressure-compensated-pump-control.png"
             id="meta-og-image"
           />
 
@@ -61,26 +61,26 @@ const Post10 = () => {
 
           <meta
             name="twitter:title"
-            content=" Hydraulic Cylinder Force Calculation. "
+            content="Pressure compensated pump control adjustment. "
           />
 
           <meta
             name="twitter:description"
-            content="Learn how to properly calculate a hydraulic cylinder force for your hydraulic system."
+            content="Learn how to properly adjust a pressure compensated control of a hydraulic pump."
           />
           <meta
             name="twitter:image"
-            content="https://www.tu.biz/blog-images-english/cylinder-force-calculation.png"
+            content="https://www.tu.biz/blog-images-english/pressure-compensated-pump-control.png"
           />
         </Head>
       </div>
       <Blogger1
-        title="Hydraulic Cylinder Force Calculation."
+        title="Pressure compensated pump control adjustment."
         body={
           <iframe
             width="560"
             height="315"
-            src="https://www.youtube.com/embed/M-wsllOxfeA"
+            src="https://www.youtube.com/embed/vq5TyJBKIbM"
             title="YouTube video player"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -88,8 +88,8 @@ const Post10 = () => {
           ></iframe>
         }
         previous="/blog/english"
-        next="/blog/english/horsepower-fluid-power-calculation"
-        description="This is how you calculate the work force for a hydraulic cylinder."
+        next="/blog/english/hydraulic-cylinder-force-calculation"
+        description="This is the proper way on how you adjust a pressure compensated control for a hydraulic pump."
       />
     </div>
   );
