@@ -22,6 +22,42 @@ function Blogger11(props) {
           />
 
           <title>{props.metaTitle}</title>
+          <meta name="description" content={`${props.metaDescription}`} />
+          <meta name="keywords" content={`${props.metaKeywords}`} />
+          <meta name="author" content="Edgar Lindo" />
+
+          {/* Open Graph */}
+          <meta
+            property="og:title"
+            content={`${props.ogTittle}`}
+            id="meta-og-title"
+          />
+          <meta
+            property="og:description"
+            content={`${props.ogDescription}`}
+            id="meta-og-desc"
+          />
+          <meta property="og:url" content={`${props.ogURL}`} id="meta-og-url" />
+          <meta property="og:locale" content="es" />
+          <meta property="site_name" content="TU-Technical Union" />
+          <meta
+            name="image"
+            property="og:image"
+            content={`${props.ogImage}`}
+            id="meta-og-image"
+          />
+          {/* Twitter card */}
+
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:creator" content="@MrEdgarLindo" />
+
+          <meta name="twitter:title" content={`${props.metaDescription}`} />
+
+          <meta
+            name="twitter:description"
+            content={`${props.metaDescription}`}
+          />
+          <meta name="twitter:image" content={`${props.metaDescription}`} />
         </Head>
       </div>
       <div className="row">
