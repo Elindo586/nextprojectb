@@ -17,8 +17,8 @@
     "description": "Aprenda como ajustar el control hidráulico de una bomba de presión compensada.",
     "verMas": "ver más",
     "link": "/blog/castellano/ajuste-de-control-para-bomba-de-presion-compensada",
-    "previous": "/blog/castellano/fuerza-hidraulica-de-un-cilindro",
-    "next": "/blog/castellano/"
+    "next": "/blog/castellano/fuerza-hidraulica-de-un-cilindro",
+    "previous": "/blog/castellano/"
   },
   {
     "id": "4",
@@ -38,8 +38,8 @@
     "description": "Aprenda a calcular la fuerza de un cilindro hidráulico correctamente. ",
     "verMas": "ver más",
     "link": "/blog/castellano/fuerza-hidraulica-de-un-cilindro",
-    "previous": "/blog/castellano/calculo-de-potencia-hidraulica",
-    "next": "/blog/castellano/ajuste-de-control-para-bomba-de-presion-compensada"
+    "next": "/blog/castellano/calculo-de-potencia-hidraulica",
+    "previous": "/blog/castellano/ajuste-de-control-para-bomba-de-presion-compensada"
   },
   {
     "id": "3",
@@ -59,8 +59,8 @@
     "description": "Cálculo de potencia hidráulica para bomba hidráulica.",
     "verMas": "ver más",
     "link": "/blog/castellano/calculo-de-potencia-hidraulica",
-    "previous": "/blog/castellano/valvula-de-alivio",
-    "next": "/blog/castellano/fuerza-hidraulica-de-un-cilindro"
+    "next": "/blog/castellano/valvula-de-alivio",
+    "previous": "/blog/castellano/fuerza-hidraulica-de-un-cilindro"
   },
   {
     "id": "2",
@@ -80,8 +80,8 @@
     "description": "Funcionamiento de una válvula de alivio en un sistema hidráulico. ",
     "verMas": "ver más",
     "link": "/blog/castellano/valvula-de-alivio",
-    "previous": "/blog/castellano/prueba-de-bomba-hidraulica-de-presion-compensada",
-    "next": "/blog/castellano/calculo-de-potencia-hidraulica"
+    "next": "/blog/castellano/prueba-de-bomba-hidraulica-de-presion-compensada",
+    "previous": "/blog/castellano/calculo-de-potencia-hidraulica"
   },
 
   {
@@ -102,7 +102,7 @@
     "description": "Aprenda como se hace una prueba de bomba hidráulica de presión compensada",
     "verMas": "ver más",
     "link": "/blog/castellano/prueba-de-bomba-hidraulica-de-presion-compensada",
-    "previous": "/bog/castellano",
-    "next": "/blog/castellano/valvula-de-alivio"
+    "next": "/bog/castellano",
+    "previous": "/blog/castellano/valvula-de-alivio"
   }
 ]
