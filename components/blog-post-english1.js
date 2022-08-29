@@ -51,13 +51,13 @@ function Blogger11(props) {
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:creator" content="@MrEdgarLindo" />
 
-          <meta name="twitter:title" content={`${props.metaDescription}`} />
+          <meta name="twitter:title" content={`${props.twitterTitle}`} />
 
           <meta
             name="twitter:description"
-            content={`${props.metaDescription}`}
+            content={`${props.twitterDescription}`}
           />
-          <meta name="twitter:image" content={`${props.metaDescription}`} />
+          <meta name="twitter:image" content={`${props.twitterImage}`} />
         </Head>
       </div>
       <div className="row">
