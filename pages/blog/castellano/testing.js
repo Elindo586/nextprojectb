@@ -1,5 +1,5 @@
 import React from "react";
-import Blogger11 from "../../../components/blog-post-english1";
+import Blogger11 from "../../../components/blog-post-spanish1";
 
 import db from "../../../utils/blogs-front/spanish/blog-spanis1.json";
 
@@ -12,7 +12,7 @@ export async function getStaticProps() {
 const PostTest = ({ db }) => {
   function post(info) {
     return (
-      info.id === "4995",
+      info.id === "5",
       info.item,
       info.metaTitle,
       info.metaDescription,

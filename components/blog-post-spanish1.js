@@ -66,7 +66,19 @@ function Blogger11(props) {
             {" "}
             <h3>{props.title}</h3> <br />
           </div>
-          <div className="ratio ratio-16x9"> {props.body} </div> <br />
+          <div className="ratio ratio-16x9">
+            {" "}
+            <iframe
+              width="560"
+              height="315"
+              src={`${props.body}`}
+              title="YouTube video player"
+              frameBorder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            ></iframe>{" "}
+          </div>{" "}
+          <br />
           <div>
             <Social1 /> <br />
           </div>
@@ -93,7 +105,10 @@ function Blogger11(props) {
             )}
           </div>
           <br />
-          <div className=""> {props.description} </div>
+          <div className="">
+            {" "}
+            <p lang="es">{props.description}</p>{" "}
+          </div>
         </div>
         <div className="col-md-3">
           {" "}
