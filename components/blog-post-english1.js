@@ -112,12 +112,12 @@ function Blogger1(props) {
         </div>
         <div className="col-md-3">
           {" "}
-          <Link href="/blog/english">
+          <Link href="/blog/castellano">
             <a
               className="btn btn-info d-flex justify-content-center"
               target="blank"
             >
-              Go to English Blogs
+              Ir al blog en Castellano.
             </a>
           </Link>{" "}
           <br /> <br />
