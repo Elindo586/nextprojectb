@@ -1,9 +1,9 @@
 import React from "react";
 import Link from "next/link";
 import AdBanner from "./ad-blog";
-import Social1 from "./social-english";
+import Social2 from "./social-english";
 
-function Blogger1(props) {
+function Blogger2(props) {
   return (
     <div>
       <div className="row">
@@ -14,7 +14,7 @@ function Blogger1(props) {
           </div>
           <div className="ratio ratio-16x9"> {props.body} </div> <br />
           <div>
-            <Social1 /> <br />
+            <Social2 /> <br />
           </div>
           <div className="col-md-12 centering-btn">
             {props.previous && (
@@ -59,4 +59,4 @@ function Blogger1(props) {
   );
 }
 
-export default Blogger1;
+export default Blogger2;

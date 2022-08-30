@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import Head from "next/head";
 import Link from "next/link";
-import Blogger1 from "../../../components/blog-post-english";
+import Blogger2 from "../../../components/blog-post-english";
 
 const Post1 = () => {
   return (
@@ -76,7 +76,7 @@ const Post1 = () => {
           />
         </Head>
       </div>
-      <Blogger1
+      <Blogger2
         title="What is a pressure relief valve."
         body={
           <iframe

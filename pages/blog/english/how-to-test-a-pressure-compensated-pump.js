@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import Head from "next/head";
 import Link from "next/link";
-import Blogger1 from "../../../components/blog-post-english";
+import Blogger2 from "../../../components/blog-post-english";
 
 const Post2 = () => {
   return (
@@ -73,7 +73,7 @@ const Post2 = () => {
           />
         </Head>
       </div>
-      <Blogger1
+      <Blogger2
         title="How to test a pressure compensated pump"
         body={
           <iframe

@@ -1,6 +1,6 @@
 import React from "react";
 import Head from "next/head";
-import Blogger1 from "../../../components/blog-post-english";
+import Blogger2 from "../../../components/blog-post-english";
 
 const Post10 = () => {
   return (
@@ -74,7 +74,7 @@ const Post10 = () => {
           />
         </Head>
       </div>
-      <Blogger1
+      <Blogger2
         title="Pressure compensated pump control adjustment."
         body={
           <iframe
