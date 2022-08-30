@@ -1,98 +1,69 @@
 import React from "react";
-import Head from "next/head";
+// import { useEffect } from "react";
 import Blogger2 from "../../../components/blog-post-english";
 
-const Post6 = () => {
+import db from "../../../utils/blogs-front/english/blog-english.json";
+
+export async function getStaticProps() {
+  return {
+    props: { db },
+  };
+}
+
+const PostEnglish3 = ({ db }) => {
+  // This is another way to do it if I dont do filter below
+  // function post(info) {
+  //   return (
+  //     info.id === "5",
+  //     info.item,
+  //     info.metaTitle,
+  //     info.metaDescription,
+  //     info.metaKeywords,
+  //     info.ogTitle,
+  //     info.ogDescription,
+  //     info.ogURL,
+  //     info.ogImage,
+  //     info.twitterTitle,
+  //     info.twitterDescription,
+  //     info.twitterImage,
+  //     info.title,
+  //     info.body,
+  //     info.description,
+  //     info.previous,
+  //     info.next
+  //   );
+  // }
+
+  // const item = db.find(post);
+
   return (
     <div>
-      <div>
-        <Head>
-          {/* Main */}
-          <meta charSet="UTF-8" />
-          <meta name="viewport" content="width=device-width, initial-scale=1" />
-          <link
-            rel="shortcut icon"
-            type="image/png"
-            href="/images/tu-favicon.png"
-          />
-
-          <meta
-            name="facebook-domain-verification"
-            content="fzctnjbrtlybvytmamk8glkng9af7p"
-          />
-          <title>Hydraulic Horsepower calculation.</title>
-          <meta
-            name="description"
-            content="Learn how to properly calculate hydraulic horsepower needed for your hydraulic system."
-          />
-          <meta name="keywords" content="horsepower, calculation " />
-          <meta name="author" content="Edgar Lindo" />
-
-          {/* Open Graph tags */}
-
-          <meta
-            property="og:title"
-            content=" Hydraulic horsepower calculation."
-            id="meta-og-title"
-          />
-          <meta
-            property="og:description"
-            content=" Learn how to properly calculate the amount of horsepower needed for your hydraulic system. "
-            id="meta-og-desc"
-          />
-          <meta
-            property="og:url"
-            content="https://www.tu.biz/blog/english/horsepower-fluid-power-calculation"
-            id="meta-og-url"
-          />
-          <meta property="og:locale" content="en" />
-          <meta property="site_name" content="TU-Technical Union" />
-          <meta
-            name="image"
-            property="og:image"
-            content="https://www.tu.biz//blog-images-english/HP-English.png"
-            id="meta-og-image"
-          />
-
-          {/* Twitter card */}
-
-          <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:creator" content="@MrEdgarLindo" />
-
-          <meta
-            name="twitter:title"
-            content=" TU -Technical Union | Hydraulic Horsepower calculation "
-          />
-
-          <meta
-            name="twitter:description"
-            content=" Learn how to properly calculate hydraulic horsepower needed for your hydraulic system."
-          />
-          <meta
-            name="twitter:image"
-            content="https://www.tu.biz/blog-images-english/HP-English.png"
-          />
-        </Head>
-      </div>
-      <Blogger2
-        title="How to calculate hydraulic horsepower."
-        body={
-          <iframe
-            width="560"
-            height="315"
-            src="https://www.youtube.com/embed/82sEwGEgIs8"
-            title="YouTube video player"
-            frameBorder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowFullScreen
-          ></iframe>
-        }
-        previous="/blog/english/hydraulic-cylinder-force-calculation"
-        next="/blog/english/how-to-test-a-pressure-compensated-pump"
-        description="Learn how to calculate the hydraulic horsepower for your hydraulic system."
-      />
+      {db
+        .filter((item) => item.id === "3")
+        .map((item) => {
+          return (
+            <Blogger2
+              key={item.id}
+              metaTitle={item.metaTitle}
+              metaDescription={item.metaDescription}
+              metaKeywords={item.metaKeywords}
+              ogTitle={item.ogTitle}
+              ogDescription={item.ogDescription}
+              ogURL={item.ogURL}
+              ogImage={item.ogImage}
+              twitterTitle={item.twitterTitle}
+              twitterDescription={item.twitterDescription}
+              twitterImage={item.twitterImage}
+              title={item.title}
+              body={item.body}
+              description={item.description}
+              previous={item.previous}
+              next={item.next}
+            />
+          );
+        })}
     </div>
   );
 };
 
-export default Post6;
+export default PostEnglish3;

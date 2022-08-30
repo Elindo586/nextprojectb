@@ -1,98 +1,69 @@
 import React from "react";
-import Head from "next/head";
+// import { useEffect } from "react";
 import Blogger2 from "../../../components/blog-post-english";
 
-const Post10 = () => {
+import db from "../../../utils/blogs-front/english/blog-english.json";
+
+export async function getStaticProps() {
+  return {
+    props: { db },
+  };
+}
+
+const PostEnglish5 = ({ db }) => {
+  // This is another way to do it if I dont do filter below
+  // function post(info) {
+  //   return (
+  //     info.id === "5",
+  //     info.item,
+  //     info.metaTitle,
+  //     info.metaDescription,
+  //     info.metaKeywords,
+  //     info.ogTitle,
+  //     info.ogDescription,
+  //     info.ogURL,
+  //     info.ogImage,
+  //     info.twitterTitle,
+  //     info.twitterDescription,
+  //     info.twitterImage,
+  //     info.title,
+  //     info.body,
+  //     info.description,
+  //     info.previous,
+  //     info.next
+  //   );
+  // }
+
+  // const item = db.find(post);
+
   return (
     <div>
-      <div>
-        <Head>
-          {/* Main */}
-          <meta charSet="UTF-8" />
-          <meta name="viewport" content="width=device-width, initial-scale=1" />
-          <link
-            rel="shortcut icon"
-            type="image/png"
-            href="/images/tu-favicon.png"
-          />
-
-          <meta
-            name="facebook-domain-verification"
-            content="fzctnjbrtlybvytmamk8glkng9af7p"
-          />
-          <title>Pressure compensated pump control adjustment</title>
-          <meta
-            name="description"
-            content="Learn how to properly adjust a pressure compensated control of a hydraulic pump."
-          />
-          <meta name="keywords" content="cylinder force calculation" />
-          <meta name="author" content="Edgar Lindo" />
-
-          {/* Open Graph tags */}
-
-          <meta
-            property="og:title"
-            content=" Pressure compensated pump control adjustment"
-            id="meta-og-title"
-          />
-          <meta
-            property="og:description"
-            content="Learn how to properly adjust a pressure compensated control of a hydraulic pump."
-            id="meta-og-desc"
-          />
-          <meta
-            property="og:url"
-            content="https://www.tu.biz/blog/english/pressure-compensated-pump-control-adjustment"
-            id="meta-og-url"
-          />
-          <meta property="og:locale" content="en" />
-          <meta property="site_name" content="TU-Technical Union" />
-          <meta
-            name="image"
-            property="og:image"
-            content="https://www.tu.biz//blog-images-english/pressure-compensated-pump-control.png"
-            id="meta-og-image"
-          />
-
-          {/* Twitter card */}
-
-          <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:creator" content="@MrEdgarLindo" />
-
-          <meta
-            name="twitter:title"
-            content="Pressure compensated pump control adjustment. "
-          />
-
-          <meta
-            name="twitter:description"
-            content="Learn how to properly adjust a pressure compensated control of a hydraulic pump."
-          />
-          <meta
-            name="twitter:image"
-            content="https://www.tu.biz/blog-images-english/pressure-compensated-pump-control.png"
-          />
-        </Head>
-      </div>
-      <Blogger2
-        title="Pressure compensated pump control adjustment."
-        body={
-          <iframe
-            width="560"
-            height="315"
-            src="https://www.youtube.com/embed/vq5TyJBKIbM"
-            title="YouTube video player"
-            frameBorder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowFullScreen
-          ></iframe>
-        }
-        previous="/blog/english"
-        next="/blog/english/hydraulic-cylinder-force-calculation"
-        description="This is the proper way on how you adjust a pressure compensated control for a hydraulic pump."
-      />
+      {db
+        .filter((item) => item.id === "5")
+        .map((item) => {
+          return (
+            <Blogger2
+              key={item.id}
+              metaTitle={item.metaTitle}
+              metaDescription={item.metaDescription}
+              metaKeywords={item.metaKeywords}
+              ogTitle={item.ogTitle}
+              ogDescription={item.ogDescription}
+              ogURL={item.ogURL}
+              ogImage={item.ogImage}
+              twitterTitle={item.twitterTitle}
+              twitterDescription={item.twitterDescription}
+              twitterImage={item.twitterImage}
+              title={item.title}
+              body={item.body}
+              description={item.description}
+              previous={item.previous}
+              next={item.next}
+            />
+          );
+        })}
     </div>
   );
 };
 
-export default Post10;
+export default PostEnglish5;

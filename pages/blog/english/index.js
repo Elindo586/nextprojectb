@@ -5,7 +5,7 @@ import Image from "next/image";
 import Head from "next/head";
 import Pagination from "../../../components/pagination";
 
-import db from "../../../utils/blogs-front/english/blogs-english";
+import db from "../../../utils/blogs-front/english/blog-english";
 
 export async function getStaticProps() {
   return {
@@ -161,7 +161,7 @@ const BloggerFrontEnglish = ({ db }) => {
                     {" "}
                     <Link href={item.link}>
                       <a className="btn btn-info d-flex justify-content-center">
-                        {item.description}
+                        {item.more}
                       </a>
                     </Link>
                   </div>
