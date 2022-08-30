@@ -1,98 +1,69 @@
 import React from "react";
-import Head from "next/head";
-import Blogger2 from "../../../components/blog-post-spanish";
+// import { useEffect } from "react";
+import Blogger1 from "../../../components/blog-post-spanish";
 
-const Post4 = () => {
+import db from "../../../utils/blogs-front/spanish/blog-spanish.json";
+
+export async function getStaticProps() {
+  return {
+    props: { db },
+  };
+}
+
+const PostSpanish1 = ({ db }) => {
+  // This is another way to do it if I dont do filter below
+  // function post(info) {
+  //   return (
+  //     info.id === "5",
+  //     info.item,
+  //     info.metaTitle,
+  //     info.metaDescription,
+  //     info.metaKeywords,
+  //     info.ogTitle,
+  //     info.ogDescription,
+  //     info.ogURL,
+  //     info.ogImage,
+  //     info.twitterTitle,
+  //     info.twitterDescription,
+  //     info.twitterImage,
+  //     info.title,
+  //     info.body,
+  //     info.description,
+  //     info.previous,
+  //     info.next
+  //   );
+  // }
+
+  // const item = db.find(post);
+
   return (
     <div>
-      <div>
-        <Head>
-          {/* Main */}
-          <meta charSet="UTF-8" />
-          <meta name="viewport" content="width=device-width, initial-scale=1" />
-          <link
-            rel="shortcut icon"
-            type="image/png"
-            href="/images/tu-favicon.png"
-          />
-
-          <meta
-            name="facebook-domain-verification"
-            content="fzctnjbrtlybvytmamk8glkng9af7p"
-          />
-          <title>TU-Technical Union | Prueba de bomba hidráulica</title>
-          <meta
-            name="description"
-            content="Aprenda como se hace una prueba de bomba hidráulica de presión compensada"
-          />
-          <meta name="keywords" content="bomba hidraulica" />
-          <meta name="author" content="Edgar Lindo" />
-
-          {/* Open Graph */}
-
-          <meta
-            property="og:title"
-            content=" Prueba de bomba hidráulica"
-            id="meta-og-title"
-          />
-          <meta
-            property="og:description"
-            content="Aprenda como se hace una prueba de bomba hidráulica de presión compensada"
-            id="meta-og-desc"
-          />
-          <meta
-            property="og:url"
-            content="https://www.tu.biz/blog/castellano/prueba-de-bomba-hidraulica-de-presion-compensada"
-            id="meta-og-url"
-          />
-          <meta property="og:locale" content="es" />
-          <meta property="site_name" content="TU-Technical Union" />
-          <meta
-            name="image"
-            property="og:image"
-            content="https://www.tu.biz//blog-images-spanish/prueba-bomba-hidraulica-presion-compensada.png"
-            id="meta-og-image"
-          />
-
-          {/* Twitter card */}
-
-          <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:creator" content="@MrEdgarLindo" />
-
-          <meta
-            name="twitter:title"
-            content=" Prueba de bomba hidráulica de presión compensada "
-          />
-
-          <meta
-            name="twitter:description"
-            content="Aprenda como hacer una prueba para bomba hidráulica de presión compensada"
-          />
-          <meta
-            name="twitter:image"
-            content="https://www.tu.biz/blog-images-spanish/prueba-bomba-hidraulica-presion-compensada.png"
-          />
-        </Head>
-      </div>
-      <Blogger2
-        title="Prueba de bomba hidráulica de presión compensada"
-        body={
-          <iframe
-            width="560"
-            height="315"
-            src="https://www.youtube.com/embed/jUOYap36IVo"
-            title="YouTube video player"
-            frameBorder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowFullScreen
-          ></iframe>
-        }
-        previous="/blog/castellano/valvula-de-alivio"
-        next="/blog/castellano"
-        description="La manera mas simple de hacer una prueba para una bomba hidráulica de presión compensada "
-      />
+      {db
+        .filter((item) => item.id === "1")
+        .map((item) => {
+          return (
+            <Blogger1
+              key={item.id}
+              metaTitle={item.metaTitle}
+              metaDescription={item.metaDescription}
+              metaKeywords={item.metaKeywords}
+              ogTitle={item.ogTitle}
+              ogDescription={item.ogDescription}
+              ogURL={item.ogURL}
+              ogImage={item.ogImage}
+              twitterTitle={item.twitterTitle}
+              twitterDescription={item.twitterDescription}
+              twitterImage={item.twitterImage}
+              title={item.title}
+              body={item.body}
+              description={item.description}
+              previous={item.previous}
+              next={item.next}
+            />
+          );
+        })}
     </div>
   );
 };
 
-export default Post4;
+export default PostSpanish1;
