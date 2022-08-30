@@ -2,7 +2,7 @@ import React from "react";
 import Head from "next/head";
 import Link from "next/link";
 import AdBanner from "./ad-blog";
-import Social1 from "./social-english";
+import Social1 from "./social-spanish";
 
 function Blogger1(props) {
   return (

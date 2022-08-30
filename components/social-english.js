@@ -1,7 +1,7 @@
 import React from "react";
 import Link from "next/link";
 
-const Social1 = () => {
+const Social2 = () => {
   return (
     <div className="col-md-12">
       <div className=" d-flex" target="">
@@ -62,4 +62,4 @@ const Social1 = () => {
   );
 };
 
-export default Social1;
+export default Social2;
