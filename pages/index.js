@@ -4,7 +4,7 @@ import Head from "next/head";
 
 const Home = () => {
   return (
-    <div>
+    <div lang="en">
       <div>
         <Head>
           <meta charSet="UTF-8" />
