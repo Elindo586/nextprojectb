@@ -77,7 +77,7 @@ const Home = () => {
       </div>
 
       <div className="row">
-        <div className="col-md-6">
+        <div className="col-md-6" lang="en">
           <p className="maintext">
             <strong> TU – TECHNICAL UNION</strong> is your single source for
             engineered and standard hydraulic components to meet your hydraulic
@@ -87,7 +87,7 @@ const Home = () => {
             production time, and optimal machine maintenance to maximize your
             company’s capital investment.
           </p>
-          <p className="maintext">
+          <p className="maintext" lang="en">
             <strong>TU – TECHNICAL UNION</strong> offers cost-effective
             technical solutions that you can trust to help you increase
             efficient productivity, compact system design, and usage control of
