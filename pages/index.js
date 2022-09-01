@@ -113,7 +113,7 @@ const Home = () => {
             </ul>
           </div>
         </div>
-        <div className="col-md-6" lang="enS">
+        <div className="col-md-6" lang="en">
           <div id="maintenance1">
             <Image
               src="/images/maintenance-1.png"
