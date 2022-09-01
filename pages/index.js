@@ -76,7 +76,7 @@ const Home = () => {
         </Head>
       </div>
 
-      <div className="row">
+      <div className="row" lang="en">
         <div className="col-md-6" lang="en">
           <p className="maintext">
             <strong> TU – TECHNICAL UNION</strong> is your single source for
@@ -113,7 +113,7 @@ const Home = () => {
             </ul>
           </div>
         </div>
-        <div className="col-md-6">
+        <div className="col-md-6" lang="enS">
           <div id="maintenance1">
             <Image
               src="/images/maintenance-1.png"

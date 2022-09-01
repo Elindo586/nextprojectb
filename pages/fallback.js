@@ -2,7 +2,7 @@ import React from "react";
 
 const fallback = () => (
   <div>
-    <h1 className="fallback">
+    <h1 className="fallback" lang="en">
       This is fallback page when your device is offline.{" "}
     </h1>
     <br /> <br /> <br />
