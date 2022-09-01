@@ -75,7 +75,7 @@ const DirectionalControlValves = () => {
           />
         </Head>
       </div>
-      <div className="row">
+      <div className="row" lang="en">
         <div className="col-md-9 table-responsive">
           <div className="col-md-12">
             <h6 className="product-title-text"> Directional Control Valves</h6>{" "}

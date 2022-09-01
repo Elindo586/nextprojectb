@@ -26,7 +26,7 @@ const Thanks = () => {
           <meta name="author" content="Edgar Lindo" />
         </Head>
       </div>
-      <div className="row">
+      <div className="row" lang="en">
         <div className="col-md-12">
           <h6 className="thank-you-text"> Thank you! </h6>
         </div>

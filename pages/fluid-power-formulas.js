@@ -430,7 +430,7 @@ const Formulas = () => {
           />
         </Head>
       </div>
-      <div className="row">
+      <div className="row" lang="en">
         <div className="col-md-12">
           <div className="formulas-title">
             <h1 className="fluid-power-formulas">Fluid Power Formulas</h1>

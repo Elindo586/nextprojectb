@@ -232,7 +232,7 @@ const Interactive = () => {
         </Head>
       </div>
 
-      <div className="row">
+      <div className="row" lang="en">
         <div className="col-md-6">
           {/* style="enable-background: new 0 0 1218 1048" ADD CSS TO SVG ELEMENT BELOW */}
           <svg
