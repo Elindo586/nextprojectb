@@ -13,13 +13,13 @@ function ProductNav() {
   return (
     <div className=" col-md-3">
       <h3 className="nav2title">PRODUCTS</h3>
-      <ul className="nav2">
-        <li>
+      <dl className="nav2">
+        <dt>
           <h5 className="link1" href="#">
             Pumps
           </h5>
-        </li>
-        <dl>
+        </dt>
+        <dd>
           {/* Might need to useState on which link is active */}
           <Link href="/products/piston-pumps" passHref>
             <a
@@ -32,8 +32,8 @@ function ProductNav() {
               Piston Pumps
             </a>
           </Link>
-        </dl>
-        <dl>
+        </dd>
+        <dd>
           <Link href="/products/vane-pumps" passHref>
             <a
               className={
@@ -43,9 +43,9 @@ function ProductNav() {
               Vane Pumps
             </a>
           </Link>
-        </dl>
+        </dd>
 
-        <dl>
+        <dd>
           <Link href="/products/gear-pumps" passHref>
             <a
               className={
@@ -55,14 +55,14 @@ function ProductNav() {
               Gear Pumps
             </a>
           </Link>
-        </dl>
+        </dd>
 
-        <li>
+        <dt>
           <h5 className="link1" href="#">
             Motors
           </h5>
-        </li>
-        <dl>
+        </dt>
+        <dd>
           <Link href="/products/geroler-motors" passHref>
             <a
               className={
@@ -74,8 +74,8 @@ function ProductNav() {
               Geroler Motors
             </a>
           </Link>
-        </dl>
-        <dl>
+        </dd>
+        <dd>
           <Link href="/products/vane-motors" passHref>
             <a
               className={
@@ -85,14 +85,14 @@ function ProductNav() {
               Vane Motors
             </a>
           </Link>
-        </dl>
+        </dd>
 
-        <li>
+        <dt>
           <h5 className="link1" href="#">
             Flowmeters
           </h5>
-        </li>
-        <dl>
+        </dt>
+        <dd>
           <Link href="/products/flowmeters" passHref>
             <a
               className={
@@ -102,14 +102,14 @@ function ProductNav() {
               Flowmeters
             </a>
           </Link>
-        </dl>
+        </dd>
 
-        <li>
+        <dt>
           <h5 className="link1" href="#">
             Valves
           </h5>
-        </li>
-        <dl>
+        </dt>
+        <dd>
           <Link href="/products/directional-control-valves" passHref>
             <a
               className={
@@ -121,9 +121,9 @@ function ProductNav() {
               Directional Control
             </a>
           </Link>
-        </dl>
+        </dd>
 
-        <dl>
+        <dd>
           <Link href="/products/flow-control-valves" passHref>
             <a
               className={
@@ -135,12 +135,12 @@ function ProductNav() {
               Flow Control
             </a>
           </Link>
-        </dl>
+        </dd>
 
-        <li>
+        <dt>
           <h5 className="link1"> Manifolds</h5>
-        </li>
-        <dl>
+        </dt>
+        <dd>
           <Link href="/products/hydraulic-manifolds" passHref>
             <a
               className={
@@ -152,8 +152,8 @@ function ProductNav() {
               Manifolds
             </a>
           </Link>
-        </dl>
-      </ul>
+        </dd>
+      </dl>
     </div>
   );
 }
