@@ -144,7 +144,7 @@ const BloggerFrontSpanish = ({ db }) => {
               onKeyUp={(event) => {
                 setSearchTerm(event.target.value);
               }}
-              placeholder="Busqueda en blogs.."
+              placeholder="Búsqueda en blogs.."
               title="Type in a name"
             />{" "}
             <br /> <br />
