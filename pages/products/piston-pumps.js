@@ -88,7 +88,7 @@ const PistonPumps = () => {
               />
             </div>
             <br />
-            <Link href="/assets/pdffiles/a10v-pump-catalog.pdf">
+            <Link href="/pdf/a10v-pump-catalog.pdf">
               <a className="btn btn-info d-flex justify-content-center">
                 Download PDF
               </a>
@@ -169,7 +169,7 @@ const PistonPumps = () => {
               />
             </div>
             <br />
-            <Link href="/assets/pdffiles/radial-piston-pumps.pdf">
+            <Link href="/pdf/radial-piston-pumps.pdf">
               <a className="btn btn-info d-flex justify-content-center">
                 Download PDF
               </a>
