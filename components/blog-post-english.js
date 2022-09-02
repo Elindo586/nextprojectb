@@ -116,6 +116,7 @@ function Blogger2(props) {
             <a
               className="btn btn-info d-flex justify-content-center"
               target="blank"
+              lang="es"
             >
               Ir al blog en Castellano.
             </a>

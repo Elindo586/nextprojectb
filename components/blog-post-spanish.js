@@ -64,7 +64,7 @@ function Blogger1(props) {
         <div className="col-md-9">
           <div className="text-center">
             {" "}
-            <h3>{props.title}</h3> <br />
+            <h3 lang="es">{props.title}</h3> <br />
           </div>
           <div className="ratio ratio-16x9">
             {" "}
@@ -88,8 +88,9 @@ function Blogger1(props) {
                 <a
                   className="btn btn-info d-flex justify-content-center"
                   target=""
+                  lang="es"
                 >
-                  Previous
+                  Previo
                 </a>
               </Link>
             )}
@@ -98,8 +99,9 @@ function Blogger1(props) {
                 <a
                   className="btn btn-info d-flex justify-content-center"
                   target=""
+                  lang="es"
                 >
-                  Next
+                  Próximo
                 </a>
               </Link>
             )}
