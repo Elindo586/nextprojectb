@@ -136,6 +136,7 @@ const BloggerFrontSpanish = ({ db }) => {
         <div className="col-md-9">
           <div>
             <input
+              lang="es"
               className="blog-input-spanish"
               type="text"
               id="myInput"
@@ -154,7 +155,7 @@ const BloggerFrontSpanish = ({ db }) => {
                 <div key={id}>
                   <div>
                     {" "}
-                    <h4>{item.title}</h4>
+                    <h4 lang="es">{item.title}</h4>
                   </div>
                   <Image
                     src={item.picture}
@@ -165,7 +166,10 @@ const BloggerFrontSpanish = ({ db }) => {
                   <div lang="es">
                     {" "}
                     <Link href={item.link}>
-                      <a className="btn btn-info d-flex justify-content-center">
+                      <a
+                        lang="es"
+                        className="btn btn-info d-flex justify-content-center"
+                      >
                         {item.verMas}
                       </a>
                     </Link>
