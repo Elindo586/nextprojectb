@@ -15,9 +15,9 @@ function ProductNav() {
       <h3 className="nav2title">PRODUCTS</h3>
       <dl className="nav2">
         <dt>
-          <h5 className="link1" href="#">
+          <p className="link1" href="#">
             Pumps
-          </h5>
+          </p>
         </dt>
         <dd>
           {/* Might need to useState on which link is active */}
@@ -58,9 +58,9 @@ function ProductNav() {
         </dd>
 
         <dt>
-          <h5 className="link1" href="#">
+          <p className="link1" href="#">
             Motors
-          </h5>
+          </p>
         </dt>
         <dd>
           <Link href="/products/geroler-motors" passHref>
@@ -88,9 +88,9 @@ function ProductNav() {
         </dd>
 
         <dt>
-          <h5 className="link1" href="#">
+          <p className="link1" href="#">
             Flowmeters
-          </h5>
+          </p>
         </dt>
         <dd>
           <Link href="/products/flowmeters" passHref>
@@ -105,9 +105,9 @@ function ProductNav() {
         </dd>
 
         <dt>
-          <h5 className="link1" href="#">
+          <p className="link1" href="#">
             Valves
-          </h5>
+          </p>
         </dt>
         <dd>
           <Link href="/products/directional-control-valves" passHref>
@@ -138,7 +138,7 @@ function ProductNav() {
         </dd>
 
         <dt>
-          <h5 className="link1"> Manifolds</h5>
+          <p className="link1"> Manifolds</p>
         </dt>
         <dd>
           <Link href="/products/hydraulic-manifolds" passHref>
