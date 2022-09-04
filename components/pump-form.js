@@ -489,7 +489,7 @@ const PumpForm = () => {
               />{" "}
               <br />
               <h5>Third stage pump details:</h5>
-              <label htmlFor="p3type">
+              <label htmlFor="p3fixed">
                 {" "}
                 Fixed displacement / No Control.{" "}
               </label>{" "}
