@@ -70,9 +70,9 @@ const MotorForm = () => {
       </h4>
 
       <form>
-        <h6>
+        <h5>
           <u>Hydraulic Motor info:</u>
-        </h6>
+        </h5>
         {/* style="display:inline-block" ADD TO CSS FOR ELEMENT BELOW */}
         <label className="motor-form-labels form-label-style" htmlFor="torque">
           * Torque (in/lbs):{" "}
