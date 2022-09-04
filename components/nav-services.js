@@ -16,9 +16,9 @@ function ServicesNav() {
         <h2 className="nav2title">SERVICES</h2>
         <dl className="nav2">
           <dt>
-            <h5 className="link1" href="">
+            <p className="link1" href="">
               Oil Analysis
-            </h5>
+            </p>
           </dt>
 
           <dd>
@@ -36,9 +36,9 @@ function ServicesNav() {
           </dd>
 
           <dt>
-            <h5 className="link1" href="#">
+            <p className="link1" href="#">
               Preventive Maintenance
-            </h5>
+            </p>
           </dt>
           <dd>
             <Link href="/services/preventive-maintenance-programs" passHref>
