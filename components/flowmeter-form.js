@@ -80,9 +80,11 @@ const FlowmeterForm = () => {
         <h4 className="flowmeter-configurator">Flowmeter Quote Configurator</h4>
 
         <form>
-          <h6>
-            <u>Flowmeter info:</u>
-          </h6>
+          <p>
+            <strong>
+              <u>Flowmeter info:</u>
+            </strong>
+          </p>
           <label
             className="flowmeter-form-labels form-label-style"
             htmlFor="gpm"
@@ -134,7 +136,9 @@ const FlowmeterForm = () => {
             }}
           />
           <br /> <br />
-          <h6>* Flow Direction Options</h6>
+          <p>
+            <strong>* Flow Direction Options</strong>
+          </p>
           <input
             type="radio"
             name="flowDirection"
@@ -158,7 +162,9 @@ const FlowmeterForm = () => {
           />
           <label htmlFor="flowBiDirectional"> Bi-directional </label>
           <br /> <br />
-          <h6>* Flow Reading Options</h6>
+          <p>
+            <strong>* Flow Reading Options</strong>
+          </p>
           <input
             type="radio"
             name="readingDirection"
