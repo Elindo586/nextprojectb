@@ -437,8 +437,8 @@ const Formulas = () => {
           </div>
         </div>
         <div className="col-md-6">
-          <h6>
-            Force (lbs) = <br /> <br />
+          <p>
+            <b>Force (lbs) =</b> <br /> <br />
             <input
               type="number"
               placeholder="Pressure (psi)"
@@ -456,10 +456,10 @@ const Formulas = () => {
               =
             </button>
             <output type="number" id="forceResult"></output>
-          </h6>
+          </p>
           <br /> <hr className="linebreak" />
-          <h6>
-            Gpm = <br /> <br />
+          <p>
+            <b>Gpm =</b> <br /> <br />
             <input
               type="number"
               placeholder="rpm"
@@ -478,10 +478,10 @@ const Formulas = () => {
               =
             </button>
             <output type="number" id="gpmresult"></output>
-          </h6>
+          </p>
           <br /> <hr className="linebreak" />
-          <h6>
-            Hyd HP = <br /> <br />
+          <p>
+            <b>Hyd HP =</b> <br /> <br />
             <input
               type="number"
               placeholder="gpm"
@@ -500,10 +500,10 @@ const Formulas = () => {
               =
             </button>
             <output type="number" id="hydHPResult"></output>
-          </h6>
+          </p>
           <br /> <hr className="linebreak" />
-          <h6>
-            Torque (in lbs) = <br /> <br />
+          <p>
+            <b>Torque (in lbs) =</b> <br /> <br />
             <input
               type="number"
               placeholder="Pressure (psi)"
@@ -522,10 +522,10 @@ const Formulas = () => {
               =
             </button>
             <output type="number" id="torqueResult4"></output>
-          </h6>
+          </p>
           <br /> <hr className="linebreak" />
-          <h6>
-            Torque (in lbs) = <br /> <br />
+          <p>
+            <b>Torque (in lbs) =</b> <br /> <br />
             <input
               type="number"
               placeholder="HP"
@@ -543,10 +543,10 @@ const Formulas = () => {
               =
             </button>
             <output type="number" id="torqueResult5"></output>
-          </h6>
+          </p>
           <br /> <hr className="linebreak" />
-          <h6>
-            Cylinder area (in²) = <br /> <br />
+          <p>
+            <b>Cylinder area (in²) =</b> <br /> <br />
             <input
               type="number"
               placeholder="Diameter (in)"
@@ -558,12 +558,12 @@ const Formulas = () => {
               =
             </button>
             <output type="number" id="output6"></output>
-          </h6>
+          </p>
           <br /> <hr className="linebreak" />
         </div>
         <div className="col-md-6">
-          <h6>
-            EREA - Effected Rod End Area (in²) = <br /> <br />
+          <p>
+            <b>EREA - Effected Rod End Area (in²) =</b> <br /> <br />
             <input
               type="number"
               placeholder=" Cyl. Dia. (in)"
@@ -582,10 +582,10 @@ const Formulas = () => {
               =
             </button>
             <output type="number" id="output12"></output>
-          </h6>
+          </p>
           <br /> <hr className="linebreak" />
-          <h6>
-            Cyl Time (seconds) =<br /> <br />
+          <p>
+            <b>Cyl Time (seconds) =</b> <br /> <br />
             <input
               type="number"
               placeholder="Area (in²)"
@@ -610,10 +610,11 @@ const Formulas = () => {
               =
             </button>
             <output type="number" id="output7"></output>
-          </h6>
+          </p>
           <br /> <hr className="linebreak" />
-          <h6>
-            Cyl HP =<br /> <br />
+          <p>
+            <b>Cyl HP =</b>
+            <br /> <br />
             <input
               type="number"
               placeholder="Cyl. Speed (ft/min)"
@@ -632,10 +633,10 @@ const Formulas = () => {
               =
             </button>
             <output type="number" id="output8"></output>
-          </h6>
+          </p>
           <br /> <hr className="linebreak" />
-          <h6>
-            Cyl Adj. gpm on retract =<br /> <br />
+          <p>
+            <b>Cyl Adj. gpm on retract =</b> <br /> <br />
             <input
               type="number"
               placeholder="Cyl. Area (in²)"
@@ -660,10 +661,11 @@ const Formulas = () => {
               =
             </button>
             <output type="number" id="output9"></output>
-          </h6>
+          </p>
           <br /> <hr className="linebreak" />
-          <h6>
-            Cyl Speed (ft/min) =<br /> <br />
+          <p>
+            <b>Cyl Speed (ft/min) =</b>
+            <br /> <br />
             <input
               type="number"
               placeholder="Stroke (in)"
@@ -681,10 +683,10 @@ const Formulas = () => {
               =
             </button>
             <output type="number" id="output10"></output>
-          </h6>
+          </p>
           <br /> <hr className="linebreak" />
-          <h6>
-            Cyl Speed (ft/min) =<br /> <br />
+          <p>
+            <b>Cyl Speed (ft/min) =</b> <br /> <br />
             <input
               type="number"
               placeholder="gpm"
@@ -702,7 +704,7 @@ const Formulas = () => {
               =
             </button>
             <output type="number" id="output11"></output>
-          </h6>
+          </p>
           <br /> <hr className="linebreak" />
           <br />
         </div>
