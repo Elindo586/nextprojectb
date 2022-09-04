@@ -14,14 +14,14 @@ function ServicesNav() {
     <>
       <div className="col-md-3 ">
         <h2 className="nav2title">SERVICES</h2>
-        <ul className="nav2">
-          <li>
+        <dl className="nav2">
+          <dt>
             <h5 className="link1" href="">
               Oil Analysis
             </h5>
-          </li>
+          </dt>
 
-          <dl>
+          <dd>
             <Link href="/services/fluid-analysis" passHref>
               <a
                 className={
@@ -33,14 +33,14 @@ function ServicesNav() {
                 Laboratory Testing
               </a>
             </Link>
-          </dl>
+          </dd>
 
-          <li>
+          <dt>
             <h5 className="link1" href="#">
               Preventive Maintenance
             </h5>
-          </li>
-          <dl>
+          </dt>
+          <dd>
             <Link href="/services/preventive-maintenance-programs" passHref>
               <a
                 className={
@@ -52,8 +52,8 @@ function ServicesNav() {
                 Programs
               </a>
             </Link>
-          </dl>
-        </ul>
+          </dd>
+        </dl>
       </div>
     </>
   );
