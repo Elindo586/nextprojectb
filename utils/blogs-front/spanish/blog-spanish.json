@@ -15,7 +15,7 @@
     "body": "https://www.youtube.com/embed/Q7go3yQiphw",
     "picture": "/blog-images-spanish/ajuste-presion-compensada.png",
     "description": "Aprenda como ajustar el control hidráulico de una bomba de presión compensada.",
-    "verMas": "ver más",
+    "verMas": "ver más de este blog",
     "link": "/blog/castellano/ajuste-de-control-para-bomba-de-presion-compensada",
     "next": "/blog/castellano/fuerza-hidraulica-de-un-cilindro",
     "previous": "/blog/castellano/"
@@ -36,7 +36,7 @@
     "body": "https://www.youtube.com/embed/47vUcjn2Dl8",
     "picture": "/blog-images-spanish/calculo-fuerza-de-cilindro.png",
     "description": "Aprenda a calcular la fuerza de un cilindro hidráulico correctamente. ",
-    "verMas": "ver más",
+    "verMas": "ver más de este blog",
     "link": "/blog/castellano/fuerza-hidraulica-de-un-cilindro",
     "next": "/blog/castellano/calculo-de-potencia-hidraulica",
     "previous": "/blog/castellano/ajuste-de-control-para-bomba-de-presion-compensada"
@@ -57,7 +57,7 @@
     "body": "https://www.youtube.com/embed/seYdZ2eXHY0",
     "picture": "/blog-images-spanish/HP-Spanish.png",
     "description": "Cálculo de potencia hidráulica para bomba hidráulica.",
-    "verMas": "ver más",
+    "verMas": "ver más de este blog",
     "link": "/blog/castellano/calculo-de-potencia-hidraulica",
     "next": "/blog/castellano/valvula-de-alivio",
     "previous": "/blog/castellano/fuerza-hidraulica-de-un-cilindro"
@@ -78,7 +78,7 @@
     "body": "https://www.youtube.com/embed/C6C5IUS6U8A",
     "picture": "/blog-images-spanish/valvula-de-alivio.png",
     "description": "Funcionamiento de una válvula de alivio en un sistema hidráulico. ",
-    "verMas": "ver más",
+    "verMas": "ver más de este blog",
     "link": "/blog/castellano/valvula-de-alivio",
     "next": "/blog/castellano/prueba-de-bomba-hidraulica-de-presion-compensada",
     "previous": "/blog/castellano/calculo-de-potencia-hidraulica"
@@ -100,7 +100,7 @@
     "body": "https://www.youtube.com/embed/jUOYap36IVo",
     "picture": "/blog-images-spanish/ajuste-presion-compensada.png",
     "description": "Aprenda como se hace una prueba de bomba hidráulica de presión compensada",
-    "verMas": "ver más",
+    "verMas": "ver más de este blog",
     "link": "/blog/castellano/prueba-de-bomba-hidraulica-de-presion-compensada",
     "next": "/blog/castellano/",
     "previous": "/blog/castellano/valvula-de-alivio"
