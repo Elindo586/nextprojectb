@@ -143,7 +143,7 @@ const FlowmeterForm = () => {
             type="radio"
             name="flowDirection"
             value="uni-directional-flow"
-            id="flowUnidirectional"
+            id="flowUniDirectional"
             checked={flowDirection === "uni-directional-flow"}
             onChange={(e) => {
               setFlowDirection(e.target.value);
