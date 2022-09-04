@@ -12,6 +12,7 @@ const AdBanner = () => {
   return (
     <>
       <ins
+        title="googleAd"
         className="adsbygoogle"
         style={{
           display: "block",
