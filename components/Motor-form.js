@@ -65,14 +65,16 @@ const MotorForm = () => {
         hydraulic motor for your application.
       </p>
 
-      <h4 className="hydraulicMotor1Configurator">
-        Hydraulic Motor Quote Configurator
-      </h4>
+      <p className="hydraulicMotor1Configurator">
+        <h5>Hydraulic Motor Quote Configurator</h5>
+      </p>
 
       <form>
-        <h5>
-          <u>Hydraulic Motor info:</u>
-        </h5>
+        <p>
+          <strong>
+            <u>Hydraulic Motor info:</u>
+          </strong>
+        </p>
         {/* style="display:inline-block" ADD TO CSS FOR ELEMENT BELOW */}
         <label className="motor-form-labels form-label-style" htmlFor="torque">
           * Torque (in/lbs):{" "}
