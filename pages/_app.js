@@ -35,6 +35,7 @@ function MyApp({ Component, pageProps }) {
       <div>
         <Head>
           <link rel="manifest" href="/manifest.json" />
+          <meta name="theme-color" content="#016698" />
 
           {/* IOS */}
           <meta name="format-detection" content="telephone=no"></meta>
