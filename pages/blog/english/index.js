@@ -13,7 +13,7 @@ export async function getStaticProps() {
   };
 }
 const BloggerFrontEnglish = ({ db }) => {
-  let PageSize = 3;
+  let PageSize = 5;
 
   const [currentPage, setCurrentPage] = useState(1);
   const [searchTerm, setSearchTerm] = useState("");
@@ -154,8 +154,8 @@ const BloggerFrontEnglish = ({ db }) => {
                   <Image
                     src={item.picture}
                     alt="Blog picture"
-                    width={350}
-                    height={200}
+                    width={400}
+                    height={210}
                   ></Image>
                   <div>
                     {" "}
