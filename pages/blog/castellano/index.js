@@ -61,7 +61,6 @@ const BloggerFrontSpanish = ({ db }) => {
     <div>
       <div>
         <Head>
-          {/* Main */}
           <meta charset="UTF-8" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           <link
@@ -160,8 +159,8 @@ const BloggerFrontSpanish = ({ db }) => {
                   <Image
                     src={item.picture}
                     alt="Blog picture"
-                    width={350}
-                    height={200}
+                    width={400}
+                    height={210}
                   ></Image>
                   <div lang="es">
                     {" "}
