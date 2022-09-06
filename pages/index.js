@@ -118,7 +118,7 @@ const Home = () => {
             <Image
               src="/images/maintenance-1.png"
               id="maintenance1"
-              alt="maintenance one pic"
+              alt="maintenance lubrication"
               width={700}
               height={400}
             />
@@ -126,7 +126,7 @@ const Home = () => {
           <div id="oilanalysis2">
             <Image
               src="/images/oil-analysis2.png"
-              alt="oil analysis two pic"
+              alt="oil analysis sample"
               width={700}
               height={400}
             />
