@@ -154,8 +154,8 @@ const BloggerFrontEnglish = ({ db }) => {
                   <Image
                     src={item.picture}
                     alt="Blog picture"
-                    width={400}
-                    height={210}
+                    width={600}
+                    height={315}
                   ></Image>
                   <div>
                     {" "}
