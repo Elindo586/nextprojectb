@@ -489,10 +489,6 @@ const PumpForm = () => {
               />{" "}
               <br />
               <h5>Third stage pump details:</h5>
-              <label htmlFor="p3fixed">
-                {" "}
-                Fixed displacement / No Control.{" "}
-              </label>{" "}
               <input
                 type="radio"
                 name="p3type"
@@ -504,6 +500,7 @@ const PumpForm = () => {
                   setP3type(e.target.value);
                 }}
               />
+              <label htmlFor="p3type"> Fixed displacement / No Control. </label>{" "}
               <br />
               <input
                 type="radio"
