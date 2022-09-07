@@ -85,7 +85,7 @@ const PistonPumps = () => {
                 alt="piston-pump"
                 width={263}
                 height={191}
-                layOut="fixed"
+                layout="fixed"
               />
             </div>
             <br />
