@@ -12,7 +12,6 @@ const AdBanner = () => {
   return (
     <>
       <ins
-        title="googleAd"
         className="adsbygoogle"
         style={{
           display: "block",
@@ -23,7 +22,6 @@ const AdBanner = () => {
         data-full-width-responsive="true"
       ></ins>
       <script
-        title="googleAd2"
         dangerouslySetInnerHTML={{
           __html: `adsbygoogle = window.adsbygoogle || []).push({});
           `,

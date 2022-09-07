@@ -484,183 +484,243 @@ const VanePumps = () => {
               </a>
             </Link>
             <br />
-            <table className="table table-hover table-striped table-bordered ">
+            <table className="table table-hover table-striped table-bordered">
               <thead>
                 <tr>
-                  <th colSpan="7" className="product-title-table-text">
-                    {" "}
+                  <th colSpan="5" className="a10-table-title">
                     Variable Displacement Vane Pumps
                   </th>
                 </tr>
-
                 <tr className="inside-table-text">
-                  <td>Model </td>
-                  <td>*GPM </td>
-                  <td>PSI </td>
-                  <td>RPM </td>
+                  <td></td>
                   <td>
-                    {" "}
-                    Pressure comp range <br /> (psi)
+                    Standard <br /> SV-10
                   </td>
                   <td>
-                    {" "}
-                    Displacement <br /> cu in²
+                    Standard <br /> SV-15
                   </td>
                   <td>
-                    {" "}
-                    input HP at <br /> max psi <br /> & 1800 rpm{" "}
+                    Low Pressure <br /> SV-10
+                  </td>
+                  <td>
+                    Low Pressure <br /> SV-15
                   </td>
                 </tr>
               </thead>
-
               <tbody>
                 <tr className="inside-table-text">
-                  <td>
-                    Standard
-                    <br />
-                    SV-10
-                  </td>
-                  <td> 8 </td>
-                  <td>2,00</td>
-                  <td>1,800</td>
-                  <td>400-2,000</td>
-                  <td>1</td>
-                  <td>10.8</td>
+                  <td>* GPM</td>
+                  <td>8</td>
+                  <td>11.5</td>
+                  <td>8</td>
+                  <td>11.5</td>
                 </tr>
 
                 <tr className="inside-table-text">
-                  <td>
-                    Standard
-                    <br />
-                    SV-15
-                  </td>
-                  <td> 11.5 </td>
+                  <td>PSI</td>
+                  <td>2,000</td>
                   <td>1,500</td>
+                  <td>700</td>
+                  <td>700</td>
+                </tr>
+                <tr className="inside-table-text">
+                  <td>RPM</td>
                   <td>1,800</td>
+                  <td>1,800</td>
+                  <td>1,800</td>
+                  <td>1,800</td>
+                </tr>
+
+                <tr className="inside-table-text">
+                  <td>
+                    Pressure comp <br /> range (psi)
+                  </td>
+                  <td>400-2,000</td>
                   <td>300-1,000</td>
-                  <td>1.5</td>
-                  <td>11.2</td>
+                  <td>160-750</td>
+                  <td>160-750</td>
                 </tr>
-
                 <tr className="inside-table-text">
                   <td>
-                    Low Pressure
-                    <br />
-                    SV-10
+                    Displacement <br /> cu in²
                   </td>
-                  <td> 8 </td>
-                  <td>700</td>
-                  <td>1,800</td>
-                  <td>160-750</td>
                   <td>1</td>
-                  <td>4</td>
-                </tr>
-
-                <tr className="inside-table-text">
-                  <td>
-                    Low Pressure
-                    <br />
-                    SV-15
-                  </td>
-                  <td> 11.5 </td>
-                  <td>700</td>
-                  <td>1,800</td>
-                  <td>160-750</td>
                   <td>1.5</td>
+                  <td>1</td>
+                  <td>1.5</td>
+                </tr>
+                <tr className="inside-table-text">
+                  <td>** HP input</td>
+                  <td>10.8</td>
+                  <td>11.2</td>
+                  <td>4</td>
                   <td>5.75</td>
                 </tr>
 
-                <tr className="inside-table-text">
-                  <td>
-                    Standard
-                    <br />
-                    SV-20
+                <tr>
+                  <td colSpan="5">
+                    * gpm at 100 psi & 1,800 rpm <br /> ** input at max psi &
+                    1,800 rpm
                   </td>
-                  <td> 15 </td>
-                  <td>2,000</td>
-                  <td>1,800</td>
-                  <td>375-2,000</td>
-                  <td>1.9</td>
+                </tr>
+              </tbody>
+            </table>
+            <br />
+            <table className="table table-hover table-striped table-bordered">
+              <thead>
+                <tr>
+                  <th colSpan="5" className="a10-table-title">
+                    Variable Displacement Vane Pumps
+                  </th>
+                </tr>
+                <tr className="inside-table-text">
+                  <td></td>
+                  <td>
+                    Standard <br /> SV-20
+                  </td>
+                  <td>
+                    Standard <br /> SV-25
+                  </td>
+                  <td>
+                    Low Pressure <br /> SV-20
+                  </td>
+                  <td>
+                    Low Pressure <br /> SV-25
+                  </td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr className="inside-table-text">
+                  <td>* GPM</td>
+                  <td>15</td>
+                  <td>20</td>
+                  <td>15</td>
                   <td>20</td>
                 </tr>
 
                 <tr className="inside-table-text">
-                  <td>
-                    Standard
-                    <br />
-                    SV-25
-                  </td>
-                  <td> 20 </td>
+                  <td>PSI</td>
+                  <td>2,000</td>
                   <td>1,500</td>
+                  <td>750</td>
+                  <td>750</td>
+                </tr>
+                <tr className="inside-table-text">
+                  <td>RPM</td>
                   <td>1,800</td>
+                  <td>1,800</td>
+                  <td>1,800</td>
+                  <td>1,800</td>
+                </tr>
+
+                <tr className="inside-table-text">
+                  <td>
+                    Pressure comp <br /> range (psi)
+                  </td>
+                  <td>375-2,000</td>
                   <td>300-1,000</td>
-                  <td>2.56</td>
-                  <td>20.3</td>
+                  <td>175-750</td>
+                  <td>175-750</td>
                 </tr>
-
                 <tr className="inside-table-text">
                   <td>
-                    Low Pressure
-                    <br />
-                    SV-20
+                    Displacement <br /> cu in²
                   </td>
-                  <td> 15</td>
-                  <td>750</td>
-                  <td>1,800</td>
-                  <td>175-750</td>
                   <td>1.9</td>
-                  <td>7.25</td>
-                </tr>
-
-                <tr className="inside-table-text">
-                  <td>
-                    Low Pressure
-                    <br />
-                    SV-25
-                  </td>
-                  <td> 20</td>
-                  <td>750</td>
-                  <td>1,800</td>
-                  <td>175-750</td>
                   <td>2.56</td>
+                  <td>1.9</td>
+                  <td>2.56</td>
+                </tr>
+                <tr className="inside-table-text">
+                  <td>** HP input</td>
+                  <td>20</td>
+                  <td>20.3</td>
+                  <td>7.25</td>
                   <td>9.75</td>
                 </tr>
 
-                <tr className="inside-table-text">
-                  <td> SV-40 </td>
-                  <td> 31</td>
-                  <td>2,000</td>
-                  <td>1,800</td>
-                  <td>250-2,000</td>
-                  <td>4</td>
-                  <td>41</td>
+                <tr>
+                  <td colSpan="5">
+                    * gpm at 100 psi & 1,800 rpm <br /> ** input at max psi &
+                    1,800 rpm
+                  </td>
                 </tr>
-
+              </tbody>
+            </table>
+            <br />
+            <table className="table table-hover table-striped table-bordered">
+              <thead>
+                <tr>
+                  <th colSpan="4" className="a10-table-title">
+                    Variable Displacement Vane Pumps
+                  </th>
+                </tr>
                 <tr className="inside-table-text">
-                  <td> SV-80 </td>
-                  <td> 62</td>
-                  <td>1,500</td>
-                  <td>1,800</td>
-                  <td>300-1,500</td>
-                  <td>8</td>
+                  <td></td>
+                  <td>
+                    Standard <br /> SV-40
+                  </td>
+                  <td>
+                    Standard <br /> SV-80
+                  </td>
+                  <td>
+                    Low Pressure <br /> SV-100
+                  </td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr className="inside-table-text">
+                  <td>* GPM</td>
+                  <td>31</td>
                   <td>62</td>
+                  <td>78</td>
                 </tr>
 
                 <tr className="inside-table-text">
-                  <td> SV-100 </td>
-                  <td> 78</td>
-                  <td> 1,000</td>
+                  <td>PSI</td>
+                  <td>2,000</td>
+                  <td>1,500</td>
+                  <td>1,000</td>
+                </tr>
+                <tr className="inside-table-text">
+                  <td>RPM</td>
                   <td>1,800</td>
+                  <td>1,800</td>
+                  <td>1,800</td>
+                </tr>
+
+                <tr className="inside-table-text">
+                  <td>
+                    Pressure comp <br /> range (psi)
+                  </td>
+                  <td>250-2,000</td>
+                  <td>300-1,500</td>
                   <td>250-1,000</td>
-                  <td>10 </td>
+                </tr>
+                <tr className="inside-table-text">
+                  <td>
+                    Displacement <br /> cu in²
+                  </td>
+                  <td>4</td>
+                  <td>8</td>
+                  <td>10</td>
+                </tr>
+                <tr className="inside-table-text">
+                  <td>** HP input</td>
+                  <td>41</td>
+                  <td>62</td>
                   <td>51</td>
                 </tr>
 
                 <tr>
-                  <td> &nbsp; * gpm at 100 psi & 1,800 rpm</td>
+                  <td colSpan="4">
+                    * gpm at 100 psi & 1,800 rpm <br /> ** input at max psi &
+                    1,800 rpm
+                  </td>
                 </tr>
               </tbody>
             </table>
+
             <br />
           </div>
           <div className="col-md12">
