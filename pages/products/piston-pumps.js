@@ -83,8 +83,8 @@ const PistonPumps = () => {
               <Image
                 src="/images/rexrothpump-1.png"
                 alt="piston-pump"
-                width={263}
-                height={191}
+                width={395}
+                height={287}
               />
             </div>
             <br />
