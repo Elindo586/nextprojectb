@@ -1,5 +1,28 @@
 [
   {
+    "id": "9",
+    "metaTitle": "Bomba de caudal fijo vs. bomba de caudal variable.",
+    "metaDescription": "Diferencias entre bombas hidráulicas de caudal fijo vs. bomba hidráulica de caudal variable.",
+    "metaKeywords": "caudal fijo caudal variable bomba",
+    "ogTitle": "Bomba de caudal fijo vs. bomba de caudal variable.",
+    "ogDescription": "Diferencias entre bombas hidráulicas de caudal fijo vs. bomba hidráulica de caudal variable.",
+    "ogURL": "https://www.tu.biz/blog/castellano/bomba-de-caudal-fijo-vs-bomba-de-caudal-variable",
+    "ogImage": "https://www.tu.biz//blog-images-spanish/bomba-de-caudal-fijo-vs-bomba-de-caudal-variable.png",
+    "twitterTitle": "Bomba de caudal fijo vs. bomba de caudal variable.",
+    "twitterDescription": "Diferencias entre bombas hidráulicas de caudal fijo vs. bomba hidráulica de caudal variable.",
+    "twitterImage": "https://www.tu.biz/blog-images-spanish/bomba-de-caudal-fijo-vs-bomba-de-caudal-variable.png",
+    "title": "Bomba de caudal fijo vs. bomba de caudal variable.",
+    "body": "https://www.youtube.com/embed/L9wh2HAuz-4",
+    "iTitle": "Bomba de caudal fijo vs. bomba de caudal variable.",
+    "picture": "/blog-images-spanish/bomba-de-caudal-fijo-vs-bomba-de-caudal-variable.png",
+    "alt": "Bomba de caudal fijo vs. bomba de caudal variable.",
+    "description": "Diferencias entre bombas hidráulicas de caudal fijo vs. bomba hidráulica de caudal variable.",
+    "verMas": "ver más de este blog",
+    "link": "/blog/castellano/bomba-de-caudal-fijo-vs-bomba-de-caudal-variable",
+    "next": "/blog/castellano/circuito-hidraulico-meter-in-meter-out",
+    "previous": "/blog/castellano/"
+  },
+  {
     "id": "8",
     "metaTitle": "Circuito hidráulico de meter-in / meter-out.",
     "metaDescription": "Aprenda como funciona un circuito hidráulico de meter-in / meter-out.",
@@ -20,7 +43,7 @@
     "verMas": "ver más de este blog",
     "link": "/blog/castellano/circuito-hidraulico-meter-in-meter-out",
     "next": "/blog/castellano/manifold-hidraulico",
-    "previous": "/blog/castellano/"
+    "previous": "/blog/castellano/bomba-de-caudal-fijo-vs-bomba-de-caudal-variable"
   },
   {
     "id": "7",
