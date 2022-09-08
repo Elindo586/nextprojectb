@@ -1,5 +1,28 @@
 [
   {
+    "id": "10",
+    "metaTitle": "Formulas de hidráulica",
+    "metaDescription": "Colección de formulas para hidráulica con respuesta automatica.",
+    "metaKeywords": "formulas hidraulica",
+    "ogTitle": "Formulas de hidráulica",
+    "ogDescription": "Colección de formulas para hidráulica con respuesta automatica.",
+    "ogURL": "https://www.tu.biz/blog/castellano/formulas-de-hidraulica",
+    "ogImage": "https://www.tu.biz//blog-images-spanish/formulas-de-hidraulica.png",
+    "twitterTitle": "Formulas de hidráulica.",
+    "twitterDescription": "Colección de formulas para hidráulica con respuesta automatica.",
+    "twitterImage": "https://www.tu.biz/blog-images-spanish/formulas-de-hidraulica.png",
+    "title": "Formulas de hidráulica",
+    "body": "https://www.youtube.com/embed/Icuy0G2S718",
+    "iTitle": "Formulas de hidráulica",
+    "picture": "/blog-images-spanish/formulas-de-hidraulica.png",
+    "alt": "Formulas de hidráulica",
+    "description": "Colección de formulas para hidráulica. ",
+    "verMas": "ver más de este blog",
+    "link": "/blog/castellano/formulas-de-hidraulica",
+    "next": "/blog/castellano/bomba-de-caudal-fijo-vs-bomba-de-caudal-variable",
+    "previous": "/blog/castellano/"
+  },
+  {
     "id": "9",
     "metaTitle": "Bomba de caudal fijo vs. bomba de caudal variable.",
     "metaDescription": "Diferencias entre bombas hidráulicas de caudal fijo vs. bomba hidráulica de caudal variable.",
@@ -20,7 +43,7 @@
     "verMas": "ver más de este blog",
     "link": "/blog/castellano/bomba-de-caudal-fijo-vs-bomba-de-caudal-variable",
     "next": "/blog/castellano/circuito-hidraulico-meter-in-meter-out",
-    "previous": "/blog/castellano/"
+    "previous": "/blog/castellano/formulas-de-hidraulica"
   },
   {
     "id": "8",
