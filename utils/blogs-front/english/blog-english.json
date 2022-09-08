@@ -1,5 +1,28 @@
 [
   {
+    "id": "10",
+    "metaTitle": "Fluid Power Formulas",
+    "metaDescription": "Fluid Power Formulas",
+    "metaKeywords": "Fluid Power Formulas",
+    "ogTitle": "Fluid Power Formulas",
+    "ogDescription": "Fluid Power Formulas",
+    "ogURL": "https://www.tu.biz/blog/english/fluid-power-formulas",
+    "ogImage": "https://www.tu.biz//blog-images-english/fluid-power-formulas.png",
+    "twitterTitle": "Fluid Power Formulas",
+    "twitterDescription": "Fluid Power Formulas",
+    "twitterImage": "https://www.tu.biz/blog-images-english/fluid-power-formulas.png",
+    "title": "Fluid Power Formulas",
+    "body": "https://www.youtube.com/embed/8C3MTzsYE4s",
+    "iTitle": "Fluid Power Formulas",
+    "picture": "/blog-images-english/fluid-power-formulas.png",
+    "alt": "Fluid Power Formulas",
+    "description": "Fluid Power Formulas",
+    "more": "See more of this blog",
+    "link": "/blog/english/fluid-power-formulas",
+    "next": "/blog/english/fixed-displacement-pump-vs-variable-displacement-pump",
+    "previous": "/blog/english/"
+  },
+  {
     "id": "9",
     "metaTitle": "Fixed displacement hydraulic pump vs. variable displacement hydraulic pump.",
     "metaDescription": "Understanding the difference between a fixed displacement pump vs. a variable displacement pump.",
@@ -20,7 +43,7 @@
     "more": "See more of this blog",
     "link": "/blog/english/fixed-displacement-pump-vs-variable-displacement-pump",
     "next": "/blog/english/meter-in-meter-out-hydraulic-circuit",
-    "previous": "/blog/english/"
+    "previous": "/blog/english/fluid-power-formulas"
   },
   {
     "id": "8",
