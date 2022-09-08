@@ -1,5 +1,28 @@
 [
   {
+    "id": "9",
+    "metaTitle": "Fixed displacement hydraulic pump vs. variable displacement hydraulic pump.",
+    "metaDescription": "Understanding the difference between a fixed displacement pump vs. a variable displacement pump.",
+    "metaKeywords": "fixed displacement variable pump",
+    "ogTitle": "Fixed displacement hydraulic pump vs. variable displacement hydraulic pump.",
+    "ogDescription": "Understanding the difference between a fixed displacement pump vs. a variable displacement pump.",
+    "ogURL": "https://www.tu.biz/blog/english/fixed-displacement-pump-vs-variable-displacement-pump",
+    "ogImage": "https://www.tu.biz//blog-images-english/fixed-displacement-pump-vs-variable-displacement-pump.png",
+    "twitterTitle": "Fixed displacement hydraulic pump vs. variable displacement hydraulic pump.",
+    "twitterDescription": "Understanding the difference between a fixed displacement pump vs. a variable displacement pump.",
+    "twitterImage": "https://www.tu.biz/blog-images-english/fixed-displacement-pump-vs-variable-displacement-pump.png",
+    "title": "Fixed displacement hydraulic pump vs. variable displacement hydraulic pump.",
+    "body": "https://www.youtube.com/embed/_ScaHQIqnx8",
+    "iTitle": "Fixed displacement hydraulic pump vs. variable displacement hydraulic pump.",
+    "picture": "/blog-images-english/fixed-displacement-pump-vs-variable-displacement-pump.png",
+    "alt": "Fixed displacement hydraulic pump vs. variable displacement hydraulic pump.",
+    "description": "Understanding the difference between a fixed displacement pump vs. a variable displacement pump.",
+    "more": "See more of this blog",
+    "link": "/blog/english/fixed-displacement-pump-vs-variable-displacement-pump",
+    "next": "/blog/english/meter-in-meter-out-hydraulic-circuit",
+    "previous": "/blog/english/"
+  },
+  {
     "id": "8",
     "metaTitle": "Meter-in Meter-out Hydraulic circuit.",
     "metaDescription": "Understanding how a meter-in meter-out circuit works in a hydraulic system.",
@@ -20,7 +43,7 @@
     "more": "See more of this blog",
     "link": "/blog/english/meter-in-meter-out-hydraulic-circuit",
     "next": "/blog/english/hydraulic-manifold",
-    "previous": "/blog/english/"
+    "previous": "/blog/english/fixed-displacement-pump-vs-variable-displacement-pump"
   },
 
   {
