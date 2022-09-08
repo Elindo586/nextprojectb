@@ -1,5 +1,28 @@
 [
   {
+    "id": "8",
+    "metaTitle": "Circuito hidráulico de meter-in / meter-out.",
+    "metaDescription": "Aprenda como funciona un circuito hidráulico de meter-in / meter-out.",
+    "metaKeywords": "meter in meter out",
+    "ogTitle": "Circuito hidráulico de meter-in / meter-out.",
+    "ogDescription": "Aprenda como funciona un circuito hidráulico de meter-in / meter-out.",
+    "ogURL": "https://www.tu.biz/blog/castellano/circuito-hidraulico-meter-in-meter-out",
+    "ogImage": "https://www.tu.biz//blog-images-spanish/circuito-hidraulico-meter-in-meter-out.png",
+    "twitterTitle": "Circuito hidráulico de meter-in / meter-out.",
+    "twitterDescription": "Aprenda como funciona un circuito hidráulico de meter-in / meter-out.",
+    "twitterImage": "https://www.tu.biz/blog-images-spanish/circuito-hidraulico-meter-in-meter-out.png",
+    "title": "Circuito hidráulico de meter-in / meter-out.",
+    "body": "https://www.youtube.com/embed/HlUrZhW2uLo",
+    "iTitle": "Circuito hidráulico de meter-in / meter-out.",
+    "picture": "/blog-images-spanish/circuito-hidraulico-meter-in-meter-out.png",
+    "alt": "Circuito hidráulico de meter-in / meter-out.",
+    "description": "Aprenda como funciona un circuito hidráulico de meter-in / meter-out.",
+    "verMas": "ver más de este blog",
+    "link": "/blog/castellano/circuito-hidraulico-meter-in-meter-out",
+    "next": "/blog/castellano/manifold-hidraulico",
+    "previous": "/blog/castellano/"
+  },
+  {
     "id": "7",
     "metaTitle": "Manifold Hidráulico para válvulas.",
     "metaDescription": "Catálogo para selección de manifolds hidráulicos.",
@@ -20,7 +43,7 @@
     "verMas": "ver más de este blog",
     "link": "/blog/castellano/manifold-hidraulico",
     "next": "/blog/castellano/control-de-load-sensing",
-    "previous": "/blog/castellano/"
+    "previous": "/blog/castellano/circuito-hidraulico-meter-in-meter-out"
   },
   {
     "id": "6",
