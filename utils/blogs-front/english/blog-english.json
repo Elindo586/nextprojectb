@@ -1,5 +1,28 @@
 [
   {
+    "id": "7",
+    "metaTitle": "Hydraulic Manifold Catalogs",
+    "metaDescription": "Catalogs for proper selection of hydraulic manifolds.",
+    "metaKeywords": "hydraulic manifolds",
+    "ogTitle": "Hydraulic Manifold Catalogs",
+    "ogDescription": "Catalogs for proper selection of hydraulic manifolds.",
+    "ogURL": "https://www.tu.biz/blog/english/hydraulic-manifold",
+    "ogImage": "https://www.tu.biz//blog-images-english/hydraulic-manifold-catalog.png",
+    "twitterTitle": "Hydraulic Manifold Catalogs",
+    "twitterDescription": "Catalogs for proper selection of hydraulic manifolds.",
+    "twitterImage": "https://www.tu.biz/blog-images-english/hydraulic-manifold-catalog.png",
+    "title": "Hydraulic Manifold Catalogs",
+    "body": "https://www.youtube.com/embed/LWGY917kHGk",
+    "iTitle": "Hydraulic Manifold Catalogs",
+    "picture": "/blog-images-english/hydraulic-manifold-catalog.png",
+    "alt": "Hydraulic manifold",
+    "description": "Catalogs for proper selection of hydraulic manifolds.",
+    "more": "See more of this blog",
+    "link": "/blog/english/hydraulic-manifold",
+    "next": "/blog/english/load-sensing-control",
+    "previous": "/blog/english/"
+  },
+  {
     "id": "6",
     "metaTitle": "Load Sensing Control",
     "metaDescription": "Learn how a load sensing control for a hydraulic pump works.",
@@ -20,7 +43,7 @@
     "more": "See more of this blog",
     "link": "/blog/english/load-sensing-control",
     "next": "/blog/english/pressure-compensated-pump-control-adjustment",
-    "previous": "/blog/english/"
+    "previous": "/blog/english/hydraulic-manifold"
   },
   {
     "id": "5",
