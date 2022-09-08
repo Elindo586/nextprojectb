@@ -56,6 +56,7 @@ const PostSpanish5 = ({ db }) => {
               twitterImage={item.twitterImage}
               title={item.title}
               body={item.body}
+              iTitle={item.iTitle}
               description={item.description}
               previous={item.previous}
               next={item.next}

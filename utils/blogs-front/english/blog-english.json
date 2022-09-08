@@ -1,5 +1,28 @@
 [
   {
+    "id": "6",
+    "metaTitle": "Load Sensing Control",
+    "metaDescription": "Learn how a load sensing control for a hydraulic pump works.",
+    "metaKeywords": "load sensing control",
+    "ogTitle": "Load Sensing Control",
+    "ogDescription": "Learn how a load sensing control for a hydraulic pump works.",
+    "ogURL": "https://www.tu.biz/blog/english/load-sensing-control",
+    "ogImage": "https://www.tu.biz//blog-images-english/load-sensing-control.png",
+    "twitterTitle": "Load Sensing Control",
+    "twitterDescription": "Learn how a load sensing control for a hydraulic pump works.",
+    "twitterImage": "https://www.tu.biz/blog-images-english/load-sensing-control.png",
+    "title": "Load Sensing Control",
+    "body": "https://www.youtube.com/embed/hfxwjT1rB44",
+    "iTitle": "Load Sensing Control",
+    "picture": "/blog-images-english/load-sensing-control.png",
+    "alt": "Load Sensing Control",
+    "description": "Learn how a load sensing control for a hydraulic pump works.",
+    "more": "See more of this blog",
+    "link": "/blog/english/load-sensing-control",
+    "next": "/blog/english/pressure-compensated-pump-control-adjustment",
+    "previous": "/blog/english/"
+  },
+  {
     "id": "5",
     "metaTitle": "Adjustment of a pressure compensated control for a hydraulic pump",
     "metaDescription": "Learn how to properly adjust a pressure compensated control of a hydraulic pump.",
@@ -20,7 +43,7 @@
     "more": "see more of this blog",
     "link": "/blog/english/pressure-compensated-pump-control-adjustment",
     "next": "/blog/english/hydraulic-cylinder-force-calculation",
-    "previous": "/blog/english/"
+    "previous": "/blog/english/load-sensing-control"
   },
   {
     "id": "4",

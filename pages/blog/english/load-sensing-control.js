@@ -10,7 +10,7 @@ export async function getStaticProps() {
   };
 }
 
-const PostEnglish2 = ({ db }) => {
+const PostEnglish6 = ({ db }) => {
   // This is another way to do it if I dont do filter below
   // function post(info) {
   //   return (
@@ -39,7 +39,7 @@ const PostEnglish2 = ({ db }) => {
   return (
     <div>
       {db
-        .filter((item) => item.id === "2")
+        .filter((item) => item.id === "6")
         .map((item) => {
           return (
             <Blogger2
@@ -67,4 +67,4 @@ const PostEnglish2 = ({ db }) => {
   );
 };
 
-export default PostEnglish2;
+export default PostEnglish6;
