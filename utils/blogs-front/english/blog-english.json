@@ -1,5 +1,29 @@
 [
   {
+    "id": "8",
+    "metaTitle": "Meter-in Meter-out Hydraulic circuit.",
+    "metaDescription": "Understanding how a meter-in meter-out circuit works in a hydraulic system.",
+    "metaKeywords": "meter-in meter-out",
+    "ogTitle": "Meter-in Meter-out Hydraulic circuit.",
+    "ogDescription": "Understanding how a meter-in meter-out circuit works in a hydraulic system.",
+    "ogURL": "https://www.tu.biz/blog/english/meter-in-meter-out-hydraulic-circuit",
+    "ogImage": "https://www.tu.biz//blog-images-english/hydraulic-circuit-meter-in-meter-out.png",
+    "twitterTitle": "Meter-in Meter-out Hydraulic circuit.",
+    "twitterDescription": "Understanding how a meter-in meter-out circuit works in a hydraulic system.",
+    "twitterImage": "https://www.tu.biz/blog-images-english/hydraulic-circuit-meter-in-meter-out.png",
+    "title": "Meter-in Meter-out Hydraulic circuit.",
+    "body": "https://www.youtube.com/embed/gc_O9PwRiok",
+    "iTitle": "Meter-in Meter-out Hydraulic circuit.",
+    "picture": "/blog-images-english/hydraulic-circuit-meter-in-meter-out.png",
+    "alt": "Meter-in Meter-out hydraulic circuit",
+    "description": "Understanding how a meter-in meter-out circuit works in a hydraulic system.",
+    "more": "See more of this blog",
+    "link": "/blog/english/meter-in-meter-out-hydraulic-circuit",
+    "next": "/blog/english/hydraulic-manifold",
+    "previous": "/blog/english/"
+  },
+
+  {
     "id": "7",
     "metaTitle": "Hydraulic Manifold Catalogs",
     "metaDescription": "Catalogs for proper selection of hydraulic manifolds.",
@@ -20,7 +44,7 @@
     "more": "See more of this blog",
     "link": "/blog/english/hydraulic-manifold",
     "next": "/blog/english/load-sensing-control",
-    "previous": "/blog/english/"
+    "previous": "/blog/english/meter-in-meter-out-hydraulic-circuit"
   },
   {
     "id": "6",
