@@ -1,5 +1,28 @@
 [
   {
+    "id": "6",
+    "metaTitle": "Ajuste de control de load sensing para bomba hidráulica.",
+    "metaDescription": "Aprenda como funciona un control de load sensing para bomba hidráulica.",
+    "metaKeywords": "load sensing control",
+    "ogTitle": "Ajuste de control de load sensing para bomba hidráulica.",
+    "ogDescription": "Aprenda como funciona un control de load sensing para bomba hidráulica.",
+    "ogURL": "https://www.tu.biz/blog/castellano/control-de-load-sensing",
+    "ogImage": "https://www.tu.biz//blog-images-spanish/control-de-load-sesing.png",
+    "twitterTitle": "Ajuste de control de load sensing para bomba hidráulica.",
+    "twitterDescription": "Aprenda como funciona un control de load sensing para bomba hidráulica.",
+    "twitterImage": "https://www.tu.biz/blog-images-spanish/control-de-load-sensing.png",
+    "title": "Ajuste de control de load sensing para bomba hidráulica.",
+    "body": "https://www.youtube.com/embed/Uu_PpWCVPHo",
+    "iTitle": "Ajuste de control de load sensing para bomba hidráulica.",
+    "picture": "/blog-images-spanish/control-de-load-sensing.png",
+    "alt": "Control de load sensing",
+    "description": "Aprenda como funciona un control de load sensing para bomba hidráulica.",
+    "verMas": "ver más de este blog",
+    "link": "/blog/castellano/control-de-load-sensing",
+    "next": "/blog/castellano/ajuste-de-control-para-bomba-de-presion-compensada",
+    "previous": "/blog/castellano/"
+  },
+  {
     "id": "5",
     "metaTitle": "Ajuste de control para bomba de presión compensada.",
     "metaDescription": "Aprenda como ajustar el control hidráulico de una bomba de presión compensada.",
@@ -20,7 +43,7 @@
     "verMas": "ver más de este blog",
     "link": "/blog/castellano/ajuste-de-control-para-bomba-de-presion-compensada",
     "next": "/blog/castellano/fuerza-hidraulica-de-un-cilindro",
-    "previous": "/blog/castellano/"
+    "previous": "/blog/castellano/control-de-load-sensing"
   },
   {
     "id": "4",
