@@ -1,5 +1,28 @@
 [
   {
+    "id": "7",
+    "metaTitle": "Manifold Hidráulico para válvulas.",
+    "metaDescription": "Catálogo para selección de manifolds hidráulicos.",
+    "metaKeywords": "manifold hidraulico",
+    "ogTitle": "Manifold Hidráulico para válvulas.",
+    "ogDescription": "Catálogo para selección de manifolds hidráulicos.",
+    "ogURL": "https://www.tu.biz/blog/castellano/manifold-hidraulico",
+    "ogImage": "https://www.tu.biz//blog-images-spanish/manifold-hidraulico.png",
+    "twitterTitle": "Manifold Hidráulico para válvulas.",
+    "twitterDescription": "Catálogo para selección de manifolds hidráulicos.",
+    "twitterImage": "https://www.tu.biz/blog-images-spanish/manifold-hidraulico.png",
+    "title": "Manifold Hidráulico para válvulas.",
+    "body": "https://www.youtube.com/embed/eTUwHpxYxIw",
+    "iTitle": "Manifold Hidráulico para válvulas.",
+    "picture": "/blog-images-spanish/manifold-hidraulico.png",
+    "alt": "Manifold Hidráulico",
+    "description": "Catálogo para selección de manifolds hidráulicos.",
+    "verMas": "ver más de este blog",
+    "link": "/blog/castellano/manifold-hidraulico",
+    "next": "/blog/castellano/control-de-load-sensing",
+    "previous": "/blog/castellano/"
+  },
+  {
     "id": "6",
     "metaTitle": "Ajuste de control de load sensing para bomba hidráulica.",
     "metaDescription": "Aprenda como funciona un control de load sensing para bomba hidráulica.",
@@ -20,7 +43,7 @@
     "verMas": "ver más de este blog",
     "link": "/blog/castellano/control-de-load-sensing",
     "next": "/blog/castellano/ajuste-de-control-para-bomba-de-presion-compensada",
-    "previous": "/blog/castellano/"
+    "previous": "/blog/castellano/manifold-hidraulico"
   },
   {
     "id": "5",
