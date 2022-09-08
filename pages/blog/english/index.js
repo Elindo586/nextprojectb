@@ -13,7 +13,7 @@ export async function getStaticProps() {
   };
 }
 const BloggerFrontEnglish = ({ db }) => {
-  let PageSize = 5;
+  let PageSize = 3;
 
   const [currentPage, setCurrentPage] = useState(1);
   const [searchTerm, setSearchTerm] = useState("");
