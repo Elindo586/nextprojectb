@@ -1,5 +1,28 @@
 [
   {
+    "id": "11",
+    "metaTitle": "Pilot operated relief valve vs. direct acting relief valve.",
+    "metaDescription": "Understanding the differences between a pilot operated relief valve vs. a direct acting relief valve.",
+    "metaKeywords": "pilot relief valve",
+    "ogTitle": "Pilot operated relief valve vs. direct acting relief valve.",
+    "ogDescription": "Understanding the differences between a pilot operated relief valve vs. a direct acting relief valve.",
+    "ogURL": "https://www.tu.biz/blog/english/pilot-operated-relief-valve",
+    "ogImage": "https://www.tu.biz//blog-images-english/pilot-operated-relief-valve.png",
+    "twitterTitle": "Pilot operated relief valve vs. direct acting relief valve.",
+    "twitterDescription": "Understanding the differences between a pilot operated relief valve vs. a direct acting relief valve.",
+    "twitterImage": "https://www.tu.biz/blog-images-english/pilot-operated-relief-valve.png",
+    "title": "Pilot operated relief valve vs. direct acting relief valve.",
+    "body": "https://www.youtube.com/embed/_6ie5bMEl50",
+    "iTitle": "Pilot operated relief valve vs. direct acting relief valve.",
+    "picture": "/blog-images-english/pilot-operated-relief-valve.png",
+    "alt": "Pilot operated relief valve vs. direct acting relief valve.",
+    "description": "Understanding the differences between a pilot operated relief valve vs. a direct acting relief valve.",
+    "more": "See more of this blog",
+    "link": "/blog/english/pilot-operated-relief-valve",
+    "next": "/blog/english/fluid-power-formulas",
+    "previous": "/blog/english/"
+  },
+  {
     "id": "10",
     "metaTitle": "Fluid Power Formulas",
     "metaDescription": "Fluid Power Formulas",
@@ -20,7 +43,7 @@
     "more": "See more of this blog",
     "link": "/blog/english/fluid-power-formulas",
     "next": "/blog/english/fixed-displacement-pump-vs-variable-displacement-pump",
-    "previous": "/blog/english/"
+    "previous": "/blog/english/pilot-operated-relief-valve"
   },
   {
     "id": "9",

@@ -1,8 +1,31 @@
 [
   {
+    "id": "11",
+    "metaTitle": "Válvula de alivio pilotada vs. válvula de alivio de acción directa.",
+    "metaDescription": "Diferencias entre diferentes tipos de válvulas de alivio.",
+    "metaKeywords": "valvula alivio ",
+    "ogTitle": "Válvula de alivio pilotada vs. válvula de alivio de acción directa.",
+    "ogDescription": "Diferencias entre diferentes tipos de válvulas de alivio.",
+    "ogURL": "https://www.tu.biz/blog/castellano/valvula-de-alivio-pilotada",
+    "ogImage": "https://www.tu.biz//blog-images-spanish/valvula-de-alivio-pilotada.png",
+    "twitterTitle": "Válvula de alivio pilotada vs. válvula de alivio de acción directa.",
+    "twitterDescription": "Diferencias entre diferentes tipos de válvulas de alivio.",
+    "twitterImage": "https://www.tu.biz/blog-images-spanish/valvula-de-alivio-pilotada.png",
+    "title": "Válvula de alivio pilotada vs. válvula de alivio de acción directa.",
+    "body": "https://www.youtube.com/embed/JfpKTrLSOdc",
+    "iTitle": "Válvula de alivio pilotada vs. válvula de alivio de acción directa.",
+    "picture": "/blog-images-spanish/valvula-de-alivio-pilotada.png",
+    "alt": "Válvula de alivio pilotada vs. válvula de alivio de acción directa.",
+    "description": "Diferencias entre diferentes tipos de válvulas de alivio.",
+    "verMas": "ver más de este blog",
+    "link": "/blog/castellano/valvula-de-alivio-pilotada",
+    "next": "/blog/castellano/formulas-de-hidraulica",
+    "previous": "/blog/castellano/"
+  },
+  {
     "id": "10",
     "metaTitle": "Formulas de hidráulica",
-    "metaDescription": "Colección de formulas para hidráulica con respuesta automatica.",
+    "metaDescription": "Calculadora de formulas hidráulicas.",
     "metaKeywords": "formulas hidraulica",
     "ogTitle": "Formulas de hidráulica",
     "ogDescription": "Colección de formulas para hidráulica con respuesta automatica.",
@@ -15,12 +38,12 @@
     "body": "https://www.youtube.com/embed/Icuy0G2S718",
     "iTitle": "Formulas de hidráulica",
     "picture": "/blog-images-spanish/formulas-de-hidraulica.png",
-    "alt": "Formulas de hidráulica",
+    "alt": "Formulas de hidráulica | calculadora",
     "description": "Colección de formulas para hidráulica. ",
     "verMas": "ver más de este blog",
     "link": "/blog/castellano/formulas-de-hidraulica",
     "next": "/blog/castellano/bomba-de-caudal-fijo-vs-bomba-de-caudal-variable",
-    "previous": "/blog/castellano/"
+    "previous": "/blog/castellano/valvula-de-alivio-pilotada"
   },
   {
     "id": "9",
