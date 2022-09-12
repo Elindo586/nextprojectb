@@ -57,7 +57,11 @@ const PostSpanish10 = ({ db }) => {
               title={item.title}
               body={item.body}
               iTitle={item.iTitle}
-              description={item.description}
+              description={
+                <div
+                  dangerouslySetInnerHTML={{ __html: item.description }}
+                ></div>
+              }
               previous={item.previous}
               next={item.next}
             />
