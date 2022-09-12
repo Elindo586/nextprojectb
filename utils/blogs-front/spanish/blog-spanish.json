@@ -1,5 +1,28 @@
 [
   {
+    "id": "12",
+    "metaTitle": "Cálculo de caballos de fuerza para sistema hidráulico.",
+    "metaDescription": "Aprenda a calcular los caballos de fuerza necesarios requeridos por un sistema hidráulico.",
+    "metaKeywords": "",
+    "ogTitle": "Cálculo de caballos de fuerza para sistema hidráulico.",
+    "ogDescription": "Aprenda a calcular los caballos de fuerza necesarios requeridos por un sistema hidráulico.",
+    "ogURL": "https://www.tu.biz/blog/castellano/calculo-de-caballos-de-fuerza-para-hidraulica",
+    "ogImage": "https://www.tu.biz//blog-images-spanish/.png",
+    "twitterTitle": "Cálculo de caballos de fuerza para sistema hidráulico.",
+    "twitterDescription": "Aprenda a calcular los caballos de fuerza necesarios requeridos por un sistema hidráulico.",
+    "twitterImage": "https://www.tu.biz/blog-images-spanish/caballos-de-fuerza-para-sistema-hidraulico.png",
+    "title": "Cálculo de caballos de fuerza para sistema hidráulico.",
+    "body": "https://www.youtube.com/embed/8TecHWnNjEA",
+    "iTitle": "Cálculo de caballos de fuerza para sistema hidráulico.",
+    "picture": "/blog-images-spanish/caballos-de-fuerza-para-sistema-hidraulico.png",
+    "alt": "Cálculo de caballos de fuerza para sistema hidráulico.",
+    "description": "Aprenda a calcular los caballos de fuerza necesarios requeridos por un sistema hidráulico.",
+    "verMas": "ver más de este blog",
+    "link": "/blog/castellano/calculo-de-caballos-de-fuerza-para-hidraulica",
+    "next": "/blog/castellano/valvula-de-alivio-pilotada",
+    "previous": "/blog/castellano/"
+  },
+  {
     "id": "11",
     "metaTitle": "Válvula de alivio pilotada vs. válvula de alivio de acción directa.",
     "metaDescription": "Diferencias entre diferentes tipos de válvulas de alivio.",
@@ -20,7 +43,7 @@
     "verMas": "ver más de este blog",
     "link": "/blog/castellano/valvula-de-alivio-pilotada",
     "next": "/blog/castellano/formulas-de-hidraulica",
-    "previous": "/blog/castellano/"
+    "previous": "/blog/castellano/calculo-de-caballos-de-fuerza-para-hidraulica"
   },
   {
     "id": "10",
