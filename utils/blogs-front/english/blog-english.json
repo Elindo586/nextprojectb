@@ -1,5 +1,28 @@
 [
   {
+    "id": "12",
+    "metaTitle": "Details for selection of a hydraulic radial piston pump.",
+    "metaDescription": "Learn about the details of a hydraulic radial piston pump for proper pump selection.",
+    "metaKeywords": "radial piston pump",
+    "ogTitle": "Details for selection of a hydraulic radial piston pump.",
+    "ogDescription": "Learn about the details of a hydraulic radial piston pump for proper pump selection.",
+    "ogURL": "https://www.tu.biz/blog/english/radial-piston-pump-selection",
+    "ogImage": "https://www.tu.biz//blog-images-english/radial-piston-pump-selection.png",
+    "twitterTitle": "Details for selection of a hydraulic radial piston pump.",
+    "twitterDescription": "Learn about the details of a hydraulic radial piston pump for proper pump selection.",
+    "twitterImage": "https://www.tu.biz/blog-images-english/radial-piston-pump-selection.png",
+    "title": "Details for selection of a hydraulic radial piston pump.",
+    "body": "https://www.youtube.com/embed/N1yjf0HCnGo",
+    "iTitle": "Details for selection of a hydraulic radial piston pump.",
+    "picture": "/blog-images-english/radial-piston-pump-selection.png",
+    "alt": " radial piston pump",
+    "description": "Learn about the details of a hydraulic radial piston pump for proper pump selection.",
+    "more": "See more of this blog",
+    "link": "/blog/english/radial-piston-pump-selection",
+    "next": "/blog/english/pilot-operated-relief-valve",
+    "previous": "/blog/english/"
+  },
+  {
     "id": "11",
     "metaTitle": "Pilot operated relief valve vs. direct acting relief valve.",
     "metaDescription": "Understanding the differences between a pilot operated relief valve vs. a direct acting relief valve.",
@@ -20,7 +43,7 @@
     "more": "See more of this blog",
     "link": "/blog/english/pilot-operated-relief-valve",
     "next": "/blog/english/fluid-power-formulas",
-    "previous": "/blog/english/"
+    "previous": "/blog/english/radial-piston-pump-selection"
   },
   {
     "id": "10",
