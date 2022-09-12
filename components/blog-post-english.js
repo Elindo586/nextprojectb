@@ -107,7 +107,7 @@ function Blogger2(props) {
           <br />
           <div className="">
             {" "}
-            <p>{props.description}</p>{" "}
+            <p> {props.description}</p>{" "}
           </div>
         </div>
         <div className="col-md-3">
