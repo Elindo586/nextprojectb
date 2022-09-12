@@ -14,7 +14,7 @@ export async function getStaticProps() {
 }
 
 const BloggerFrontSpanish = ({ db }) => {
-  let PageSize = 3;
+  let PageSize = 5;
 
   const [currentPage, setCurrentPage] = useState(1);
   const [searchTerm, setSearchTerm] = useState("");
