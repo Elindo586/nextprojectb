@@ -1,5 +1,28 @@
 [
   {
+    "id": "19",
+    "metaTitle": "Como identificar y solucionar problemas en un circuito hidráulico.",
+    "metaDescription": "Aprenda la identificación y las soluciones a problemas en un circuito hidráulico.",
+    "metaKeywords": "solucion circuito hidraulico",
+    "ogTitle": "Como identificar y solucionar problemas en un circuito hidráulico.",
+    "ogDescription": "Aprenda la identificación y las soluciones a problemas en un circuito hidráulico.",
+    "ogURL": "https://www.tu.biz/blog/castellano/como-solucionar-problemas-en-un-circuito-hidraulico",
+    "ogImage": "https://www.tu.biz//blog-images-spanish/solucion-de-circuito-hidraulico.png",
+    "twitterTitle": "Como identificar y solucionar problemas en un circuito hidráulico.",
+    "twitterDescription": "Aprenda la identificación y las soluciones a problemas en un circuito hidráulico.",
+    "twitterImage": "https://www.tu.biz/blog-images-spanish/solucion-de-circuito-hidraulico.png",
+    "title": "Como identificar y solucionar problemas en un circuito hidráulico.",
+    "body": "https://www.youtube.com/embed/eEd0Yh9J2Ik",
+    "iTitle": "Como identificar y solucionar problemas en un circuito hidráulico.",
+    "picture": "/blog-images-spanish/solucion-de-circuito-hidraulico.png",
+    "alt": "Solución de circuito hidráulico",
+    "description": "Aprenda la identificación y las soluciones a problemas en un circuito hidráulico.",
+    "verMas": "ver más de este blog",
+    "link": "/blog/castellano/como-solucionar-problemas-en-un-circuito-hidraulico",
+    "next": "/blog/castellano/prueba-de-bomba-hidraulica",
+    "previous": "/blog/castellano/"
+  },
+  {
     "id": "18",
     "metaTitle": "Prueba de bomba hidráulica",
     "metaDescription": "Aprenda como hacer una prueba fácil para una bomba hidráulica.",
@@ -20,7 +43,7 @@
     "verMas": "ver más de este blog",
     "link": "/blog/castellano/prueba-de-bomba-hidraulica",
     "next": "/blog/castellano/simbolos-hidraulicos-para-valvulas-direccionales",
-    "previous": "/blog/castellano/"
+    "previous": "/blog/castellano/como-solucionar-problemas-en-un-circuito-hidraulico"
   },
   {
     "id": "17",
