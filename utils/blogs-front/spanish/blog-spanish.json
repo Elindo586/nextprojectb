@@ -1,5 +1,28 @@
 [
   {
+    "id": "20",
+    "metaTitle": "Circuito hidráulico de válvula de alivio ventilada.",
+    "metaDescription": "Aprenda como funciona un circuito hidráulico de válvula de alivio ventilada.",
+    "metaKeywords": "",
+    "ogTitle": "Circuito hidráulico de válvula de alivio ventilada.",
+    "ogDescription": "Aprenda como funciona un circuito hidráulico de válvula de alivio ventilada.",
+    "ogURL": "https://www.tu.biz/blog/castellano/circuito-hidraulico-de-valvula-de-alivio-ventilada",
+    "ogImage": "https://www.tu.biz//blog-images-spanish/circuito-hidraulico-de-valvula-de-alivio-ventilada.png",
+    "twitterTitle": "Circuito hidráulico de válvula de alivio ventilada.",
+    "twitterDescription": "Aprenda como funciona un circuito hidráulico de válvula de alivio ventilada.",
+    "twitterImage": "https://www.tu.biz/blog-images-spanish/circuito-hidraulico-de-valvula-de-alivio-ventilada.png",
+    "title": "Circuito hidráulico de válvula de alivio ventilada.",
+    "body": "https://www.youtube.com/embed/mY3ueX0GOSM",
+    "iTitle": "Circuito hidráulico de válvula de alivio ventilada.",
+    "picture": "/blog-images-spanish/circuito-hidraulico-de-valvula-de-alivio-ventilada.png",
+    "alt": "Circuito hidráulico de válvula de alivio ventilada.",
+    "description": "Aprenda como funciona un circuito hidráulico de válvula de alivio ventilada.",
+    "verMas": "ver más de este blog",
+    "link": "/blog/castellano/circuito-hidraulico-de-valvula-de-alivio-ventilada",
+    "next": "/blog/castellano/como-solucionar-problemas-en-un-circuito-hidraulico",
+    "previous": "/blog/castellano/"
+  },
+  {
     "id": "19",
     "metaTitle": "Como identificar y solucionar problemas en un circuito hidráulico.",
     "metaDescription": "Aprenda la identificación y las soluciones a problemas en un circuito hidráulico.",
@@ -20,7 +43,7 @@
     "verMas": "ver más de este blog",
     "link": "/blog/castellano/como-solucionar-problemas-en-un-circuito-hidraulico",
     "next": "/blog/castellano/prueba-de-bomba-hidraulica",
-    "previous": "/blog/castellano/"
+    "previous": "/blog/castellano/circuito-hidraulico-de-valvula-de-alivio-ventilada"
   },
   {
     "id": "18",
