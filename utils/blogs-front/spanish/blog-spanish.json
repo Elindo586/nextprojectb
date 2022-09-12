@@ -1,9 +1,32 @@
 [
   {
+    "id": "13",
+    "metaTitle": "Selección correcta de un cilindro hidráulico para un sistema hidráulico.",
+    "metaDescription": "Aprenda a seleccionar correctamente de forma rápida un cilindro hidráulico para su maquinaria.",
+    "metaKeywords": "cilindro hidráulico hidráulica",
+    "ogTitle": "Selección correcta de un cilindro hidráulico para un sistema hidráulico.",
+    "ogDescription": "Aprenda a seleccionar correctamente de forma rápida un cilindro hidráulico para su maquinaria.",
+    "ogURL": "https://www.tu.biz/blog/castellano/como-seleccionar-un-cilindro-hidraulico",
+    "ogImage": "https://www.tu.biz//blog-images-spanish/seleccion-de-cilindro-hidraulico.png",
+    "twitterTitle": "Selección correcta de un cilindro hidráulico para un sistema hidráulico.",
+    "twitterDescription": "Aprenda a seleccionar correctamente de forma rápida un cilindro hidráulico para su maquinaria.",
+    "twitterImage": "https://www.tu.biz/blog-images-spanish/seleccion-de-cilindro-hidraulico.png",
+    "title": "Selección correcta de un cilindro hidráulico para un sistema hidráulico.",
+    "body": "https://www.youtube.com/embed/jCCyfp2gYyQ",
+    "iTitle": "Selección correcta de un cilindro hidráulico para un sistema hidráulico.",
+    "picture": "/blog-images-spanish/seleccion-de-cilindro-hidraulico.png",
+    "alt": "Selección de cilindro hidráulico.",
+    "description": "Aprenda a seleccionar correctamente de forma rápida un cilindro hidráulico para su maquinaria.",
+    "verMas": "ver más de este blog",
+    "link": "/blog/castellano/como-seleccionar-un-cilindro-hidraulico",
+    "next": "/blog/castellano/calculo-de-caballos-de-fuerza-para-hidraulica",
+    "previous": "/blog/castellano/"
+  },
+  {
     "id": "12",
     "metaTitle": "Cálculo de caballos de fuerza para sistema hidráulico.",
     "metaDescription": "Aprenda a calcular los caballos de fuerza necesarios requeridos por un sistema hidráulico.",
-    "metaKeywords": "",
+    "metaKeywords": "caballos de fuerza hidráulico",
     "ogTitle": "Cálculo de caballos de fuerza para sistema hidráulico.",
     "ogDescription": "Aprenda a calcular los caballos de fuerza necesarios requeridos por un sistema hidráulico.",
     "ogURL": "https://www.tu.biz/blog/castellano/calculo-de-caballos-de-fuerza-para-hidraulica",
@@ -20,7 +43,7 @@
     "verMas": "ver más de este blog",
     "link": "/blog/castellano/calculo-de-caballos-de-fuerza-para-hidraulica",
     "next": "/blog/castellano/valvula-de-alivio-pilotada",
-    "previous": "/blog/castellano/"
+    "previous": "/blog/castellano/como-seleccionar-un-cilindro-hidraulico"
   },
   {
     "id": "11",
