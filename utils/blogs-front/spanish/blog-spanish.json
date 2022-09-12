@@ -1,5 +1,28 @@
 [
   {
+    "id": "18",
+    "metaTitle": "Prueba de bomba hidráulica",
+    "metaDescription": "Aprenda como hacer una prueba fácil para una bomba hidráulica.",
+    "metaKeywords": "prueba bomba hidráulica",
+    "ogTitle": "Prueba de bomba hidráulica",
+    "ogDescription": "Aprenda como hacer una prueba fácil para una bomba hidráulica.",
+    "ogURL": "https://www.tu.biz/blog/castellano/prueba-de-bomba-hidraulica",
+    "ogImage": "https://www.tu.biz//blog-images-spanish/prueba-de-bomba-hidraulica.png",
+    "twitterTitle": "Prueba de bomba hidráulica",
+    "twitterDescription": "Aprenda como hacer una prueba fácil para una bomba hidráulica.",
+    "twitterImage": "https://www.tu.biz/blog-images-spanish/prueba-de-bomba-hidraulica.png",
+    "title": "Prueba de bomba hidráulica",
+    "body": "https://www.youtube.com/embed/pbhDsLyKQ_c",
+    "iTitle": "Prueba de bomba hidráulica",
+    "picture": "/blog-images-spanish/prueba-de-bomba-hidraulica.png",
+    "alt": "prueba bomba hidraulica",
+    "description": "Aprenda como hacer una prueba fácil para una bomba hidráulica.",
+    "verMas": "ver más de este blog",
+    "link": "/blog/castellano/prueba-de-bomba-hidraulica",
+    "next": "/blog/castellano/simbolos-hidraulicos-para-valvulas-direccionales",
+    "previous": "/blog/castellano/"
+  },
+  {
     "id": "17",
     "metaTitle": "Símbolos hidráulicos para válvulas direccionales.",
     "metaDescription": "Aprenda a reconocer y dibujar símbolos hidráulicos para válvulas direccionales.",
@@ -20,7 +43,7 @@
     "verMas": "ver más de este blog",
     "link": "/blog/castellano/simbolos-hidraulicos-para-valvulas-direccionales",
     "next": "/blog/castellano/catalogo-de-bombas-hidraulicas-c101-c102",
-    "previous": "/blog/castellano/"
+    "previous": "/blog/castellano/prueba-de-bomba-hidraulica"
   },
   {
     "id": "16",
