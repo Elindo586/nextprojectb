@@ -1,5 +1,28 @@
 [
   {
+    "id": "33",
+    "metaTitle": "Coiled electrical cable.",
+    "metaDescription": "We handle coiled electrical cables for different industrial applications.",
+    "metaKeywords": "Coiled electrical cable.",
+    "ogTitle": "Coiled electrical cable.",
+    "ogDescription": "We handle coiled electrical cables for different industrial applications.",
+    "ogURL": "https://www.tu.biz/blog/english/coiled-electrical-cable",
+    "ogImage": "https://www.tu.biz//blog-images-english/coiled-electrical-cable.png",
+    "twitterTitle": "Coiled electrical cable.",
+    "twitterDescription": "We handle coiled electrical cables for different industrial applications.",
+    "twitterImage": "https://www.tu.biz/blog-images-english/coiled-electrical-cable.png",
+    "title": "Coiled electrical cable.",
+    "body": "https://www.youtube.com/embed/nG4hB6YhJ20",
+    "iTitle": "Coiled electrical cable.",
+    "picture": "/blog-images-english/coiled-electrical-cable.png",
+    "alt": "Coiled electrical cable.",
+    "description": "We handle coiled electrical cables for different industrial applications.",
+    "more": "See more of this blog",
+    "link": "/blog/english/coiled-electrical-cable",
+    "next": "/blog/english/hydraulic-motor-torque-calculation",
+    "previous": "/blog/english/"
+  },
+  {
     "id": "32",
     "metaTitle": "Hydraulic Motor Torque calculation.",
     "metaDescription": "Learn to calculate torque for a hydraulic motor.",
@@ -20,13 +43,13 @@
     "more": "See more of this blog",
     "link": "/blog/english/hydraulic-motor-torque-calculation",
     "next": "/blog/english/hydraulic-vane-motor-catalog",
-    "previous": "/blog/english/"
+    "previous": "/blog/english/coiled-electrical-cable"
   },
   {
     "id": "31",
     "metaTitle": "Hydraulic Vane Motor Catalog.",
     "metaDescription": "Catalog for proper selection of hydraulic vane motors.",
-    "metaKeywords": "",
+    "metaKeywords": "hydraulic vane motor",
     "ogTitle": "Hydraulic Vane Motor Catalog.",
     "ogDescription": "Catalog for proper selection of hydraulic vane motors.",
     "ogURL": "https://www.tu.biz/blog/english/hydraulic-vane-motor-catalog",
