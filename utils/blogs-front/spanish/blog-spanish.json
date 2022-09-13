@@ -1,5 +1,51 @@
 [
   {
+    "id": "30",
+    "metaTitle": "Circuito hidráulico de alta y baja.",
+    "metaDescription": "Aprenda como funciona un circuito hidráulico de alta y baja.",
+    "metaKeywords": "",
+    "ogTitle": "Circuito hidráulico de alta y baja.",
+    "ogDescription": "Aprenda como funciona un circuito hidráulico de alta y baja.",
+    "ogURL": "https://www.tu.biz/blog/castellano/circuito-hidraulico-de-alta-y-baja",
+    "ogImage": "https://www.tu.biz//blog-images-spanish/circuito-hidraulico-de-alta-y-baja.png",
+    "twitterTitle": "Circuito hidráulico de alta y baja.",
+    "twitterDescription": "Aprenda como funciona un circuito hidráulico de alta y baja.",
+    "twitterImage": "https://www.tu.biz/blog-images-spanish/circuito-hidraulico-de-alta-y-baja.png",
+    "title": "Circuito hidráulico de alta y baja.",
+    "body": "https://www.youtube.com/embed/0ahFwDekvQY",
+    "iTitle": "Circuito hidráulico de alta y baja.",
+    "picture": "/blog-images-spanish/circuito-hidraulico-de-alta-y-baja.png",
+    "alt": "Circuito hidráulico de alta y baja.",
+    "description": "Aprenda como funciona un circuito hidráulico de alta y baja.",
+    "verMas": "ver más de este blog",
+    "link": "/blog/castellano/circuito-hidraulico-de-alta-y-baja",
+    "next": "/blog/castellano/calculo-para-remover-calor-en-un-sistema-hidraulico",
+    "previous": "/blog/castellano/"
+  },
+  {
+    "id": "29",
+    "metaTitle": "Válvulas check crossover pilotadas.",
+    "metaDescription": "Aprenda como funcionan las válvulas check de crossover pilotadas.",
+    "metaKeywords": "valvulas check crossover",
+    "ogTitle": "Válvulas check crossover pilotadas.",
+    "ogDescription": "Aprenda como funcionan las válvulas check de crossover pilotadas.",
+    "ogURL": "https://www.tu.biz/blog/castellano/valvulas-check-crossover-pilotadas",
+    "ogImage": "https://www.tu.biz//blog-images-spanish/valvulas-check-crossover-pilotadas.png",
+    "twitterTitle": "Válvulas check crossover pilotadas.",
+    "twitterDescription": "Aprenda como funcionan las válvulas check de crossover pilotadas.",
+    "twitterImage": "https://www.tu.biz/blog-images-spanish/valvulas-check-crossover-pilotadas.png",
+    "title": "Válvulas check crossover pilotadas.",
+    "body": "https://www.youtube.com/embed/LK_zmgVMAaE",
+    "iTitle": "Válvulas check crossover pilotadas.",
+    "picture": "/blog-images-spanish/valvulas-check-crossover-pilotadas.png",
+    "alt": "valvulas check crossover",
+    "description": "Aprenda como funcionan las válvulas check de crossover pilotadas.",
+    "verMas": "ver más de este blog",
+    "link": "/blog/castellano/valvulas-check-crossover-pilotadas",
+    "next": "/blog/castellano/calculo-para-remover-calor-en-un-sistema-hidraulico",
+    "previous": "/blog/castellano/circuito-hidraulico-de-alta-y-baja"
+  },
+  {
     "id": "28",
     "metaTitle": "Cálculo para remover calor en un sistema hidráulico.",
     "metaDescription": "Aprenda como calcular y remover calor en una maquinaria hidráulica.",
@@ -20,7 +66,7 @@
     "verMas": "ver más de este blog",
     "link": "/blog/castellano/calculo-para-remover-calor-en-un-sistema-hidraulico",
     "next": "/blog/castellano/catalogo-de-bombas-hidraulicas-de-paletas",
-    "previous": "/blog/castellano/"
+    "previous": "/blog/castellano/valvulas-check-crossover-pilotadas"
   },
 
   {
