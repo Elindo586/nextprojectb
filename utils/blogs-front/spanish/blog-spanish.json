@@ -1,5 +1,28 @@
 [
   {
+    "id": "37",
+    "metaTitle": "¿Cómo funciona la hidráulica de potencia?",
+    "metaDescription": "Aprenda como funciona la hidráulica de potencia.",
+    "metaKeywords": "funciona, hirdaulica, potencia",
+    "ogTitle": "¿Cómo funciona la hidráulica de potencia?",
+    "ogDescription": "Aprenda como funciona la hidráulica de potencia.",
+    "ogURL": "https://www.tu.biz/blog/castellano/como-funciona-la-hidraulica-de-potencia",
+    "ogImage": "https://www.tu.biz//blog-images-spanish/como-funciona-la-hidraulica-de-potencia.png",
+    "twitterTitle": "¿Cómo funciona la hidráulica de potencia?",
+    "twitterDescription": "Aprenda como funciona la hidráulica de potencia.",
+    "twitterImage": "https://www.tu.biz/blog-images-spanish/como-funciona-la-hidraulica-de-potencia.png",
+    "title": "¿Cómo funciona la hidráulica de potencia?",
+    "body": "https://www.youtube.com/embed/PlhDvLVG4u0",
+    "iTitle": "¿Cómo funciona la hidráulica de potencia?",
+    "picture": "/blog-images-spanish/como-funciona-la-hidraulica-de-potencia.png",
+    "alt": "hidraulica de potencia",
+    "description": "Aprenda como funciona la hidráulica de potencia.",
+    "verMas": "ver más de este blog",
+    "link": "/blog/castellano/como-funciona-la-hidraulica-de-potencia",
+    "next": "/blog/castellano/como-trabaja-un-winche-hidraulico",
+    "previous": "/blog/castellano/"
+  },
+  {
     "id": "36",
     "metaTitle": "¿Cómo trabaja un winche hdrálico?",
     "metaDescription": "Aprenda como funciona un winche hidráulico.",
@@ -20,7 +43,7 @@
     "verMas": "ver más de este blog",
     "link": "/blog/castellano/como-trabaja-un-winche-hidraulico",
     "next": "/blog/castellano/hidraulica-vs-neumatica",
-    "previous": "/blog/castellano/"
+    "previous": "/blog/castellano/como-funciona-la-hidraulica-de-potencia"
   },
   {
     "id": "35",
