@@ -1,5 +1,28 @@
 [
   {
+    "id": "45",
+    "metaTitle": "How does a hydraulic winch work?",
+    "metaDescription": "Understanding how a hydraulic winch work in a hydraulic machine.",
+    "metaKeywords": "hydraulic, winch",
+    "ogTitle": "How does a hydraulic winch work?",
+    "ogDescription": "Understanding how a hydraulic winch work in a hydraulic machine.",
+    "ogURL": "https://www.tu.biz/blog/english/how-does-a-hydraulic-winch-work",
+    "ogImage": "https://www.tu.biz//blog-images-english/how-does-a-hydraulic-winch-work.png",
+    "twitterTitle": "How does a hydraulic winch work?",
+    "twitterDescription": "Understanding how a hydraulic winch work in a hydraulic machine.",
+    "twitterImage": "https://www.tu.biz/blog-images-english/how-does-a-hydraulic-winch-work.png",
+    "title": "How does a hydraulic winch work?",
+    "body": "https://www.youtube.com/embed/0Xmv_ac5y-c",
+    "iTitle": "How does a hydraulic winch work?",
+    "picture": "/blog-images-english/how-does-a-hydraulic-winch-work.png",
+    "alt": "hydraulic winch",
+    "description": "Understanding how a hydraulic winch work in a hydraulic machine.",
+    "more": "See more of this blog",
+    "link": "/blog/english/how-does-a-hydraulic-winch-work",
+    "next": "/blog/english/geroler-orbital-hydraulic-motor-catalog",
+    "previous": "/blog/english/"
+  },
+  {
     "id": "44",
     "metaTitle": "Hydraulic Geroler / Orbital motor catalog.",
     "metaDescription": "Find catalog for proper selection of hydraulic geroler / orbital motors.",
@@ -20,7 +43,7 @@
     "more": "See more of this blog",
     "link": "/blog/english/geroler-orbital-hydraulic-motor-catalog",
     "next": "/blog/english/how-does-fluid-power-work",
-    "previous": "/blog/english/"
+    "previous": "/blog/english/how-does-a-hydraulic-winch-work"
   },
   {
     "id": "43",
