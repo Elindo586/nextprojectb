@@ -1,8 +1,8 @@
 import React from "react";
 // import { useEffect } from "react";
-import Blogger1 from "../../../components/blog-post-spanish";
+import Blogger2 from "../../../components/blog-post-english";
 
-import db from "../../../utils/blogs-front/spanish/blog-spanish.json";
+import db from "../../../utils/blogs-front/english/blog-english.json";
 
 export async function getStaticProps() {
   return {
@@ -10,7 +10,7 @@ export async function getStaticProps() {
   };
 }
 
-const PostSpanish16 = ({ db }) => {
+const PostEnglish34 = ({ db }) => {
   // This is another way to do it if I dont do filter below
   // function post(info) {
   //   return (
@@ -39,10 +39,10 @@ const PostSpanish16 = ({ db }) => {
   return (
     <div>
       {db
-        .filter((item) => item.id === "16")
+        .filter((item) => item.id === "34")
         .map((item) => {
           return (
-            <Blogger1
+            <Blogger2
               key={item.id}
               metaTitle={item.metaTitle}
               metaDescription={item.metaDescription}
@@ -71,4 +71,4 @@ const PostSpanish16 = ({ db }) => {
   );
 };
 
-export default PostSpanish16;
+export default PostEnglish34;

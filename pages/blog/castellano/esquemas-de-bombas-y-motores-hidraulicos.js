@@ -10,7 +10,7 @@ export async function getStaticProps() {
   };
 }
 
-const PostSpanish16 = ({ db }) => {
+const PostSpanish32 = ({ db }) => {
   // This is another way to do it if I dont do filter below
   // function post(info) {
   //   return (
@@ -39,7 +39,7 @@ const PostSpanish16 = ({ db }) => {
   return (
     <div>
       {db
-        .filter((item) => item.id === "16")
+        .filter((item) => item.id === "32")
         .map((item) => {
           return (
             <Blogger1
@@ -57,11 +57,7 @@ const PostSpanish16 = ({ db }) => {
               title={item.title}
               body={item.body}
               iTitle={item.iTitle}
-              description={
-                <div
-                  dangerouslySetInnerHTML={{ __html: item.description }}
-                ></div>
-              }
+              description={item.description}
               previous={item.previous}
               next={item.next}
             />
@@ -71,4 +67,4 @@ const PostSpanish16 = ({ db }) => {
   );
 };
 
-export default PostSpanish16;
+export default PostSpanish32;
