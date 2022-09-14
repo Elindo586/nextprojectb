@@ -28,7 +28,7 @@ const Preventive = () => {
           />
           <meta
             name="keywords"
-            content=" preventive, maintenance, industrial machine maintenance "
+            content=" preventive, maintenance, industrial, machine, maintenance "
           />
           <meta name="author" content="Edgar Lindo" />
 

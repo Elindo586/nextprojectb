@@ -28,10 +28,7 @@ const PistonPumps = () => {
             name="description"
             content=" Find all of our industrial product supply. "
           />
-          <meta
-            name="keywords"
-            content="pumps, valves, motors, cylinder, filters,  "
-          />
+          <meta name="keywords" content="pumps, hydraulics  " />
           <meta name="author" content="Edgar Lindo" />
 
           {/* OpenGraph tags */}

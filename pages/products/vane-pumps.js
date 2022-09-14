@@ -28,7 +28,7 @@ const VanePumps = () => {
             name="description"
             content=" Find our hydraulic vane pump catalog. Everything from inventory for faster delivery times at competitive market pricing for your convenience. "
           />
-          <meta name="keywords" content="vane, pumps " />
+          <meta name="keywords" content="vane, pumps, hydraulics " />
           <meta name="author" content="Edgar Lindo" />
 
           {/* OG Tags */}

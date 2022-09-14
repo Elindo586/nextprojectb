@@ -30,7 +30,7 @@ const DirectionalControlValves = () => {
             name="description"
             content=" Find our catalog for directional control valves for hydraulics. Everything from inventory for faster delivery times. "
           />
-          <meta name="keywords" content=" directional control valves" />
+          <meta name="keywords" content=" directional, control, valves" />
           <meta name="author" content="Edgar Lindo" />
 
           {/* OpenGraph tags */}

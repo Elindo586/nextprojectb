@@ -30,10 +30,7 @@ const FlowControlValves = () => {
             name="description"
             content=" Catalog for Flow control valves and needle valves. Everything from inventory for faster delivery times. "
           />
-          <meta
-            name="keywords"
-            content=" flow control valves, needle valves "
-          />
+          <meta name="keywords" content=" flow, control, valves, needle " />
           <meta name="author" content="Edgar Lindo" />
 
           {/* OG tags */}

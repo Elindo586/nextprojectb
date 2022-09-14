@@ -28,7 +28,7 @@ const GerolerMotor = () => {
             name="description"
             content=" Find our geroler hydraulic motor catalog. Everything from inventory for faster delivery times at competitive market pricing for your convenience."
           />
-          <meta name="keywords" content=" geroloer motorsS" />
+          <meta name="keywords" content=" geroloer, motors" />
           <meta name="author" content="Edgar Lindo" />
 
           {/* OG Tags */}

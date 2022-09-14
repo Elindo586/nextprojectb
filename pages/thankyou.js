@@ -22,7 +22,7 @@ const Thanks = () => {
           />{" "}
           <title> TU- Technical Union | Thank you</title>
           <meta name="description" content="Thank you page" />
-          <meta name="keywords" content="thank you" />
+          <meta name="keywords" content="thank, you" />
           <meta name="author" content="Edgar Lindo" />
         </Head>
       </div>

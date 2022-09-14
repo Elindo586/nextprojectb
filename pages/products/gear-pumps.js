@@ -29,7 +29,7 @@ const GearPumps = () => {
             name="description"
             content=" Find our gear pump catalog. Everything from inventory for faster delivery times at competitive market pricing for your convenience. "
           />
-          <meta name="keywords" content="gear pumps " />
+          <meta name="keywords" content="gear, pumps " />
           <meta name="author" content="Edgar Lindo" />
 
           {/* OG tags */}
