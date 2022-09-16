@@ -143,7 +143,8 @@ const VickersList = ({ db }) => {
             Here is a quick overview of regular components coming from our
             inventory to replace Eaton - Vickers parts such as hydraulic valves
             and pumps. If you have any requirements on these components you can
-            always <a href="./contact-us"> contact us </a> for a quote request.
+            always <a href="https://www.tu.biz/contact-us"> contact us </a> for
+            a quote request.
           </p>
         </span>
       </div>

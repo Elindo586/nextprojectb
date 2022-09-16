@@ -75,7 +75,8 @@ const Inventory2 = () => {
         Here is a quick overview of regular components coming from our
         inventory. <br />
         If you have any requirements on these components you can always{" "}
-        <a href="./contact-us"> contact us </a> for a quote request.
+        <a href="https://www.tu.biz/contact-us"> contact us </a> for a quote
+        request.
       </div>
       <div className="col-md-12">
         <span>
