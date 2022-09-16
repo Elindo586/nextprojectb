@@ -1,5 +1,28 @@
 [
   {
+    "id": "59",
+    "metaTitle": "Interactive Animation of a hydraulic circuit simulation.",
+    "metaDescription": "Understanding a basic hydraulic circuit through interactive animated simulation.",
+    "metaKeywords": "",
+    "ogTitle": "Interactive Animation of a hydraulic circuit simulation.",
+    "ogDescription": "Understanding a basic hydraulic circuit through interactive animated simulation.",
+    "ogURL": "https://www.tu.biz/blog/english/hydraulic-circuit-simulation",
+    "ogImage": "https://www.tu.biz//blog-images-english/hydraulic-circuit-simulation.png",
+    "twitterTitle": "Interactive Animation of a hydraulic circuit simulation.",
+    "twitterDescription": "Understanding a basic hydraulic circuit through interactive animated simulation.",
+    "twitterImage": "https://www.tu.biz/blog-images-english/hydraulic-circuit-simulation.png",
+    "title": "Interactive Animation of a hydraulic circuit simulation.",
+    "body": "https://www.youtube.com/embed/etnyttztS8Y",
+    "iTitle": "Interactive Animation of a hydraulic circuit simulation.",
+    "picture": "/blog-images-english/hydraulic-circuit-simulation.png",
+    "alt": "hydraulic animation",
+    "description": "Understanding a basic hydraulic circuit through interactive animated simulation. Visit our <a href= 'https://www.tu.biz/interactive'> Hydraulic Animation Circuit </a> page.",
+    "more": "See more of this blog",
+    "link": "/blog/english/hydraulic-circuit-simulation",
+    "next": "/blog/english/basics-of-hydraulics",
+    "previous": "/blog/english/"
+  },
+  {
     "id": "58",
     "metaTitle": "Basics of Hydraulics.",
     "metaDescription": "Understanding the secrets on how hydraulics work.",
@@ -20,7 +43,7 @@
     "more": "See more of this blog",
     "link": "/blog/english/basics-of-hydraulics",
     "next": "/blog/english/high-low-hydraulic-circuit",
-    "previous": "/blog/english/"
+    "previous": "/blog/english/hydraulic-circuit-simulation"
   },
   {
     "id": "57",
