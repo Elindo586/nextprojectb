@@ -61,6 +61,10 @@ const VickersList = ({ db }) => {
     );
   }, [totalPages]);
 
+  useEffect(() => {
+    window.scrollTo({ top: 0 });
+  }, [currentPage]);
+
   return (
     <div>
       <div>

@@ -57,9 +57,9 @@ const BloggerFrontSpanish = ({ db }) => {
     );
   }, [totalPages]);
 
-  // useMemo(() => {
-  //   window.scrollTo({ top: 0 });
-  // }, [currentPage]);
+  useEffect(() => {
+    window.scrollTo({ top: 0 });
+  }, [currentPage]);
 
   return (
     <div>
