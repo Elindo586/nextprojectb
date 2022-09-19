@@ -3,7 +3,7 @@ import Image from "next/image";
 import Head from "next/head";
 import Link from "next/link";
 
-const TemplateProducts = () => {
+const Veljan = () => {
   return (
     <div>
       <div>
@@ -22,4 +22,4 @@ const TemplateProducts = () => {
   );
 };
 
-export default TemplateProducts;
+export default Veljan;
