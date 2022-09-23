@@ -3,6 +3,26 @@
 // const withPWA = require("next-pwa");
 // const runtimeCaching = require("next-pwa");
 
+// const nextConfig = () => {
+
+//   const theConfig = {
+//     reactStrictMode: true,
+//     async rewrites() {
+//       return {
+//         afterFiles: [{ source: "/:path*", destination: "/_404/:path*" }],
+//       };
+//     },
+//   };
+//   async redirects() {
+//     return [
+//       {
+//         source: "/ContactUs",
+//         destination: "/contact-us",
+//         permanent: true,
+//       },
+//     ],
+//   };
+// };
 const nextConfig = {
   reactStrictMode: true,
   async rewrites() {

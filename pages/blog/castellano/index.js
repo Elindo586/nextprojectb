@@ -26,18 +26,16 @@ const BloggerFrontSpanish = ({ db }) => {
           return val;
         }
         return (
-          val.title.normalize("NFKD").includes(searchTerm.toLowerCase()) ||
-          val.title.normalize("NFKC").includes(searchTerm.toLowerCase()) ||
           val.title
+            .toLowerCase()
             .normalize("NFD")
             .replace(/[\u0300-\u036f]/g, "")
             .includes(searchTerm.toLowerCase()) ||
-          val.title.normalize("NFC").includes(searchTerm.toLowerCase()) ||
           val.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-          `${val.title}`.normalize("NFKD").includes(searchTerm) ||
-          `${val.title}`.normalize("NFKC").includes(searchTerm) ||
-          `${val.title}`.normalize("NFD").includes(searchTerm) ||
-          `${val.title}`.normalize("NFC").includes(searchTerm)
+          `${val.title}`
+            .normalize("NFD")
+            .replace(/[\u0300-\u036f]/g, "")
+            .includes(searchTerm)
         );
       }),
     [searchTerm, db]
