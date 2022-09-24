@@ -30,6 +30,15 @@ const nextConfig = {
       afterFiles: [{ source: "/:path*", destination: "/_404/:path*" }],
     };
   },
+  async redirects() {
+    return [
+      {
+        source: "/ContactUs",
+        destination: "/contact-us", // Matched parameters can be used in the destination
+        permanent: true,
+      },
+    ];
+  },
 };
 
 module.exports = nextConfig;
