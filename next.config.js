@@ -569,16 +569,16 @@ const nextConfig = {
         destination: "/blog/english/hydraulic-dump-pump-catalog",
         permanent: true,
       },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
+      {
+        source: "/blog/tag/:rest*",
+        destination: "/blog/english",
+        permanent: true,
+      },
+      {
+        source: "/blog/category/:rest*",
+        destination: "/blog/english",
+        permanent: true,
+      },
       // {
       //   source: "/",
       //   destination: "/",
