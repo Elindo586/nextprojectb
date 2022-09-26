@@ -352,71 +352,74 @@ const nextConfig = {
           "/blog/castellano/catalogo-de-bombas-hidraulicas-de-paletas",
         permanent: true,
       },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
+      {
+        source: "/blog/231-en-hidraulica/",
+        destination: "/blog/castellano/que-es-231-en-hidraulica",
+        permanent: true,
+      },
+      {
+        source: "/geroler-motors",
+        destination: "/products/geroler-motors",
+        permanent: true,
+      },
+      {
+        source: "/blog/calculo-de-fuerza-para-cilindro-hidraulico",
+        destination: "/blog/castellano/fuerza-hidraulica-de-un-cilindro",
+        permanent: true,
+      },
+      {
+        source: "/blog/potencia-hdraulica",
+        destination: "/blog/castellano/calculo-de-potencia-hidraulica",
+        permanent: true,
+      },
+      {
+        source: "/blog/valvula-de-alivio-ventilada",
+        destination:
+          "/blog/castellano/circuito-hidraulico-de-valvula-de-alivio-ventilada",
+        permanent: true,
+      },
+      {
+        source: "/blog/motores-hidraulicos-geroler-orbitrol",
+        destination:
+          "/blog/castellano/catalogo-de-motores-hidraulicos-geroler-orbitrol",
+        permanent: true,
+      },
+      {
+        source: "/tag/hidraulica",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/blog/tag/reemplazo-de-bomba-hidraulica",
+        destination: "/blog/castellano/como-intercambiar-bombas-hidraulicas",
+        permanent: true,
+      },
+      {
+        source: "/blog/bomba-hidraulica-de-pistones-serie-a10v",
+        destination: "/blog/castellano/catalogo-de-bombas-de-pistones-a10v",
+        permanent: true,
+      },
+      {
+        source: "/blog/bomba-hidraulica-de-engranes-de-aluminio",
+        destination:
+          "/blog/castellano/catalogo-de-bombas-de-engranes-de-aluminio",
+        permanent: true,
+      },
+      {
+        source: "/blog/what-is-a-hydraulic-pressure-relief-valve",
+        destination: "/blog/english/what-is-a-pressure-relief-valve",
+        permanent: true,
+      },
+      {
+        source: "/hydraulic-piston-pumps",
+        destination: "/products/piston-pumps",
+        permanent: true,
+      },
+      {
+        source: "/blog/valvula-de-control-direccional",
+        destination: "/blog/castellano/catalogo-de-valvulas-direccionales",
+        permanent: true,
+      },
       // {
       //   source: "/",
       //   destination: "/",
