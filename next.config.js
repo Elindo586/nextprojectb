@@ -420,226 +420,229 @@ const nextConfig = {
         destination: "/blog/castellano/catalogo-de-valvulas-direccionales",
         permanent: true,
       },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
+      {
+        source: "/blog/variable-displacement-vane-pump-catalog",
+        destination: "/blog/english/variable-displacement-vane-pump-catalog",
+        permanent: true,
+      },
+      {
+        source: "/blog/hidraulica-vs-neumatica",
+        destination: "/blog/castellano/hidraulica-vs-neumatica",
+        permanent: true,
+      },
+      {
+        source: "/download/dump-pumps.pdf",
+        destination: "/pdf/dump-pumps.pdf",
+        permanent: true,
+      },
+      {
+        source: "/blog/como-funciona-una-valvula-aguja",
+        destination: "/blog/castellano/como-funciona-una-valvula-aguja",
+        permanent: true,
+      },
+      {
+        source: "/blog/eaton-vickers",
+        destination: "/blog/english/eaton-vickers-crossovers",
+        permanent: true,
+      },
+      {
+        source: "/blog/calculo-de-area-de-un-cilindro/",
+        destination: "/blog/castellano/calculo-de-area-de-cilindro-hidraulico",
+        permanent: true,
+      },
+      {
+        source: "/blog/radial-piston-pump-catalog/",
+        destination: "/blog/english/radial-piston-pump-catalog",
+        permanent: true,
+      },
+      {
+        source: "/blog/circuito-de-seguridad-para-acumulador-hidraulico/",
+        destination:
+          "/blog/castellano/circuito-de-seguridad-para-acumulador-hidraulico",
+        permanent: true,
+      },
+      {
+        source: "/blog/directional-control-valve-catalog/",
+        destination:
+          "/blog/english/hydraulic-directional-control-valves-catalog",
+        permanent: true,
+      },
+      {
+        source: "/blog/videos-tecnicos",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/download/radial-piston-pumps.pdf",
+        destination: "/pdf/radial-piston-pumps.pdf",
+        permanent: true,
+      },
+      {
+        source: "/interactive.html",
+        destination: "/interactive",
+        permanent: true,
+      },
+      {
+        source: "/download/d08-manifold.pdf",
+        destination: "/pdf/d08-manifold.pdf",
+        permanent: true,
+      },
+      {
+        source: "/Products/VaneMotors",
+        destination: "/products/vane-motors",
+        permanent: true,
+      },
+      {
+        source: "/static/media/d03-manifold.e95f7213e093bb9e5d6b.pdf",
+        destination: "/pdf/d03-manifold.pdf",
+        permanent: true,
+      },
+      {
+        source: "/blog/tag/bombas-de-paletas-triples/",
+        destination: "/products/vane-pumps",
+        permanent: true,
+      },
+      {
+        source: "/blog/bomba-hidraulica-a10v",
+        destination: "/blog/castellano/catalogo-de-bombas-de-pistones-a10v",
+        permanent: true,
+      },
+      {
+        source: "/needle-valves-flow-control-valves",
+        destination: "/products/flow-control-valves",
+        permanent: true,
+      },
+      {
+        source: "/Services/PreventiveMaintenancePrograms",
+        destination: "/services/preventive-maintenance-programs",
+        permanent: true,
+      },
+      {
+        source:
+          "/static/media/hydraulic-gear-pumps-catalog.5a40f47ea7c1bed64924.pdf",
+        destination: "/pdf/hydraulic-gear-pumps-catalog.pdf",
+        permanent: true,
+      },
+      {
+        source: "/blog/hydraulic-cylinder-force-calculation",
+        destination: "/blog/english/hydraulic-cylinder-force-calculation",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
     ];
   },
 };
