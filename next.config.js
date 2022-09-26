@@ -579,6 +579,132 @@ const nextConfig = {
         destination: "/blog/english",
         permanent: true,
       },
+      {
+        source: "/download/a10v-pump-catalog.pdf",
+        destination: "/pdf/a10v-pump-catalog.pdf",
+        permanent: true,
+      },
+      {
+        source: "/blog/the-basics-of-hydraulics",
+        destination: "/blog/english/basics-of-hydraulics",
+        permanent: true,
+      },
+      {
+        source: "/blog/orbital-motors/",
+        destination: "/english/geroler-orbital-hydraulic-motor-catalog",
+        permanent: true,
+      },
+      {
+        source: "/services",
+        destination: "/services/fluid-analysis",
+        permanent: true,
+      },
+      {
+        source: "/blog/caballos-de-fuerza-para-cilindro-hidraulico",
+        destination:
+          "/blog/castellano/calculo-de-caballos-de-fuerza-para-cilindro-hidraulico",
+        permanent: true,
+      },
+      {
+        source: "/veljan",
+        destination: "/this/veljan",
+        permanent: true,
+      },
+      {
+        source: "/hydrocraft",
+        destination: "/this/hydrocraft",
+        permanent: true,
+      },
+      {
+        source: "/formulas.html",
+        destination: "/fluid-power-formulas",
+        permanent: true,
+      },
+      {
+        source: "/Services",
+        destination: "/services/fluid-analysis",
+        permanent: true,
+      },
+      {
+        source: "/comments/feed",
+        destination: "/blog/english",
+        permanent: true,
+      },
+      {
+        source:
+          "/blog/valvula-de-alivio-pilotada-vs-valvula-de-alivio-de-accion-directa",
+        destination: "/blog/castellano/valvula-de-alivio-pilotada",
+        permanent: true,
+      },
+      {
+        source:
+          "/blog/calculo-hidraulico-para-caballos-de-fuerza-de-bomba-hidraulica",
+        destination:
+          "/blog/castellano/calculo-de-caballos-de-fuerza-para-hidraulica",
+        permanent: true,
+      },
+      {
+        source:
+          "/blog/how-to-set-and-adjust-a-pressure-compensated-control-for-your-hydraulic-pump",
+        destination:
+          "/blog/english/pressure-compensated-pump-control-adjustment",
+        permanent: true,
+      },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
       // {
       //   source: "/",
       //   destination: "/",
