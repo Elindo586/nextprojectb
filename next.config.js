@@ -533,116 +533,116 @@ const nextConfig = {
         destination: "/blog/english/how-does-a-needle-valve-work",
         permanent: true,
       },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
+      // {
+      //   source: "/blog/hydraulic-cylinder-extension/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
     ];
   },
 };
