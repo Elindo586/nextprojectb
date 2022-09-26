@@ -528,121 +528,121 @@ const nextConfig = {
         destination: "/blog/english/hydraulic-cylinder-force-calculation",
         permanent: true,
       },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
     ];
   },
 };
