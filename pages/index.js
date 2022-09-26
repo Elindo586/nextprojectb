@@ -94,7 +94,7 @@ const Home = () => {
           </h4>
           <div className="listitems">
             <ul>
-              <li>Engineer systems.</li>
+              <li>Engineered systems.</li>
               <li>Hydraulic retrofits.</li>
               <li>Spare parts supply.</li>
               <li>Hydraulic components remanufacture.</li>
