@@ -55,7 +55,7 @@ function MainNav() {
     >
       <Link href="/">
         <a onClick={title} className="navbar-brand">
-          TU
+          &nbsp; <strong>TU</strong>
         </a>
       </Link>
 

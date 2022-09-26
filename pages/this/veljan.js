@@ -11,7 +11,7 @@ const Veljan = () => {
       </div>
       <div className="row">
         <div className="col-md-9 table-responsive">
-          <div className="col-md-12"></div>
+          <div className="col-md-12">Hello. I am Veljan.</div>
           <div className="col-md-12"></div>
           <div className="col-md-12"></div>
           <div className="col-md-12"></div>
