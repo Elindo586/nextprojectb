@@ -37,6 +37,11 @@ const nextConfig = {
         destination: "/contact-us", // Matched parameters can be used in the destination
         permanent: true,
       },
+      {
+        source: "/blog/como-trabaja-un-control-de-load-sensing",
+        destination: "/blog/castellano/control-de-load-sensing", // Matched parameters can be used in the destination
+        permanent: true,
+      },
     ];
   },
 };

@@ -17,7 +17,7 @@ function MetaEnglish(props) {
         name="facebook-domain-verification"
         content="fzctnjbrtlybvytmamk8glkng9af7p"
       />
-      <title>TU-Technical Union</title>
+      <title>TU</title>
       <meta name="description" content="" />
       <meta name="keywords" content="" />
       <meta name="author" content="Edgar Lindo" />
@@ -28,7 +28,7 @@ function MetaEnglish(props) {
       <meta property="og:description" content="" id="meta-og-desc" />
       <meta property="og:url" content="https://www.tu.biz" id="meta-og-url" />
       <meta property="og:locale" content="en" />
-      <meta property="site_name" content="TU-Technical Union" />
+      <meta property="site_name" content="TU" />
       <meta
         name="image"
         property="og:image"

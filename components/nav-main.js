@@ -20,28 +20,28 @@ function MainNav() {
   const title = () => {
     let findTitle = window.location.pathname;
     setIsPath(findTitle);
-    // document.title = `TU - Technical Union | ${findTitle}`;
+    // document.title = `TU  | ${findTitle}`;
     switch (findTitle) {
       case "/":
-        document.title = "TU - Technical Union | Home";
+        document.title = "TU | Home";
         break;
       case "/products/piston-pumps":
-        document.title = "TU - Technical Union | Products";
+        document.title = "TU | Products";
         break;
       case "/services/fluid-analysis":
-        document.title = "TU - Technical Union | Services";
+        document.title = "TU | Services";
         break;
       case "/inventory":
-        document.title = "TU - Technical Union | Inventory";
+        document.title = "TU | Inventory";
         break;
       case "/fluid-power-formulas":
-        document.title = "TU - Technical Union | Formulas";
+        document.title = "TU | Formulas";
         break;
       case "/interactive":
-        document.title = "TU - Technical Union | Interactive";
+        document.title = "TU | Interactive";
         break;
       case "/contact-us":
-        document.title = "TU - Technical Union | Contact Us";
+        document.title = "TU | Contact Us";
         break;
       default:
         console.log("This is not a part of this website.");
@@ -55,7 +55,7 @@ function MainNav() {
     >
       <Link href="/">
         <a onClick={title} className="navbar-brand">
-          TECHNICAL UNION
+          TU
         </a>
       </Link>
 
@@ -77,7 +77,7 @@ function MainNav() {
           <li className="nav-item active">
             <Link href="/">
               <a className="nav-link" onClick={title}>
-                | Home
+                Home
               </a>
             </Link>
           </li>
@@ -86,7 +86,7 @@ function MainNav() {
             {/* <a className="nav-link" href="/Products/products.html">| Products</a> */}
             <Link href="/products/piston-pumps">
               <a className="nav-link" onClick={title}>
-                | Products
+                Products
               </a>
             </Link>
           </li>
@@ -95,14 +95,14 @@ function MainNav() {
             {/* <a className="nav-link" href="/Services/Services.html">| Services</a> */}
             <Link href="/services/fluid-analysis">
               <a className="nav-link" onClick={title}>
-                | Services
+                Services
               </a>
             </Link>
           </li>
 
           <li className="nav-item">
             <Link href="/inventory">
-              <a className="nav-link">| Inventory</a>
+              <a className="nav-link">Inventory</a>
             </Link>
           </li>
 
@@ -110,7 +110,7 @@ function MainNav() {
             {/* <a className="nav-link" href="formulas.html">| Formulas</a> */}
             <Link href="/fluid-power-formulas">
               <a className="nav-link" onClick={title}>
-                | Formulas
+                Formulas
               </a>
             </Link>
           </li>
@@ -119,14 +119,14 @@ function MainNav() {
             {/* <a className="nav-link" href="Interactive.html">| Interactive</a> */}
             <Link href="/interactive">
               <a className="nav-link" onClick={title}>
-                | Interactive
+                Interactive
               </a>
             </Link>
           </li>
           <li className="nav-item">
             <Link href="/blog/english">
               <a className="nav-link" onClick={title}>
-                | Blogs
+                Blogs
               </a>
             </Link>
           </li>
@@ -135,7 +135,7 @@ function MainNav() {
             {/* <a className="nav-link" href="contactus.html">| Contact Us</a> */}
             <Link href="/contact-us">
               <a className="nav-link" onClick={title}>
-                | Contact Us
+                Contact Us
               </a>
             </Link>
           </li>

@@ -23,7 +23,10 @@ const Inventory2 = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>TU- Technical Union | Hydraulic Inventory</title>
+          <title>
+            TU | Industrial exporters, hydraulics, pneumatics, electrical,
+            mechanical products.{" "}
+          </title>
 
           <meta
             name="description"
@@ -56,10 +59,7 @@ const Inventory2 = () => {
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:creator" content="@MrEdgarLindo" />
 
-          <meta
-            name="twitter:title"
-            content=" TU - Technical Union | Inventory"
-          />
+          <meta name="twitter:title" content=" TU | Industrial Inventory" />
 
           <meta
             name="twitter:description"

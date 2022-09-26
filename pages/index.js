@@ -19,7 +19,7 @@ const Home = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>TU-Technical Union</title>
+          <title>TU </title>
           <meta
             name="description"
             content="Single source for industrial supplies. Hydraulics, Pneumatics, Electrical, Mechanical."
@@ -37,11 +37,7 @@ const Home = () => {
           <meta property="og:locale" content="en" />
           <meta property="site_name" content="TU-Technical Union" />
 
-          <meta
-            property="og:title"
-            content=" Technical Union"
-            id="meta-og-title"
-          />
+          <meta property="og:title" content=" TU" id="meta-og-title" />
           <meta
             property="og:description"
             content="Industrial Supplies | Exports from USA | Hydraulics, Electrical, Mechanical, and more. Everything you need for your industrial machinery you can find it with us. "
@@ -63,7 +59,7 @@ const Home = () => {
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:creator" content="@MrEdgarLindo" />
 
-          <meta name="twitter:title" content=" TU -Technical Union | " />
+          <meta name="twitter:title" content=" TU  " />
 
           <meta
             name="twitter:description"
@@ -79,19 +75,19 @@ const Home = () => {
       <div className="row" lang="en">
         <div className="col-md-6" lang="en">
           <p className="maintext">
-            <strong> TU – TECHNICAL UNION</strong> is your single source for
-            engineered and standard hydraulic components to meet your hydraulic
-            machine’s technical requirements. Whenever you are working on a new
-            project or an existing system, you need proven technical solutions
-            to give you a competitive edge for improved machine design, better
+            <strong> TU </strong> is your single source for industrial
+            components in the areas of hydraulics, pneumatics, electrical, and
+            mechanical products. Whenever you are working on a new project or an
+            existing industrial system, you need proven technical solutions to
+            give you a competitive edge for improved machine design, better
             production time, and optimal machine maintenance to maximize your
             company’s capital investment.
           </p>
           <p className="maintext" lang="en">
-            <strong>TU – TECHNICAL UNION</strong> offers cost-effective
-            technical solutions that you can trust to help you increase
-            efficient productivity, compact system design, and usage control of
-            spare components for your hydraulic machinery.
+            <strong>TU </strong> offers cost-effective technical industrial
+            solutions that you can trust to help you increase efficient
+            productivity, compact system design, and usage control of spare
+            components for your industrial machinery.
           </p>
           <h4 className="listtittle">
             <strong>Our Advantages</strong>
@@ -100,10 +96,10 @@ const Home = () => {
             <ul>
               <li>Engineer systems.</li>
               <li>Hydraulic retrofits.</li>
-              <li>Hydraulic machines upgrades.</li>
+              <li>Spare parts supply.</li>
               <li>Hydraulic components remanufacture.</li>
-              <li>Alternative new hydraulic components.</li>
-              <li>Standard replacement components.</li>
+              <li>Alternative new components to replace main brand names.</li>
+              <li>Competitive market prices.</li>
               <li>Preventive maintenance programs.</li>
               <li>Technical Experience.</li>
               <li>Superior quality.</li>

@@ -10,7 +10,7 @@ const Footer = () => {
     <div>
       <footer className="main-footer">
         <p className="copyright">
-          © {fullYear()} Copyright Technical Union <br />
+          © {fullYear()} Copyright - TU -<br />
           &nbsp;&nbsp; Developed by Edgar Lindo
         </p>
       </footer>
