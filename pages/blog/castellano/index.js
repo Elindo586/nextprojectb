@@ -75,7 +75,7 @@ const BloggerFrontSpanish = ({ db }) => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>TU-Technical Union Blogs en Castellano</title>
+          <title>TU | Blog industrial en Castellano</title>
           <meta
             name="description"
             content="Blogs industriales entre otras cosas..."
@@ -117,10 +117,7 @@ const BloggerFrontSpanish = ({ db }) => {
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:creator" content="@MrEdgarLindo" />
 
-          <meta
-            name="twitter:title"
-            content=" Blog industrial y más de parte Edgar Lindo para todo el mundo. "
-          />
+          <meta name="twitter:title" content=" TU blogs industrial. " />
 
           <meta
             name="twitter:description"

@@ -3,6 +3,7 @@ import React from "react";
 import Blogger2 from "../../../components/blog-post-english";
 
 import db from "../../../utils/blogs-front/english/blog-english.json";
+import Head from "next/head";
 
 export async function getStaticProps() {
   return {
@@ -38,6 +39,14 @@ const PostEnglish13 = ({ db }) => {
 
   return (
     <div>
+      <div>
+        <Head>
+          <link
+            rel="canonical"
+            href="https://www.tu.biz/blog/english/hydraulic-dump-pump-catalog"
+          />
+        </Head>
+      </div>
       {db
         .filter((item) => item.id === "13")
         .map((item) => {

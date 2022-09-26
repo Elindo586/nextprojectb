@@ -77,11 +77,11 @@ const BloggerFrontEnglish = ({ db }) => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>TU-Technical Union Blogs</title>
+          <title>TU | Blogs</title>
           <meta name="description" content=" Technical blogs by Edgar Lindo" />
           <meta
             name="keywords"
-            content="blogs, technical, union, hydraulic, mechanical, exports, electrical"
+            content="blogs, TU, hydraulic, mechanical, exports, electrical"
           />
           <meta name="author" content="Edgar Lindo" />
 
@@ -89,7 +89,7 @@ const BloggerFrontEnglish = ({ db }) => {
 
           <meta
             property="og:title"
-            content=" Technical blogs by Edgar Lindo"
+            content=" TU blogs by Edgar Lindo"
             id="meta-og-title"
           />
           <meta
@@ -103,7 +103,7 @@ const BloggerFrontEnglish = ({ db }) => {
             id="meta-og-url"
           />
           <meta property="og:locale" content="en" />
-          <meta property="site_name" content="TU-Technical Union" />
+          <meta property="site_name" content="TU" />
           <meta
             name="image"
             property="og:image"
@@ -116,10 +116,7 @@ const BloggerFrontEnglish = ({ db }) => {
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:creator" content="@MrEdgarLindo" />
 
-          <meta
-            name="twitter:title"
-            content=" Technical Blogs by Edgar Lindo "
-          />
+          <meta name="twitter:title" content=" TU Blogs by Edgar Lindo " />
 
           <meta
             name="twitter:description"

@@ -533,41 +533,42 @@ const nextConfig = {
         destination: "/blog/english/how-does-a-needle-valve-work",
         permanent: true,
       },
-      // {
-      //   source: "/blog/hydraulic-cylinder-extension/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
+      {
+        source: "/blog/hydraulic-cylinder-extension/",
+        destination: "/blog/english/hydraulic-cylinder-speed-calculation",
+        permanent: true,
+      },
+      {
+        source: "/hydraulic-vane-motors",
+        destination: "/products/vane-motors",
+        permanent: true,
+      },
+      {
+        source: "/blog/hydac-technology",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/blog/meter-in-meter-out-hydraulic-circuit",
+        destination: "/blog/english/meter-in-meter-out-hydraulic-circuit",
+        permanent: true,
+      },
+      {
+        source: "/blog/hydraulic-symbols-for-pumps",
+        destination:
+          "/blog/english/hydraulic-fluid-power-symbols-for-hydraulic-pumps",
+        permanent: true,
+      },
+      {
+        source: "/blog/valvula-antirretorno-valvula-check/",
+        destination: "/blog/castellano/valvula-antiretorno-valvula-check",
+        permanent: true,
+      },
+      {
+        source: "/blog/dump-pump-catalog",
+        destination: "/blog/english/hydraulic-dump-pump-catalog",
+        permanent: true,
+      },
       // {
       //   source: "/",
       //   destination: "/",
