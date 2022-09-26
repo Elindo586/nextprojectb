@@ -650,31 +650,33 @@ const nextConfig = {
           "/blog/english/pressure-compensated-pump-control-adjustment",
         permanent: true,
       },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
+      {
+        source: "/blog/hydac",
+        destination: "/blog/english",
+        permanent: true,
+      },
+      {
+        source: "/services/:rest*",
+        destination: "/services/fluid-analysis",
+        permanent: true,
+      },
+      {
+        source:
+          "/blog/how-to-set-and-adjust-a-pressure-compensated-control-for-your-hydraulic-pump/:rest*",
+        destination:
+          "/blog/english/pressure-compensated-pump-control-adjustment",
+        permanent: true,
+      },
+      {
+        source: "/hydraulic-cylinders-3/:rest*",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/piston-pumps/:rest*",
+        destination: "/products/piston-pumps",
+        permanent: true,
+      },
       // {
       //   source: "/",
       //   destination: "/",
