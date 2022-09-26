@@ -271,6 +271,359 @@ const nextConfig = {
       },
       {
         source: "/blog/que-esl-el-beta-de-un-filtro",
+        destination: "/blog/castellano/beta-en-filtracion-industrial",
+        permanent: true,
+      },
+      {
+        source: "/download/vho-vq-hydraulic-pumps-catalog.pdf",
+        destination: "/pdf/vho-vq-hydraulic-pumps-catalog.pdf",
+        permanent: true,
+      },
+      {
+        source: "/download/hi-torque-low-speed-hydraulic-motors.pdf",
+        destination: "/pdf/hi-torque-low-speed-hydraulic-motors.pdf",
+        permanent: true,
+      },
+      {
+        source: "/blog/pilot-operated-crossover-check-valves",
+        destination: "/blog/english/pilot-crossover-check-valves",
+        permanent: true,
+      },
+      {
+        source: "/blog/bomba-hidraulica-de-pistones-radiales",
+        destination: "/blog/castellano/bomba-de-pistones-radiales",
+        permanent: true,
+      },
+      {
+        source: "/blog/hydraulic-symbols-for-pressure-valves",
+        destination:
+          "/blog/english/hydraulic-fluid-power-symbols-for-pressure-valves",
+        permanent: true,
+      },
+      {
+        source: "/download/directional-control-valves.pdf",
+        destination: "/pdf/directional-control-valves.pdf",
+        permanent: true,
+      },
+      {
+        source: "/blog/tag/bomba-hidraulica/",
+        destination: "/blog/castellano/seleccion-de-bomba-hidraulica",
+        permanent: true,
+      },
+      {
+        source: "/blog/how-to-test-a-fixed-displacement-hydraulic-pump/",
+        destination: "/blog/english/hydraulic-pump-test",
+        permanent: true,
+      },
+      {
+        source: "/category/hydraulics/hydraulic-calculations",
+        destination: "/category/hydraulics/hydraulic-calculations/",
+        permanent: true,
+      },
+      {
+        source: "/blog/hydraulic-horsepower/",
+        destination: "/blog/english/horsepower-fluid-power-calculation",
+        permanent: true,
+      },
+      {
+        source: "/blog/hydraulic-calculation-for-cylinder-speed/",
+        destination: "/blog/english/hydraulic-cylinder-speed-calculation",
+        permanent: true,
+      },
+      {
+        source: "/blog/motores-hidraulicos-orbitrol-geroler",
+        destination:
+          "/blog/castellano/catalogo-de-motores-hidraulicos-geroler-orbitrol",
+        permanent: true,
+      },
+      {
+        source: "/hydraulic-manifolds/",
+        destination: "/products/hydraulic-manifolds",
+        permanent: true,
+      },
+      {
+        source: "/blog/tag/manifold-hidraulico",
+        destination: "/blog/castellano/manifold-hidraulico",
+        permanent: true,
+      },
+      {
+        source: "/blog/bombas-de-palestas-simples-dobles-y-triples",
+        destination:
+          "/blog/castellano/catalogo-de-bombas-hidraulicas-de-paletas",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/",
         destination: "/",
         permanent: true,
       },
