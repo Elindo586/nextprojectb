@@ -352,291 +352,291 @@ const nextConfig = {
           "/blog/castellano/catalogo-de-bombas-hidraulicas-de-paletas",
         permanent: true,
       },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
-      {
-        source: "/",
-        destination: "/",
-        permanent: true,
-      },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
     ];
   },
 };
