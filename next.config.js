@@ -732,16 +732,16 @@ const nextConfig = {
         destination: "/fluid-power-formulas",
         permanent: true,
       },
-      {
-        source: "/Interactive",
-        destination: "/interactive",
-        permanent: true,
-      },
-      {
-        source: "/Inventory",
-        destination: "/inventory",
-        permanent: true,
-      },
+      // {
+      //   source: "/Interactive",
+      //   destination: "/interactive",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/Inventory",
+      //   destination: "/inventory",
+      //   permanent: true,
+      // },
       {
         source: "/partnumbers.html",
         destination: "/inventory",
@@ -932,11 +932,11 @@ const nextConfig = {
         destination: "/products/flow-control-valves",
         permanent: true,
       },
-      {
-        source: "/Products/FlowMeters",
-        destination: "/products/flowmeters",
-        permanent: true,
-      },
+      // {
+      //   source: "/Products/FlowMeters",
+      //   destination: "/products/flowmeters",
+      //   permanent: true,
+      // },
       {
         source: "/Products/GearPumps",
         destination: "/products/gear-pumps",
