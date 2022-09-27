@@ -512,11 +512,7 @@ const nextConfig = {
         destination: "/products/flow-control-valves",
         permanent: true,
       },
-      {
-        source: "/Services/PreventiveMaintenancePrograms",
-        destination: "/services/preventive-maintenance-programs",
-        permanent: true,
-      },
+
       {
         source:
           "/static/media/hydraulic-gear-pumps-catalog.5a40f47ea7c1bed64924.pdf",
@@ -594,11 +590,7 @@ const nextConfig = {
         destination: "/english/geroler-orbital-hydraulic-motor-catalog",
         permanent: true,
       },
-      {
-        source: "/services",
-        destination: "/services/fluid-analysis",
-        permanent: true,
-      },
+
       {
         source: "/blog/caballos-de-fuerza-para-cilindro-hidraulico",
         destination:
@@ -655,11 +647,7 @@ const nextConfig = {
         destination: "/blog/english",
         permanent: true,
       },
-      {
-        source: "/services/:rest*",
-        destination: "/services/fluid-analysis",
-        permanent: true,
-      },
+
       {
         source:
           "/blog/how-to-set-and-adjust-a-pressure-compensated-control-for-your-hydraulic-pump/:rest*",
@@ -732,16 +720,7 @@ const nextConfig = {
         destination: "/fluid-power-formulas",
         permanent: true,
       },
-      {
-        source: "/Interactive",
-        destination: "/interactive",
-        permanent: true,
-      },
-      {
-        source: "/Inventory",
-        destination: "/inventory",
-        permanent: true,
-      },
+
       {
         source: "/partnumbers.html",
         destination: "/inventory",
@@ -932,11 +911,7 @@ const nextConfig = {
         destination: "/products/flow-control-valves",
         permanent: true,
       },
-      {
-        source: "/Products/FlowMeters",
-        destination: "/products/flowmeters",
-        permanent: true,
-      },
+
       {
         source: "/Products/GearPumps",
         destination: "/products/gear-pumps",
