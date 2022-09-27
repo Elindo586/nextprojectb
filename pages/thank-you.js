@@ -20,7 +20,7 @@ const Thanks = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />{" "}
-          <title> TU- Technical Union | Thank you</title>
+          <title> TU | Thank you</title>
           <meta name="description" content="Thank you page" />
           <meta name="keywords" content="thank, you" />
           <meta name="author" content="Edgar Lindo" />

@@ -21,24 +21,21 @@ const HydraulicManifolds = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title> TU - Technical Union | Hydraulic Manifolds </title>
+          <title> TU | Hydraulic Manifolds </title>
 
           <meta
             name="description"
             content=" Find our hydraulic manifold catalog. Everything from inventory for faster delivery times at competitive market pricing for your convenience. "
           />
-          <meta name="keywords" content="hydraulic, manifolds,  " />
+          <meta name="keywords" content="TU, hydraulic, manifolds,  " />
           <meta name="author" content="Edgar Lindo" />
 
           {/* OG tags */}
 
           <meta property="og:locale" content="en" />
-          <meta property="site_name" content="TU-Technical Union" />
+          <meta property="site_name" content="TU" />
 
-          <meta
-            property="og:title"
-            content=" Technical Union | Hydraulic Manifolds"
-          />
+          <meta property="og:title" content=" TU | Hydraulic Manifolds" />
           <meta
             property="og:description"
             content="Find Hydraulic Manifolds from Technical Union. Everything from inventory for faster delivery times at competitive market pricing for your convenience."
@@ -56,14 +53,11 @@ const HydraulicManifolds = () => {
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:creator" content="@MrEdgarLindo" />
 
-          <meta
-            name="twitter:title"
-            content=" Technical Union | Hydraulic Manifolds"
-          />
+          <meta name="twitter:title" content=" TU | Hydraulic Manifolds" />
 
           <meta
             name="twitter:description"
-            content="Find Hydraulic manifolds  from TU Technical Union. Everything from inventory for faster delivery times at competitive market pricing for your convenience."
+            content="Find Hydraulic manifolds  from TU. Everything from inventory for faster delivery times at competitive market pricing for your convenience."
           />
           <meta
             name="twitter:image"

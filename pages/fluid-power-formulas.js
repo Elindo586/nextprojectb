@@ -377,21 +377,22 @@ const Formulas = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>
-            TU - Technical Union | Fluid Power Formulas | Calculator{" "}
-          </title>
+          <title>TU | Fluid Power Formulas | Calculator </title>
 
           <meta
             name="description"
             content="Fluid Power calculator | PSI, Force, GPM, Speed, etc.. fluid power calculation at your finger tips. "
           />
-          <meta name="keywords" content="Fluid Power, Formulas, Calculator" />
+          <meta
+            name="keywords"
+            content="TU, Fluid Power, Formulas, Calculator"
+          />
           <meta name="author" content="Edgar Lindo" />
 
           {/* OG tags */}
 
           <meta property="og:locale" content="en" />
-          <meta property="site_name" content="TU-Technical Union" />
+          <meta property="site_name" content="TU " />
 
           <meta
             property="og:title"
@@ -415,10 +416,7 @@ const Formulas = () => {
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:creator" content="@MrEdgarLindo" />
 
-          <meta
-            name="twitter:title"
-            content=" TU -Technical Union | Fluid Power Formulas "
-          />
+          <meta name="twitter:title" content=" TU  | Fluid Power Formulas " />
 
           <meta
             name="twitter:description"

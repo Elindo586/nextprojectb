@@ -180,7 +180,7 @@ const Interactive = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>TU- Technical Union | Interactive hydraulic animation</title>
+          <title>TU | Interactive hydraulic animation</title>
 
           <meta
             name="description"
@@ -195,11 +195,11 @@ const Interactive = () => {
           {/* OG tags */}
 
           <meta property="og:locale" content="en" />
-          <meta property="site_name" content="TU-Technical Union" />
+          <meta property="site_name" content="TU" />
 
           <meta
             property="og:title"
-            content=" Technical Union Interactive hydraulic circuits"
+            content=" TU Interactive hydraulic circuits"
           />
           <meta
             property="og:description"
@@ -216,10 +216,7 @@ const Interactive = () => {
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:creator" content="@MrEdgarLindo" />
 
-          <meta
-            name="twitter:title"
-            content=" Technical Union | interactive animation"
-          />
+          <meta name="twitter:title" content=" TU | interactive animation" />
 
           <meta
             name="twitter:description"

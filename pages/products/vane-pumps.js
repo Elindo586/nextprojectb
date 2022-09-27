@@ -22,24 +22,24 @@ const VanePumps = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>TU - Technical Union | Hydraulic Vane Pumps </title>
+          <title>TU | Hydraulic Vane Pumps </title>
 
           <meta
             name="description"
             content=" Find our hydraulic vane pump catalog. Everything from inventory for faster delivery times at competitive market pricing for your convenience. "
           />
-          <meta name="keywords" content="vane, pumps, hydraulics " />
+          <meta name="keywords" content="TU, vane, pumps, hydraulics " />
           <meta name="author" content="Edgar Lindo" />
 
           {/* OG Tags */}
 
           <meta property="og:locale" content="en" />
-          <meta property="site_name" content="TU-Technical Union" />
+          <meta property="site_name" content="TU" />
 
-          <meta property="og:title" content=" Technical Union" />
+          <meta property="og:title" content=" TU " />
           <meta
             property="og:description"
-            content=" Hydraulic vane pumps from Technical Union. Everything from inventory for faster delivery times at competitive market pricing for your convenience."
+            content=" Hydraulic vane pumps from TU. Everything from inventory for faster delivery times at competitive market pricing for your convenience."
           />
           <meta
             property="og:image"
@@ -54,14 +54,11 @@ const VanePumps = () => {
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:creator" content="@MrEdgarLindo" />
 
-          <meta
-            name="twitter:title"
-            content=" Technical Union | Hydraulic Vane Pumps"
-          />
+          <meta name="twitter:title" content=" TU | Hydraulic Vane Pumps" />
 
           <meta
             name="twitter:description"
-            content="Find Hydraulic Vane Pumps from TU Technical Union"
+            content="Find Hydraulic Vane Pumps from TU"
           />
           <meta
             name="twitter:image"

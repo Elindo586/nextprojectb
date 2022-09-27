@@ -21,20 +21,20 @@ const VaneMotors = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />{" "}
-          <title>TU - Technical Union | Hydraulic Vane Motors </title>
+          <title>TU | Hydraulic Vane Motors </title>
           <meta
             name="description"
             content=" Find our hydraulic vane motor catalog. Everything from inventory for faster delivery times at competitive market pricing for your convenience. "
           />
-          <meta name="keywords" content="hydraulic, vane, motors " />
+          <meta name="keywords" content="TU, hydraulic, vane, motors " />
           <meta name="author" content="Edgar Lindo" />
           {/* OG tags */}
           <meta property="og:locale" content="en" />
-          <meta property="site_name" content="TU-Technical Union" />
-          <meta property="og:title" content=" Technical Union | Vane Motors" />
+          <meta property="site_name" content="TU" />
+          <meta property="og:title" content=" TU | Vane Motors" />
           <meta
             property="og:description"
-            content="Find hydraulic vane motors from Technical Union"
+            content="Find hydraulic vane motors from TU"
           />
           <meta
             property="og:image"
@@ -47,13 +47,10 @@ const VaneMotors = () => {
           {/* Twitter tags */}
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:creator" content="@MrEdgarLindo" />
-          <meta
-            name="twitter:title"
-            content=" Technical Union | Hydraulic Vane Motors"
-          />
+          <meta name="twitter:title" content=" TU | Hydraulic Vane Motors" />
           <meta
             name="twitter:description"
-            content="Find Hydraulic Vane Motors  from TU Technical Union. Everything from inventory for faster delivery times at competitive market pricing for your convenience."
+            content="Find Hydraulic Vane Motors  from TU. Everything from inventory for faster delivery times at competitive market pricing for your convenience."
           />
           <meta
             name="twitter:image"

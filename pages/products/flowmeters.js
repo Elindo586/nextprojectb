@@ -22,19 +22,19 @@ const Flowmeters = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title> TU - Technical Union | Flowmeters </title>
+          <title> TU | Flowmeters </title>
 
           <meta
             name="description"
             content=" Find our catalog for flowmeters. Everything from inventory for faster delivery times at competitive market pricing for your convenience. "
           />
-          <meta name="keywords" content=" flowmeters , hydraulic" />
+          <meta name="keywords" content=" TU, flowmeters , hydraulic" />
           <meta name="author" content="Edgar Lindo" />
 
           {/* OG tags */}
 
           <meta property="og:locale" content="en" />
-          <meta property="site_name" content="TU-Technical Union" />
+          <meta property="site_name" content="TU" />
 
           <meta property="og:title" content=" Technical Union | Flowmeters" />
           <meta
@@ -54,14 +54,11 @@ const Flowmeters = () => {
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:creator" content="@MrEdgarLindo" />
 
-          <meta
-            name="twitter:title"
-            content=" Technical Union | Hydraulic Flowmeters."
-          />
+          <meta name="twitter:title" content=" TU | Hydraulic Flowmeters." />
 
           <meta
             name="twitter:description"
-            content="Find hydraulic flowmeters from Technical Union.Everything from inventory for faster delivery times at competitive market pricing for your convenience."
+            content="Find hydraulic flowmeters from TU .Everything from inventory for faster delivery times at competitive market pricing for your convenience."
           />
           <meta
             name="twitter:image"

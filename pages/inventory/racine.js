@@ -81,19 +81,19 @@ const RacineList = ({ db }) => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>TU- Technical Union | Racine hydraulic parts inventory</title>
+          <title>TU | Racine hydraulic parts inventory</title>
 
           <meta
             name="description"
             content="Inventory to replace Racine hydraulic parts. Quick delivery of hydraulic components for your convenience."
           />
-          <meta name="keywords" content="inventory, hydraulics, racine, " />
+          <meta name="keywords" content="tu, inventory, hydraulics, racine, " />
           <meta name="author" content="Edgar Lindo" />
 
           {/* OG tags */}
 
           <meta property="og:locale" content="en" />
-          <meta property="site_name" content="TU-Technical Union" />
+          <meta property="site_name" content="TU" />
 
           <meta
             property="og:title"
@@ -119,7 +119,7 @@ const RacineList = ({ db }) => {
 
           <meta
             name="twitter:title"
-            content=" TU - Technical Union | Racine hydraulic parts replacements"
+            content=" TU | Racine hydraulic parts replacements"
           />
 
           <meta

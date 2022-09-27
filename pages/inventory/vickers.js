@@ -81,9 +81,7 @@ const VickersList = ({ db }) => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>
-            TU- Technical Union | Alternative Vickers hydraulic parts.{" "}
-          </title>
+          <title>TU | Alternative Vickers hydraulic parts. </title>
 
           <meta
             name="description"
@@ -91,14 +89,14 @@ const VickersList = ({ db }) => {
           />
           <meta
             name="keywords"
-            content="inventory, hydraulics, eaton, vickers "
+            content="tu, inventory, hydraulics, eaton, vickers "
           />
           <meta name="author" content="Edgar Lindo" />
 
           {/* OG tags */}
 
           <meta property="og:locale" content="en" />
-          <meta property="site_name" content="TU-Technical Union" />
+          <meta property="site_name" content="TU" />
 
           <meta
             property="og:title"
@@ -124,7 +122,7 @@ const VickersList = ({ db }) => {
 
           <meta
             name="twitter:title"
-            content=" TU - Technical Union | Eaton Vickers replacements parts."
+            content=" TU | Eaton Vickers replacements parts."
           />
 
           <meta

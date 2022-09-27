@@ -34,7 +34,7 @@ const Inventory2 = () => {
           />
           <meta
             name="keywords"
-            content="inventory, hydraulics, rexroth, parker, char-lynn"
+            content="tu, inventory, hydraulics, rexroth, parker, char-lynn"
           />
           <meta name="author" content="Edgar Lindo" />
 

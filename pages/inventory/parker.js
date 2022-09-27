@@ -81,19 +81,19 @@ const ParkerList = ({ db }) => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>TU- Technical Union | Parker hydrauilc replacements.</title>
+          <title>TU | Parker hydrauilc replacements.</title>
 
           <meta
             name="description"
             content="This is a view of inventory for Parker hydraulic replacement components from TU Technical Union. All products in STOCK."
           />
-          <meta name="keywords" content="inventory, hydraulics, parker" />
+          <meta name="keywords" content="tu, inventory, hydraulics, parker" />
           <meta name="author" content="Edgar Lindo" />
 
           {/* OG tags */}
 
           <meta property="og:locale" content="en" />
-          <meta property="site_name" content="TU-Technical Union" />
+          <meta property="site_name" content="TU" />
 
           <meta
             property="og:title"
@@ -119,7 +119,7 @@ const ParkerList = ({ db }) => {
 
           <meta
             name="twitter:title"
-            content=" TU - Technical Union | Parker hydraulic replacement components."
+            content=" TU | Parker hydraulic replacement components."
           />
 
           <meta

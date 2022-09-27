@@ -22,24 +22,21 @@ const GerolerMotor = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title> TU - Technical Union | Geroler Hydraulic Motors </title>
+          <title> TU | Geroler Hydraulic Motors </title>
 
           <meta
             name="description"
             content=" Find our geroler hydraulic motor catalog. Everything from inventory for faster delivery times at competitive market pricing for your convenience."
           />
-          <meta name="keywords" content=" geroloer, motors" />
+          <meta name="keywords" content=" TU, geroloer, motors" />
           <meta name="author" content="Edgar Lindo" />
 
           {/* OG Tags */}
 
           <meta property="og:locale" content="en" />
-          <meta property="site_name" content="TU-Technical Union" />
+          <meta property="site_name" content="TU" />
 
-          <meta
-            property="og:title"
-            content=" Technical Union | Hydraulic Geroler Motors"
-          />
+          <meta property="og:title" content=" TU | Hydraulic Geroler Motors" />
           <meta
             property="og:description"
             content=" Hydraulic geroler motors from Technical Union. Everything from inventory for faster delivery times at competitive market pricing for your convenience."
@@ -57,14 +54,11 @@ const GerolerMotor = () => {
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:creator" content="@MrEdgarLindo" />
 
-          <meta
-            name="twitter:title"
-            content=" Technical Union | Hydraulic geroler motors"
-          />
+          <meta name="twitter:title" content=" TU | Hydraulic geroler motors" />
 
           <meta
             name="twitter:description"
-            content="Find hydraulic geroler motors from TU Technical Union"
+            content="Find hydraulic geroler motors from TU."
           />
           <meta
             name="twitter:image"

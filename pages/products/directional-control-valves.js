@@ -21,30 +21,27 @@ const DirectionalControlValves = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>
-            {" "}
-            TU - Technical Union | Hydraulic Directional Control Valves{" "}
-          </title>
+          <title> TU | Hydraulic Directional Control Valves </title>
 
           <meta
             name="description"
             content=" Find our catalog for directional control valves for hydraulics. Everything from inventory for faster delivery times. "
           />
-          <meta name="keywords" content=" directional, control, valves" />
+          <meta name="keywords" content="TU, directional, control, valves" />
           <meta name="author" content="Edgar Lindo" />
 
           {/* OpenGraph tags */}
 
           <meta property="og:locale" content="en" />
-          <meta property="site_name" content="TU-Technical Union" />
+          <meta property="site_name" content="TU" />
 
           <meta
             property="og:title"
-            content=" Technical Union | Directional Control Valves"
+            content=" TU | Directional Control Valves"
           />
           <meta
             property="og:description"
-            content="Find Directional Control Valves from TU Technical Union. Everything from inventory for faster delivery times"
+            content="Find Directional Control Valves from TU. Everything from inventory for faster delivery times"
           />
           <meta
             property="og:image"
@@ -62,7 +59,7 @@ const DirectionalControlValves = () => {
 
           <meta
             name="twitter:title"
-            content=" Technical Union | Directional Control Valves"
+            content=" TU | Directional Control Valves"
           />
 
           <meta

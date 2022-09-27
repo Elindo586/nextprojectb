@@ -8,7 +8,7 @@ const Contact = () => {
     <div>
       <div>
         <Head>
-          <title>TU-Technical Union | Contact US.</title>
+          <title>TU | Contact US.</title>
           <meta charSet="UTF-8" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           <link
@@ -31,13 +31,10 @@ const Contact = () => {
           {/* OG tags */}
 
           <meta property="og:locale" content="en" />
-          <meta property="site_name" content="TU-Technical Union" />
+          <meta property="site_name" content="TU" />
 
-          <meta property="og:title" content=" Technical Union" />
-          <meta
-            property="og:description"
-            content="Contact TU Technical Union"
-          />
+          <meta property="og:title" content=" TU" />
+          <meta property="og:description" content="Contact TU " />
           <meta
             property="og:image"
             content="https://www.tu.biz//oppictures/Tubiz-contact.png"
@@ -49,12 +46,9 @@ const Contact = () => {
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:creator" content="@MrEdgarLindo" />
 
-          <meta name="twitter:title" content=" Technical Union | Contact Us" />
+          <meta name="twitter:title" content=" TU | Contact Us" />
 
-          <meta
-            name="twitter:description"
-            content="Contact TU- Technical Union"
-          />
+          <meta name="twitter:description" content="Contact TU " />
           <meta
             name="twitter:image"
             content="https://www.tu.biz/oppictures/Tubiz-contact.png"

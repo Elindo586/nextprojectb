@@ -23,19 +23,19 @@ const GearPumps = () => {
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
 
-          <title> TU - Technical Union | Gear Pumps </title>
+          <title> TU | Gear Pumps </title>
 
           <meta
             name="description"
             content=" Find our gear pump catalog. Everything from inventory for faster delivery times at competitive market pricing for your convenience. "
           />
-          <meta name="keywords" content="gear, pumps " />
+          <meta name="keywords" content="TU, gear, pumps " />
           <meta name="author" content="Edgar Lindo" />
 
           {/* OG tags */}
 
           <meta property="og:locale" content="en" />
-          <meta property="site_name" content="TU-Technical Union" />
+          <meta property="site_name" content="TU " />
 
           <meta property="og:title" content=" Technical Union | Gear Pumps" />
           <meta
@@ -56,14 +56,11 @@ const GearPumps = () => {
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:creator" content="@MrEdgarLindo" />
 
-          <meta
-            name="twitter:title"
-            content=" Technical Union | Hydraulic gear pumps"
-          />
+          <meta name="twitter:title" content=" TU | Hydraulic gear pumps" />
 
           <meta
             name="twitter:description"
-            content="Find hydraulic gear pumps from TU Technical Union. Everything from inventory for faster delivery times at competitive market pricing for your convenience."
+            content="Find hydraulic gear pumps from TU. Everything from inventory for faster delivery times at competitive market pricing for your convenience."
           />
           <meta
             name="twitter:image"

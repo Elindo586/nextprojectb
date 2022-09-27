@@ -81,22 +81,19 @@ const CharlynnList = ({ db }) => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>
-            TU- Technical Union | Hydraulic Inventory to replace Eaton -
-            Charlynn.{" "}
-          </title>
+          <title>TU | Hydraulic Inventory to replace Eaton - Charlynn. </title>
 
           <meta
             name="description"
             content="Large inventory of hydraulic components to replace Eaton Charlynn hydraulic motors."
           />
-          <meta name="keywords" content="inventory, Eaton,  char-lynn" />
+          <meta name="keywords" content="tu, inventory, Eaton,  char-lynn" />
           <meta name="author" content="Edgar Lindo" />
 
           {/* OG tags */}
 
           <meta property="og:locale" content="en" />
-          <meta property="site_name" content="TU-Technical Union" />
+          <meta property="site_name" content="TU" />
 
           <meta
             property="og:title"
@@ -124,7 +121,7 @@ const CharlynnList = ({ db }) => {
 
           <meta
             name="twitter:title"
-            content=" TU - Technical Union | Charlynn replacement motors"
+            content=" TU | Charlynn replacement motors"
           />
 
           <meta

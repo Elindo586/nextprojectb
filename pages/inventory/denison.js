@@ -81,19 +81,22 @@ const DenisonList = ({ db }) => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>TU- Technical Union | Denison hydraulic replacements.</title>
+          <title>TU | Denison hydraulic replacements.</title>
 
           <meta
             name="description"
             content="Inventory to replace hydraulic components from Denison."
           />
-          <meta name="keywords" content="Denison, inventory, replacements " />
+          <meta
+            name="keywords"
+            content="tu, Denison, inventory, replacements "
+          />
           <meta name="author" content="Edgar Lindo" />
 
           {/* OG tags */}
 
           <meta property="og:locale" content="en" />
-          <meta property="site_name" content="TU-Technical Union" />
+          <meta property="site_name" content="TU" />
 
           <meta
             property="og:title"
@@ -119,7 +122,7 @@ const DenisonList = ({ db }) => {
 
           <meta
             name="twitter:title"
-            content=" TU - Technical Union | Denison hydraulic replacements"
+            content=" TU | Denison hydraulic replacements"
           />
 
           <meta

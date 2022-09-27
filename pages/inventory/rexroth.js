@@ -81,19 +81,19 @@ const RexrothList = ({ db }) => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>TU- Technical Union | Rexroth replacement components </title>
+          <title>TU | Rexroth replacement components </title>
 
           <meta
             name="description"
             content="Inventory for Bosch Rexroth replacements. Quick delivery of parts for your convenience."
           />
-          <meta name="keywords" content="inventory, hydraulics, rexroth," />
+          <meta name="keywords" content="tu, inventory, hydraulics, rexroth," />
           <meta name="author" content="Edgar Lindo" />
 
           {/* OG tags */}
 
           <meta property="og:locale" content="en" />
-          <meta property="site_name" content="TU-Technical Union" />
+          <meta property="site_name" content="TU" />
 
           <meta
             property="og:title"
@@ -119,7 +119,7 @@ const RexrothList = ({ db }) => {
 
           <meta
             name="twitter:title"
-            content=" TU - Technical Union | Rexroth replacement parts inventory."
+            content=" TU| Rexroth replacement parts inventory."
           />
 
           <meta

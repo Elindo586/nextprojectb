@@ -21,27 +21,21 @@ const FlowControlValves = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>
-            {" "}
-            TU - Technical Union | Flow Control Valves | Needle Valves{" "}
-          </title>
+          <title> TU | Flow Control Valves | Needle Valves </title>
 
           <meta
             name="description"
             content=" Catalog for Flow control valves and needle valves. Everything from inventory for faster delivery times. "
           />
-          <meta name="keywords" content=" flow, control, valves, needle " />
+          <meta name="keywords" content="TU, flow, control, valves, needle " />
           <meta name="author" content="Edgar Lindo" />
 
           {/* OG tags */}
 
           <meta property="og:locale" content="en" />
-          <meta property="site_name" content="TU-Technical Union" />
+          <meta property="site_name" content="TU" />
 
-          <meta
-            property="og:title"
-            content=" Technical Union | Flow Control Valves"
-          />
+          <meta property="og:title" content=" TU | Flow Control Valves" />
           <meta
             property="og:description"
             content=" Catalog for Flow control valves and needle valves. Everything from inventory for faster delivery times."
@@ -60,10 +54,7 @@ const FlowControlValves = () => {
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:creator" content="@MrEdgarLindo" />
 
-          <meta
-            name="twitter:title"
-            content=" Technical Union | Flow Control Valves"
-          ></meta>
+          <meta name="twitter:title" content=" TU | Flow Control Valves"></meta>
 
           <meta
             name="twitter:description"
