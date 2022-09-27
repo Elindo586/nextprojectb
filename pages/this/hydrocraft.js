@@ -12,7 +12,7 @@ const HydroCraft = () => {
       </div>
       <div className="row">
         <div className="col-md-9 table-responsive">
-          <div className="col-md-12"> This is Hydrocraft</div>
+          <div className="col-md-12"> I am Hydrocraft</div>
           <div className="col-md-12"></div>
           <div className="col-md-12"></div>
           <div className="col-md-12"></div>

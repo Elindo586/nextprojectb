@@ -4,7 +4,7 @@ import Head from "next/head";
 import Link from "next/link";
 import ProductNav from "../../components/nav-products";
 
-const FloTorq = () => {
+const Cilindros = () => {
   return (
     <div>
       <div>
@@ -12,7 +12,7 @@ const FloTorq = () => {
       </div>
       <div className="row">
         <div className="col-md-9 table-responsive">
-          <div className="col-md-12">I am FloTorq</div>
+          <div className="col-md-12">This is Cilindros</div>
           <div className="col-md-12"></div>
           <div className="col-md-12"></div>
           <div className="col-md-12"></div>
@@ -26,4 +26,4 @@ const FloTorq = () => {
   );
 };
 
-export default FloTorq;
+export default Cilindros;
