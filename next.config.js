@@ -677,6 +677,299 @@ const nextConfig = {
         destination: "/products/piston-pumps",
         permanent: true,
       },
+      {
+        source: "/blog/aluminum-gear-pumps",
+        destination: "/blog/english/aluminum-gear-pumps-catalog",
+        permanent: true,
+      },
+      {
+        source: "/blog/oilgear-company-my-review",
+        destination: "/blog/english",
+        permanent: true,
+      },
+      {
+        source: "/blog/page/:rest*",
+        destination: "/blog/english",
+        permanent: true,
+      },
+      {
+        source: "/download/d03-manifold.pdf",
+        destination: "/pdf/d03-manifold.pdf",
+        permanent: true,
+      },
+      {
+        source: "/download/d05-manifold.pdf",
+        destination: "/pdf/d05-manifold.pdf",
+        permanent: true,
+      },
+      {
+        source: "/download/d07-manifold.pdf",
+        destination: "/pdf/d07-manifold.pdf",
+        permanent: true,
+      },
+      // {
+      //   source: "/download/flow-control-valves.pdf?rATp2",
+      //   destination: "/pdf/flow-control-valves.pdf",
+      //   permanent: true,
+      // },
+      {
+        source: "/download/hydraulic-fittings-catalog.pdf",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/download/hydraulic-gear-pumps-catalog.pdf",
+        destination: "/pdf/hydraulic-gear-pumps-catalog.pdf",
+        permanent: true,
+      },
+      {
+        source: "/download/hydraulic-vane-motor-catalog.pdf",
+        destination: "/pdf/hydraulic-vane-motor-catalog.pdf",
+        permanent: true,
+      },
+      {
+        source: "/Formulas",
+        destination: "/fluid-power-formulas",
+        permanent: true,
+      },
+      {
+        source: "/Interactive",
+        destination: "/interactive",
+        permanent: true,
+      },
+      {
+        source: "/Inventory",
+        destination: "/inventory",
+        permanent: true,
+      },
+      {
+        source: "/partnumbers.html",
+        destination: "/inventory",
+        permanent: true,
+      },
+      {
+        source: "/Products",
+        destination: "/products/piston-pumps",
+        permanent: true,
+      },
+      {
+        source: "/Products/products.html",
+        destination: "/products/piston-pumps",
+        permanent: true,
+      },
+      {
+        source: "/Services/Services.html",
+        destination: "/services/fluid-analysis",
+        permanent: true,
+      },
+      {
+        source: "/bomba-oilgear-pvwj",
+        destination: "/blogs/castellano",
+        permanent: true,
+      },
+      {
+        source: "/blog/bombas-de-paletas-variable",
+        destination: "/blog/castellano/catalogo-de-bombas-de-paletas-variable",
+        permanent: true,
+      },
+      {
+        source: "/blog/bombas-hidraulicas-de-pistones-engranes-y-de-paletas/",
+        destination: "/blog/castellano",
+        permanent: true,
+      },
+      {
+        source: "/bombas-oilgear-serie-pvm",
+        destination: "/blog/castellano",
+        permanent: true,
+      },
+      {
+        source: "/blog/cable-espiral-electrico/",
+        destination: "/blog/castellano/cable-electrico-espiralado",
+        permanent: true,
+      },
+      {
+        source:
+          "/blog/calculo-hidraulico-para-caballos-de-fuerza-de-bomba-hidraulica",
+        destination:
+          "/blog/castellano/calculo-de-caballos-de-fuerza-para-hidraulica",
+        permanent: true,
+      },
+      {
+        source: "/blog/cortando-grama-mojada",
+        destination: "/blog/castellano",
+        permanent: true,
+      },
+      {
+        source: "/blog/filtros-hydac",
+        destination: "/blog/castellano",
+        permanent: true,
+      },
+      {
+        source: "/blog/filtros-pall",
+        destination: "/blog/castellano",
+        permanent: true,
+      },
+      {
+        source: "/blog/flow-control-valve",
+        destination: "/blog/english/flow-control-valve-catalog",
+        permanent: true,
+      },
+      {
+        source: "/blog/hidraulica-de-potencia",
+        destination: "/blog/castellano/como-funciona-la-hidraulica-de-potencia",
+        permanent: true,
+      },
+      {
+        source: "/blog/how-to-test-a-pressure-compensated-pump",
+        destination: "/blog/english/how-to-test-a-pressure-compensated-pump",
+        permanent: true,
+      },
+      {
+        source: "/blog/hydac",
+        destination: "/blog/english",
+        permanent: true,
+      },
+      {
+        source: "/blog/hydraulic-calculation-for-cylinder-area",
+        destination: "/blog/english/hydraulic-cylinder-area-calculation",
+        permanent: true,
+      },
+      {
+        source: "/blog/hydraulic-horsepower-for-cylinder",
+        destination: "/blog/english/hydraulic-cylinder-horsepower-calculation",
+        permanent: true,
+      },
+      {
+        source: "/blog/hydraulic-pump/",
+        destination: "/blog/english/hydraulic-pump-retrofit",
+        permanent: true,
+      },
+      {
+        source: "/blog/intercambiador-de-calor/",
+        destination:
+          "/blog/castellano/calculo-para-remover-calor-en-un-sistema-hidraulico",
+        permanent: true,
+      },
+      {
+        source: "/blog/mi-vista-al-quiropractico",
+        destination: "/blog/castellano",
+        permanent: true,
+      },
+      {
+        source: "/blog/morrell-inc",
+        destination: "/blog/english",
+        permanent: true,
+      },
+      {
+        source: "/blog/motor-de-paletas",
+        destination: "/blog/castellano/motores-hidraulicos-de-paletas",
+        permanent: true,
+      },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
+      // {
+      //   source: "/",
+      //   destination: "/",
+      //   permanent: true,
+      // },
       // {
       //   source: "/",
       //   destination: "/",

@@ -1,5 +1,29 @@
 [
   {
+    "id": "68",
+    "metaTitle": "Motores Hidráulicos de Paletas.",
+    "metaDescription": "Catálgo para la selección correcta de motores hidráulicos de paletas.",
+    "metaKeywords": "tu, motores, paletas",
+    "ogTitle": "Motores Hidráulicos de Paletas.",
+    "ogDescription": "Catálgo para la selección correcta de motores hidráulicos de paletas.",
+    "ogURL": "https://www.tu.biz/blog/castellano/motores-hidraulicos-de-paletas",
+    "ogImage": "https://www.tu.biz//blog-images-spanish/motores-hidraulicos-de-paletas.png",
+    "twitterTitle": "Motores Hidráulicos de Paletas.",
+    "twitterDescription": "Catálgo para la selección correcta de motores hidráulicos de paletas.",
+    "twitterImage": "https://www.tu.biz/blog-images-spanish/motores-hidraulicos-de-paletas.png",
+    "title": "Motores Hidráulicos de Paletas.",
+    "body": "https://www.youtube.com/embed/NXUvvjyh6JY",
+    "iTitle": "Motores Hidráulicos de Paletas.",
+    "picture": "/blog-images-spanish/motores-hidraulicos-de-paletas.png",
+    "alt": "Motores Hidráulicos de Paletas.",
+    "description": "Catálgo para la selección correcta de motores hidráulicos de paletas. Ver <a href = 'https://www.tu.biz/pdf/hydraulic-vane-motor-catalog.pdf' > catálogo de motores de paletas </a>",
+    "verMas": "ver más de este blog",
+    "link": "/blog/castellano/motores-hidraulicos-de-paletas",
+    "next": "/blog/castellano/circuito-hidraulico-para-ahorrar-caballos-de-fuerza",
+    "previous": "/blog/castellano/"
+  },
+
+  {
     "id": "67",
     "metaTitle": "Circuito hidráulico para ahorrar caballos de fuerza.",
     "metaDescription": "Aprenda como ahorrar caballos de fuerza en un sistema hidráulico.",
@@ -20,7 +44,7 @@
     "verMas": "ver más de este blog",
     "link": "/blog/castellano/circuito-hidraulico-para-ahorrar-caballos-de-fuerza",
     "next": "/blog/castellano/simulacion-de-circuito-hidraulico",
-    "previous": "/blog/castellano/"
+    "previous": "/blog/castellano/motores-hidraulicos-de-paletas"
   },
 
   {
