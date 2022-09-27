@@ -865,206 +865,130 @@ const nextConfig = {
         destination: "/blog/castellano/motores-hidraulicos-de-paletas",
         permanent: true,
       },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/",
-      //   destination: "/",
-      //   permanent: true,
-      // },
+      {
+        source: "/blog/oilgear",
+        destination: "/blog/english",
+        permanent: true,
+      },
+      {
+        source: "/blog/pall-filters-my-review",
+        destination: "/blog/english",
+        permanent: true,
+      },
+      {
+        source:
+          "/blog/pilot-operated-relief-valve-vs-direct-acting-relief-valve",
+        destination: "/blog/english/pilot-operated-relief-valve",
+        permanent: true,
+      },
+      {
+        source: "/blog/simple-hydraulic-circuit-simulation",
+        destination: "/blog/english/hydraulic-circuit-simulation",
+        permanent: true,
+      },
+      {
+        source: "/blog/valvula-de-alivio",
+        destination: "/blog/castellano/valvula-de-alivio",
+        permanent: true,
+      },
+      {
+        source: "/blog/valvulas-hidraulicas/",
+        destination:
+          "/blog/castellano/reemplazos-de-valvulas-hidraulicas-direccionales",
+        permanent: true,
+      },
+      {
+        source: "/blog/vented-relief-valve/",
+        destination: "/blog/english/vented-relief-valve",
+        permanent: true,
+      },
+      {
+        source: "/blog/vickers",
+        destination: "/blog/castellano/reemplazos-para-eaton-vickers",
+        permanent: true,
+      },
+      {
+        source: "/directional-control-valves",
+        destination: "/products/directional-control-valves",
+        permanent: true,
+      },
+      {
+        source: "/gear-pumps",
+        destination: "/products/gear-pumps",
+        permanent: true,
+      },
+      {
+        source: "/hydraulic-fittings",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/Interactive.html",
+        destination: "/interactive",
+        permanent: true,
+      },
+      {
+        source: "/Products/FlowControlValves",
+        destination: "/products/flow-control-valves",
+        permanent: true,
+      },
+      {
+        source: "/Products/FlowMeters",
+        destination: "/products/flowmeters",
+        permanent: true,
+      },
+      {
+        source: "/Products/GearPumps",
+        destination: "/products/gear-pumps",
+        permanent: true,
+      },
+      {
+        source: "/Products/GerolerMotors",
+        destination: "/products/geroler-motors",
+        permanent: true,
+      },
+      {
+        source: "/static/media/a10v-pump-catalog.72fa758067a60627d9be.pdf",
+        destination: "/pdf/a10v-pump-catalog.pdf",
+        permanent: true,
+      },
+      {
+        source: "/static/media/d05-manifold.03a0c902a8e8f06d4116.pdf",
+        destination: "/pdf/d05-manifold.pdf",
+        permanent: true,
+      },
+      {
+        source: "/static/media/d07-manifold.bc043304b6b551a2941c.pdf",
+        destination: "/pdf/d07-manifold.pdf",
+        permanent: true,
+      },
+      {
+        source: "/static/media/d08-manifold.409dbf0af1ec0202c5d1.pdf",
+        destination: "/pdf/d08-manifold.pdf",
+        permanent: true,
+      },
+      {
+        source: "/static/media/dump-pumps.58ab10d4cf05735b0d4a.pdf",
+        destination: "/pdf/dump-pumps.pdf",
+        permanent: true,
+      },
+      {
+        source:
+          "/static/media/hydraulic-vane-motor-catalog.74f970544d2cee715fd5.pdf",
+        destination: "/pdf/hydraulic-vane-motor-catalog.pdf",
+        permanent: true,
+      },
+      {
+        source: "/static/media/radial-piston-pumps.31f4ccc47d5d6aa12c81.pdf",
+        destination: "/pdf/radial-piston-pumps.pdf",
+        permanent: true,
+      },
+
+      {
+        source: "/vane-pumps",
+        destination: "/products/vane-pumps",
+        permanent: true,
+      },
     ];
   },
 };
