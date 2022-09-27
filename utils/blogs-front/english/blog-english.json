@@ -1,28 +1,5 @@
 [
   {
-    "id": "60",
-    "metaTitle": "Hydraulic Vane Motors.",
-    "metaDescription": "See catalog for proper selection of hydraulic vane motors.",
-    "metaKeywords": "tu, hydraulic, vane motor",
-    "ogTitle": "Hydraulic Vane Motors.",
-    "ogDescription": "See catalog for proper selection of hydraulic vane motors.",
-    "ogURL": "https://www.tu.biz/blog/english/hydraulic-vane-motors",
-    "ogImage": "https://www.tu.biz//blog-images-english/hydraulic-vane-motors.png",
-    "twitterTitle": "Hydraulic Vane Motors.",
-    "twitterDescription": "See catalog for proper selection of hydraulic vane motors.",
-    "twitterImage": "https://www.tu.biz/blog-images-english/hydraulic-vane-motors.png",
-    "title": "Hydraulic Vane Motors.",
-    "body": "https://www.youtube.com/embed/RNPFUt3ZhpA",
-    "iTitle": "Hydraulic Vane Motors.",
-    "picture": "/blog-images-english/hydraulic-vane-motors.png",
-    "alt": "Hydraulic Vane Motors.",
-    "description": "See catalog for proper selection of hydraulic vane motors. <a href = 'https://www.tu.biz/pdf/hydraulic-vane-motor-catalog.pdf'> Hydraulic vane motor catalog</a>",
-    "more": "See more of this blog",
-    "link": "/blog/english/hydraulic-vane-motors",
-    "next": "/blog/english/hydraulic-circuit-simulation",
-    "previous": "/blog/english/"
-  },
-  {
     "id": "59",
     "metaTitle": "Interactive Animation of a hydraulic circuit simulation.",
     "metaDescription": "Understanding a basic hydraulic circuit through interactive animated simulation.",
@@ -43,7 +20,7 @@
     "more": "See more of this blog",
     "link": "/blog/english/hydraulic-circuit-simulation",
     "next": "/blog/english/basics-of-hydraulics",
-    "previous": "/blog/english/hydraulic-vane-motors"
+    "previous": "/blog/english"
   },
   {
     "id": "58",
