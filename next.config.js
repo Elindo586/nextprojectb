@@ -594,11 +594,11 @@ const nextConfig = {
         destination: "/english/geroler-orbital-hydraulic-motor-catalog",
         permanent: true,
       },
-      {
-        source: "/services",
-        destination: "/services/fluid-analysis",
-        permanent: true,
-      },
+      // {
+      //   source: "/services",
+      //   destination: "/services/fluid-analysis",
+      //   permanent: true,
+      // },
       {
         source: "/blog/caballos-de-fuerza-para-cilindro-hidraulico",
         destination:
@@ -655,11 +655,11 @@ const nextConfig = {
         destination: "/blog/english",
         permanent: true,
       },
-      {
-        source: "/services/:rest*",
-        destination: "/services/fluid-analysis",
-        permanent: true,
-      },
+      // {
+      //   source: "/services/:rest*",
+      //   destination: "/services/fluid-analysis",
+      //   permanent: true,
+      // },
       {
         source:
           "/blog/how-to-set-and-adjust-a-pressure-compensated-control-for-your-hydraulic-pump/:rest*",
