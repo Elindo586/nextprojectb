@@ -75,7 +75,7 @@ const Home = () => {
         <Image
           src="/images/tu-world.png"
           alt="tu world"
-          width={1350}
+          width={1710}
           height={315}
         />
       </div>
