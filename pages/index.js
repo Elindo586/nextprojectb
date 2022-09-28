@@ -85,11 +85,11 @@ const Home = () => {
           <p className="maintext">
             <strong> TU </strong> is your single source for industrial
             components in the areas of hydraulics, pneumatics, electrical, and
-            mechanical products. Whenever you are working on a new project or an
-            existing industrial system, you need proven technical solutions to
-            give you a competitive edge for improved machine design, better
-            production time, and optimal machine maintenance to maximize your
-            company’s capital investment.
+            mechanical products. All around the world, whenever you are working
+            on a new project or an existing industrial system, you need proven
+            technical solutions to give you a competitive edge for improved
+            machine design, better production time, and optimal machine
+            maintenance to maximize your company’s capital investment.
           </p>
           <p className="maintext" lang="en">
             <strong>TU </strong> offers cost-effective technical industrial
