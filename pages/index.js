@@ -35,7 +35,7 @@ const Home = () => {
           {/* OG tags */}
 
           <meta property="og:locale" content="en" />
-          <meta property="site_name" content="TU-Technical Union" />
+          <meta property="site_name" content="TU" />
 
           <meta property="og:title" content=" TU" id="meta-og-title" />
           <meta
@@ -71,8 +71,16 @@ const Home = () => {
           />
         </Head>
       </div>
-
-      <div className="row" lang="en">
+      <div className="row tu-world">
+        <Image
+          src="/images/tu-world.png"
+          alt="tu world"
+          width={1350}
+          height={315}
+        />
+      </div>
+      <div className="row">
+        <div className="row" lang="en"></div>
         <div className="col-md-6" lang="en">
           <p className="maintext">
             <strong> TU </strong> is your single source for industrial

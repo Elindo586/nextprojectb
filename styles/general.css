@@ -32,6 +32,12 @@
   padding-left: 4.2em;
   font-size: 17px;
 }
+.tu-world {
+  padding-top: 0.5em;
+  background-color: whitesmoke;
+  display: flex;
+  justify-content: center;
+}
 
 #maintenance1 {
   padding-bottom: 1em;
