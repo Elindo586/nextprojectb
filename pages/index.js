@@ -71,13 +71,43 @@ const Home = () => {
           />
         </Head>
       </div>
+
       <div className="row tu-world">
-        <Image
-          src="/images/tu-world.png"
-          alt="tu world"
-          width={1710}
-          height={315}
-        />
+        <div
+          id="carouselExampleSlidesOnly"
+          className="carousel slide"
+          data-bs-ride="carousel"
+        >
+          <div className="carousel-inner">
+            <div className="carousel-item active">
+              <Image
+                className="d-block w-100"
+                src="/carousel-main/tu-world.png"
+                alt="tu world"
+                width={1710}
+                height={315}
+              />
+            </div>
+            <div className="carousel-item">
+              <Image
+                className="d-block w-100"
+                src="/carousel-main/carousel-pumps.png"
+                alt="hydraulic pumps"
+                width={1710}
+                height={315}
+              />
+            </div>
+            <div className="carousel-item ">
+              <Image
+                className="d-block w-100"
+                src="/carousel-main/carousel-everything.png"
+                alt="everything industrial"
+                width={1710}
+                height={315}
+              />
+            </div>
+          </div>
+        </div>
       </div>
       <div className="row">
         <div className="row" lang="en"></div>
