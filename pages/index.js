@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import Head from "next/head";
+import Carousel from "react-bootstrap/Carousel";
 
 const Home = () => {
   return (
@@ -73,41 +74,53 @@ const Home = () => {
       </div>
 
       <div className="row tu-world">
-        <div
-          id="carouselExampleSlidesOnly"
-          className="carousel slide"
-          data-bs-ride="carousel"
-        >
-          <div className="carousel-inner">
-            <div className="carousel-item active">
-              <Image
-                className="d-block w-100"
-                src="/carousel-main/tu-world.png"
-                alt="tu world"
-                width={1710}
-                height={315}
-              />
-            </div>
-            <div className="carousel-item">
-              <Image
-                className="d-block w-100"
-                src="/carousel-main/carousel-pumps.png"
-                alt="hydraulic pumps"
-                width={1710}
-                height={315}
-              />
-            </div>
-            <div className="carousel-item ">
-              <Image
-                className="d-block w-100"
-                src="/carousel-main/carousel-everything.png"
-                alt="everything industrial"
-                width={1710}
-                height={315}
-              />
-            </div>
-          </div>
-        </div>
+        <Carousel>
+          <Carousel.Item className="carousel-item active">
+            <Image
+              className="d-block w-100"
+              src="/carousel-main/tu-world.png"
+              alt="tu world"
+              width={1710}
+              height={315}
+            />
+          </Carousel.Item>
+          <Carousel.Item className="carousel-item">
+            <Image
+              className="d-block w-100"
+              src="/carousel-main/carousel-pumps.png"
+              alt="hydraulic pumps"
+              width={1710}
+              height={315}
+            />
+          </Carousel.Item>
+          <Carousel.Item className="carousel-item">
+            <Image
+              className="d-block w-100"
+              src="/carousel-main/carousel-hydraulic-motors.png"
+              alt="hydraulic pumps"
+              width={1710}
+              height={315}
+            />
+          </Carousel.Item>
+          <Carousel.Item className="carousel-item">
+            <Image
+              className="d-block w-100"
+              src="/carousel-main/carousel-valves-manifolds.png"
+              alt="hydraulic pumps"
+              width={1710}
+              height={315}
+            />
+          </Carousel.Item>
+          <Carousel.Item className="carousel-item ">
+            <Image
+              className="d-block w-100"
+              src="/carousel-main/carousel-everything.png"
+              alt="everything industrial"
+              width={1710}
+              height={315}
+            />
+          </Carousel.Item>
+        </Carousel>
       </div>
       <div className="row">
         <div className="row" lang="en"></div>
