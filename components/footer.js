@@ -11,7 +11,10 @@ const Footer = () => {
       <footer className="main-footer">
         <p className="copyright">
           © {fullYear()} Copyright - TU -<br />
-          &nbsp;&nbsp; Developed by Edgar Lindo
+          &nbsp;&nbsp; Developed by{" "}
+          <a href="https://www.edgarlindo.com/" className="copyright-link">
+            Edgar Lindo
+          </a>
         </p>
       </footer>
     </div>

@@ -66,6 +66,13 @@
   padding-bottom: 8px;
 }
 
+.copyright-link {
+  color: whitesmoke;
+}
+.copyright-link:hover {
+  color: lightcyan;
+}
+
 .banner-text {
   position: absolute;
   color: #016698;
