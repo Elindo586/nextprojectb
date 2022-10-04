@@ -39,7 +39,7 @@ function Blogger1(props) {
           />
           <meta property="og:url" content={`${props.ogURL}`} id="meta-og-url" />
           <meta property="og:locale" content="es" />
-          <meta property="site_name" content="TU-Technical Union" />
+          <meta property="site_name" content="TU" />
           <meta
             name="image"
             property="og:image"
