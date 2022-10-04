@@ -72,7 +72,7 @@ const PumpForm = () => {
       email,
       notes,
     };
-    router.replace("/thankyou");
+    router.replace("/thank-you");
 
     fetch("/api/back-pump", {
       method: "POST",

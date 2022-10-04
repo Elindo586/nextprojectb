@@ -30,7 +30,7 @@ const MotorForm = () => {
       pressure,
       rpm,
     };
-    router.replace("/thankyou");
+    router.replace("/thank-you");
 
     fetch("/api/back-motor", {
       method: "POST",

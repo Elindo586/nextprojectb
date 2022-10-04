@@ -24,7 +24,7 @@ export default function ContactForm() {
       country,
       notes,
     };
-    router.replace("/thankyou");
+    router.replace("/thank-you");
 
     fetch("/api/contact", {
       method: "POST",

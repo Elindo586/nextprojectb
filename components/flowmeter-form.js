@@ -38,7 +38,7 @@ const FlowmeterForm = () => {
       flowDirection,
       readingDirection,
     };
-    router.replace("/thankyou");
+    router.replace("/thank-you");
 
     fetch("/api/back-flowmeter", {
       method: "POST",
