@@ -50,61 +50,67 @@ const PumpForm = () => {
   const router = useRouter();
 
   const handleSubmit = (e) => {
-    e.preventDefault();
+    if (firstName === "") {
+      alert("Please enter your name.");
+    } else if (email === "") {
+      alert("Please enter a valid email.");
+    } else {
+      e.preventDefault();
 
-    console.log("Sending");
+      console.log("Sending");
 
-    let data = {
-      pumpSelect,
-      gpmPump1,
-      pressure,
-      rpm,
-      p1type,
-      gpmPump2,
-      pressure2,
-      p2type,
-      gpmPump3,
-      pressure3,
-      p3type,
-      firstName,
-      lastName,
-      company,
-      email,
-      notes,
-    };
-    router.replace("/thank-you");
+      let data = {
+        pumpSelect,
+        gpmPump1,
+        pressure,
+        rpm,
+        p1type,
+        gpmPump2,
+        pressure2,
+        p2type,
+        gpmPump3,
+        pressure3,
+        p3type,
+        firstName,
+        lastName,
+        company,
+        email,
+        notes,
+      };
+      router.replace("/thank-you");
 
-    fetch("/api/back-pump", {
-      method: "POST",
-      headers: {
-        Accept: "application/json, text/plain, */*",
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify(data),
-    }).then((res) => {
-      console.log("Response received");
+      fetch("/api/back-pump", {
+        method: "POST",
+        headers: {
+          Accept: "application/json, text/plain, */*",
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(data),
+      }).then((res) => {
+        console.log("Response received");
 
-      if (res.status === 200) {
-        console.log("Response succeeded!");
-        setSubmitted(true);
-        setPumpSelect("");
-        setGpmPump1("");
-        setPressure("");
-        setRpm("");
-        setP1type("");
-        setGpmPump2("");
-        setPressure2("");
-        setP2type("");
-        setGpmPump3("");
-        setPressure3("");
-        setP3type("");
-        setFirstName("");
-        setLastName("");
-        setCompany("");
-        setEmail("");
-        setNotes("");
-      }
-    });
+        if (res.status === 200) {
+          console.log("Response succeeded!");
+          setSubmitted(true);
+          setPumpSelect("");
+          setGpmPump1("");
+          setPressure("");
+          setRpm("");
+          setP1type("");
+          setGpmPump2("");
+          setPressure2("");
+          setP2type("");
+          setGpmPump3("");
+          setPressure3("");
+          setP3type("");
+          setFirstName("");
+          setLastName("");
+          setCompany("");
+          setEmail("");
+          setNotes("");
+        }
+      });
+    }
   };
 
   // The function below I need to know where it belongs to. p1variableselect is only found here.

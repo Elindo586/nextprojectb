@@ -16,45 +16,51 @@ const MotorForm = () => {
   const router = useRouter();
 
   const handleSubmit = (e) => {
-    e.preventDefault();
+    if (firstName === "") {
+      alert("Please enter your Name");
+    } else if (email === "") {
+      alert("Please enter a valid email.");
+    } else {
+      e.preventDefault();
 
-    console.log("Sending");
+      console.log("Sending");
 
-    let data = {
-      firstName,
-      lastName,
-      company,
-      email,
-      notes,
-      torque,
-      pressure,
-      rpm,
-    };
-    router.replace("/thank-you");
+      let data = {
+        firstName,
+        lastName,
+        company,
+        email,
+        notes,
+        torque,
+        pressure,
+        rpm,
+      };
+      router.replace("/thank-you");
 
-    fetch("/api/back-motor", {
-      method: "POST",
-      headers: {
-        Accept: "application/json, text/plain, */*",
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify(data),
-    }).then((res) => {
-      console.log("Response received");
+      fetch("/api/back-motor", {
+        method: "POST",
+        headers: {
+          Accept: "application/json, text/plain, */*",
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(data),
+      }).then((res) => {
+        console.log("Response received");
 
-      if (res.status === 200) {
-        console.log("Response succeeded!");
-        setSubmitted(true);
-        setFirstName("");
-        setLastName("");
-        setCompany("");
-        setEmail("");
-        setNotes("");
-        setTorque("");
-        setPressure("");
-        setRpm("");
-      }
-    });
+        if (res.status === 200) {
+          console.log("Response succeeded!");
+          setSubmitted(true);
+          setFirstName("");
+          setLastName("");
+          setCompany("");
+          setEmail("");
+          setNotes("");
+          setTorque("");
+          setPressure("");
+          setRpm("");
+        }
+      });
+    }
   };
 
   return (
