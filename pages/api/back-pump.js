@@ -45,7 +45,7 @@ export default async function BackPump(req, res) {
       req.body.p3type,
 
     html: `<div>${req.body.company}</div>
-    <div> Name: ${req.body.firstName}</div>
+    <div> First name: ${req.body.firstName}</div>
     <div> Last name: ${req.body.lastName}</div> 
     <div> Email: ${req.body.email}</div>
     <div> Notes: ${req.body.notes}</div> <div> </br>

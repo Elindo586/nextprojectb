@@ -1,5 +1,8 @@
 import React from "react";
 import Link from "next/link";
+import Container from "react-bootstrap/Container";
+import Row from "react-bootstrap/Row";
+import Col from "react-bootstrap/Col";
 
 const Footer = () => {
   function fullYear() {
@@ -9,13 +12,31 @@ const Footer = () => {
   return (
     <div>
       <footer className="main-footer">
-        <p className="copyright">
-          © {fullYear()} Copyright - TU -<br />
-          &nbsp;&nbsp; Developed by{" "}
-          <a href="https://www.edgarlindo.com/" className="copyright-link">
-            Edgar Lindo
-          </a>
-        </p>
+        <Container>
+          <Row>
+            <Col className="footer-privacy">
+              <b>PRIVACY</b>
+            </Col>
+          </Row>
+          <Row>
+            {" "}
+            <Col>
+              <p className="copyright">
+                Copyright © {fullYear()} TU - All Rights Reserved{" "}
+              </p>
+            </Col>
+            <Col className="dev-by">
+              <span className="dev-by2">Developed by:</span>{" "}
+              <a
+                className="edgar"
+                href="https://www.edgarlindo.com/"
+                target="blank"
+              >
+                Edgar Lindo
+              </a>
+            </Col>
+          </Row>
+        </Container>
       </footer>
     </div>
   );

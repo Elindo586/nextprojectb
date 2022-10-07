@@ -12,42 +12,6 @@ export default function ContactForm() {
   const [submitted, setSubmitted] = useState(false);
   const router = useRouter();
 
-  // const handleSubmit = (e) => {
-  //   e.preventDefault();
-
-  //   console.log("Sending");
-
-  //   let data = {
-  //     firstName,
-  //     company,
-  //     email,
-  //     country,
-  //     notes,
-  //   };
-  //   router.replace("/thank-you");
-
-  //   fetch("/api/contact", {
-  //     method: "POST",
-  //     headers: {
-  //       Accept: "application/json, text/plain, */*",
-  //       "Content-Type": "application/json",
-  //     },
-  //     body: JSON.stringify(data),
-  //   }).then((res) => {
-  //     console.log("Response received");
-
-  //     if (res.status === 200) {
-  //       console.log("Response succeeded!");
-  //       setSubmitted(true);
-  //       setFirstName("");
-  //       setCompany("");
-  //       setEmail("");
-  //       setCountry("");
-  //       setNotes("");
-  //     }
-  //   });
-  // };
-
   const checkSubmit = (e) => {
     if (firstName === "") {
       alert("Please enter your first name");
