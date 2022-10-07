@@ -15,7 +15,7 @@ const Footer = () => {
         <Container>
           <Row>
             <Col className="footer-privacy">
-              <b>PRIVACY</b>
+              <b>PRIVACY POLICY</b>
             </Col>
           </Row>
           <Row>
