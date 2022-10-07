@@ -14,9 +14,7 @@ const Footer = () => {
       <footer className="main-footer">
         <Container>
           <Row>
-            <Col className="footer-privacy">
-              <b>PRIVACY POLICY</b>
-            </Col>
+            <Col className="footer-privacy">PRIVACY POLICY</Col>
           </Row>
           <Row>
             {" "}
