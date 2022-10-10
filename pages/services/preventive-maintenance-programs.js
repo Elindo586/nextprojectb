@@ -20,7 +20,7 @@ const Preventive = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title> Technical Union | Preventive Maintenance Programs</title>
+          <title> TU | Preventive Maintenance Programs</title>
 
           <meta
             name="description"
@@ -28,18 +28,18 @@ const Preventive = () => {
           />
           <meta
             name="keywords"
-            content=" preventive, maintenance, industrial, machine, maintenance "
+            content=" TU, preventive, maintenance, industrial, machine, maintenance "
           />
           <meta name="author" content="Edgar Lindo" />
 
           {/* OG tags */}
 
           <meta property="og:locale" content="en" />
-          <meta property="site_name" content="TU-Technical Union" />
+          <meta property="site_name" content="TU" />
 
           <meta
             property="og:title"
-            content=" Technical Union | Preventive Maintenance Programs"
+            content=" TU | Preventive Maintenance Programs"
           />
           <meta
             property="og:description"
@@ -65,7 +65,7 @@ const Preventive = () => {
 
           <meta
             name="twitter:description"
-            content="Find preventive maintenance programs from TU Technical Union to keep your machine running in optimal condition, less downtime and higher overall productivity."
+            content="Find preventive maintenance programs from TU to keep your machine running in optimal condition, less downtime and higher overall productivity."
           />
           <meta
             name="twitter:image"

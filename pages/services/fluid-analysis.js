@@ -22,15 +22,15 @@ const Laboratory = () => {
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
 
-          <title> TU - Technical Union | Services </title>
+          <title> TU | Services </title>
 
           <meta
             name="description"
-            content=" Technical Union services includes oil analysis, preventive maintenance programs, purchasing department, etc.  "
+            content=" TU services includes oil analysis, preventive maintenance programs, purchasing department, etc.  "
           />
           <meta
             name="keywords"
-            content=" industrial services, purchasing, oil, analysis"
+            content=" TU, industrial services, purchasing, oil, analysis"
           />
           <meta name="author" content="Edgar Lindo" />
 
@@ -58,14 +58,11 @@ const Laboratory = () => {
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:creator" content="@MrEdgarLindo" />
 
-          <meta
-            name="twitter:title"
-            content=" Technical Union | Fluid Analysis"
-          />
+          <meta name="twitter:title" content=" TU | Fluid Analysis" />
 
           <meta
             name="twitter:description"
-            content="Find industrial fluid analysis from TU Technical Union. Quick turn around of analysis samples for your convenience."
+            content="Find industrial fluid analysis from TU. Quick turn around of analysis samples for your convenience."
           />
           <meta
             name="twitter:image"
