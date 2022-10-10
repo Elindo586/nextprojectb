@@ -83,10 +83,19 @@
 }
 .edgar {
   color: green;
-  text-decoration: none;
 }
 .edgar:hover {
-  color: #00ff00;
+  color: chartreuse;
+}
+.footer-icon {
+  margin-left: 0.5em;
+  padding-top: 0.3em;
+}
+.social-icon-col {
+  padding-top: 0.3em;
+  margin-bottom: 0.3em;
+
+  text-align: right;
 }
 
 .banner-text {
