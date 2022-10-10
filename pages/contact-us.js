@@ -130,7 +130,7 @@ const Contact = () => {
               </div>
               <div className="col-9">
                 <strong>ADDRESS:</strong> <br />
-                Technical Union <br />
+                TU <br />
                 Farmington Hills, MI 48334 <br />
                 USA <br />
               </div>
