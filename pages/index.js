@@ -28,7 +28,7 @@ const Home = () => {
           />
           <meta
             name="keywords"
-            content="pumps, motors, valves, servo motors, servo valves, filters, accumulators, heat exchangers, industrial supplies."
+            content="tu, pumps, motors, valves, servo motors, servo valves, filters, accumulators, heat exchangers, industrial supplies."
             id="meta-keywords"
           />
           <meta name="author" content="Edgar Lindo" />

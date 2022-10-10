@@ -21,11 +21,8 @@ const Contact = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <meta
-            name="description"
-            content=" Feel free to contact Technical Union "
-          />
-          <meta name="keywords" content=" Contact, page " />
+          <meta name="description" content=" Feel free to contact TU " />
+          <meta name="keywords" content=" tu, Contact, page " />
           <meta name="author" content="Edgar Lindo" />
 
           {/* OG tags */}
@@ -66,7 +63,7 @@ const Contact = () => {
         <div className="col-md-12">
           <div className="ratio ratio-21x9">
             <iframe
-              title="Find Technical Union"
+              title="Find TU"
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d376620.65888018865!2d-83.65734297763709!3d42.48413467775062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8824ae2f8c7e3c7f%3A0x1978ab227e003bbc!2sFarmington%20Hills%2C%20MI!5e0!3m2!1sen!2sus!4v1640206161066!5m2!1sen!2sus"
               allowFullScreen=""
               loading="lazy"

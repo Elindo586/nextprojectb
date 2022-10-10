@@ -188,7 +188,7 @@ const Interactive = () => {
           />
           <meta
             name="keywords"
-            content="hydraulic, circuit, interactive, animation"
+            content=" tu, hydraulic, circuit, interactive, animation"
           />
           <meta name="author" content="Edgar Lindo" />
 
