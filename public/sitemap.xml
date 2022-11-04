@@ -20,6 +20,37 @@
   <priority>1.00</priority>
 </url>
 <url>
+  <loc>https://www.tu.biz/products</loc>
+  <lastmod> 2022-11-14 </lastmod>
+
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.tu.biz/products/filter-elements</loc>
+  <lastmod> 2022-11-14 </lastmod>
+
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.tu.biz/products/filter-elements/pall</loc>
+  <lastmod> 2022-11-14 </lastmod>
+
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.tu.biz/products/filter-elements/hydac</loc>
+  <lastmod> 2022-11-14 </lastmod>
+
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.tu.biz/products/filter-elements/schroeder</loc>
+  <lastmod> 2022-11-14 </lastmod>
+
+  <priority>0.80</priority>
+</url>
+
+<url>
   <loc>https://www.tu.biz/products/piston-pumps</loc>
   <image:image><image:loc>https://www.tu.biz/_next/image?url=%2Fimages%2Frexrothpump-1.png&amp;w=640&amp;q=75</image:loc></image:image>
   <image:image><image:loc>https://www.tu.biz/_next/image?url=%2Fimages%2Fradial-piston-pump.png&amp;w=256&amp;q=75</image:loc></image:image>
@@ -46,6 +77,8 @@
   <lastmod>2022-10-18</lastmod>
   <priority>0.80</priority>
 </url>
+
+
 <url>
   <loc>https://www.tu.biz/blog/english</loc>
   <image:image><image:loc>https://www.tu.biz/_next/image?url=%2Fblog-images-english%2Fhydraulic-circuit-simulation.png&amp;w=1200&amp;q=75</image:loc></image:image>

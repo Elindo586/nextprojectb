@@ -1,0 +1,6752 @@
+﻿[
+    {
+        "Id": "1620369",
+        "Reference": "TBA",
+        "Description": "16QS15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3829930",
+        "Reference": "TBA",
+        "Description": "16QS15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1639930",
+        "Reference": "TBA",
+        "Description": "16QS1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8292529",
+        "Reference": "TBA",
+        "Description": "16QS1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3319268",
+        "Reference": "TBA",
+        "Description": "16QS3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8720765",
+        "Reference": "TBA",
+        "Description": "16QS3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1099495",
+        "Reference": "TBA",
+        "Description": "16QS7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5726433",
+        "Reference": "TBA",
+        "Description": "16QS7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3505561",
+        "Reference": "TBA",
+        "Description": "16QZ10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2236494",
+        "Reference": "TBA",
+        "Description": "16QZ10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5610123",
+        "Reference": "TBA",
+        "Description": "16QZ25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7894603",
+        "Reference": "TBA",
+        "Description": "16QZ25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3663814",
+        "Reference": "TBA",
+        "Description": "16QZ3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8133959",
+        "Reference": "TBA",
+        "Description": "16QZ3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4094309",
+        "Reference": "TBA",
+        "Description": "16QZ5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4081742",
+        "Reference": "TBA",
+        "Description": "16QZ5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4126901",
+        "Reference": "TBA",
+        "Description": "18LS1",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2143560",
+        "Reference": "TBA",
+        "Description": "18LS15",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1798866",
+        "Reference": "TBA",
+        "Description": "18LS3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6344234",
+        "Reference": "TBA",
+        "Description": "18LS7",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3971318",
+        "Reference": "TBA",
+        "Description": "18LZ10",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1173916",
+        "Reference": "TBA",
+        "Description": "18LZ25",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9310666",
+        "Reference": "TBA",
+        "Description": "18LZ3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6233495",
+        "Reference": "TBA",
+        "Description": "18LZ5",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2854591",
+        "Reference": "TBA",
+        "Description": "27KS1",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5369194",
+        "Reference": "TBA",
+        "Description": "27KS15",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5292331",
+        "Reference": "TBA",
+        "Description": "27KS15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9949213",
+        "Reference": "TBA",
+        "Description": "27KS1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1947786",
+        "Reference": "TBA",
+        "Description": "27KS3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9813114",
+        "Reference": "TBA",
+        "Description": "27KS3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7296954",
+        "Reference": "TBA",
+        "Description": "27KS7",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2717343",
+        "Reference": "TBA",
+        "Description": "27KS7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9833248",
+        "Reference": "TBA",
+        "Description": "27KZ10",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5991873",
+        "Reference": "TBA",
+        "Description": "27KZ10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9241232",
+        "Reference": "TBA",
+        "Description": "27KZ25",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8170343",
+        "Reference": "TBA",
+        "Description": "27KZ25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6108806",
+        "Reference": "TBA",
+        "Description": "27KZ3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2644914",
+        "Reference": "TBA",
+        "Description": "27KZ3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6696651",
+        "Reference": "TBA",
+        "Description": "27KZ5",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6785886",
+        "Reference": "TBA",
+        "Description": "27KZ5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2588062",
+        "Reference": "TBA",
+        "Description": "39QS15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3645911",
+        "Reference": "TBA",
+        "Description": "39QS15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4151494",
+        "Reference": "TBA",
+        "Description": "39QS1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8257080",
+        "Reference": "TBA",
+        "Description": "39QS1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3497006",
+        "Reference": "TBA",
+        "Description": "39QS3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3471870",
+        "Reference": "TBA",
+        "Description": "39QS3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5935092",
+        "Reference": "TBA",
+        "Description": "39QS7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4146500",
+        "Reference": "TBA",
+        "Description": "39QS7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2667669",
+        "Reference": "TBA",
+        "Description": "39QZ10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5984199",
+        "Reference": "TBA",
+        "Description": "39QZ10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9682521",
+        "Reference": "TBA",
+        "Description": "39QZ25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9789951",
+        "Reference": "TBA",
+        "Description": "39QZ25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3414656",
+        "Reference": "TBA",
+        "Description": "39QZ3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1105455",
+        "Reference": "TBA",
+        "Description": "39QZ3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6400298",
+        "Reference": "TBA",
+        "Description": "39QZ5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7463564",
+        "Reference": "TBA",
+        "Description": "39QZ5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8503978",
+        "Reference": "TBA",
+        "Description": "8T10",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7891510",
+        "Reference": "TBA",
+        "Description": "8TS1",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1569352",
+        "Reference": "TBA",
+        "Description": "8TS15",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8161133",
+        "Reference": "TBA",
+        "Description": "8TS3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1628871",
+        "Reference": "TBA",
+        "Description": "8TS7",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8418351",
+        "Reference": "TBA",
+        "Description": "8TSX3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7091317",
+        "Reference": "TBA",
+        "Description": "8TSX7",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4454606",
+        "Reference": "TBA",
+        "Description": "8TZ10",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6546088",
+        "Reference": "TBA",
+        "Description": "8TZ25",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4856351",
+        "Reference": "TBA",
+        "Description": "8TZ3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9412111",
+        "Reference": "TBA",
+        "Description": "8TZ5",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7510243",
+        "Reference": "TBA",
+        "Description": "BB10",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7055672",
+        "Reference": "TBA",
+        "Description": "BBS1",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4392136",
+        "Reference": "TBA",
+        "Description": "BBS5",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3121116",
+        "Reference": "TBA",
+        "Description": "BBS7",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3839916",
+        "Reference": "TBA",
+        "Description": "BBZ1",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4765557",
+        "Reference": "TBA",
+        "Description": "BBZ10",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3486512",
+        "Reference": "TBA",
+        "Description": "BBZ25",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6427192",
+        "Reference": "TBA",
+        "Description": "BBZ3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3549043",
+        "Reference": "TBA",
+        "Description": "C10",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8023729",
+        "Reference": "TBA",
+        "Description": "C25",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3868877",
+        "Reference": "TBA",
+        "Description": "C3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7922522",
+        "Reference": "TBA",
+        "Description": "C5",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3228310",
+        "Reference": "TBA",
+        "Description": "CC10",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6072808",
+        "Reference": "TBA",
+        "Description": "CC25",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1306958",
+        "Reference": "TBA",
+        "Description": "CC3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7113137",
+        "Reference": "TBA",
+        "Description": "CC5",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4273214",
+        "Reference": "TBA",
+        "Description": "CCS1",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1840977",
+        "Reference": "TBA",
+        "Description": "CCS10",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5738895",
+        "Reference": "TBA",
+        "Description": "CCS25",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1859706",
+        "Reference": "TBA",
+        "Description": "CCS3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5418091",
+        "Reference": "TBA",
+        "Description": "CCS7",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2794166",
+        "Reference": "TBA",
+        "Description": "CCSX3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8114339",
+        "Reference": "TBA",
+        "Description": "CCZ1",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6961475",
+        "Reference": "TBA",
+        "Description": "CCZ10",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3932259",
+        "Reference": "TBA",
+        "Description": "CCZ25",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1789422",
+        "Reference": "TBA",
+        "Description": "CCZ3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7658954",
+        "Reference": "TBA",
+        "Description": "CCZ5",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9291248",
+        "Reference": "TBA",
+        "Description": "CCZX5",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6949777",
+        "Reference": "TBA",
+        "Description": "CS1",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7464968",
+        "Reference": "TBA",
+        "Description": "CS10",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3814388",
+        "Reference": "TBA",
+        "Description": "CS25",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4656972",
+        "Reference": "TBA",
+        "Description": "CS3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3514247",
+        "Reference": "TBA",
+        "Description": "CS7",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4933398",
+        "Reference": "TBA",
+        "Description": "CZ1",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5806118",
+        "Reference": "TBA",
+        "Description": "CZ10",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1025458",
+        "Reference": "TBA",
+        "Description": "CZ25",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8374043",
+        "Reference": "TBA",
+        "Description": "CZ3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8420529",
+        "Reference": "TBA",
+        "Description": "CZ5",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4709268",
+        "Reference": "TBA",
+        "Description": "FSX3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5851583",
+        "Reference": "TBA",
+        "Description": "FZX5",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2080903",
+        "Reference": "TBA",
+        "Description": "K10",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4831810",
+        "Reference": "TBA",
+        "Description": "K25",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5033387",
+        "Reference": "TBA",
+        "Description": "K3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4260695",
+        "Reference": "TBA",
+        "Description": "KK10",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2477544",
+        "Reference": "TBA",
+        "Description": "KK25",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8088288",
+        "Reference": "TBA",
+        "Description": "KK3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2353638",
+        "Reference": "TBA",
+        "Description": "KKK10",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6821073",
+        "Reference": "TBA",
+        "Description": "KKK25",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1471933",
+        "Reference": "TBA",
+        "Description": "KKK3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3378295",
+        "Reference": "TBA",
+        "Description": "KKKS1",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8773958",
+        "Reference": "TBA",
+        "Description": "KKKS15",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4650077",
+        "Reference": "TBA",
+        "Description": "KKKS15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3650025",
+        "Reference": "TBA",
+        "Description": "KKKS1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2323926",
+        "Reference": "TBA",
+        "Description": "KKKS3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2262945",
+        "Reference": "TBA",
+        "Description": "KKKS3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3376856",
+        "Reference": "TBA",
+        "Description": "KKKS7",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6649669",
+        "Reference": "TBA",
+        "Description": "KKKS7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6035964",
+        "Reference": "TBA",
+        "Description": "KKKZ10",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8634517",
+        "Reference": "TBA",
+        "Description": "KKKZ10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5153289",
+        "Reference": "TBA",
+        "Description": "KKKZ25",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4135676",
+        "Reference": "TBA",
+        "Description": "KKKZ25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7756227",
+        "Reference": "TBA",
+        "Description": "KKKZ3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1612027",
+        "Reference": "TBA",
+        "Description": "KKKZ3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7834759",
+        "Reference": "TBA",
+        "Description": "KKKZ5",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3585731",
+        "Reference": "TBA",
+        "Description": "KKKZ5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3245075",
+        "Reference": "TBA",
+        "Description": "KKKZX1",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7317696",
+        "Reference": "TBA",
+        "Description": "KKKZX10",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4980039",
+        "Reference": "TBA",
+        "Description": "KKKZX10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9878217",
+        "Reference": "TBA",
+        "Description": "KKKZX1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1627165",
+        "Reference": "TBA",
+        "Description": "KKKZX25",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5746107",
+        "Reference": "TBA",
+        "Description": "KKKZX25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2397485",
+        "Reference": "TBA",
+        "Description": "KKKZX3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1055669",
+        "Reference": "TBA",
+        "Description": "KKKZX3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1898182",
+        "Reference": "TBA",
+        "Description": "KKKZX7",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7062444",
+        "Reference": "TBA",
+        "Description": "KKKZX7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7664100",
+        "Reference": "TBA",
+        "Description": "KKS1",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9235263",
+        "Reference": "TBA",
+        "Description": "KKS15",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3188462",
+        "Reference": "TBA",
+        "Description": "KKS15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6992924",
+        "Reference": "TBA",
+        "Description": "KKS1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9962667",
+        "Reference": "TBA",
+        "Description": "KKS3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1289477",
+        "Reference": "TBA",
+        "Description": "KKS3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4007013",
+        "Reference": "TBA",
+        "Description": "KKS7",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4706995",
+        "Reference": "TBA",
+        "Description": "KKS7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1374417",
+        "Reference": "TBA",
+        "Description": "KKZ10",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7514758",
+        "Reference": "TBA",
+        "Description": "KKZ10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6339401",
+        "Reference": "TBA",
+        "Description": "KKZ25",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7251576",
+        "Reference": "TBA",
+        "Description": "KKZ25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9671988",
+        "Reference": "TBA",
+        "Description": "KKZ3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4688133",
+        "Reference": "TBA",
+        "Description": "KKZ3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2191645",
+        "Reference": "TBA",
+        "Description": "KKZ5",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6206855",
+        "Reference": "TBA",
+        "Description": "KKZ5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3056371",
+        "Reference": "TBA",
+        "Description": "KM10",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7668968",
+        "Reference": "TBA",
+        "Description": "KM150",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7593178",
+        "Reference": "TBA",
+        "Description": "KM25",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2966649",
+        "Reference": "TBA",
+        "Description": "KM260",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8859224",
+        "Reference": "TBA",
+        "Description": "KM60",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1548125",
+        "Reference": "TBA",
+        "Description": "KS1",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8002493",
+        "Reference": "TBA",
+        "Description": "KS15",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2026491",
+        "Reference": "TBA",
+        "Description": "KS15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2320737",
+        "Reference": "TBA",
+        "Description": "KS1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7300298",
+        "Reference": "TBA",
+        "Description": "KS3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8551092",
+        "Reference": "TBA",
+        "Description": "KS3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3788198",
+        "Reference": "TBA",
+        "Description": "KS7",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4400045",
+        "Reference": "TBA",
+        "Description": "KS7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6459082",
+        "Reference": "TBA",
+        "Description": "KSX15",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1867659",
+        "Reference": "TBA",
+        "Description": "KSX15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4952349",
+        "Reference": "TBA",
+        "Description": "KSX3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3800601",
+        "Reference": "TBA",
+        "Description": "KSX3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3927384",
+        "Reference": "TBA",
+        "Description": "KSX7",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6670705",
+        "Reference": "TBA",
+        "Description": "KSX7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7056900",
+        "Reference": "TBA",
+        "Description": "KZ10",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8192057",
+        "Reference": "TBA",
+        "Description": "KZ10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9141030",
+        "Reference": "TBA",
+        "Description": "KZ25",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8097126",
+        "Reference": "TBA",
+        "Description": "KZ25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2875444",
+        "Reference": "TBA",
+        "Description": "KZ3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4113040",
+        "Reference": "TBA",
+        "Description": "KZ3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3098937",
+        "Reference": "TBA",
+        "Description": "KZ5",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3462596",
+        "Reference": "TBA",
+        "Description": "KZ5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1415095",
+        "Reference": "TBA",
+        "Description": "N10",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8992457",
+        "Reference": "TBA",
+        "Description": "N25",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9907965",
+        "Reference": "TBA",
+        "Description": "N3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5976480",
+        "Reference": "TBA",
+        "Description": "N5",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4867687",
+        "Reference": "TBA",
+        "Description": "NM100",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7855101",
+        "Reference": "TBA",
+        "Description": "NM60",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6175326",
+        "Reference": "TBA",
+        "Description": "NN10",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2336698",
+        "Reference": "TBA",
+        "Description": "NN25",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3604373",
+        "Reference": "TBA",
+        "Description": "NN3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9016312",
+        "Reference": "TBA",
+        "Description": "NNS1",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9172683",
+        "Reference": "TBA",
+        "Description": "NNS10",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9328438",
+        "Reference": "TBA",
+        "Description": "NNS3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3269202",
+        "Reference": "TBA",
+        "Description": "NNS7",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7255856",
+        "Reference": "TBA",
+        "Description": "NNZ10",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2209480",
+        "Reference": "TBA",
+        "Description": "NNZ25",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4740525",
+        "Reference": "TBA",
+        "Description": "NNZ3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4558879",
+        "Reference": "TBA",
+        "Description": "NNZ7",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7223136",
+        "Reference": "TBA",
+        "Description": "NS1",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5544498",
+        "Reference": "TBA",
+        "Description": "NS10",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7251519",
+        "Reference": "TBA",
+        "Description": "NS3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5905975",
+        "Reference": "TBA",
+        "Description": "NS7",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3975463",
+        "Reference": "TBA",
+        "Description": "NZ10",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7542160",
+        "Reference": "TBA",
+        "Description": "NZ25",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8040823",
+        "Reference": "TBA",
+        "Description": "NZ3",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3153416",
+        "Reference": "TBA",
+        "Description": "NZ7",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4001917",
+        "Reference": "TBA",
+        "Description": "SBF0031DS15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8901515",
+        "Reference": "TBA",
+        "Description": "SBF0031DS15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1930861",
+        "Reference": "TBA",
+        "Description": "SBF0031DS1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8779464",
+        "Reference": "TBA",
+        "Description": "SBF0031DS1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7155918",
+        "Reference": "TBA",
+        "Description": "SBF0031DS3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3000119",
+        "Reference": "TBA",
+        "Description": "SBF0031DS3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6315607",
+        "Reference": "TBA",
+        "Description": "SBF0031DS7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2012646",
+        "Reference": "TBA",
+        "Description": "SBF0031DS7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1031717",
+        "Reference": "TBA",
+        "Description": "SBF0031DZ10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5665972",
+        "Reference": "TBA",
+        "Description": "SBF0031DZ10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9125661",
+        "Reference": "TBA",
+        "Description": "SBF0031DZ25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6624530",
+        "Reference": "TBA",
+        "Description": "SBF0031DZ25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3029077",
+        "Reference": "TBA",
+        "Description": "SBF0031DZ3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5885353",
+        "Reference": "TBA",
+        "Description": "SBF0031DZ3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8879652",
+        "Reference": "TBA",
+        "Description": "SBF0031DZ5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2913131",
+        "Reference": "TBA",
+        "Description": "SBF0031DZ5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8547885",
+        "Reference": "TBA",
+        "Description": "SBF0060DS15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2800146",
+        "Reference": "TBA",
+        "Description": "SBF0060DS15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2545997",
+        "Reference": "TBA",
+        "Description": "SBF0060DS1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2196109",
+        "Reference": "TBA",
+        "Description": "SBF0060DS1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1454362",
+        "Reference": "TBA",
+        "Description": "SBF0060DS3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8029873",
+        "Reference": "TBA",
+        "Description": "SBF0060DS3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3212700",
+        "Reference": "TBA",
+        "Description": "SBF0060DS7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9825418",
+        "Reference": "TBA",
+        "Description": "SBF0060DS7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2299995",
+        "Reference": "TBA",
+        "Description": "SBF0060DZ10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2892718",
+        "Reference": "TBA",
+        "Description": "SBF0060DZ10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4898890",
+        "Reference": "TBA",
+        "Description": "SBF0060DZ25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5772464",
+        "Reference": "TBA",
+        "Description": "SBF0060DZ25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4506240",
+        "Reference": "TBA",
+        "Description": "SBF0060DZ3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4740835",
+        "Reference": "TBA",
+        "Description": "SBF0060DZ3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1995379",
+        "Reference": "TBA",
+        "Description": "SBF0060DZ5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1966669",
+        "Reference": "TBA",
+        "Description": "SBF0060DZ5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5717264",
+        "Reference": "TBA",
+        "Description": "SBF0061DS15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2698669",
+        "Reference": "TBA",
+        "Description": "SBF0061DS15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1258246",
+        "Reference": "TBA",
+        "Description": "SBF0061DS1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1545380",
+        "Reference": "TBA",
+        "Description": "SBF0061DS1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4642014",
+        "Reference": "TBA",
+        "Description": "SBF0061DS3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5551424",
+        "Reference": "TBA",
+        "Description": "SBF0061DS3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4715591",
+        "Reference": "TBA",
+        "Description": "SBF0061DS7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7034905",
+        "Reference": "TBA",
+        "Description": "SBF0061DS7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1991877",
+        "Reference": "TBA",
+        "Description": "SBF0061DZ10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5282965",
+        "Reference": "TBA",
+        "Description": "SBF0061DZ10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3524692",
+        "Reference": "TBA",
+        "Description": "SBF0061DZ25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4459771",
+        "Reference": "TBA",
+        "Description": "SBF0061DZ25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5207381",
+        "Reference": "TBA",
+        "Description": "SBF0061DZ3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9458949",
+        "Reference": "TBA",
+        "Description": "SBF0061DZ3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7886977",
+        "Reference": "TBA",
+        "Description": "SBF0061DZ5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6743517",
+        "Reference": "TBA",
+        "Description": "SBF0061DZ5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7844731",
+        "Reference": "TBA",
+        "Description": "SBF0110DS15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5595207",
+        "Reference": "TBA",
+        "Description": "SBF0110DS15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7575700",
+        "Reference": "TBA",
+        "Description": "SBF0110DS1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3602524",
+        "Reference": "TBA",
+        "Description": "SBF0110DS1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5545954",
+        "Reference": "TBA",
+        "Description": "SBF0110DS3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5769649",
+        "Reference": "TBA",
+        "Description": "SBF0110DS3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3087740",
+        "Reference": "TBA",
+        "Description": "SBF0110DS7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6320108",
+        "Reference": "TBA",
+        "Description": "SBF0110DS7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6587760",
+        "Reference": "TBA",
+        "Description": "SBF0110DZ10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2765276",
+        "Reference": "TBA",
+        "Description": "SBF0110DZ10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1091282",
+        "Reference": "TBA",
+        "Description": "SBF0110DZ25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4892152",
+        "Reference": "TBA",
+        "Description": "SBF0110DZ25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9431528",
+        "Reference": "TBA",
+        "Description": "SBF0110DZ3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2092315",
+        "Reference": "TBA",
+        "Description": "SBF0110DZ3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4711351",
+        "Reference": "TBA",
+        "Description": "SBF0110DZ5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4445700",
+        "Reference": "TBA",
+        "Description": "SBF0110DZ5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5312586",
+        "Reference": "TBA",
+        "Description": "SBF0111DS15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3219354",
+        "Reference": "TBA",
+        "Description": "SBF0111DS15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2770861",
+        "Reference": "TBA",
+        "Description": "SBF0111DS1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2374065",
+        "Reference": "TBA",
+        "Description": "SBF0111DS1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9806257",
+        "Reference": "TBA",
+        "Description": "SBF0111DS3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2723737",
+        "Reference": "TBA",
+        "Description": "SBF0111DS3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1706336",
+        "Reference": "TBA",
+        "Description": "SBF0111DS7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8193857",
+        "Reference": "TBA",
+        "Description": "SBF0111DS7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9520021",
+        "Reference": "TBA",
+        "Description": "SBF0111DZ10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7911255",
+        "Reference": "TBA",
+        "Description": "SBF0111DZ10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2032825",
+        "Reference": "TBA",
+        "Description": "SBF0111DZ25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4614591",
+        "Reference": "TBA",
+        "Description": "SBF0111DZ25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3953360",
+        "Reference": "TBA",
+        "Description": "SBF0111DZ3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4484652",
+        "Reference": "TBA",
+        "Description": "SBF0111DZ3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6182890",
+        "Reference": "TBA",
+        "Description": "SBF0111DZ5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3376321",
+        "Reference": "TBA",
+        "Description": "SBF0111DZ5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8144223",
+        "Reference": "TBA",
+        "Description": "SBF0160DS15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4263742",
+        "Reference": "TBA",
+        "Description": "SBF0160DS15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8929316",
+        "Reference": "TBA",
+        "Description": "SBF0160DS1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5394958",
+        "Reference": "TBA",
+        "Description": "SBF0160DS1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5780584",
+        "Reference": "TBA",
+        "Description": "SBF0160DS3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3168369",
+        "Reference": "TBA",
+        "Description": "SBF0160DS3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1140082",
+        "Reference": "TBA",
+        "Description": "SBF0160DS7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7720949",
+        "Reference": "TBA",
+        "Description": "SBF0160DS7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2102591",
+        "Reference": "TBA",
+        "Description": "SBF0160DZ10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1487541",
+        "Reference": "TBA",
+        "Description": "SBF0160DZ10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1060594",
+        "Reference": "TBA",
+        "Description": "SBF0160DZ25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8404776",
+        "Reference": "TBA",
+        "Description": "SBF0160DZ25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7190883",
+        "Reference": "TBA",
+        "Description": "SBF0160DZ3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2983249",
+        "Reference": "TBA",
+        "Description": "SBF0160DZ3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9752062",
+        "Reference": "TBA",
+        "Description": "SBF0160DZ5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3638798",
+        "Reference": "TBA",
+        "Description": "SBF0160DZ5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5912625",
+        "Reference": "TBA",
+        "Description": "SBF0161DS15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9608793",
+        "Reference": "TBA",
+        "Description": "SBF0161DS15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8137705",
+        "Reference": "TBA",
+        "Description": "SBF0161DS1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1406736",
+        "Reference": "TBA",
+        "Description": "SBF0161DS1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1534144",
+        "Reference": "TBA",
+        "Description": "SBF0161DS3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9457196",
+        "Reference": "TBA",
+        "Description": "SBF0161DS3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7813837",
+        "Reference": "TBA",
+        "Description": "SBF0161DS7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2415049",
+        "Reference": "TBA",
+        "Description": "SBF0161DS7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4811010",
+        "Reference": "TBA",
+        "Description": "SBF0161DZ10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2660193",
+        "Reference": "TBA",
+        "Description": "SBF0161DZ10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6359055",
+        "Reference": "TBA",
+        "Description": "SBF0161DZ25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9388157",
+        "Reference": "TBA",
+        "Description": "SBF0161DZ25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4947141",
+        "Reference": "TBA",
+        "Description": "SBF0161DZ3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6346985",
+        "Reference": "TBA",
+        "Description": "SBF0161DZ3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3164997",
+        "Reference": "TBA",
+        "Description": "SBF0161DZ5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8018747",
+        "Reference": "TBA",
+        "Description": "SBF0161DZ5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1634011",
+        "Reference": "TBA",
+        "Description": "SBF0240DS15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3577760",
+        "Reference": "TBA",
+        "Description": "SBF0240DS15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2336858",
+        "Reference": "TBA",
+        "Description": "SBF0240DS1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4549549",
+        "Reference": "TBA",
+        "Description": "SBF0240DS1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9693798",
+        "Reference": "TBA",
+        "Description": "SBF0240DS3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9845048",
+        "Reference": "TBA",
+        "Description": "SBF0240DS3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2644458",
+        "Reference": "TBA",
+        "Description": "SBF0240DS7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6448719",
+        "Reference": "TBA",
+        "Description": "SBF0240DS7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6980146",
+        "Reference": "TBA",
+        "Description": "SBF0240DZ10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7962832",
+        "Reference": "TBA",
+        "Description": "SBF0240DZ10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5456248",
+        "Reference": "TBA",
+        "Description": "SBF0240DZ25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7265383",
+        "Reference": "TBA",
+        "Description": "SBF0240DZ25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3285472",
+        "Reference": "TBA",
+        "Description": "SBF0240DZ3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7994445",
+        "Reference": "TBA",
+        "Description": "SBF0240DZ3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3256819",
+        "Reference": "TBA",
+        "Description": "SBF0240DZ5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2712513",
+        "Reference": "TBA",
+        "Description": "SBF0240DZ5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4153617",
+        "Reference": "TBA",
+        "Description": "SBF0241DS15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7102363",
+        "Reference": "TBA",
+        "Description": "SBF0241DS15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6724068",
+        "Reference": "TBA",
+        "Description": "SBF0241DS1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1462379",
+        "Reference": "TBA",
+        "Description": "SBF0241DS1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5337176",
+        "Reference": "TBA",
+        "Description": "SBF0241DS3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4518503",
+        "Reference": "TBA",
+        "Description": "SBF0241DS3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8974414",
+        "Reference": "TBA",
+        "Description": "SBF0241DS7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6831761",
+        "Reference": "TBA",
+        "Description": "SBF0241DS7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6972327",
+        "Reference": "TBA",
+        "Description": "SBF0241DZ10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6191491",
+        "Reference": "TBA",
+        "Description": "SBF0241DZ10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3716780",
+        "Reference": "TBA",
+        "Description": "SBF0241DZ25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1315546",
+        "Reference": "TBA",
+        "Description": "SBF0241DZ25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6428173",
+        "Reference": "TBA",
+        "Description": "SBF0241DZ3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9784608",
+        "Reference": "TBA",
+        "Description": "SBF0241DZ3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8159933",
+        "Reference": "TBA",
+        "Description": "SBF0241DZ5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6151504",
+        "Reference": "TBA",
+        "Description": "SBF0241DZ5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9788760",
+        "Reference": "TBA",
+        "Description": "SBF0330DS15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7220830",
+        "Reference": "TBA",
+        "Description": "SBF0330DS15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8617719",
+        "Reference": "TBA",
+        "Description": "SBF0330DS1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1596201",
+        "Reference": "TBA",
+        "Description": "SBF0330DS1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4849005",
+        "Reference": "TBA",
+        "Description": "SBF0330DS3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9680145",
+        "Reference": "TBA",
+        "Description": "SBF0330DS3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3559607",
+        "Reference": "TBA",
+        "Description": "SBF0330DS7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7698510",
+        "Reference": "TBA",
+        "Description": "SBF0330DS7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7392582",
+        "Reference": "TBA",
+        "Description": "SBF0330DZ10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4077715",
+        "Reference": "TBA",
+        "Description": "SBF0330DZ10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5938771",
+        "Reference": "TBA",
+        "Description": "SBF0330DZ25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2548960",
+        "Reference": "TBA",
+        "Description": "SBF0330DZ25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7742863",
+        "Reference": "TBA",
+        "Description": "SBF0330DZ3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9223392",
+        "Reference": "TBA",
+        "Description": "SBF0330DZ3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8882620",
+        "Reference": "TBA",
+        "Description": "SBF0330DZ5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8077567",
+        "Reference": "TBA",
+        "Description": "SBF0330DZ5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8889080",
+        "Reference": "TBA",
+        "Description": "SBF0331DS15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8457978",
+        "Reference": "TBA",
+        "Description": "SBF0331DS15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2012986",
+        "Reference": "TBA",
+        "Description": "SBF0331DS1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3701309",
+        "Reference": "TBA",
+        "Description": "SBF0331DS1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3538635",
+        "Reference": "TBA",
+        "Description": "SBF0331DS3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5976084",
+        "Reference": "TBA",
+        "Description": "SBF0331DS3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5674906",
+        "Reference": "TBA",
+        "Description": "SBF0331DS7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8861389",
+        "Reference": "TBA",
+        "Description": "SBF0331DS7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5704386",
+        "Reference": "TBA",
+        "Description": "SBF0331DZ10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8241153",
+        "Reference": "TBA",
+        "Description": "SBF0331DZ10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3133260",
+        "Reference": "TBA",
+        "Description": "SBF0331DZ25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4092913",
+        "Reference": "TBA",
+        "Description": "SBF0331DZ25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6808586",
+        "Reference": "TBA",
+        "Description": "SBF0331DZ3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3066180",
+        "Reference": "TBA",
+        "Description": "SBF0331DZ3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9151120",
+        "Reference": "TBA",
+        "Description": "SBF0331DZ5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7939236",
+        "Reference": "TBA",
+        "Description": "SBF0331DZ5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5780281",
+        "Reference": "TBA",
+        "Description": "SBF0660DS15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1462057",
+        "Reference": "TBA",
+        "Description": "SBF0660DS15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5317925",
+        "Reference": "TBA",
+        "Description": "SBF0660DS1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4763698",
+        "Reference": "TBA",
+        "Description": "SBF0660DS1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4234696",
+        "Reference": "TBA",
+        "Description": "SBF0660DS3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4473130",
+        "Reference": "TBA",
+        "Description": "SBF0660DS3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4855364",
+        "Reference": "TBA",
+        "Description": "SBF0660DS7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7111462",
+        "Reference": "TBA",
+        "Description": "SBF0660DS7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4935917",
+        "Reference": "TBA",
+        "Description": "SBF0660DZ10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5197727",
+        "Reference": "TBA",
+        "Description": "SBF0660DZ10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6823664",
+        "Reference": "TBA",
+        "Description": "SBF0660DZ25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9954282",
+        "Reference": "TBA",
+        "Description": "SBF0660DZ25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6256842",
+        "Reference": "TBA",
+        "Description": "SBF0660DZ3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6093281",
+        "Reference": "TBA",
+        "Description": "SBF0660DZ3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5897404",
+        "Reference": "TBA",
+        "Description": "SBF0660DZ5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4964771",
+        "Reference": "TBA",
+        "Description": "SBF0660DZ5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4636055",
+        "Reference": "TBA",
+        "Description": "SBF0661DS15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6407041",
+        "Reference": "TBA",
+        "Description": "SBF0661DS15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1400098",
+        "Reference": "TBA",
+        "Description": "SBF0661DS1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9191148",
+        "Reference": "TBA",
+        "Description": "SBF0661DS1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7600496",
+        "Reference": "TBA",
+        "Description": "SBF0661DS3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5003261",
+        "Reference": "TBA",
+        "Description": "SBF0661DS3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1175392",
+        "Reference": "TBA",
+        "Description": "SBF0661DS7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8999291",
+        "Reference": "TBA",
+        "Description": "SBF0661DS7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6071941",
+        "Reference": "TBA",
+        "Description": "SBF0661DZ10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3396612",
+        "Reference": "TBA",
+        "Description": "SBF0661DZ10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9263227",
+        "Reference": "TBA",
+        "Description": "SBF0661DZ25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7945002",
+        "Reference": "TBA",
+        "Description": "SBF0661DZ25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3313727",
+        "Reference": "TBA",
+        "Description": "SBF0661DZ3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1247611",
+        "Reference": "TBA",
+        "Description": "SBF0661DZ3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4338283",
+        "Reference": "TBA",
+        "Description": "SBF0661DZ5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2313357",
+        "Reference": "TBA",
+        "Description": "SBF0661DZ5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2661715",
+        "Reference": "TBA",
+        "Description": "SBF100118S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1416187",
+        "Reference": "TBA",
+        "Description": "SBF100118S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1979562",
+        "Reference": "TBA",
+        "Description": "SBF100118S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9366034",
+        "Reference": "TBA",
+        "Description": "SBF100118S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2058719",
+        "Reference": "TBA",
+        "Description": "SBF100118S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9336942",
+        "Reference": "TBA",
+        "Description": "SBF100118S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8088061",
+        "Reference": "TBA",
+        "Description": "SBF100118S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1448727",
+        "Reference": "TBA",
+        "Description": "SBF100118S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1830414",
+        "Reference": "TBA",
+        "Description": "SBF100118Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4598587",
+        "Reference": "TBA",
+        "Description": "SBF100118Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3081263",
+        "Reference": "TBA",
+        "Description": "SBF100118Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9606579",
+        "Reference": "TBA",
+        "Description": "SBF100118Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7887049",
+        "Reference": "TBA",
+        "Description": "SBF100118Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8104004",
+        "Reference": "TBA",
+        "Description": "SBF100118Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8964358",
+        "Reference": "TBA",
+        "Description": "SBF100118Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9232958",
+        "Reference": "TBA",
+        "Description": "SBF100118Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6720228",
+        "Reference": "TBA",
+        "Description": "SBF10019S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7146792",
+        "Reference": "TBA",
+        "Description": "SBF10019S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9282662",
+        "Reference": "TBA",
+        "Description": "SBF10019S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3785803",
+        "Reference": "TBA",
+        "Description": "SBF10019S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3504681",
+        "Reference": "TBA",
+        "Description": "SBF10019S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1938167",
+        "Reference": "TBA",
+        "Description": "SBF10019S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9640745",
+        "Reference": "TBA",
+        "Description": "SBF10019S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5027591",
+        "Reference": "TBA",
+        "Description": "SBF10019S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8486310",
+        "Reference": "TBA",
+        "Description": "SBF10019Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8494236",
+        "Reference": "TBA",
+        "Description": "SBF10019Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1213397",
+        "Reference": "TBA",
+        "Description": "SBF10019Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1401612",
+        "Reference": "TBA",
+        "Description": "SBF10019Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1450803",
+        "Reference": "TBA",
+        "Description": "SBF10019Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6476807",
+        "Reference": "TBA",
+        "Description": "SBF10019Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8286359",
+        "Reference": "TBA",
+        "Description": "SBF10019Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7055718",
+        "Reference": "TBA",
+        "Description": "SBF10019Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9740327",
+        "Reference": "TBA",
+        "Description": "SBF101014S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4029746",
+        "Reference": "TBA",
+        "Description": "SBF101014S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8418288",
+        "Reference": "TBA",
+        "Description": "SBF101014S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1717796",
+        "Reference": "TBA",
+        "Description": "SBF101014S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8397087",
+        "Reference": "TBA",
+        "Description": "SBF101014S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9963680",
+        "Reference": "TBA",
+        "Description": "SBF101014S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8718545",
+        "Reference": "TBA",
+        "Description": "SBF101014S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7636939",
+        "Reference": "TBA",
+        "Description": "SBF101014S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1386305",
+        "Reference": "TBA",
+        "Description": "SBF101014Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5191123",
+        "Reference": "TBA",
+        "Description": "SBF101014Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1473893",
+        "Reference": "TBA",
+        "Description": "SBF101014Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2939980",
+        "Reference": "TBA",
+        "Description": "SBF101014Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2252238",
+        "Reference": "TBA",
+        "Description": "SBF101014Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7557403",
+        "Reference": "TBA",
+        "Description": "SBF101014Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4799878",
+        "Reference": "TBA",
+        "Description": "SBF101014Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1137919",
+        "Reference": "TBA",
+        "Description": "SBF101014Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5275492",
+        "Reference": "TBA",
+        "Description": "SBF10107S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6800821",
+        "Reference": "TBA",
+        "Description": "SBF10107S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7975935",
+        "Reference": "TBA",
+        "Description": "SBF10107S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9092649",
+        "Reference": "TBA",
+        "Description": "SBF10107S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7626724",
+        "Reference": "TBA",
+        "Description": "SBF10107S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6909081",
+        "Reference": "TBA",
+        "Description": "SBF10107S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6750870",
+        "Reference": "TBA",
+        "Description": "SBF10107S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5854422",
+        "Reference": "TBA",
+        "Description": "SBF10107S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2190921",
+        "Reference": "TBA",
+        "Description": "SBF10107Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7203801",
+        "Reference": "TBA",
+        "Description": "SBF10107Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9247783",
+        "Reference": "TBA",
+        "Description": "SBF10107Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1530670",
+        "Reference": "TBA",
+        "Description": "SBF10107Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7513486",
+        "Reference": "TBA",
+        "Description": "SBF10107Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1265045",
+        "Reference": "TBA",
+        "Description": "SBF10107Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2020037",
+        "Reference": "TBA",
+        "Description": "SBF10107Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2387959",
+        "Reference": "TBA",
+        "Description": "SBF10107Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2441460",
+        "Reference": "TBA",
+        "Description": "SBF600018S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3765435",
+        "Reference": "TBA",
+        "Description": "SBF600018S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8879813",
+        "Reference": "TBA",
+        "Description": "SBF600018S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6599031",
+        "Reference": "TBA",
+        "Description": "SBF600018S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2659005",
+        "Reference": "TBA",
+        "Description": "SBF600018Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6330961",
+        "Reference": "TBA",
+        "Description": "SBF600018Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9349067",
+        "Reference": "TBA",
+        "Description": "SBF600018Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1170568",
+        "Reference": "TBA",
+        "Description": "SBF600018Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4465004",
+        "Reference": "TBA",
+        "Description": "SBF600036S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6212682",
+        "Reference": "TBA",
+        "Description": "SBF600036S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7679302",
+        "Reference": "TBA",
+        "Description": "SBF600036S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5542518",
+        "Reference": "TBA",
+        "Description": "SBF600036S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1089558",
+        "Reference": "TBA",
+        "Description": "SBF600036Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7119722",
+        "Reference": "TBA",
+        "Description": "SBF600036Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9201537",
+        "Reference": "TBA",
+        "Description": "SBF600036Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5101272",
+        "Reference": "TBA",
+        "Description": "SBF600036Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6439362",
+        "Reference": "TBA",
+        "Description": "SBF640026S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4491283",
+        "Reference": "TBA",
+        "Description": "SBF640026S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1248521",
+        "Reference": "TBA",
+        "Description": "SBF640026S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7942266",
+        "Reference": "TBA",
+        "Description": "SBF640026S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6257626",
+        "Reference": "TBA",
+        "Description": "SBF640026S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7008400",
+        "Reference": "TBA",
+        "Description": "SBF640026S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1560187",
+        "Reference": "TBA",
+        "Description": "SBF640026S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9691172",
+        "Reference": "TBA",
+        "Description": "SBF640026S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3249093",
+        "Reference": "TBA",
+        "Description": "SBF640026Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5421963",
+        "Reference": "TBA",
+        "Description": "SBF640026Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9848688",
+        "Reference": "TBA",
+        "Description": "SBF640026Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6256138",
+        "Reference": "TBA",
+        "Description": "SBF640026Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4559404",
+        "Reference": "TBA",
+        "Description": "SBF640026Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9689347",
+        "Reference": "TBA",
+        "Description": "SBF640026Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4258675",
+        "Reference": "TBA",
+        "Description": "SBF640026Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6238112",
+        "Reference": "TBA",
+        "Description": "SBF640026Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7513241",
+        "Reference": "TBA",
+        "Description": "SBF820013S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8326243",
+        "Reference": "TBA",
+        "Description": "SBF820013S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6300868",
+        "Reference": "TBA",
+        "Description": "SBF820013S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8518614",
+        "Reference": "TBA",
+        "Description": "SBF820013S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1751387",
+        "Reference": "TBA",
+        "Description": "SBF820013S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4626682",
+        "Reference": "TBA",
+        "Description": "SBF820013S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3310581",
+        "Reference": "TBA",
+        "Description": "SBF820013S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6435142",
+        "Reference": "TBA",
+        "Description": "SBF820013S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1853028",
+        "Reference": "TBA",
+        "Description": "SBF820013Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5862859",
+        "Reference": "TBA",
+        "Description": "SBF820013Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1629007",
+        "Reference": "TBA",
+        "Description": "SBF820013Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4959252",
+        "Reference": "TBA",
+        "Description": "SBF820013Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9242833",
+        "Reference": "TBA",
+        "Description": "SBF820013Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1813464",
+        "Reference": "TBA",
+        "Description": "SBF820013Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4965318",
+        "Reference": "TBA",
+        "Description": "SBF820013Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2488620",
+        "Reference": "TBA",
+        "Description": "SBF820013Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3029978",
+        "Reference": "TBA",
+        "Description": "SBF82008S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1783211",
+        "Reference": "TBA",
+        "Description": "SBF82008S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6389265",
+        "Reference": "TBA",
+        "Description": "SBF82008S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4876778",
+        "Reference": "TBA",
+        "Description": "SBF82008S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6590028",
+        "Reference": "TBA",
+        "Description": "SBF82008S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7026290",
+        "Reference": "TBA",
+        "Description": "SBF82008S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2960230",
+        "Reference": "TBA",
+        "Description": "SBF82008S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6119548",
+        "Reference": "TBA",
+        "Description": "SBF82008S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1993109",
+        "Reference": "TBA",
+        "Description": "SBF82008Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1535342",
+        "Reference": "TBA",
+        "Description": "SBF82008Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8753565",
+        "Reference": "TBA",
+        "Description": "SBF82008Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6648462",
+        "Reference": "TBA",
+        "Description": "SBF82008Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5230817",
+        "Reference": "TBA",
+        "Description": "SBF82008Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2084746",
+        "Reference": "TBA",
+        "Description": "SBF82008Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9168303",
+        "Reference": "TBA",
+        "Description": "SBF82008Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4049097",
+        "Reference": "TBA",
+        "Description": "SBF82008Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5213474",
+        "Reference": "TBA",
+        "Description": "SBF830016S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9094573",
+        "Reference": "TBA",
+        "Description": "SBF830016S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5239870",
+        "Reference": "TBA",
+        "Description": "SBF830016S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1983488",
+        "Reference": "TBA",
+        "Description": "SBF830016S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3595544",
+        "Reference": "TBA",
+        "Description": "SBF830016S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8645347",
+        "Reference": "TBA",
+        "Description": "SBF830016S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9356692",
+        "Reference": "TBA",
+        "Description": "SBF830016S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6821857",
+        "Reference": "TBA",
+        "Description": "SBF830016S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6560697",
+        "Reference": "TBA",
+        "Description": "SBF830016Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1599351",
+        "Reference": "TBA",
+        "Description": "SBF830016Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6287179",
+        "Reference": "TBA",
+        "Description": "SBF830016Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6865118",
+        "Reference": "TBA",
+        "Description": "SBF830016Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5628852",
+        "Reference": "TBA",
+        "Description": "SBF830016Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8572919",
+        "Reference": "TBA",
+        "Description": "SBF830016Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8760055",
+        "Reference": "TBA",
+        "Description": "SBF830016Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5715528",
+        "Reference": "TBA",
+        "Description": "SBF830016Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8798217",
+        "Reference": "TBA",
+        "Description": "SBF830039S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8019491",
+        "Reference": "TBA",
+        "Description": "SBF830039S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9427098",
+        "Reference": "TBA",
+        "Description": "SBF830039S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1345148",
+        "Reference": "TBA",
+        "Description": "SBF830039S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3126984",
+        "Reference": "TBA",
+        "Description": "SBF830039S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9282673",
+        "Reference": "TBA",
+        "Description": "SBF830039S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7798887",
+        "Reference": "TBA",
+        "Description": "SBF830039S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9748514",
+        "Reference": "TBA",
+        "Description": "SBF830039S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8642426",
+        "Reference": "TBA",
+        "Description": "SBF830039Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5061244",
+        "Reference": "TBA",
+        "Description": "SBF830039Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8351380",
+        "Reference": "TBA",
+        "Description": "SBF830039Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9491509",
+        "Reference": "TBA",
+        "Description": "SBF830039Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9109232",
+        "Reference": "TBA",
+        "Description": "SBF830039Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6762694",
+        "Reference": "TBA",
+        "Description": "SBF830039Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2892291",
+        "Reference": "TBA",
+        "Description": "SBF830039Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1730231",
+        "Reference": "TBA",
+        "Description": "SBF830039Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7415120",
+        "Reference": "TBA",
+        "Description": "SBF83008S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4456567",
+        "Reference": "TBA",
+        "Description": "SBF83008S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4270277",
+        "Reference": "TBA",
+        "Description": "SBF83008S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8324529",
+        "Reference": "TBA",
+        "Description": "SBF83008S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7375905",
+        "Reference": "TBA",
+        "Description": "SBF83008S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3283748",
+        "Reference": "TBA",
+        "Description": "SBF83008S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8970832",
+        "Reference": "TBA",
+        "Description": "SBF83008S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3809338",
+        "Reference": "TBA",
+        "Description": "SBF83008S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6807678",
+        "Reference": "TBA",
+        "Description": "SBF83008Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7441927",
+        "Reference": "TBA",
+        "Description": "SBF83008Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5252737",
+        "Reference": "TBA",
+        "Description": "SBF83008Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4435061",
+        "Reference": "TBA",
+        "Description": "SBF83008Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3788056",
+        "Reference": "TBA",
+        "Description": "SBF83008Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1206827",
+        "Reference": "TBA",
+        "Description": "SBF83008Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9648289",
+        "Reference": "TBA",
+        "Description": "SBF83008Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1675536",
+        "Reference": "TBA",
+        "Description": "SBF83008Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8945799",
+        "Reference": "TBA",
+        "Description": "SBF850013S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7363756",
+        "Reference": "TBA",
+        "Description": "SBF850013S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3728140",
+        "Reference": "TBA",
+        "Description": "SBF850013S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9206385",
+        "Reference": "TBA",
+        "Description": "SBF850013S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7313064",
+        "Reference": "TBA",
+        "Description": "SBF850013S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1185591",
+        "Reference": "TBA",
+        "Description": "SBF850013S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1413418",
+        "Reference": "TBA",
+        "Description": "SBF850013S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8459274",
+        "Reference": "TBA",
+        "Description": "SBF850013S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4222584",
+        "Reference": "TBA",
+        "Description": "SBF850013Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6150554",
+        "Reference": "TBA",
+        "Description": "SBF850013Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1211236",
+        "Reference": "TBA",
+        "Description": "SBF850013Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9310576",
+        "Reference": "TBA",
+        "Description": "SBF850013Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2293171",
+        "Reference": "TBA",
+        "Description": "SBF850013Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9956013",
+        "Reference": "TBA",
+        "Description": "SBF850013Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7316693",
+        "Reference": "TBA",
+        "Description": "SBF850013Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2069790",
+        "Reference": "TBA",
+        "Description": "SBF850013Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2011877",
+        "Reference": "TBA",
+        "Description": "SBF850026S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2836340",
+        "Reference": "TBA",
+        "Description": "SBF850026S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7344114",
+        "Reference": "TBA",
+        "Description": "SBF850026S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7258740",
+        "Reference": "TBA",
+        "Description": "SBF850026S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1982793",
+        "Reference": "TBA",
+        "Description": "SBF850026S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5340197",
+        "Reference": "TBA",
+        "Description": "SBF850026S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8634685",
+        "Reference": "TBA",
+        "Description": "SBF850026S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7537705",
+        "Reference": "TBA",
+        "Description": "SBF850026S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4270573",
+        "Reference": "TBA",
+        "Description": "SBF850026Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7145102",
+        "Reference": "TBA",
+        "Description": "SBF850026Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5092137",
+        "Reference": "TBA",
+        "Description": "SBF850026Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6095899",
+        "Reference": "TBA",
+        "Description": "SBF850026Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1944543",
+        "Reference": "TBA",
+        "Description": "SBF850026Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8766825",
+        "Reference": "TBA",
+        "Description": "SBF850026Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8456177",
+        "Reference": "TBA",
+        "Description": "SBF850026Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1821194",
+        "Reference": "TBA",
+        "Description": "SBF850026Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1741335",
+        "Reference": "TBA",
+        "Description": "SBF85008S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9271325",
+        "Reference": "TBA",
+        "Description": "SBF85008S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9961492",
+        "Reference": "TBA",
+        "Description": "SBF85008S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2628663",
+        "Reference": "TBA",
+        "Description": "SBF85008S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5701455",
+        "Reference": "TBA",
+        "Description": "SBF85008S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1473788",
+        "Reference": "TBA",
+        "Description": "SBF85008S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9889725",
+        "Reference": "TBA",
+        "Description": "SBF85008S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4297886",
+        "Reference": "TBA",
+        "Description": "SBF85008S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4309486",
+        "Reference": "TBA",
+        "Description": "SBF85008Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9809320",
+        "Reference": "TBA",
+        "Description": "SBF85008Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6623331",
+        "Reference": "TBA",
+        "Description": "SBF85008Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2597899",
+        "Reference": "TBA",
+        "Description": "SBF85008Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5378593",
+        "Reference": "TBA",
+        "Description": "SBF85008Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3390647",
+        "Reference": "TBA",
+        "Description": "SBF85008Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3831584",
+        "Reference": "TBA",
+        "Description": "SBF85008Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1597374",
+        "Reference": "TBA",
+        "Description": "SBF85008Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8601175",
+        "Reference": "TBA",
+        "Description": "SBF890013S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5041911",
+        "Reference": "TBA",
+        "Description": "SBF890013S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6244681",
+        "Reference": "TBA",
+        "Description": "SBF890013S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8219169",
+        "Reference": "TBA",
+        "Description": "SBF890013S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4146987",
+        "Reference": "TBA",
+        "Description": "SBF890013S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4756112",
+        "Reference": "TBA",
+        "Description": "SBF890013S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6620943",
+        "Reference": "TBA",
+        "Description": "SBF890013S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1362373",
+        "Reference": "TBA",
+        "Description": "SBF890013S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8436049",
+        "Reference": "TBA",
+        "Description": "SBF890013Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9816163",
+        "Reference": "TBA",
+        "Description": "SBF890013Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3212388",
+        "Reference": "TBA",
+        "Description": "SBF890013Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9043848",
+        "Reference": "TBA",
+        "Description": "SBF890013Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3309160",
+        "Reference": "TBA",
+        "Description": "SBF890013Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3409913",
+        "Reference": "TBA",
+        "Description": "SBF890013Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6099470",
+        "Reference": "TBA",
+        "Description": "SBF890013Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8630251",
+        "Reference": "TBA",
+        "Description": "SBF890013Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9505785",
+        "Reference": "TBA",
+        "Description": "SBF890016S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6361567",
+        "Reference": "TBA",
+        "Description": "SBF890016S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2553730",
+        "Reference": "TBA",
+        "Description": "SBF890016S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7946859",
+        "Reference": "TBA",
+        "Description": "SBF890016S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7733962",
+        "Reference": "TBA",
+        "Description": "SBF890016S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6975017",
+        "Reference": "TBA",
+        "Description": "SBF890016S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8107869",
+        "Reference": "TBA",
+        "Description": "SBF890016S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8484933",
+        "Reference": "TBA",
+        "Description": "SBF890016S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9514185",
+        "Reference": "TBA",
+        "Description": "SBF890016Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6087280",
+        "Reference": "TBA",
+        "Description": "SBF890016Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7784937",
+        "Reference": "TBA",
+        "Description": "SBF890016Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1499567",
+        "Reference": "TBA",
+        "Description": "SBF890016Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2776599",
+        "Reference": "TBA",
+        "Description": "SBF890016Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3169006",
+        "Reference": "TBA",
+        "Description": "SBF890016Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7065110",
+        "Reference": "TBA",
+        "Description": "SBF890016Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3151950",
+        "Reference": "TBA",
+        "Description": "SBF890016Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5881547",
+        "Reference": "TBA",
+        "Description": "SBF890026S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4207127",
+        "Reference": "TBA",
+        "Description": "SBF890026S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6163042",
+        "Reference": "TBA",
+        "Description": "SBF890026S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1451240",
+        "Reference": "TBA",
+        "Description": "SBF890026S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5246825",
+        "Reference": "TBA",
+        "Description": "SBF890026S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1693906",
+        "Reference": "TBA",
+        "Description": "SBF890026S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6178593",
+        "Reference": "TBA",
+        "Description": "SBF890026S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4125246",
+        "Reference": "TBA",
+        "Description": "SBF890026S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1274597",
+        "Reference": "TBA",
+        "Description": "SBF890026Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7871839",
+        "Reference": "TBA",
+        "Description": "SBF890026Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5182667",
+        "Reference": "TBA",
+        "Description": "SBF890026Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9733220",
+        "Reference": "TBA",
+        "Description": "SBF890026Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4165003",
+        "Reference": "TBA",
+        "Description": "SBF890026Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2968263",
+        "Reference": "TBA",
+        "Description": "SBF890026Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3907514",
+        "Reference": "TBA",
+        "Description": "SBF890026Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6286147",
+        "Reference": "TBA",
+        "Description": "SBF890026Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6202497",
+        "Reference": "TBA",
+        "Description": "SBF890039S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3202658",
+        "Reference": "TBA",
+        "Description": "SBF890039S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4380730",
+        "Reference": "TBA",
+        "Description": "SBF890039S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8051025",
+        "Reference": "TBA",
+        "Description": "SBF890039S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2488937",
+        "Reference": "TBA",
+        "Description": "SBF890039S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6662040",
+        "Reference": "TBA",
+        "Description": "SBF890039S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3213527",
+        "Reference": "TBA",
+        "Description": "SBF890039S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1396490",
+        "Reference": "TBA",
+        "Description": "SBF890039S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9197993",
+        "Reference": "TBA",
+        "Description": "SBF890039Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7853574",
+        "Reference": "TBA",
+        "Description": "SBF890039Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1896378",
+        "Reference": "TBA",
+        "Description": "SBF890039Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1285807",
+        "Reference": "TBA",
+        "Description": "SBF890039Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6102536",
+        "Reference": "TBA",
+        "Description": "SBF890039Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5391959",
+        "Reference": "TBA",
+        "Description": "SBF890039Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1787354",
+        "Reference": "TBA",
+        "Description": "SBF890039Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4073319",
+        "Reference": "TBA",
+        "Description": "SBF890039Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1483438",
+        "Reference": "TBA",
+        "Description": "SBF89008S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9514899",
+        "Reference": "TBA",
+        "Description": "SBF89008S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6251378",
+        "Reference": "TBA",
+        "Description": "SBF89008S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3529432",
+        "Reference": "TBA",
+        "Description": "SBF89008S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5048523",
+        "Reference": "TBA",
+        "Description": "SBF89008S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5335427",
+        "Reference": "TBA",
+        "Description": "SBF89008S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5332032",
+        "Reference": "TBA",
+        "Description": "SBF89008S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5109115",
+        "Reference": "TBA",
+        "Description": "SBF89008S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1417385",
+        "Reference": "TBA",
+        "Description": "SBF89008Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2111887",
+        "Reference": "TBA",
+        "Description": "SBF89008Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6203640",
+        "Reference": "TBA",
+        "Description": "SBF89008Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7141795",
+        "Reference": "TBA",
+        "Description": "SBF89008Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6175910",
+        "Reference": "TBA",
+        "Description": "SBF89008Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3812878",
+        "Reference": "TBA",
+        "Description": "SBF89008Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5429590",
+        "Reference": "TBA",
+        "Description": "SBF89008Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3131987",
+        "Reference": "TBA",
+        "Description": "SBF89008Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1636448",
+        "Reference": "TBA",
+        "Description": "SBF90204S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7859061",
+        "Reference": "TBA",
+        "Description": "SBF90204S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2660451",
+        "Reference": "TBA",
+        "Description": "SBF90204S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7793173",
+        "Reference": "TBA",
+        "Description": "SBF90204S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2249348",
+        "Reference": "TBA",
+        "Description": "SBF90204S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9777148",
+        "Reference": "TBA",
+        "Description": "SBF90204S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4412264",
+        "Reference": "TBA",
+        "Description": "SBF90204S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6229704",
+        "Reference": "TBA",
+        "Description": "SBF90204S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2354687",
+        "Reference": "TBA",
+        "Description": "SBF90204Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5005544",
+        "Reference": "TBA",
+        "Description": "SBF90204Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3390019",
+        "Reference": "TBA",
+        "Description": "SBF90204Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9559703",
+        "Reference": "TBA",
+        "Description": "SBF90204Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3166347",
+        "Reference": "TBA",
+        "Description": "SBF90204Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1746068",
+        "Reference": "TBA",
+        "Description": "SBF90204Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3283370",
+        "Reference": "TBA",
+        "Description": "SBF90204Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1446673",
+        "Reference": "TBA",
+        "Description": "SBF90204Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5828321",
+        "Reference": "TBA",
+        "Description": "SBF90208S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9851398",
+        "Reference": "TBA",
+        "Description": "SBF90208S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7331972",
+        "Reference": "TBA",
+        "Description": "SBF90208S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6024492",
+        "Reference": "TBA",
+        "Description": "SBF90208S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3480917",
+        "Reference": "TBA",
+        "Description": "SBF90208S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9251181",
+        "Reference": "TBA",
+        "Description": "SBF90208S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4796283",
+        "Reference": "TBA",
+        "Description": "SBF90208S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4613480",
+        "Reference": "TBA",
+        "Description": "SBF90208S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6156552",
+        "Reference": "TBA",
+        "Description": "SBF90208Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3905760",
+        "Reference": "TBA",
+        "Description": "SBF90208Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7087181",
+        "Reference": "TBA",
+        "Description": "SBF90208Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9726136",
+        "Reference": "TBA",
+        "Description": "SBF90208Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1060139",
+        "Reference": "TBA",
+        "Description": "SBF90208Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3965726",
+        "Reference": "TBA",
+        "Description": "SBF90208Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1280762",
+        "Reference": "TBA",
+        "Description": "SBF90208Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1750822",
+        "Reference": "TBA",
+        "Description": "SBF90208Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6182272",
+        "Reference": "TBA",
+        "Description": "SBF90214S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9819692",
+        "Reference": "TBA",
+        "Description": "SBF90214S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8377600",
+        "Reference": "TBA",
+        "Description": "SBF90214S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2780439",
+        "Reference": "TBA",
+        "Description": "SBF90214S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8295153",
+        "Reference": "TBA",
+        "Description": "SBF90214S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4487259",
+        "Reference": "TBA",
+        "Description": "SBF90214S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6729529",
+        "Reference": "TBA",
+        "Description": "SBF90214S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9389288",
+        "Reference": "TBA",
+        "Description": "SBF90214S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8984566",
+        "Reference": "TBA",
+        "Description": "SBF90214Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6958177",
+        "Reference": "TBA",
+        "Description": "SBF90214Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9080898",
+        "Reference": "TBA",
+        "Description": "SBF90214Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9250244",
+        "Reference": "TBA",
+        "Description": "SBF90214Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6488108",
+        "Reference": "TBA",
+        "Description": "SBF90214Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2917798",
+        "Reference": "TBA",
+        "Description": "SBF90214Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3941798",
+        "Reference": "TBA",
+        "Description": "SBF90214Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9489472",
+        "Reference": "TBA",
+        "Description": "SBF90214Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9582430",
+        "Reference": "TBA",
+        "Description": "SBF90218S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4954965",
+        "Reference": "TBA",
+        "Description": "SBF90218S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6664517",
+        "Reference": "TBA",
+        "Description": "SBF90218S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4878667",
+        "Reference": "TBA",
+        "Description": "SBF90218S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3931083",
+        "Reference": "TBA",
+        "Description": "SBF90218S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4697694",
+        "Reference": "TBA",
+        "Description": "SBF90218S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8418128",
+        "Reference": "TBA",
+        "Description": "SBF90218S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7030135",
+        "Reference": "TBA",
+        "Description": "SBF90218S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7059590",
+        "Reference": "TBA",
+        "Description": "SBF90218Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8931939",
+        "Reference": "TBA",
+        "Description": "SBF90218Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9667085",
+        "Reference": "TBA",
+        "Description": "SBF90218Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1246449",
+        "Reference": "TBA",
+        "Description": "SBF90218Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2346857",
+        "Reference": "TBA",
+        "Description": "SBF90218Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2447975",
+        "Reference": "TBA",
+        "Description": "SBF90218Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2018086",
+        "Reference": "TBA",
+        "Description": "SBF90218Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9802934",
+        "Reference": "TBA",
+        "Description": "SBF90218Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3970126",
+        "Reference": "TBA",
+        "Description": "SBF940013S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7844524",
+        "Reference": "TBA",
+        "Description": "SBF940013S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8170214",
+        "Reference": "TBA",
+        "Description": "SBF940013S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9150754",
+        "Reference": "TBA",
+        "Description": "SBF940013S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3651937",
+        "Reference": "TBA",
+        "Description": "SBF940013S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4477011",
+        "Reference": "TBA",
+        "Description": "SBF940013S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1469003",
+        "Reference": "TBA",
+        "Description": "SBF940013S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1011522",
+        "Reference": "TBA",
+        "Description": "SBF940013S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3782033",
+        "Reference": "TBA",
+        "Description": "SBF940013Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7522356",
+        "Reference": "TBA",
+        "Description": "SBF940013Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3003173",
+        "Reference": "TBA",
+        "Description": "SBF940013Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9195174",
+        "Reference": "TBA",
+        "Description": "SBF940013Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1182863",
+        "Reference": "TBA",
+        "Description": "SBF940013Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2188536",
+        "Reference": "TBA",
+        "Description": "SBF940013Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3910388",
+        "Reference": "TBA",
+        "Description": "SBF940013Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9483872",
+        "Reference": "TBA",
+        "Description": "SBF940013Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4670664",
+        "Reference": "TBA",
+        "Description": "SBF940026S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1320726",
+        "Reference": "TBA",
+        "Description": "SBF940026S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4213962",
+        "Reference": "TBA",
+        "Description": "SBF940026S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3789961",
+        "Reference": "TBA",
+        "Description": "SBF940026S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8490779",
+        "Reference": "TBA",
+        "Description": "SBF940026S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4351385",
+        "Reference": "TBA",
+        "Description": "SBF940026S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4272264",
+        "Reference": "TBA",
+        "Description": "SBF940026S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1066203",
+        "Reference": "TBA",
+        "Description": "SBF940026S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3797194",
+        "Reference": "TBA",
+        "Description": "SBF940026Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3115524",
+        "Reference": "TBA",
+        "Description": "SBF940026Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8941837",
+        "Reference": "TBA",
+        "Description": "SBF940026Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7584908",
+        "Reference": "TBA",
+        "Description": "SBF940026Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2687224",
+        "Reference": "TBA",
+        "Description": "SBF940026Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2244863",
+        "Reference": "TBA",
+        "Description": "SBF940026Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1364854",
+        "Reference": "TBA",
+        "Description": "SBF940026Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2038975",
+        "Reference": "TBA",
+        "Description": "SBF940026Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1771889",
+        "Reference": "TBA",
+        "Description": "SBF940039S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6276441",
+        "Reference": "TBA",
+        "Description": "SBF940039S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1401253",
+        "Reference": "TBA",
+        "Description": "SBF940039S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8228946",
+        "Reference": "TBA",
+        "Description": "SBF940039S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6378064",
+        "Reference": "TBA",
+        "Description": "SBF940039S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7145728",
+        "Reference": "TBA",
+        "Description": "SBF940039S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9560593",
+        "Reference": "TBA",
+        "Description": "SBF940039S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5636332",
+        "Reference": "TBA",
+        "Description": "SBF940039S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2864526",
+        "Reference": "TBA",
+        "Description": "SBF940039Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7059970",
+        "Reference": "TBA",
+        "Description": "SBF940039Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6141818",
+        "Reference": "TBA",
+        "Description": "SBF940039Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6061209",
+        "Reference": "TBA",
+        "Description": "SBF940039Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7471430",
+        "Reference": "TBA",
+        "Description": "SBF940039Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3757874",
+        "Reference": "TBA",
+        "Description": "SBF940039Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1351259",
+        "Reference": "TBA",
+        "Description": "SBF940039Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4124993",
+        "Reference": "TBA",
+        "Description": "SBF940039Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1139021",
+        "Reference": "TBA",
+        "Description": "SBF960013S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3601729",
+        "Reference": "TBA",
+        "Description": "SBF960013S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4561267",
+        "Reference": "TBA",
+        "Description": "SBF960013S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5301268",
+        "Reference": "TBA",
+        "Description": "SBF960013S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9284652",
+        "Reference": "TBA",
+        "Description": "SBF960013S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9918590",
+        "Reference": "TBA",
+        "Description": "SBF960013S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1915749",
+        "Reference": "TBA",
+        "Description": "SBF960013S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5324151",
+        "Reference": "TBA",
+        "Description": "SBF960013S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5626915",
+        "Reference": "TBA",
+        "Description": "SBF960013Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1784083",
+        "Reference": "TBA",
+        "Description": "SBF960013Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5296559",
+        "Reference": "TBA",
+        "Description": "SBF960013Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4039490",
+        "Reference": "TBA",
+        "Description": "SBF960013Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5334791",
+        "Reference": "TBA",
+        "Description": "SBF960013Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3786644",
+        "Reference": "TBA",
+        "Description": "SBF960013Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1747691",
+        "Reference": "TBA",
+        "Description": "SBF960013Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2031313",
+        "Reference": "TBA",
+        "Description": "SBF960013Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9118922",
+        "Reference": "TBA",
+        "Description": "SBF960016S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6715546",
+        "Reference": "TBA",
+        "Description": "SBF960016S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1484841",
+        "Reference": "TBA",
+        "Description": "SBF960016S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1214701",
+        "Reference": "TBA",
+        "Description": "SBF960016S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7746345",
+        "Reference": "TBA",
+        "Description": "SBF960016S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5624011",
+        "Reference": "TBA",
+        "Description": "SBF960016S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6322579",
+        "Reference": "TBA",
+        "Description": "SBF960016S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1040782",
+        "Reference": "TBA",
+        "Description": "SBF960016S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6048257",
+        "Reference": "TBA",
+        "Description": "SBF960016Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8479825",
+        "Reference": "TBA",
+        "Description": "SBF960016Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5478188",
+        "Reference": "TBA",
+        "Description": "SBF960016Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1711580",
+        "Reference": "TBA",
+        "Description": "SBF960016Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1610223",
+        "Reference": "TBA",
+        "Description": "SBF960016Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2778636",
+        "Reference": "TBA",
+        "Description": "SBF960016Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7424265",
+        "Reference": "TBA",
+        "Description": "SBF960016Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8291855",
+        "Reference": "TBA",
+        "Description": "SBF960016Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2590017",
+        "Reference": "TBA",
+        "Description": "SBF96004S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7062725",
+        "Reference": "TBA",
+        "Description": "SBF96004S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9811091",
+        "Reference": "TBA",
+        "Description": "SBF96004S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3711829",
+        "Reference": "TBA",
+        "Description": "SBF96004S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2194714",
+        "Reference": "TBA",
+        "Description": "SBF96004S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6377671",
+        "Reference": "TBA",
+        "Description": "SBF96004S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3992677",
+        "Reference": "TBA",
+        "Description": "SBF96004S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7297520",
+        "Reference": "TBA",
+        "Description": "SBF96004S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4551939",
+        "Reference": "TBA",
+        "Description": "SBF96004Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1694486",
+        "Reference": "TBA",
+        "Description": "SBF96004Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6416994",
+        "Reference": "TBA",
+        "Description": "SBF96004Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8201240",
+        "Reference": "TBA",
+        "Description": "SBF96004Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3177189",
+        "Reference": "TBA",
+        "Description": "SBF96004Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2733694",
+        "Reference": "TBA",
+        "Description": "SBF96004Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8026015",
+        "Reference": "TBA",
+        "Description": "SBF96004Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3074893",
+        "Reference": "TBA",
+        "Description": "SBF96004Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1390234",
+        "Reference": "TBA",
+        "Description": "SBF96008S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1679423",
+        "Reference": "TBA",
+        "Description": "SBF96008S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1023327",
+        "Reference": "TBA",
+        "Description": "SBF96008S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8837281",
+        "Reference": "TBA",
+        "Description": "SBF96008S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3659983",
+        "Reference": "TBA",
+        "Description": "SBF96008S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9801075",
+        "Reference": "TBA",
+        "Description": "SBF96008S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4737510",
+        "Reference": "TBA",
+        "Description": "SBF96008S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9926024",
+        "Reference": "TBA",
+        "Description": "SBF96008S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4824007",
+        "Reference": "TBA",
+        "Description": "SBF96008Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5725002",
+        "Reference": "TBA",
+        "Description": "SBF96008Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6816303",
+        "Reference": "TBA",
+        "Description": "SBF96008Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9451411",
+        "Reference": "TBA",
+        "Description": "SBF96008Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2601815",
+        "Reference": "TBA",
+        "Description": "SBF96008Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9181116",
+        "Reference": "TBA",
+        "Description": "SBF96008Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6840561",
+        "Reference": "TBA",
+        "Description": "SBF96008Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9593134",
+        "Reference": "TBA",
+        "Description": "SBF96008Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2913860",
+        "Reference": "TBA",
+        "Description": "SBF960113S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8229755",
+        "Reference": "TBA",
+        "Description": "SBF960113S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4028824",
+        "Reference": "TBA",
+        "Description": "SBF960113S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4200285",
+        "Reference": "TBA",
+        "Description": "SBF960113S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4614523",
+        "Reference": "TBA",
+        "Description": "SBF960113S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6133560",
+        "Reference": "TBA",
+        "Description": "SBF960113S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8492189",
+        "Reference": "TBA",
+        "Description": "SBF960113S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4408258",
+        "Reference": "TBA",
+        "Description": "SBF960113S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5734938",
+        "Reference": "TBA",
+        "Description": "SBF960113Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4767370",
+        "Reference": "TBA",
+        "Description": "SBF960113Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4951111",
+        "Reference": "TBA",
+        "Description": "SBF960113Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5029760",
+        "Reference": "TBA",
+        "Description": "SBF960113Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8598208",
+        "Reference": "TBA",
+        "Description": "SBF960113Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3479265",
+        "Reference": "TBA",
+        "Description": "SBF960113Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9359102",
+        "Reference": "TBA",
+        "Description": "SBF960113Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3074598",
+        "Reference": "TBA",
+        "Description": "SBF960113Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2156566",
+        "Reference": "TBA",
+        "Description": "SBF960116S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7088897",
+        "Reference": "TBA",
+        "Description": "SBF960116S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1888978",
+        "Reference": "TBA",
+        "Description": "SBF960116S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2609712",
+        "Reference": "TBA",
+        "Description": "SBF960116S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5810561",
+        "Reference": "TBA",
+        "Description": "SBF960116S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8680675",
+        "Reference": "TBA",
+        "Description": "SBF960116S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5541352",
+        "Reference": "TBA",
+        "Description": "SBF960116S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3955245",
+        "Reference": "TBA",
+        "Description": "SBF960116S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2422127",
+        "Reference": "TBA",
+        "Description": "SBF960116Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2158662",
+        "Reference": "TBA",
+        "Description": "SBF960116Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1276700",
+        "Reference": "TBA",
+        "Description": "SBF960116Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5995167",
+        "Reference": "TBA",
+        "Description": "SBF960116Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8309758",
+        "Reference": "TBA",
+        "Description": "SBF960116Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3983336",
+        "Reference": "TBA",
+        "Description": "SBF960116Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2853495",
+        "Reference": "TBA",
+        "Description": "SBF960116Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8732168",
+        "Reference": "TBA",
+        "Description": "SBF960116Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6725310",
+        "Reference": "TBA",
+        "Description": "SBF96014S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5305123",
+        "Reference": "TBA",
+        "Description": "SBF96014S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7018545",
+        "Reference": "TBA",
+        "Description": "SBF96014S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7664508",
+        "Reference": "TBA",
+        "Description": "SBF96014S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2603773",
+        "Reference": "TBA",
+        "Description": "SBF96014S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9434114",
+        "Reference": "TBA",
+        "Description": "SBF96014S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3797055",
+        "Reference": "TBA",
+        "Description": "SBF96014S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5938052",
+        "Reference": "TBA",
+        "Description": "SBF96014S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7440705",
+        "Reference": "TBA",
+        "Description": "SBF96014Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8621254",
+        "Reference": "TBA",
+        "Description": "SBF96014Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3630259",
+        "Reference": "TBA",
+        "Description": "SBF96014Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5954793",
+        "Reference": "TBA",
+        "Description": "SBF96014Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2166744",
+        "Reference": "TBA",
+        "Description": "SBF96014Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3085950",
+        "Reference": "TBA",
+        "Description": "SBF96014Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8932737",
+        "Reference": "TBA",
+        "Description": "SBF96014Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8533080",
+        "Reference": "TBA",
+        "Description": "SBF96014Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7338814",
+        "Reference": "TBA",
+        "Description": "SBF96018S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6430237",
+        "Reference": "TBA",
+        "Description": "SBF96018S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9182377",
+        "Reference": "TBA",
+        "Description": "SBF96018S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2364984",
+        "Reference": "TBA",
+        "Description": "SBF96018S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9104770",
+        "Reference": "TBA",
+        "Description": "SBF96018S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9348113",
+        "Reference": "TBA",
+        "Description": "SBF96018S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2979350",
+        "Reference": "TBA",
+        "Description": "SBF96018S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4700173",
+        "Reference": "TBA",
+        "Description": "SBF96018S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7230630",
+        "Reference": "TBA",
+        "Description": "SBF96018Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6841145",
+        "Reference": "TBA",
+        "Description": "SBF96018Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6727104",
+        "Reference": "TBA",
+        "Description": "SBF96018Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6700652",
+        "Reference": "TBA",
+        "Description": "SBF96018Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2043554",
+        "Reference": "TBA",
+        "Description": "SBF96018Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5652110",
+        "Reference": "TBA",
+        "Description": "SBF96018Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2487035",
+        "Reference": "TBA",
+        "Description": "SBF96018Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4184077",
+        "Reference": "TBA",
+        "Description": "SBF96018Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9091475",
+        "Reference": "TBA",
+        "Description": "SBF965016S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2498774",
+        "Reference": "TBA",
+        "Description": "SBF965016S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9131131",
+        "Reference": "TBA",
+        "Description": "SBF965016S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1769407",
+        "Reference": "TBA",
+        "Description": "SBF965016S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1147306",
+        "Reference": "TBA",
+        "Description": "SBF965016S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4703584",
+        "Reference": "TBA",
+        "Description": "SBF965016S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5838244",
+        "Reference": "TBA",
+        "Description": "SBF965016S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2085234",
+        "Reference": "TBA",
+        "Description": "SBF965016S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1590197",
+        "Reference": "TBA",
+        "Description": "SBF965016Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6301917",
+        "Reference": "TBA",
+        "Description": "SBF965016Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5070282",
+        "Reference": "TBA",
+        "Description": "SBF965016Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2208553",
+        "Reference": "TBA",
+        "Description": "SBF965016Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3826568",
+        "Reference": "TBA",
+        "Description": "SBF965016Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5410792",
+        "Reference": "TBA",
+        "Description": "SBF965016Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9373014",
+        "Reference": "TBA",
+        "Description": "SBF965016Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3944067",
+        "Reference": "TBA",
+        "Description": "SBF965016Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4787398",
+        "Reference": "TBA",
+        "Description": "SBF96508S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4089232",
+        "Reference": "TBA",
+        "Description": "SBF96508S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7802359",
+        "Reference": "TBA",
+        "Description": "SBF96508S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2822758",
+        "Reference": "TBA",
+        "Description": "SBF96508S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2586891",
+        "Reference": "TBA",
+        "Description": "SBF96508S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4330608",
+        "Reference": "TBA",
+        "Description": "SBF96508S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5908035",
+        "Reference": "TBA",
+        "Description": "SBF96508S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5078322",
+        "Reference": "TBA",
+        "Description": "SBF96508S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4422734",
+        "Reference": "TBA",
+        "Description": "SBF96508Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3759327",
+        "Reference": "TBA",
+        "Description": "SBF96508Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8884875",
+        "Reference": "TBA",
+        "Description": "SBF96508Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6827057",
+        "Reference": "TBA",
+        "Description": "SBF96508Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8934287",
+        "Reference": "TBA",
+        "Description": "SBF96508Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2447709",
+        "Reference": "TBA",
+        "Description": "SBF96508Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3033221",
+        "Reference": "TBA",
+        "Description": "SBF96508Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7389631",
+        "Reference": "TBA",
+        "Description": "SBF96508Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3640114",
+        "Reference": "TBA",
+        "Description": "SBF965116S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1030421",
+        "Reference": "TBA",
+        "Description": "SBF965116S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6393681",
+        "Reference": "TBA",
+        "Description": "SBF965116S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5094642",
+        "Reference": "TBA",
+        "Description": "SBF965116S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4533058",
+        "Reference": "TBA",
+        "Description": "SBF965116S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5716316",
+        "Reference": "TBA",
+        "Description": "SBF965116S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9466857",
+        "Reference": "TBA",
+        "Description": "SBF965116S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4101936",
+        "Reference": "TBA",
+        "Description": "SBF965116S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3250824",
+        "Reference": "TBA",
+        "Description": "SBF965116Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1754290",
+        "Reference": "TBA",
+        "Description": "SBF965116Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5424310",
+        "Reference": "TBA",
+        "Description": "SBF965116Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3917353",
+        "Reference": "TBA",
+        "Description": "SBF965116Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6805453",
+        "Reference": "TBA",
+        "Description": "SBF965116Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8136615",
+        "Reference": "TBA",
+        "Description": "SBF965116Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8111937",
+        "Reference": "TBA",
+        "Description": "SBF965116Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2728260",
+        "Reference": "TBA",
+        "Description": "SBF965116Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9256980",
+        "Reference": "TBA",
+        "Description": "SBF96518S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9714482",
+        "Reference": "TBA",
+        "Description": "SBF96518S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6566543",
+        "Reference": "TBA",
+        "Description": "SBF96518S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1125411",
+        "Reference": "TBA",
+        "Description": "SBF96518S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7499076",
+        "Reference": "TBA",
+        "Description": "SBF96518S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9564391",
+        "Reference": "TBA",
+        "Description": "SBF96518S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2256137",
+        "Reference": "TBA",
+        "Description": "SBF96518S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5619461",
+        "Reference": "TBA",
+        "Description": "SBF96518S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9816849",
+        "Reference": "TBA",
+        "Description": "SBF96518Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3905454",
+        "Reference": "TBA",
+        "Description": "SBF96518Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3875194",
+        "Reference": "TBA",
+        "Description": "SBF96518Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8850839",
+        "Reference": "TBA",
+        "Description": "SBF96518Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8628295",
+        "Reference": "TBA",
+        "Description": "SBF96518Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4581551",
+        "Reference": "TBA",
+        "Description": "SBF96518Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3807575",
+        "Reference": "TBA",
+        "Description": "SBF96518Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1380331",
+        "Reference": "TBA",
+        "Description": "SBF96518Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8134878",
+        "Reference": "TBA",
+        "Description": "SBF980013S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5255929",
+        "Reference": "TBA",
+        "Description": "SBF980013S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5244353",
+        "Reference": "TBA",
+        "Description": "SBF980013S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8722066",
+        "Reference": "TBA",
+        "Description": "SBF980013S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4264867",
+        "Reference": "TBA",
+        "Description": "SBF980013S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4849968",
+        "Reference": "TBA",
+        "Description": "SBF980013S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6163959",
+        "Reference": "TBA",
+        "Description": "SBF980013S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9474824",
+        "Reference": "TBA",
+        "Description": "SBF980013S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4159728",
+        "Reference": "TBA",
+        "Description": "SBF980013Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2026183",
+        "Reference": "TBA",
+        "Description": "SBF980013Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7505834",
+        "Reference": "TBA",
+        "Description": "SBF980013Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3218416",
+        "Reference": "TBA",
+        "Description": "SBF980013Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7849044",
+        "Reference": "TBA",
+        "Description": "SBF980013Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7893640",
+        "Reference": "TBA",
+        "Description": "SBF980013Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9342061",
+        "Reference": "TBA",
+        "Description": "SBF980013Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8430256",
+        "Reference": "TBA",
+        "Description": "SBF980013Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6769654",
+        "Reference": "TBA",
+        "Description": "SBF98004S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4534892",
+        "Reference": "TBA",
+        "Description": "SBF98004S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7644174",
+        "Reference": "TBA",
+        "Description": "SBF98004S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7319518",
+        "Reference": "TBA",
+        "Description": "SBF98004S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1945648",
+        "Reference": "TBA",
+        "Description": "SBF98004S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4449189",
+        "Reference": "TBA",
+        "Description": "SBF98004S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3860311",
+        "Reference": "TBA",
+        "Description": "SBF98004S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6612688",
+        "Reference": "TBA",
+        "Description": "SBF98004S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2045081",
+        "Reference": "TBA",
+        "Description": "SBF98004Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2015840",
+        "Reference": "TBA",
+        "Description": "SBF98004Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5581361",
+        "Reference": "TBA",
+        "Description": "SBF98004Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2218820",
+        "Reference": "TBA",
+        "Description": "SBF98004Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7307061",
+        "Reference": "TBA",
+        "Description": "SBF98004Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2171016",
+        "Reference": "TBA",
+        "Description": "SBF98004Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7765573",
+        "Reference": "TBA",
+        "Description": "SBF98004Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1781254",
+        "Reference": "TBA",
+        "Description": "SBF98004Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4931301",
+        "Reference": "TBA",
+        "Description": "SBF98008S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5736005",
+        "Reference": "TBA",
+        "Description": "SBF98008S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9683408",
+        "Reference": "TBA",
+        "Description": "SBF98008S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7694240",
+        "Reference": "TBA",
+        "Description": "SBF98008S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8363001",
+        "Reference": "TBA",
+        "Description": "SBF98008S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5143402",
+        "Reference": "TBA",
+        "Description": "SBF98008S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3503054",
+        "Reference": "TBA",
+        "Description": "SBF98008S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1962634",
+        "Reference": "TBA",
+        "Description": "SBF98008S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5336997",
+        "Reference": "TBA",
+        "Description": "SBF98008Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6420736",
+        "Reference": "TBA",
+        "Description": "SBF98008Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1467105",
+        "Reference": "TBA",
+        "Description": "SBF98008Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3170746",
+        "Reference": "TBA",
+        "Description": "SBF98008Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1936656",
+        "Reference": "TBA",
+        "Description": "SBF98008Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2693937",
+        "Reference": "TBA",
+        "Description": "SBF98008Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8026437",
+        "Reference": "TBA",
+        "Description": "SBF98008Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7454849",
+        "Reference": "TBA",
+        "Description": "SBF98008Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4385577",
+        "Reference": "TBA",
+        "Description": "SBF980113S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2802369",
+        "Reference": "TBA",
+        "Description": "SBF980113S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5833241",
+        "Reference": "TBA",
+        "Description": "SBF980113S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2941450",
+        "Reference": "TBA",
+        "Description": "SBF980113S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8102161",
+        "Reference": "TBA",
+        "Description": "SBF980113S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9311054",
+        "Reference": "TBA",
+        "Description": "SBF980113S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6906061",
+        "Reference": "TBA",
+        "Description": "SBF980113S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8495075",
+        "Reference": "TBA",
+        "Description": "SBF980113S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3544230",
+        "Reference": "TBA",
+        "Description": "SBF980113Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9694542",
+        "Reference": "TBA",
+        "Description": "SBF980113Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7255638",
+        "Reference": "TBA",
+        "Description": "SBF980113Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8870910",
+        "Reference": "TBA",
+        "Description": "SBF980113Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7103898",
+        "Reference": "TBA",
+        "Description": "SBF980113Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2846748",
+        "Reference": "TBA",
+        "Description": "SBF980113Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6760248",
+        "Reference": "TBA",
+        "Description": "SBF980113Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9701028",
+        "Reference": "TBA",
+        "Description": "SBF980113Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "9302282",
+        "Reference": "TBA",
+        "Description": "SBF98014S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1402041",
+        "Reference": "TBA",
+        "Description": "SBF98014S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6056448",
+        "Reference": "TBA",
+        "Description": "SBF98014S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2386683",
+        "Reference": "TBA",
+        "Description": "SBF98014S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5582065",
+        "Reference": "TBA",
+        "Description": "SBF98014S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5492457",
+        "Reference": "TBA",
+        "Description": "SBF98014S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1902199",
+        "Reference": "TBA",
+        "Description": "SBF98014S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6060729",
+        "Reference": "TBA",
+        "Description": "SBF98014S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3371623",
+        "Reference": "TBA",
+        "Description": "SBF98014Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8280139",
+        "Reference": "TBA",
+        "Description": "SBF98014Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4759891",
+        "Reference": "TBA",
+        "Description": "SBF98014Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7831138",
+        "Reference": "TBA",
+        "Description": "SBF98014Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4117692",
+        "Reference": "TBA",
+        "Description": "SBF98014Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2825213",
+        "Reference": "TBA",
+        "Description": "SBF98014Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7398909",
+        "Reference": "TBA",
+        "Description": "SBF98014Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5891575",
+        "Reference": "TBA",
+        "Description": "SBF98014Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2584467",
+        "Reference": "TBA",
+        "Description": "SBF98018S15B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7835799",
+        "Reference": "TBA",
+        "Description": "SBF98018S15V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4898062",
+        "Reference": "TBA",
+        "Description": "SBF98018S1B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1330363",
+        "Reference": "TBA",
+        "Description": "SBF98018S1V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "2070119",
+        "Reference": "TBA",
+        "Description": "SBF98018S3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4887802",
+        "Reference": "TBA",
+        "Description": "SBF98018S3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5196151",
+        "Reference": "TBA",
+        "Description": "SBF98018S7B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8078528",
+        "Reference": "TBA",
+        "Description": "SBF98018S7V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4387106",
+        "Reference": "TBA",
+        "Description": "SBF98018Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3409971",
+        "Reference": "TBA",
+        "Description": "SBF98018Z10V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3611702",
+        "Reference": "TBA",
+        "Description": "SBF98018Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4655199",
+        "Reference": "TBA",
+        "Description": "SBF98018Z25V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "3702251",
+        "Reference": "TBA",
+        "Description": "SBF98018Z3B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "5621695",
+        "Reference": "TBA",
+        "Description": "SBF98018Z3V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "4620095",
+        "Reference": "TBA",
+        "Description": "SBF98018Z5B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "1213743",
+        "Reference": "TBA",
+        "Description": "SBF98018Z5V",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "6901155",
+        "Reference": "TBA",
+        "Description": "SBFDMD4Z10B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "8251071",
+        "Reference": "TBA",
+        "Description": "SBFDMD4Z25B",
+        "Replacements": "Schroeder "
+    },
+    {
+        "Id": "7687141",
+        "Reference": "TBA",
+        "Description": "SBFDMD6Z3B",
+        "Replacements": "Schroeder "
+    }
+]

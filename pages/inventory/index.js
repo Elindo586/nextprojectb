@@ -30,23 +30,27 @@ const Inventory2 = () => {
 
           <meta
             name="description"
-            content="Large inventory of hydraulic components to replace Vickers, Parker, Rexroth, and Char-lynn. Contact us with your requirements."
+            content=" Product categories for hydraulic, mechanical, electrical and more.."
           />
           <meta
             name="keywords"
-            content="tu, inventory, hydraulics, rexroth, parker, char-lynn"
+            content="tu, hydraulics, valves, motors, pumps"
           />
           <meta name="author" content="Edgar Lindo" />
 
           {/* OG tags */}
 
           <meta property="og:locale" content="en" />
-          <meta property="site_name" content="TU-Technical Union" />
+          <meta property="site_name" content="TU" />
 
-          <meta property="og:title" content=" Technical Union Inventory" />
+          <meta
+            property="og:title"
+            content="TU | Industrial exporters, hydraulics, pneumatics, electrical,
+            mechanical products"
+          />
           <meta
             property="og:description"
-            content="Large inventory to replace Vickers, Rexroth, Parker, and Char-lynn. Contact us with your requirements and we will find the items you need."
+            content=" Product categories for hydraulic, mechanical, electrical and more.."
           />
           <meta
             property="og:image"
@@ -59,11 +63,15 @@ const Inventory2 = () => {
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:creator" content="@MrEdgarLindo" />
 
-          <meta name="twitter:title" content=" TU | Industrial Inventory" />
+          <meta
+            name="twitter:title"
+            content=" TU | Industrial exporters, hydraulics, pneumatics, electrical,
+            mechanical products"
+          />
 
           <meta
             name="twitter:description"
-            content="Large inventory for hydraulic pumps, motors, valves, everything for quick delivery."
+            content=" Product categories for hydraulic, mechanical, electrical and more.."
           />
           <meta
             name="twitter:image"
@@ -75,8 +83,11 @@ const Inventory2 = () => {
         Here is a quick overview of regular components coming from our
         inventory. <br />
         If you have any requirements on these components you can always{" "}
-        <a href="https://www.tu.biz/contact-us"> contact us </a> for a quote
-        request.
+        <a href="https://www.tu.biz/contact-us" className="contact-us">
+          {" "}
+          contact us{" "}
+        </a>{" "}
+        for a quote request.
       </div>
       <div className="col-md-12">
         <span>

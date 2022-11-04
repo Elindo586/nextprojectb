@@ -1,0 +1,1238 @@
+﻿[
+    {
+        "Id": "8405566",
+        "Reference": "TBA",
+        "Description": "0030D003BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "4395357",
+        "Reference": "TBA",
+        "Description": "0030D003BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "7297380",
+        "Reference": "TBA",
+        "Description": "0030D003V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2803961",
+        "Reference": "TBA",
+        "Description": "0030D005BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2752782",
+        "Reference": "TBA",
+        "Description": "0030D005BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "1156759",
+        "Reference": "TBA",
+        "Description": "0030D005V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "1392576",
+        "Reference": "TBA",
+        "Description": "0030D010BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "5856224",
+        "Reference": "TBA",
+        "Description": "0030D020BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "1236016",
+        "Reference": "TBA",
+        "Description": "0030D010BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2591538",
+        "Reference": "TBA",
+        "Description": "0030D020BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "8744963",
+        "Reference": "TBA",
+        "Description": "0030D010V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "5234875",
+        "Reference": "TBA",
+        "Description": "0030D074WHC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "6995035",
+        "Reference": "TBA",
+        "Description": "0030D020V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "9493234",
+        "Reference": "TBA",
+        "Description": "0030D025WHC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "5227908",
+        "Reference": "TBA",
+        "Description": "0030R003BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "8845688",
+        "Reference": "TBA",
+        "Description": "0030R010BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "6079530",
+        "Reference": "TBA",
+        "Description": "0030R005BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "6116789",
+        "Reference": "TBA",
+        "Description": "0030D149WHC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "3766981",
+        "Reference": "TBA",
+        "Description": "0060D003BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "3864805",
+        "Reference": "TBA",
+        "Description": "0030R020BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "3228843",
+        "Reference": "TBA",
+        "Description": "0060D003BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "6312890",
+        "Reference": "TBA",
+        "Description": "0060D003V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2697670",
+        "Reference": "TBA",
+        "Description": "0060D005BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "3216895",
+        "Reference": "TBA",
+        "Description": "0060D005BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "3301298",
+        "Reference": "TBA",
+        "Description": "0060D005V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "4374290",
+        "Reference": "TBA",
+        "Description": "0060D010BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2331141",
+        "Reference": "TBA",
+        "Description": "0060D010BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "1533242",
+        "Reference": "TBA",
+        "Description": "0060D010BHHC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "6591551",
+        "Reference": "TBA",
+        "Description": "0060D010BN4HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "8440546",
+        "Reference": "TBA",
+        "Description": "0060D010V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "9787961",
+        "Reference": "TBA",
+        "Description": "0060D020BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2656503",
+        "Reference": "TBA",
+        "Description": "0060D020BHHC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "3443796",
+        "Reference": "TBA",
+        "Description": "0060D020V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "7996788",
+        "Reference": "TBA",
+        "Description": "0060D020BN4HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "4911296",
+        "Reference": "TBA",
+        "Description": "0060D020BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "9598417",
+        "Reference": "TBA",
+        "Description": "0060D149WHC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "8873205",
+        "Reference": "TBA",
+        "Description": "0060R003BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "8738228",
+        "Reference": "TBA",
+        "Description": "0060R005BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "9051000",
+        "Reference": "TBA",
+        "Description": "0060D074WHC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "1221712",
+        "Reference": "TBA",
+        "Description": "0060R010BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "9898570",
+        "Reference": "TBA",
+        "Description": "0060R020BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "1656005",
+        "Reference": "TBA",
+        "Description": "0060D025WHC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "5338808",
+        "Reference": "TBA",
+        "Description": "0075D010BN4HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "5859567",
+        "Reference": "TBA",
+        "Description": "0110D003BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "1497700",
+        "Reference": "TBA",
+        "Description": "0110D003BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "7295145",
+        "Reference": "TBA",
+        "Description": "0110D003V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "7344881",
+        "Reference": "TBA",
+        "Description": "0110D005BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "6379350",
+        "Reference": "TBA",
+        "Description": "0110D005BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2846905",
+        "Reference": "TBA",
+        "Description": "0110D005V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "7518880",
+        "Reference": "TBA",
+        "Description": "0110D010BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2896851",
+        "Reference": "TBA",
+        "Description": "0110D010BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "4594437",
+        "Reference": "TBA",
+        "Description": "0110D010BN4HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2102643",
+        "Reference": "TBA",
+        "Description": "0110D010BN4HCV",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "8476492",
+        "Reference": "TBA",
+        "Description": "0110D010V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2731905",
+        "Reference": "TBA",
+        "Description": "0110D020BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "4358835",
+        "Reference": "TBA",
+        "Description": "0110D020V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "7952351",
+        "Reference": "TBA",
+        "Description": "0110D025WHCV",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "9756633",
+        "Reference": "TBA",
+        "Description": "0110D074WHC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "4830142",
+        "Reference": "TBA",
+        "Description": "0110D020BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2213875",
+        "Reference": "TBA",
+        "Description": "0110D025WHC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "4882871",
+        "Reference": "TBA",
+        "Description": "0110D149WHC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "3566016",
+        "Reference": "TBA",
+        "Description": "0110R003BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "9538641",
+        "Reference": "TBA",
+        "Description": "0110R005BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "4460678",
+        "Reference": "TBA",
+        "Description": "01250488",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "6001899",
+        "Reference": "TBA",
+        "Description": "0110R020BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "8718507",
+        "Reference": "TBA",
+        "Description": "0140D003BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "1119403",
+        "Reference": "TBA",
+        "Description": "0140D003BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "6059888",
+        "Reference": "TBA",
+        "Description": "0110R010BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "4162551",
+        "Reference": "TBA",
+        "Description": "0140D005BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "8462440",
+        "Reference": "TBA",
+        "Description": "0140D005BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "6748386",
+        "Reference": "TBA",
+        "Description": "0140D010BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "8356609",
+        "Reference": "TBA",
+        "Description": "0140D010BH4HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "1514630",
+        "Reference": "TBA",
+        "Description": "0140D020BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2215956",
+        "Reference": "TBA",
+        "Description": "0140D010BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "8023090",
+        "Reference": "TBA",
+        "Description": "0160D003BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "1376526",
+        "Reference": "TBA",
+        "Description": "0160D003BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "8128175",
+        "Reference": "TBA",
+        "Description": "0160D003V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "8943360",
+        "Reference": "TBA",
+        "Description": "0140D020BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "6033766",
+        "Reference": "TBA",
+        "Description": "0140D025WHC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "9405051",
+        "Reference": "TBA",
+        "Description": "0160D005BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2085234",
+        "Reference": "TBA",
+        "Description": "0160D010BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "9583607",
+        "Reference": "TBA",
+        "Description": "0160D010BH4HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "7409632",
+        "Reference": "TBA",
+        "Description": "0160D010BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "5482628",
+        "Reference": "TBA",
+        "Description": "0160D010BN4HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2257933",
+        "Reference": "TBA",
+        "Description": "0160D010V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2430998",
+        "Reference": "TBA",
+        "Description": "0160D020BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "5388279",
+        "Reference": "TBA",
+        "Description": "0160D020BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "7888647",
+        "Reference": "TBA",
+        "Description": "0160D020V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "3214880",
+        "Reference": "TBA",
+        "Description": "0160D025WHC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "7700837",
+        "Reference": "TBA",
+        "Description": "0160D074WHC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2783072",
+        "Reference": "TBA",
+        "Description": "0160D149WHC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "9854659",
+        "Reference": "TBA",
+        "Description": "0160R003BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "8311209",
+        "Reference": "TBA",
+        "Description": "0160D005BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "1423855",
+        "Reference": "TBA",
+        "Description": "0160D005V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "8337733",
+        "Reference": "TBA",
+        "Description": "0160R005BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "3320356",
+        "Reference": "TBA",
+        "Description": "0160R010BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "6651378",
+        "Reference": "TBA",
+        "Description": "0160R020BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2512270",
+        "Reference": "TBA",
+        "Description": "020D074WHC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "5232240",
+        "Reference": "TBA",
+        "Description": "0165R010BN4HCB6",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "9785184",
+        "Reference": "TBA",
+        "Description": "0240D003BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "7378393",
+        "Reference": "TBA",
+        "Description": "0180MA025P",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "4554961",
+        "Reference": "TBA",
+        "Description": "0165R010BN4HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "4812694",
+        "Reference": "TBA",
+        "Description": "0240D003V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "9831884",
+        "Reference": "TBA",
+        "Description": "0240D003BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "3546383",
+        "Reference": "TBA",
+        "Description": "0240D005BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "9613904",
+        "Reference": "TBA",
+        "Description": "0240D005V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "8168533",
+        "Reference": "TBA",
+        "Description": "0240D010BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2933405",
+        "Reference": "TBA",
+        "Description": "02078756",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "1438644",
+        "Reference": "TBA",
+        "Description": "0240D005BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "9147622",
+        "Reference": "TBA",
+        "Description": "0240D010BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "7110693",
+        "Reference": "TBA",
+        "Description": "0240D020BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "5912996",
+        "Reference": "TBA",
+        "Description": "0240D020V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "7454274",
+        "Reference": "TBA",
+        "Description": "0240D149WHC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "7667727",
+        "Reference": "TBA",
+        "Description": "0240R003BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "7597416",
+        "Reference": "TBA",
+        "Description": "0240D010V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "7745390",
+        "Reference": "TBA",
+        "Description": "0240D020BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "6158738",
+        "Reference": "TBA",
+        "Description": "0240R020BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "8344674",
+        "Reference": "TBA",
+        "Description": "0240R005BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "5841387",
+        "Reference": "TBA",
+        "Description": "0240R010BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "1657286",
+        "Reference": "TBA",
+        "Description": "024D025WHC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "5237404",
+        "Reference": "TBA",
+        "Description": "0280D0038H3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "1843789",
+        "Reference": "TBA",
+        "Description": "0280D003BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "6482080",
+        "Reference": "TBA",
+        "Description": "0280D005BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "9761846",
+        "Reference": "TBA",
+        "Description": "0280D010BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2385793",
+        "Reference": "TBA",
+        "Description": "0280D010BN4HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "6099040",
+        "Reference": "TBA",
+        "Description": "0280D005BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "8661610",
+        "Reference": "TBA",
+        "Description": "0280D020BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "1997554",
+        "Reference": "TBA",
+        "Description": "0280R003BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "5132671",
+        "Reference": "TBA",
+        "Description": "0280D010BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "8130265",
+        "Reference": "TBA",
+        "Description": "0280R010BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "1754024",
+        "Reference": "TBA",
+        "Description": "0280R005BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "6342648",
+        "Reference": "TBA",
+        "Description": "0280R020BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2174084",
+        "Reference": "TBA",
+        "Description": "0330D003BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "6595953",
+        "Reference": "TBA",
+        "Description": "0330D003V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "1314892",
+        "Reference": "TBA",
+        "Description": "0330D005BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "5093110",
+        "Reference": "TBA",
+        "Description": "0280D020BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2640948",
+        "Reference": "TBA",
+        "Description": "0330D005V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "3063049",
+        "Reference": "TBA",
+        "Description": "0330D005BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "7902793",
+        "Reference": "TBA",
+        "Description": "0330D010BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "9739355",
+        "Reference": "TBA",
+        "Description": "0330D010V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "5542081",
+        "Reference": "TBA",
+        "Description": "0330D003BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "5570131",
+        "Reference": "TBA",
+        "Description": "0330D010BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "7532890",
+        "Reference": "TBA",
+        "Description": "0330D020BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "1351737",
+        "Reference": "TBA",
+        "Description": "0330D020BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "7175561",
+        "Reference": "TBA",
+        "Description": "0330D020V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "6681922",
+        "Reference": "TBA",
+        "Description": "0330D025WHC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2693700",
+        "Reference": "TBA",
+        "Description": "0330D074WHC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2218230",
+        "Reference": "TBA",
+        "Description": "0330D149WHC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "4983883",
+        "Reference": "TBA",
+        "Description": "0330R003BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "3882521",
+        "Reference": "TBA",
+        "Description": "0330R010BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "4868368",
+        "Reference": "TBA",
+        "Description": "0330R005BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "6891088",
+        "Reference": "TBA",
+        "Description": "0500D003BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "7897832",
+        "Reference": "TBA",
+        "Description": "0500D005BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "4975739",
+        "Reference": "TBA",
+        "Description": "0500D003BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "5689015",
+        "Reference": "TBA",
+        "Description": "0330R020BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "4079784",
+        "Reference": "TBA",
+        "Description": "0500D010BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "5312899",
+        "Reference": "TBA",
+        "Description": "0500D020BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "7228262",
+        "Reference": "TBA",
+        "Description": "0500D020BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "7444545",
+        "Reference": "TBA",
+        "Description": "0500R003BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "7270985",
+        "Reference": "TBA",
+        "Description": "0500R005BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "1205216",
+        "Reference": "TBA",
+        "Description": "0500R010BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "8644547",
+        "Reference": "TBA",
+        "Description": "0500R020BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "3010930",
+        "Reference": "TBA",
+        "Description": "0660D003BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "3676379",
+        "Reference": "TBA",
+        "Description": "0660D003BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "4617247",
+        "Reference": "TBA",
+        "Description": "0500D005BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "5963067",
+        "Reference": "TBA",
+        "Description": "0500D010BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "9829095",
+        "Reference": "TBA",
+        "Description": "0660D003V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "5867041",
+        "Reference": "TBA",
+        "Description": "0660D005BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2426694",
+        "Reference": "TBA",
+        "Description": "0660D005BH4HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "5804111",
+        "Reference": "TBA",
+        "Description": "0660D005BH4HCV",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "9800203",
+        "Reference": "TBA",
+        "Description": "0660D005V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "6653098",
+        "Reference": "TBA",
+        "Description": "0660D010BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "8854735",
+        "Reference": "TBA",
+        "Description": "0660D010BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "6301377",
+        "Reference": "TBA",
+        "Description": "0660D010V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "1068138",
+        "Reference": "TBA",
+        "Description": "0660D005BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2211692",
+        "Reference": "TBA",
+        "Description": "0660D020V",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "6083618",
+        "Reference": "TBA",
+        "Description": "0660D025WHC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "5275566",
+        "Reference": "TBA",
+        "Description": "0660D074WHC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "1432596",
+        "Reference": "TBA",
+        "Description": "0660D149WHC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "7439250",
+        "Reference": "TBA",
+        "Description": "0660R003BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "8510303",
+        "Reference": "TBA",
+        "Description": "0660R005BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2645332",
+        "Reference": "TBA",
+        "Description": "0660R010BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2596869",
+        "Reference": "TBA",
+        "Description": "0660R020BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "1044602",
+        "Reference": "TBA",
+        "Description": "0850R003BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "1800011",
+        "Reference": "TBA",
+        "Description": "0850R005BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "6109795",
+        "Reference": "TBA",
+        "Description": "0850R010BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "4689670",
+        "Reference": "TBA",
+        "Description": "0850R020BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "7725149",
+        "Reference": "TBA",
+        "Description": "0950R003BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "7249656",
+        "Reference": "TBA",
+        "Description": "0950R005BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "8243325",
+        "Reference": "TBA",
+        "Description": "0660D020BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "5078856",
+        "Reference": "TBA",
+        "Description": "0660D020BH3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "9518825",
+        "Reference": "TBA",
+        "Description": "0950R010BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "1811491",
+        "Reference": "TBA",
+        "Description": "0950R010BN4HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "8691958",
+        "Reference": "TBA",
+        "Description": "0950R020BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "9028865",
+        "Reference": "TBA",
+        "Description": "1268856",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "4998403",
+        "Reference": "TBA",
+        "Description": "1300R003BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "4979251",
+        "Reference": "TBA",
+        "Description": "1250491",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "9427215",
+        "Reference": "TBA",
+        "Description": "1300R005BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "8150050",
+        "Reference": "TBA",
+        "Description": "1300R020BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "3523098",
+        "Reference": "TBA",
+        "Description": "2600R003BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2316950",
+        "Reference": "TBA",
+        "Description": "2600R005BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "7880773",
+        "Reference": "TBA",
+        "Description": "2600R010BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "4037375",
+        "Reference": "TBA",
+        "Description": "2600R020BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "2975557",
+        "Reference": "TBA",
+        "Description": "1300R010BN3HC",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "9188375",
+        "Reference": "TBA",
+        "Description": "HC9020FKN4H",
+        "Replacements": "Hydac / Hycon"
+    },
+    {
+        "Id": "4238345",
+        "Reference": "TBA",
+        "Description": "50309D03BNV",
+        "Replacements": "Hydac / Hycon"
+    }
+]

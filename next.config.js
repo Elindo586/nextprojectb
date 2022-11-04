@@ -747,11 +747,11 @@ const nextConfig = {
         destination: "/inventory",
         permanent: true,
       },
-      {
-        source: "/Products",
-        destination: "/products/piston-pumps",
-        permanent: true,
-      },
+      // {
+      //   source: "/Products",
+      //   destination: "/products/piston-pumps",
+      //   permanent: true,
+      // },
       {
         source: "/Products/products.html",
         destination: "/products/piston-pumps",
