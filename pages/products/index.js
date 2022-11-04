@@ -287,9 +287,7 @@ toggle between hiding and showing the dropdown content */
               </button>
               <div id="myDropdown4" className="dropdown-content4">
                 <div>
-                  <a href="https://www.tu.biz/products/piston-pumps">
-                    Flowmeter
-                  </a>
+                  <a href="https://www.tu.biz/products/flowmeters">Flowmeter</a>
                 </div>
               </div>
             </div>
@@ -301,7 +299,7 @@ toggle between hiding and showing the dropdown content */
               </button>
               <div id="myDropdown5" className="dropdown-content5">
                 <div>
-                  <a href="https://www.tu.biz/products/piston-pumps">
+                  <a href="https://www.tu.biz/products/hydraulic-manifolds">
                     Manifolds
                   </a>
                 </div>
@@ -315,7 +313,7 @@ toggle between hiding and showing the dropdown content */
               </button>
               <div id="myDropdown6" className="dropdown-content6">
                 <div>
-                  <a href="https://www.tu.biz/products/piston-pumps">
+                  <a href="https://www.tu.biz/products/filter-elements">
                     Filter Elements
                   </a>
                 </div>
