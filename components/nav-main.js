@@ -25,7 +25,7 @@ function MainNav() {
       case "/":
         document.title = "TU | Home";
         break;
-      case "/products/piston-pumps":
+      case "/products":
         document.title = "TU | Products";
         break;
       case "/services/fluid-analysis":
@@ -84,7 +84,7 @@ function MainNav() {
 
           <li className="nav-item">
             {/* <a className="nav-link" href="/Products/products.html">| Products</a> */}
-            <Link href="/products/piston-pumps">
+            <Link href="/products">
               <a className="nav-link" onClick={title}>
                 Products
               </a>
