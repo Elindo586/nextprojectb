@@ -36,7 +36,7 @@ const Footer = () => {
                   </a>
                 </Col>
               </Row>
-              <Row>
+              {/* <Row>
                 <Col className="social-icon-col">
                   <a
                     className="footer-icon"
@@ -111,7 +111,7 @@ const Footer = () => {
                     />
                   </a>
                 </Col>
-              </Row>
+              </Row> */}
             </Col>
           </Row>
         </Container>
