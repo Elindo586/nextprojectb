@@ -109,11 +109,11 @@ const PallElements = ({ db }) => {
 
           <meta
             property="og:image"
-            content="https://www.tu.biz//oppictures/charlynn-replacement.png"
+            content="https://www.tu.biz//oppictures/elements-schroeder.png"
           />
           <meta
             property="og:url"
-            content="https://www.tu.biz/inventory/charlynn"
+            content="https://www.tu.biz/products/filter-elements/schroeder"
           />
 
           {/* Twitter card */}
@@ -132,7 +132,7 @@ const PallElements = ({ db }) => {
           />
           <meta
             name="twitter:image"
-            content="https://www.tu.biz/oppictures/charlynn-replacement.png"
+            content="https://www.tu.biz/oppictures/elements-schroeder.png"
           />
         </Head>
       </div>

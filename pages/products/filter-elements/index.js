@@ -48,7 +48,7 @@ const FilterElements = () => {
           />
           <meta
             property="og:url"
-            content="https://www.tu.biz"
+            content="https://www.tu.biz/products/filter-elements"
             id="meta-og-url"
           />
           <meta property="og:locale" content="en" />
@@ -56,7 +56,7 @@ const FilterElements = () => {
           <meta
             name="image"
             property="og:image"
-            content="https://www.tu.biz//blog-images-english/"
+            content="https://www.tu.biz//oppictures/filter-elements/"
             id="meta-og-image"
           />
 
@@ -73,7 +73,7 @@ const FilterElements = () => {
           />
           <meta
             name="twitter:image"
-            content="https://www.tu.biz/blog-images-english/"
+            content="https://www.tu.biz/oppictures/filter-elements/"
           />
         </Head>
       </div>

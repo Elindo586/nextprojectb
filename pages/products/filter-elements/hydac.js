@@ -112,11 +112,11 @@ const HydacElements = ({ db }) => {
 
           <meta
             property="og:image"
-            content="https://www.tu.biz//oppictures/charlynn-replacement.png"
+            content="https://www.tu.biz//oppictures/elements-hydac.png"
           />
           <meta
             property="og:url"
-            content="https://www.tu.biz/inventory/charlynn"
+            content="https://www.tu.biz/products/filter-elements/hydac"
           />
 
           {/* Twitter card */}
@@ -135,7 +135,7 @@ const HydacElements = ({ db }) => {
           />
           <meta
             name="twitter:image"
-            content="https://www.tu.biz/oppictures/charlynn-replacement.png"
+            content="https://www.tu.biz/oppictures/elements-hydac.png"
           />
         </Head>
       </div>
