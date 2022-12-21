@@ -24,6 +24,15 @@ const CarouselMain = () => {
             height={315}
           />
         </Carousel.Item>
+        <Carousel.Item className="carousel-item ">
+          <Image
+            className="d-block w-100"
+            src="/carousel-main/mobile-valves.png"
+            alt="mobile hydraulic valves"
+            width={1710}
+            height={315}
+          />
+        </Carousel.Item>
         <Carousel.Item className="carousel-item">
           <Image
             className="d-block w-100"
@@ -47,16 +56,6 @@ const CarouselMain = () => {
             className="d-block w-100"
             src="/carousel-main/carousel-everything.png"
             alt="everything industrial"
-            width={1710}
-            height={315}
-          />
-        </Carousel.Item>
-
-        <Carousel.Item className="carousel-item ">
-          <Image
-            className="d-block w-100"
-            src="/carousel-main/mobile-valves.png"
-            alt="mobile hydraulic valves"
             width={1710}
             height={315}
           />
