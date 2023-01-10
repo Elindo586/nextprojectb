@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import Head from "next/head";
 import Link from "next/link";
-import ProductNav from "../../components/nav-products";
+import ProductNav from "../../../components/nav-products";
 
 const FlowControlValves = () => {
   return (
@@ -21,7 +21,7 @@ const FlowControlValves = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title> TU | Flow Control Valves | Needle Valves </title>
+          <title> TU | Hydraulic Flow Control Valves | Needle Valves </title>
 
           <meta
             name="description"

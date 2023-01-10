@@ -9,6 +9,18 @@ import Col from "react-bootstrap/Col";
 import CarouselMain from "../../components/carousel-main";
 
 const Ind = () => {
+  //  This is another function to open and close the myDropdown1 div.
+  //  https://www.geeksforgeeks.org/how-to-toggle-an-element-class-in-javascript/
+
+  // function myFunction1() {
+  //     var dropdowns = document.getElementById("myDropdown1");
+  //     if (dropdowns.classList.contains("show1")) {
+  //       dropdowns.classList.remove("show1");
+  //     } else {
+  //       dropdowns.classList.add("show1");
+  //     }
+  //   }
+  // -------
   /* When the user clicks on the button,
 toggle between hiding and showing the dropdown content */
 
@@ -229,13 +241,13 @@ toggle between hiding and showing the dropdown content */
               </button>
               <div id="myDropdown1" className="dropdown-content1">
                 <div>
-                  <a href="https://www.tu.biz/products/piston-pumps">Piston</a>
+                  <Link href="/products/piston-pumps">Piston</Link>
                 </div>
                 <div>
-                  <a href="https://www.tu.biz/products/vane-pumps">Vane</a>
+                  <Link href="/products/vane-pumps">Vane</Link>
                 </div>
                 <div>
-                  <a href="https://www.tu.biz/products/gear-pumps">Gear</a>
+                  <Link href="/products/gear-pumps">Gear</Link>
                 </div>
               </div>
             </div>
@@ -247,14 +259,10 @@ toggle between hiding and showing the dropdown content */
               </button>
               <div id="myDropdown2" className="dropdown-content2">
                 <div>
-                  <a href="https://www.tu.biz/products/geroler-motors">
-                    Geroler Motors
-                  </a>
+                  <Link href="/products/geroler-motors">Geroler Motors</Link>
                 </div>
                 <div>
-                  <a href="https://www.tu.biz/products/vane-motors">
-                    Vane Motors
-                  </a>
+                  <Link href="/products/vane-motors">Vane Motors</Link>
                 </div>
               </div>
             </div>
@@ -265,15 +273,52 @@ toggle between hiding and showing the dropdown content */
                 Valves
               </button>
               <div id="myDropdown3" className="dropdown-content3">
+                <div className="dropdown-title"> Industrial Valves</div>
                 <div>
-                  <a href="https://www.tu.biz/products/directional-control-valves">
-                    Directional Control Valves
-                  </a>
+                  <Link href="/products/industrial-valves/directional-control-valves">
+                    Directional Control
+                  </Link>
                 </div>
                 <div>
-                  <a href="https://www.tu.biz/products/flow-control-valves">
-                    Flow Control Valves
-                  </a>
+                  <Link href="/products/industrial-valves/flow-control-valves">
+                    Flow Control
+                  </Link>
+                </div>
+                <div className="dropdown-title"> Mobile Valves</div>
+                <div>
+                  <Link href="/products/mobile-valves/hydraulic-counterbalance-valves">
+                    Counter Balance
+                  </Link>
+                </div>
+                <div>
+                  <Link href="/products/mobile-valves/hydraulic-sequence-valves">
+                    Sequence
+                  </Link>
+                </div>
+                <div>
+                  <Link href="/products/mobile-valves/hydraulic-relief-valves">
+                    Relief
+                  </Link>
+                </div>
+                <div>
+                  <Link href="/products/mobile-valves/hydraulic-check-valves">
+                    Check
+                  </Link>
+                </div>
+                <div>
+                  <Link href="/products/mobile-valves/hydraulic-shuttle-valves">
+                    Shuttle
+                  </Link>
+                </div>{" "}
+                <div>
+                  <Link href="/products/mobile-valves/hydraulic-hose-burst-valves">
+                    Hose Burts
+                  </Link>
+                </div>{" "}
+                <div>
+                  <Link href="/products/mobile-valves/hydraulic-flow-divider-valves">
+                    Flow Divider
+                  </Link>
                 </div>
               </div>
             </div>
@@ -287,7 +332,7 @@ toggle between hiding and showing the dropdown content */
               </button>
               <div id="myDropdown4" className="dropdown-content4">
                 <div>
-                  <a href="https://www.tu.biz/products/flowmeters">Flowmeter</a>
+                  <Link href="/products/flowmeters">Flowmeter</Link>
                 </div>
               </div>
             </div>
@@ -299,9 +344,7 @@ toggle between hiding and showing the dropdown content */
               </button>
               <div id="myDropdown5" className="dropdown-content5">
                 <div>
-                  <a href="https://www.tu.biz/products/hydraulic-manifolds">
-                    Manifolds
-                  </a>
+                  <Link href="/products/hydraulic-manifolds">Manifolds</Link>
                 </div>
               </div>
             </div>
@@ -313,13 +356,14 @@ toggle between hiding and showing the dropdown content */
               </button>
               <div id="myDropdown6" className="dropdown-content6">
                 <div>
-                  <a href="https://www.tu.biz/products/filter-elements">
-                    Filter Elements
-                  </a>
+                  <Link href="/products/filter-elements">Filter Elements</Link>
                 </div>
               </div>
             </div>
           </Col>
+        </Row>
+        <Row>
+          <div className="footer-spacer-products"></div>
         </Row>
       </Container>
     </div>

@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import Head from "next/head";
 import Link from "next/link";
-import ProductNav from "../../components/nav-products";
+import ProductNav from "../../../components/nav-products";
 
 const DirectionalControlValves = () => {
   return (
@@ -75,7 +75,20 @@ const DirectionalControlValves = () => {
       <div className="row" lang="en">
         <div className="col-md-9 table-responsive">
           <div className="col-md-12">
-            <h6 className="product-title-text"> Directional Control Valves</h6>{" "}
+            <h6 className="product-title-text"> Coming Soon</h6> <br /> <br />
+            <h6>
+              {" "}
+              Tell us about your requirements for flow dividing valves and we
+              will send information back to you.
+            </h6>{" "}
+            <br />
+            <div>
+              You can send your requirements through our{" "}
+              <a className="contact-us" href="https://www.tu.biz/contact-us">
+                contact page here.
+              </a>{" "}
+            </div>
+            {/* <h6 className="product-title-text"> Directional Control Valves</h6>{" "}
             <br />
             <span className="product-pic d-flex justify-content-center">
               <Image
@@ -138,7 +151,7 @@ const DirectionalControlValves = () => {
                   <td>32</td>
                 </tr>
               </tbody>
-            </table>
+            </table> */}
           </div>
         </div>
         <div className="col-md-3">

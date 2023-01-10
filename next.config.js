@@ -985,6 +985,16 @@ const nextConfig = {
         destination: "/products/vane-pumps",
         permanent: true,
       },
+      {
+        source: "/products/directional-control-valves",
+        destination: "products/industrial-valves/directional-control-valves",
+        permanent: true,
+      },
+      {
+        source: "/products/flow-control-valves",
+        destination: "/products/industrial-valves/flow-control-valves",
+        permanent: true,
+      },
     ];
   },
 };
