@@ -2,7 +2,7 @@ import React from "react";
 import { useState, useEffect } from "react";
 import Link from "next/link";
 
-function ProductNav() {
+function ProductNav2() {
   const [pathName, setPathName] = useState();
 
   useEffect(() => {
@@ -110,14 +110,10 @@ function ProductNav() {
           </p>
         </dt>
         <dd>
-          <Link
-            href="/products/industrial/valves/directional-control-valves"
-            passHref
-          >
+          <Link href="/products/directional-control-valves" passHref>
             <a
               className={
-                pathName ===
-                "/products/industrial-valves/directional-control-valves"
+                pathName === "/products/directional-control-valves"
                   ? "link2 active2"
                   : "link2"
               }
@@ -128,10 +124,10 @@ function ProductNav() {
         </dd>
 
         <dd>
-          <Link href="/products/industrial-valves/flow-control-valves" passHref>
+          <Link href="/products/flow-control-valves" passHref>
             <a
               className={
-                pathName === "/products/industrial/valves/flow-control-valves"
+                pathName === "/products/flow-control-valves"
                   ? "link2 active2"
                   : "link2"
               }
@@ -161,4 +157,4 @@ function ProductNav() {
     </div>
   );
 }
-export default ProductNav;
+export default ProductNav2;
