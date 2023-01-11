@@ -125,9 +125,19 @@
   display: block;
   background-color: #016698;
   color: white;
-  padding: 8px 20px;
+  padding: 10px 20px;
   text-decoration: none;
   border: 1px solid #555;
+  margin-bottom: 5px;
+}
+
+.link2Tittle {
+  display: block;
+  background-color: #169ee3;
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+  border: 0.5px solid #555;
 }
 
 .link2 {
@@ -162,9 +172,13 @@
   background-color: white;
 }
 .nav2title {
-  padding-left: 2em;
-  padding-right: 5em;
-  font-size: 1.5em;
+  display: block;
+  background-color: #169ee3;
+  color: black;
+  padding: 5px 55px;
+  text-decoration: none;
+  border: 1px solid #555;
+  margin-bottom: 5px;
 }
 .col-md-9 {
   padding-left: 3em;

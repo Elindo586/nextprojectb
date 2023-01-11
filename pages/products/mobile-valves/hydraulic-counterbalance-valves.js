@@ -93,13 +93,12 @@ const MobileCounterbalanceValves = () => {
               />
             </span>
             <br />
-            <Link href="/pdf/mobile-hydraulic-valves/counterbalance/tsay.pdf">
-              <a
-                className="btn btn-info d-flex justify-content-center"
-                target="blank"
-              >
-                Download PDF
-              </a>
+            <Link
+              className="btn btn-info d-flex justify-content-center"
+              target="blank"
+              href="/pdf/mobile-hydraulic-valves/counterbalance/tsay.pdf"
+            >
+              Download PDF
             </Link>
             <br />
             <table className="table table-hover table-striped table-bordered">

@@ -80,37 +80,33 @@ const HydraulicManifolds = () => {
             </span>
             <br />
             <div className="centering-btn">
-              <Link legacyBehavior href="/pdf/d03-manifold.pdf">
-                <a
-                  className="btn btn-info d-flex justify-content-center"
-                  target="blank"
-                >
-                  Download PDF
-                </a>
+              <Link
+                href="/pdf/d03-manifold.pdf"
+                className="btn btn-info d-flex justify-content-center"
+                target="blank"
+              >
+                Download PDF
               </Link>
-              <Link legacyBehavior href="/pdf/d05-manifold.pdf">
-                <a
-                  className="btn btn-info d-flex justify-content-center"
-                  target="blank"
-                >
-                  Download PDF
-                </a>
+              <Link
+                href="/pdf/d05-manifold.pdf"
+                className="btn btn-info d-flex justify-content-center"
+                target="blank"
+              >
+                Download PDF
               </Link>{" "}
-              <Link legacyBehavior href="/pdf/d07-manifold.pdf">
-                <a
-                  className="btn btn-info d-flex justify-content-center"
-                  target="blank"
-                >
-                  Download PDF
-                </a>
+              <Link
+                href="/pdf/d07-manifold.pdf"
+                className="btn btn-info d-flex justify-content-center"
+                target="blank"
+              >
+                Download PDF
               </Link>{" "}
-              <Link legacyBehavior href="/pdf/d08-manifold.pdf">
-                <a
-                  className="btn btn-info d-flex justify-content-center"
-                  target="blank"
-                >
-                  Download PDF
-                </a>
+              <Link
+                href="/pdf/d08-manifold.pdf"
+                className="btn btn-info d-flex justify-content-center"
+                target="blank"
+              >
+                Download PDF
               </Link>
             </div>
             <br />
