@@ -80,7 +80,7 @@ const HydraulicManifolds = () => {
             </span>
             <br />
             <div className="centering-btn">
-              <Link href="/pdf/d03-manifold.pdf">
+              <Link legacyBehavior href="/pdf/d03-manifold.pdf">
                 <a
                   className="btn btn-info d-flex justify-content-center"
                   target="blank"
@@ -88,7 +88,7 @@ const HydraulicManifolds = () => {
                   Download PDF
                 </a>
               </Link>
-              <Link href="/pdf/d05-manifold.pdf">
+              <Link legacyBehavior href="/pdf/d05-manifold.pdf">
                 <a
                   className="btn btn-info d-flex justify-content-center"
                   target="blank"
@@ -96,7 +96,7 @@ const HydraulicManifolds = () => {
                   Download PDF
                 </a>
               </Link>{" "}
-              <Link href="/pdf/d07-manifold.pdf">
+              <Link legacyBehavior href="/pdf/d07-manifold.pdf">
                 <a
                   className="btn btn-info d-flex justify-content-center"
                   target="blank"
@@ -104,7 +104,7 @@ const HydraulicManifolds = () => {
                   Download PDF
                 </a>
               </Link>{" "}
-              <Link href="/pdf/d08-manifold.pdf">
+              <Link legacyBehavior href="/pdf/d08-manifold.pdf">
                 <a
                   className="btn btn-info d-flex justify-content-center"
                   target="blank"

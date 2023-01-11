@@ -80,7 +80,7 @@ const VanePumps = () => {
               />
             </span>
             <br />
-            <Link href="/pdf/v10-v20-vane-pump-catalog.pdf">
+            <Link legacyBehavior href="/pdf/v10-v20-vane-pump-catalog.pdf">
               <a
                 className="btn btn-info d-flex justify-content-center"
                 target="blank"
@@ -159,7 +159,7 @@ const VanePumps = () => {
               />
             </span>
             <br />
-            <Link href="/pdf/vho-vq-hydraulic-pumps-catalog.pdf">
+            <Link legacyBehavior href="/pdf/vho-vq-hydraulic-pumps-catalog.pdf">
               <a
                 className="btn btn-info d-flex justify-content-center"
                 target="blank"
@@ -472,7 +472,7 @@ const VanePumps = () => {
               />
             </span>
             <br />
-            <Link href="/pdf/variable-vane-pump-catalog.pdf">
+            <Link legacyBehavior href="/pdf/variable-vane-pump-catalog.pdf">
               <a
                 className="btn btn-info d-flex justify-content-center"
                 target="blank"

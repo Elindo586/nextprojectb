@@ -80,13 +80,12 @@ const Flowmeters = () => {
               />
             </span>
             <br />
-            <Link href="/pdf/Simple-Flowmeter-Datasheet.pdf">
-              <a
-                className="btn btn-info d-flex justify-content-center"
-                target="blank"
-              >
-                Download PDF
-              </a>
+            <Link
+              href="/pdf/Simple-Flowmeter-Datasheet.pdf"
+              target="blank"
+              className="btn btn-info d-flex justify-content-center"
+            >
+              Download PDF
             </Link>
             <br />
             <table className="table table-hover table-striped table-bordered">

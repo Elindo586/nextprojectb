@@ -84,7 +84,7 @@ function Blogger1(props) {
           </div>
           <div className="col-md-12 centering-btn">
             {props.previous && (
-              <Link href={props.previous}>
+              <Link legacyBehavior href={props.previous}>
                 <a
                   className="btn btn-info d-flex justify-content-center"
                   target=""
@@ -95,7 +95,7 @@ function Blogger1(props) {
               </Link>
             )}
             {props.previous && (
-              <Link href={props.next}>
+              <Link legacyBehavior href={props.next}>
                 <a
                   className="btn btn-info d-flex justify-content-center"
                   target=""
@@ -114,7 +114,7 @@ function Blogger1(props) {
         </div>
         <div className="col-md-3">
           {" "}
-          <Link href="/blog/english">
+          <Link legacyBehavior href="/blog/english">
             <a
               className="btn btn-info d-flex justify-content-center"
               target="blank"

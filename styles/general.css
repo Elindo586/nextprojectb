@@ -115,6 +115,12 @@
   }
 }
 
+/* Product nav bar */
+
+.pumpHidden {
+  display: none;
+}
+
 .link1 {
   display: block;
   background-color: #016698;
@@ -843,7 +849,8 @@
 .show3,
 .show4,
 .show5,
-.show6 {
+.show6,
+.showPumps {
   display: block;
   color: black;
   padding: 10px 10px;

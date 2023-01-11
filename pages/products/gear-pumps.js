@@ -82,7 +82,7 @@ const GearPumps = () => {
               />
             </span>
             <br />
-            <Link href="/pdf/hydraulic-gear-pumps-catalog.pdf">
+            <Link legacyBehavior href="/pdf/hydraulic-gear-pumps-catalog.pdf">
               <a
                 className="btn btn-info d-flex justify-content-center"
                 target="blank"
@@ -162,7 +162,7 @@ const GearPumps = () => {
               />
             </span>
             <br />
-            <Link href="/pdf/dump-pumps.pdf">
+            <Link legacyBehavior href="/pdf/dump-pumps.pdf">
               <a
                 className="btn btn-info d-flex justify-content-center"
                 target="blank"

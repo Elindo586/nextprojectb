@@ -21,7 +21,7 @@ function ProductNav() {
         </dt>
         <dd>
           {/* Might need to useState on which link is active */}
-          <Link href="/products/piston-pumps" passHref>
+          <Link legacyBehavior href="/products/piston-pumps" passHref>
             <a
               className={
                 pathName === "/products/piston-pumps"
@@ -128,7 +128,11 @@ function ProductNav() {
         </dd>
 
         <dd>
-          <Link href="/products/industrial-valves/flow-control-valves" passHref>
+          <Link
+            legacyBehavior
+            href="/products/industrial-valves/flow-control-valves"
+            passHref
+          >
             <a
               className={
                 pathName === "/products/industrial/valves/flow-control-valves"
@@ -145,7 +149,7 @@ function ProductNav() {
           <p className="link1"> Manifolds</p>
         </dt>
         <dd>
-          <Link href="/products/hydraulic-manifolds" passHref>
+          <Link legacyBehavior href="/products/hydraulic-manifolds" passHref>
             <a
               className={
                 pathName === "/products/hydraulic-manifolds"

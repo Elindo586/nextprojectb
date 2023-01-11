@@ -241,13 +241,19 @@ toggle between hiding and showing the dropdown content */
               </button>
               <div id="myDropdown1" className="dropdown-content1">
                 <div>
-                  <Link href="/products/piston-pumps">Piston</Link>
+                  <Link legacyBehavior href="/products/piston-pumps">
+                    Piston
+                  </Link>
                 </div>
                 <div>
-                  <Link href="/products/vane-pumps">Vane</Link>
+                  <Link legacyBehavior href="/products/vane-pumps">
+                    Vane
+                  </Link>
                 </div>
                 <div>
-                  <Link href="/products/gear-pumps">Gear</Link>
+                  <Link legacyBehavior href="/products/gear-pumps">
+                    Gear
+                  </Link>
                 </div>
               </div>
             </div>

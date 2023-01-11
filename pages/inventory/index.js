@@ -103,34 +103,34 @@ const Inventory2 = () => {
       <div className="col-md-12 footer-margin">
         <ul>
           <li>
-            <Link href="/inventory/vickers">
+            <Link legacyBehavior href="/inventory/vickers">
               <a className="inventory-list">Eaton-Vickers</a>
             </Link>
           </li>
           <li>
-            <Link href="/inventory/charlynn">
+            <Link legacyBehavior href="/inventory/charlynn">
               <a className="inventory-list">Eaton-Charlynn</a>
             </Link>{" "}
           </li>
           <li>
             {" "}
-            <Link href="/inventory/rexroth">
+            <Link legacyBehavior href="/inventory/rexroth">
               <a className="inventory-list">Bosch-Rexroth</a>
             </Link>
           </li>
           <li>
             {" "}
-            <Link href="/inventory/racine">
+            <Link legacyBehavior href="/inventory/racine">
               <a className="inventory-list">Bosch-Racine</a>
             </Link>
           </li>
           <li>
-            <Link href="/inventory/parker">
+            <Link legacyBehavior href="/inventory/parker">
               <a className="inventory-list">Parker</a>
             </Link>{" "}
           </li>
           <li>
-            <Link href="/inventory/denison">
+            <Link legacyBehavior href="/inventory/denison">
               <a className="inventory-list">Parker Denison</a>
             </Link>{" "}
           </li>

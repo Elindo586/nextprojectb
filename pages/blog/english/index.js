@@ -160,7 +160,7 @@ const BloggerFrontEnglish = ({ db }) => {
                   ></Image>
                   <div>
                     {" "}
-                    <Link href={item.link}>
+                    <Link legacyBehavior href={item.link}>
                       <a className="btn btn-info d-flex justify-content-center">
                         {item.more}
                       </a>
@@ -182,7 +182,7 @@ const BloggerFrontEnglish = ({ db }) => {
           </div>
 
           {/* <div className="col-md-12 centering-btn">
-            <Link href="">
+            <Link legacyBehavior href="">
               <a
                 className="btn btn-info d-flex justify-content-center"
                 target=""
@@ -191,7 +191,7 @@ const BloggerFrontEnglish = ({ db }) => {
               </a>
             </Link>
 
-            <Link href="">
+            <Link legacyBehavior href="">
               <a
                 className="btn btn-info d-flex justify-content-center"
                 target=""
@@ -203,7 +203,7 @@ const BloggerFrontEnglish = ({ db }) => {
         </div>
         <div className="col-md-3">
           {" "}
-          <Link href="/blog/castellano">
+          <Link legacyBehavior href="/blog/castellano">
             <a
               className="btn btn-info d-flex justify-content-center"
               target="blank"

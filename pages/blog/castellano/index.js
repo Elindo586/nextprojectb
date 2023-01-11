@@ -163,7 +163,7 @@ const BloggerFrontSpanish = ({ db }) => {
                   ></Image>
                   <div lang="es">
                     {" "}
-                    <Link href={item.link}>
+                    <Link legacyBehavior href={item.link}>
                       <a
                         lang="es"
                         className="btn btn-info d-flex justify-content-center"
@@ -188,7 +188,7 @@ const BloggerFrontSpanish = ({ db }) => {
           </div>
 
           {/* <div className="col-md-12 centering-btn">
-            <Link href="">
+            <Link legacyBehavior href="">
               <a
                 className="btn btn-info d-flex justify-content-center"
                 target=""
@@ -197,7 +197,7 @@ const BloggerFrontSpanish = ({ db }) => {
               </a>
             </Link>
 
-            <Link href="">
+            <Link legacyBehavior href="">
               <a
                 className="btn btn-info d-flex justify-content-center"
                 target=""
@@ -209,7 +209,7 @@ const BloggerFrontSpanish = ({ db }) => {
         </div>
         <div className="col-md-3">
           {" "}
-          <Link href="/blog/english">
+          <Link legacyBehavior href="/blog/english">
             <a
               className="btn btn-info d-flex justify-content-center"
               target="blank"

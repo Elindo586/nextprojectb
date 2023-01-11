@@ -87,13 +87,12 @@ const DirectionalControlValves = () => {
               />
             </span>
             <br />
-            <Link href="/pdf/directional-control-valves.pdf">
-              <a
-                className="btn btn-info d-flex justify-content-center"
-                target="blank"
-              >
-                Download PDF
-              </a>
+            <Link
+              className="btn btn-info d-flex justify-content-center"
+              target="blank"
+              href="/pdf/directional-control-valves.pdf"
+            >
+              Download PDF
             </Link>
             <br />
             <table className="table table-hover table-striped table-bordered">

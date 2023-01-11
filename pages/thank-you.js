@@ -45,7 +45,7 @@ const Thanks = () => {
         <div className="col-md-12">
           <h6 className="thank-you-text-2">
             We will be in contact.
-            <Link href="/homea"> Go back to main page. </Link>
+            <Link href="/"> Go back to main page. </Link>
           </h6>
         </div>
       </div>

@@ -22,7 +22,7 @@ function ServicesNav() {
           </dt>
 
           <dd>
-            <Link href="/services/fluid-analysis" passHref>
+            <Link legacyBehavior href="/services/fluid-analysis" passHref>
               <a
                 className={
                   pathName === "/services/fluid-analysis"
@@ -41,7 +41,11 @@ function ServicesNav() {
             </p>
           </dt>
           <dd>
-            <Link href="/services/preventive-maintenance-programs" passHref>
+            <Link
+              legacyBehavior
+              href="/services/preventive-maintenance-programs"
+              passHref
+            >
               <a
                 className={
                   pathName === "/services/preventive-maintenance-programs"

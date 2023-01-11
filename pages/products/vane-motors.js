@@ -73,7 +73,7 @@ const VaneMotors = () => {
               />
             </span>
             <br />
-            <Link href="/pdf/hydraulic-vane-motor-catalog.pdf">
+            <Link legacyBehavior href="/pdf/hydraulic-vane-motor-catalog.pdf">
               <a
                 className="btn btn-info d-flex justify-content-center"
                 target="blank"

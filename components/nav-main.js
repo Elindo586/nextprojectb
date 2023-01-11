@@ -53,7 +53,7 @@ function MainNav() {
       className="navbar navbar-expand-lg bg-dark navbar-dark"
       onClick={title}
     >
-      <Link href="/">
+      <Link legacyBehavior href="/">
         <a onClick={title} className="navbar-brand">
           &nbsp; <strong>TU</strong>
         </a>
@@ -75,7 +75,7 @@ function MainNav() {
       <div className="navbar-collapse collapse" id="navbarTogglerDemo02">
         <ul className="navbar-nav">
           <li className="nav-item active">
-            <Link href="/">
+            <Link legacyBehavior href="/">
               <a className="nav-link" onClick={title}>
                 Home
               </a>
@@ -84,7 +84,7 @@ function MainNav() {
 
           <li className="nav-item">
             {/* <a className="nav-link" href="/Products/products.html">| Products</a> */}
-            <Link href="/products">
+            <Link legacyBehavior href="/products">
               <a className="nav-link" onClick={title}>
                 Products
               </a>
@@ -93,7 +93,7 @@ function MainNav() {
 
           <li className="nav-item">
             {/* <a className="nav-link" href="/Services/Services.html">| Services</a> */}
-            <Link href="/services/fluid-analysis">
+            <Link legacyBehavior href="/services/fluid-analysis">
               <a className="nav-link" onClick={title}>
                 Services
               </a>
@@ -101,14 +101,14 @@ function MainNav() {
           </li>
 
           <li className="nav-item">
-            <Link href="/inventory">
+            <Link legacyBehavior href="/inventory">
               <a className="nav-link">Inventory</a>
             </Link>
           </li>
 
           <li className="nav-item">
             {/* <a className="nav-link" href="formulas.html">| Formulas</a> */}
-            <Link href="/fluid-power-formulas">
+            <Link legacyBehavior href="/fluid-power-formulas">
               <a className="nav-link" onClick={title}>
                 Formulas
               </a>
@@ -117,14 +117,14 @@ function MainNav() {
 
           <li className="nav-item">
             {/* <a className="nav-link" href="Interactive.html">| Interactive</a> */}
-            <Link href="/interactive">
+            <Link legacyBehavior href="/interactive">
               <a className="nav-link" onClick={title}>
                 Interactive
               </a>
             </Link>
           </li>
           <li className="nav-item">
-            <Link href="/blog/english">
+            <Link legacyBehavior href="/blog/english">
               <a className="nav-link" onClick={title}>
                 Blogs
               </a>
@@ -133,7 +133,7 @@ function MainNav() {
 
           <li className="nav-item">
             {/* <a className="nav-link" href="contactus.html">| Contact Us</a> */}
-            <Link href="/contact-us">
+            <Link legacyBehavior href="/contact-us">
               <a className="nav-link" onClick={title}>
                 Contact Us
               </a>

@@ -79,7 +79,7 @@ const PistonPumps = () => {
               />
             </div>
             <br />
-            <Link href="/pdf/a10v-pump-catalog.pdf">
+            <Link legacyBehavior href="/pdf/a10v-pump-catalog.pdf">
               <a
                 className="btn btn-info d-flex justify-content-center"
                 target="blank"
@@ -163,7 +163,7 @@ const PistonPumps = () => {
               />
             </div>
             <br />
-            <Link href="/pdf/radial-piston-pumps.pdf">
+            <Link legacyBehavior href="/pdf/radial-piston-pumps.pdf">
               <a
                 className="btn btn-info d-flex justify-content-center"
                 target="blank"

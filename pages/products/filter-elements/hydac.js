@@ -146,10 +146,10 @@ const HydacElements = ({ db }) => {
             Hydac / Hycon filters. If you have any requirements on these
             components, or you are looking for a filter element that you do not
             find, you can always{" "}
-            <a href="https://www.tu.biz/contact-us" className="contact-us">
+            <Link href="/contact-us" className="contact-us">
               {" "}
               contact us{" "}
-            </a>{" "}
+            </Link>{" "}
             for a quote request. <br /> <br />
             &#42; All part numbers are for reference only. We are not associated
             with the original product&#39;s manufacturer.

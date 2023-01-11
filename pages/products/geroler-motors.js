@@ -80,7 +80,10 @@ const GerolerMotor = () => {
               />
             </span>
             <br />
-            <Link href="/pdf/hi-torque-low-speed-hydraulic-motors.pdf">
+            <Link
+              legacyBehavior
+              href="/pdf/hi-torque-low-speed-hydraulic-motors.pdf"
+            >
               <a
                 className="btn btn-info d-flex justify-content-center"
                 target="blank"
