@@ -1,6 +1,6 @@
 import React from "react";
 import Carousel from "react-bootstrap/Carousel";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import TuWorld from "../public/carousel-main/tu-world.png";
 import Everything from "../public/carousel-main/carousel-everything.png";
 import HydraulicMotors from "../public/carousel-main/carousel-hydraulic-motors.png";
@@ -14,7 +14,7 @@ const CarouselMain = () => {
       <Carousel>
         <Carousel.Item className="carousel-item active">
           <Image
-            className="d-block w-100"
+            className="c-image"
             src={TuWorld}
             alt="tu world"
             width={1710}
@@ -23,7 +23,7 @@ const CarouselMain = () => {
         </Carousel.Item>
         <Carousel.Item className="carousel-item">
           <Image
-            className="d-block w-100"
+            className="c-image"
             src={HydraulicPumps}
             alt="hydraulic pumps"
             width={1710}
@@ -32,7 +32,7 @@ const CarouselMain = () => {
         </Carousel.Item>
         <Carousel.Item className="carousel-item ">
           <Image
-            className="d-block w-100"
+            className="c-image"
             src={MobileValves}
             alt="mobile hydraulic valves"
             width={1710}
@@ -41,7 +41,7 @@ const CarouselMain = () => {
         </Carousel.Item>
         <Carousel.Item className="carousel-item">
           <Image
-            className="d-block w-100"
+            className="c-image"
             src={HydraulicMotors}
             alt="hydraulic motors"
             width={1710}
@@ -50,7 +50,7 @@ const CarouselMain = () => {
         </Carousel.Item>
         <Carousel.Item className="carousel-item">
           <Image
-            className="d-block w-100"
+            className="c-image"
             src={ValvesManifolds}
             alt="hydraulic manifolds"
             width={1710}
@@ -59,7 +59,7 @@ const CarouselMain = () => {
         </Carousel.Item>
         <Carousel.Item className="carousel-item ">
           <Image
-            className="d-block w-100"
+            className="c-image"
             src={Everything}
             alt="everything industrial"
             width={1710}

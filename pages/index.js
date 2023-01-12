@@ -73,7 +73,7 @@ const Home = () => {
         </Head>
       </div>
 
-      <div className="row tu-world">
+      <div className="row">
         <CarouselMain />
       </div>
       <div className="row">

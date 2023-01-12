@@ -909,3 +909,11 @@
   text-decoration: underline;
   text-decoration-color: blue;
 }
+
+/* Carousel */
+
+.c-image {
+  display: block;
+  width: auto;
+  height: auto;
+}
