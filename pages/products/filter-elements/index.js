@@ -38,7 +38,7 @@ const FilterElements = () => {
 
           <meta
             property="og:title"
-            content="TU | Filter Elements"
+            content="TU | Filter Element replacements"
             id="meta-og-title"
           />
           <meta
@@ -56,7 +56,7 @@ const FilterElements = () => {
           <meta
             name="image"
             property="og:image"
-            content="https://www.tu.biz//oppictures/filter-elements/"
+            content="https://www.tu.biz//oppictures/filter-elements.png/"
             id="meta-og-image"
           />
 
@@ -73,7 +73,7 @@ const FilterElements = () => {
           />
           <meta
             name="twitter:image"
-            content="https://www.tu.biz/oppictures/filter-elements/"
+            content="https://www.tu.biz/oppictures/filter-elements.png/"
           />
         </Head>
       </div>
