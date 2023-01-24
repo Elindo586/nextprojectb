@@ -76,14 +76,14 @@ const Preventive = () => {
       <div className="row">
         <div className="col-md-9">
           <div>
-            <span className="maintenance-2">
-              <Image
-                src="/images/maintenance-2.png"
-                alt=" Preventive Maintenance Programs"
-                width={700}
-                height={400}
-              />
-            </span>
+            <Image
+              className="maintenance-2"
+              src="/images/maintenance-2.png"
+              alt=" Preventive Maintenance Programs"
+              width={700}
+              height={400}
+            />
+
             <p className="preventive-maintenance-text">
               In order to obtain the most productivity out of your machinery, it
               is important to follow proper preventive maintenance practices to

@@ -1,6 +1,8 @@
 import React from "react";
 import { useState, useEffect } from "react";
 import Link from "next/link";
+import Row from "react-bootstrap/Row";
+import Col from "react-bootstrap/Col";
 
 function ServicesNav() {
   const [pathName, setPathName] = useState();
@@ -11,55 +13,57 @@ function ServicesNav() {
   }, []);
 
   return (
-    <>
-      <div className="col-md-3 ">
-        <h2 className="nav2title">SERVICES</h2>
-        <dl className="nav2">
-          <dt>
-            <p className="link1" href="">
-              Oil Analysis
-            </p>
-          </dt>
+    <div className="col-md-3 ">
+      <div className="nav2">
+        <Row>
+          <p className="nav2title">
+            <b>Services</b>
+          </p>
+        </Row>
+        <Row>
+          <Col className="link1" href="">
+            Oil Analysis
+          </Col>
+        </Row>
 
-          <dd>
-            <Link legacyBehavior href="/services/fluid-analysis" passHref>
-              <a
-                className={
-                  pathName === "/services/fluid-analysis"
-                    ? "link2 active2"
-                    : "link2"
-                }
-              >
-                Laboratory Testing
-              </a>
-            </Link>
-          </dd>
-
-          <dt>
-            <p className="link1" href="#">
-              Preventive Maintenance
-            </p>
-          </dt>
-          <dd>
-            <Link
-              legacyBehavior
-              href="/services/preventive-maintenance-programs"
-              passHref
+        <Row>
+          <Link legacyBehavior href="/services/fluid-analysis" passHref>
+            <a
+              className={
+                pathName === "/services/fluid-analysis"
+                  ? "link2 active2"
+                  : "link2"
+              }
             >
-              <a
-                className={
-                  pathName === "/services/preventive-maintenance-programs"
-                    ? "link2 active2"
-                    : "link2"
-                }
-              >
-                Programs
-              </a>
-            </Link>
-          </dd>
-        </dl>
+              Laboratory Testing
+            </a>
+          </Link>
+        </Row>
+
+        <Row>
+          <Col className="link1" href="#">
+            Preventive Maintenance
+          </Col>
+        </Row>
+        <Row>
+          <Link
+            legacyBehavior
+            href="/services/preventive-maintenance-programs"
+            passHref
+          >
+            <a
+              className={
+                pathName === "/services/preventive-maintenance-programs"
+                  ? "link2 active2"
+                  : "link2"
+              }
+            >
+              Programs
+            </a>
+          </Link>
+        </Row>
       </div>
-    </>
+    </div>
   );
 }
 

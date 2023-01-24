@@ -175,7 +175,8 @@
   display: block;
   background-color: #169ee3;
   color: black;
-  padding: 5px 55px;
+  padding: 10px;
+  padding-left: 10px;
   text-decoration: none;
   border: 1px solid #555;
   margin-bottom: 5px;
@@ -245,7 +246,8 @@
 }
 
 .maintenance-2 {
-  width: 50%;
+  width: 65%;
+  height: auto;
   float: left;
   margin-right: 30px;
 }
@@ -256,14 +258,16 @@
 }
 
 .oil-analysis2 {
-  width: 50%;
   float: left;
-  margin-right: 30px;
+  height: auto;
+  width: 50%;
+  margin-right: 1em;
 }
 
 .oil-analysis-text {
-  padding-top: 2em;
+  padding-top: 0.5em;
   padding-left: 2em;
+  padding-right: 1em;
 }
 .piston-pump,
 .fixed-piston-pump,
