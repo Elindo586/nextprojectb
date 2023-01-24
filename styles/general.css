@@ -246,15 +246,17 @@
 }
 
 .maintenance-2 {
-  width: 65%;
+  width: 55%;
   height: auto;
   float: left;
   margin-right: 30px;
+  margin-bottom: 15px;
 }
 
 .preventive-maintenance-text {
   padding-top: 2em;
   padding-left: 2em;
+  padding-bottom: 10em;
 }
 
 .oil-analysis2 {
