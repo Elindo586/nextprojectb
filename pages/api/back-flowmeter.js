@@ -25,6 +25,16 @@ export default async function BackFlowmeter(req, res) {
     from: "info@tu.biz",
     to: "info@tu.biz",
     subject: "Flowmeter Form",
+    html: `<div>${req.body.company}</div>
+        <div> Name: ${req.body.firstName}</div>
+        <div> Last name: ${req.body.lastName}</div> 
+        <div> Email: ${req.body.email}</div>
+        <div> Notes: ${req.body.notes}</div>
+        <div> GPM: ${req.body.gpm}</div>
+        <div> Pressure: ${req.body.pressure}</div>
+        <div> Fluid: ${req.body.fluid}</div>
+        <div> Flow Direction: ${req.body.flowDirection}</div>
+        <div> Reading Direction: ${req.body.readingDirection}</div>`,
     text:
       req.body.company +
       " | Sent from: " +
@@ -37,17 +47,6 @@ export default async function BackFlowmeter(req, res) {
       req.body.fluid +
       req.body.flowDirection +
       req.body.readingDirection,
-
-    html: `<div>${req.body.company}</div>
-        <div> Name: ${req.body.firstName}</div>
-        <div> Last name: ${req.body.lastName}</div> 
-        <div> Email: ${req.body.email}</div>
-        <div> Notes: ${req.body.notes}</div>
-        <div> GPM: ${req.body.gpm}</div>
-        <div> Pressure: ${req.body.pressure}</div>
-        <div> Fluid: ${req.body.fluid}</div>
-        <div> Flow Direction: ${req.body.flowDirection}</div>
-        <div> Reading Direction: ${req.body.readingDirection}</div>`,
   };
 
   await new Promise((req, res) => {
