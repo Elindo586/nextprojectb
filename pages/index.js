@@ -115,7 +115,7 @@ const Home = () => {
           </div>
         </div>
         <div className="col-md-6" lang="en">
-          <div id="maintenance1">
+          <span>
             <Image
               src="/images/maintenance-1.png"
               id="maintenance1"
@@ -123,15 +123,16 @@ const Home = () => {
               width={700}
               height={400}
             />
-          </div>
-          <div id="oilanalysis2">
+          </span>
+          <span>
             <Image
               src="/images/oil-analysis2.png"
+              id="oilanalysis2"
               alt="oil analysis sample"
               width={700}
               height={400}
             />
-          </div>
+          </span>
         </div>
       </div>
     </div>
