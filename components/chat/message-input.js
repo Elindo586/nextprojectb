@@ -84,7 +84,7 @@ export default function MessageInput() {
 
     console.log(data);
 
-    const response = await fetch("/api/upsert", {
+    const response = await fetch("/api/openai", {
       method: "POST",
       headers: {
         Accept: "application/json, text/plain, */*",

@@ -28,7 +28,7 @@ const Data = async (req, res) => {
   console.log(message);
 
   vector = embeddingResult.data[0].embedding;
-  // console.log(vector);
+  console.log(vector);
 
   index = pinecone.index("test1");
 
@@ -38,7 +38,7 @@ const Data = async (req, res) => {
     includeMetadata: true,
     includeValues: false,
   });
-  // console.log(pineconeResult);
+  console.log(pineconeResult);
 
   const metadata = pineconeResult.matches.map(
     (element) => element.metadata.text
@@ -56,7 +56,7 @@ const Data = async (req, res) => {
     ],
     model: "gpt-3.5-turbo",
   });
-  // console.log(result.choices[0].message.content);
+  console.log(result.choices[0].message.content);
 
   return res.status(200).json({ output: result.choices[0].message.content });
 };
