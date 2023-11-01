@@ -11,6 +11,11 @@ let pineconeResult;
 const Data = async (req, res) => {
   const message = req.body.newText;
   const firstOne = req.body.firstMsg;
+  const chatHistory = req.body.chatToServer;
+
+  console.log(message);
+  console.log(chatHistory);
+
   if (firstOne) {
     pinecone = new Pinecone({
       apiKey: process.env.PINECONE_API_KEY,
@@ -25,10 +30,10 @@ const Data = async (req, res) => {
     input: message,
     model: "text-embedding-ada-002",
   });
-  console.log(message);
+  // console.log(message);
 
   vector = embeddingResult.data[0].embedding;
-  console.log(vector);
+  // console.log(vector);
 
   index = pinecone.index("test1");
 
@@ -38,7 +43,7 @@ const Data = async (req, res) => {
     includeMetadata: true,
     includeValues: false,
   });
-  console.log(pineconeResult);
+  // console.log(pineconeResult);
 
   const metadata = pineconeResult.matches.map(
     (element) => element.metadata.text
@@ -50,12 +55,16 @@ const Data = async (req, res) => {
 
   const result = await openai.chat.completions.create({
     messages: [
-      { role: "user", content: message },
+      ...chatHistory,
       { role: "system", content: instructions },
       { role: "assistant", content: metadataString },
+      { role: "user", content: message },
     ],
     model: "gpt-3.5-turbo",
+    max_tokens: 150,
+    temperature: 0.3,
   });
+
   console.log(result.choices[0].message.content);
 
   return res.status(200).json({ output: result.choices[0].message.content });

@@ -1,9 +1,8 @@
 import { React, useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
-import { setSelectedConversationId } from "./dashboard-slice";
-import { GrUser } from "react-icons/gr";
+
 import { FaRobot } from "react-icons/fa6";
-import Image from "next/image";
+
 import Message from "./message";
 
 import Container from "react-bootstrap/Container";

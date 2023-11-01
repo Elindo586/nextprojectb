@@ -14,6 +14,7 @@ import {
   addMessage,
   addBotMessage,
   setSelectedConversationId,
+  addChatHistory,
   setConversationHistory,
   setConversations,
   deleteConversations,
@@ -42,6 +43,11 @@ export default function MessageInput() {
   const selectedConversationId = useSelector(
     (state) => state.dashboard.selectedConversationId
   );
+  console.log(selectedConversationId);
+
+  const chatHistory = useSelector((state) => state.dashboard.chatHistory);
+
+  // console.log(chatHistory);
 
   useEffect(() => {
     if (ui) {
@@ -59,14 +65,13 @@ export default function MessageInput() {
       id: uuid(),
       animate: false,
     };
-    console.log(message);
+    // console.log(message);
     const newText = JSON.stringify(message.text);
     console.log(newText);
 
     const conversationId =
       selectedConversationId === null ? uuid() : selectedConversationId;
 
-    // append to local store
     dispatch(
       addMessage({
         conversationId,
@@ -75,11 +80,21 @@ export default function MessageInput() {
     );
     dispatch(setSelectedConversationId(conversationId));
 
-    // send to server
+    let chatToServer;
+
+    const history = chatHistory.find((c) => c.id === conversationId);
+    if (history) {
+      chatToServer = history.messages;
+    } else {
+      chatToServer = [{ role: "assistant", content: "hi" }];
+    }
+
+    // console.log(chatToServer);
 
     let data = {
       newText,
       firstMsg,
+      chatToServer,
     };
 
     console.log(data);
@@ -120,6 +135,12 @@ export default function MessageInput() {
         botMessage,
       })
     );
+
+    const userHistory = { role: "user", content: newText };
+    const botHistory = { role: "assistant", content: botText };
+
+    dispatch(addChatHistory({ userHistory, botHistory, conversationId }));
+
     dispatch(setSelectedConversationId(conversationId));
 
     setText("");
