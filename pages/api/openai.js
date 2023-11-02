@@ -49,7 +49,7 @@ const Data = async (req, res) => {
     (element) => element.metadata.text
   );
   const metadataString = JSON.stringify(metadata);
-  console.log(metadataString);
+  // console.log(metadataString);
 
   const instructions = `You are an assistant for a company that sells industrial products for manufacturing automation. Chit chat with a customer who is interested in buying a product, however, your primary purpose is to answer using supplied information relevant to user's questions about our business.`;
 
@@ -65,7 +65,7 @@ const Data = async (req, res) => {
     temperature: 0.3,
   });
 
-  console.log(result.choices[0].message.content);
+  // console.log(result.choices[0].message.content);
 
   return res.status(200).json({ output: result.choices[0].message.content });
 };

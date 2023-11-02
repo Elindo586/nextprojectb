@@ -2,9 +2,7 @@
 
 import React, { useState, useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
-import { store } from "./store";
-import Link from "next/link";
-import Image from "next/image";
+
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
@@ -43,14 +41,49 @@ export default function MessageInput() {
   const selectedConversationId = useSelector(
     (state) => state.dashboard.selectedConversationId
   );
-  console.log(selectedConversationId);
+  // console.log(selectedConversationId);
 
   const chatHistory = useSelector((state) => state.dashboard.chatHistory);
-
   // console.log(chatHistory);
+
+  const conversationId =
+    selectedConversationId === null ? uuid() : selectedConversationId;
+
+  let chatToServer;
+
+  const history = chatHistory.find((c) => c.id === conversationId);
+  if (history) {
+    chatToServer = history.messages;
+  } else {
+    chatToServer = [{ role: "assistant", content: "hi" }];
+  }
+
+  let chatToEmailServer = {
+    chatToServer,
+  };
+
+  console.log(typeof chatToServer);
+  console.log(chatToServer);
+
+  const emailChatHistory = async () => {
+    await fetch("/api/chat-email", {
+      method: "POST",
+      headers: {
+        Accept: "application/json, text/plain, */*",
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(chatToEmailServer),
+    }).then((res) => {
+      console.log("response received");
+      if (res.status === 200) {
+        console.log("response succeeded");
+      }
+    });
+  };
 
   useEffect(() => {
     if (ui) {
+      emailChatHistory();
       dispatch(deleteConversations());
       document.getElementById("chat-container-id").style.display = "none";
       document.getElementById("chat-button-id").style.display = "block";
@@ -69,8 +102,8 @@ export default function MessageInput() {
     const newText = JSON.stringify(message.text);
     console.log(newText);
 
-    const conversationId =
-      selectedConversationId === null ? uuid() : selectedConversationId;
+    // const conversationId =
+    //   selectedConversationId === null ? uuid() : selectedConversationId;
 
     dispatch(
       addMessage({
@@ -80,14 +113,12 @@ export default function MessageInput() {
     );
     dispatch(setSelectedConversationId(conversationId));
 
-    let chatToServer;
-
-    const history = chatHistory.find((c) => c.id === conversationId);
-    if (history) {
-      chatToServer = history.messages;
-    } else {
-      chatToServer = [{ role: "assistant", content: "hi" }];
-    }
+    // const history = chatHistory.find((c) => c.id === conversationId);
+    // if (history) {
+    //   chatToServer = history.messages;
+    // } else {
+    //   chatToServer = [{ role: "assistant", content: "hi" }];
+    // }
 
     // console.log(chatToServer);
 
@@ -97,7 +128,7 @@ export default function MessageInput() {
       chatToServer,
     };
 
-    console.log(data);
+    // console.log(data);
 
     const response = await fetch("/api/openai", {
       method: "POST",
@@ -115,7 +146,7 @@ export default function MessageInput() {
 
     try {
       searchRes = await response.json();
-      console.log(searchRes.output.choices);
+      // console.log(searchRes.output.choices);
     } catch (err) {
       console.log("Error parsing", err);
     }
