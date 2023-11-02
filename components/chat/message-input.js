@@ -62,8 +62,8 @@ export default function MessageInput() {
     chatToServer,
   };
 
-  console.log(typeof chatToServer);
-  console.log(chatToServer);
+  // console.log(typeof chatToServer);
+  // console.log(chatToServer);
 
   const emailChatHistory = async () => {
     await fetch("/api/chat-email", {
