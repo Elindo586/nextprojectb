@@ -22,6 +22,7 @@ export default function MessageInput() {
   const [text, setText] = useState("");
   const [ui, setUi] = useState(false);
   const [firstMsg, setFirstMsg] = useState(true);
+  const [tab, setTab] = useState(true);
 
   // get session history
 
@@ -49,13 +50,17 @@ export default function MessageInput() {
   const conversationId =
     selectedConversationId === null ? uuid() : selectedConversationId;
 
+  useEffect(() => {
+    localStorage.setItem("sessionId", conversationId);
+  }, []);
+
   let chatToServer;
 
   const history = chatHistory.find((c) => c.id === conversationId);
   if (history) {
     chatToServer = history.messages;
   } else {
-    chatToServer = [{ role: "assistant", content: "hi" }];
+    chatToServer = [];
   }
 
   let chatToEmailServer = {
@@ -183,12 +188,51 @@ export default function MessageInput() {
       proceedMessage();
     }
   };
+
   const handleKeyPressed = (event) => {
     if (event.key === "Enter" && text.length > 0) {
       // handleSubmit();
       proceedMessage();
     }
   };
+
+  // useEffect(() => {
+  //   if (tab) {
+  //     const sessionId = localStorage.getItem("sessionId");
+  //     const intervals = setInterval(() => {
+  //       if (sessionId === null) {
+  //         if (chatToServer.length > 0) {
+  //           emailChatHistory();
+  //           setTab(false);
+  //         }
+  //       }
+  //       if (tab === false) {
+  //         clearInterval(intervals);
+  //         setTab(true);
+  //       }
+  //     }, 1000);
+  //   }
+  // });
+
+  if (tab) {
+    if (typeof window !== "undefined") {
+      const sessionId = localStorage.getItem("sessionId");
+      const intervals = setInterval(() => {
+        if (sessionId === null) {
+          if (chatToServer.length > 0) {
+            window.onbeforeunload = function () {
+              emailChatHistory();
+              setTab(false);
+            };
+          }
+          if (tab === false) {
+            clearInterval(intervals);
+            setTab(true);
+          }
+        }
+      }, 1000);
+    }
+  }
 
   return (
     <Container>
