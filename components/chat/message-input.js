@@ -85,14 +85,19 @@ export default function MessageInput() {
       }
     });
   };
+  useEffect(() => {
+    if (ui && chatToEmailServer.length > 0) {
+      emailChatHistory();
+      dispatch(deleteConversations());
+
+      document.getElementById("chat-container-id").style.display = "none";
+      document.getElementById("chat-button-id").style.display = "block";
+      setUi(false);
+    }
+  }, [ui, dispatch]);
 
   useEffect(() => {
     if (ui) {
-      if (text.length > 0) {
-        emailChatHistory();
-        dispatch(deleteConversations());
-      }
-
       document.getElementById("chat-container-id").style.display = "none";
       document.getElementById("chat-button-id").style.display = "block";
       setUi(false);
