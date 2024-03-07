@@ -51,7 +51,7 @@ export default function MessageInput() {
     selectedConversationId === null ? uuid() : selectedConversationId;
 
   useEffect(() => {
-    localStorage.setItem("sessionId", conversationId);
+    sessionStorage.setItem("sessionId", conversationId);
   }, []);
 
   let chatToServer;
@@ -88,8 +88,11 @@ export default function MessageInput() {
 
   useEffect(() => {
     if (ui) {
-      emailChatHistory();
-      dispatch(deleteConversations());
+      if (text.length > 0) {
+        emailChatHistory();
+        dispatch(deleteConversations());
+      }
+
       document.getElementById("chat-container-id").style.display = "none";
       document.getElementById("chat-button-id").style.display = "block";
       setUi(false);
@@ -214,25 +217,35 @@ export default function MessageInput() {
   //   }
   // });
 
-  if (tab) {
-    if (typeof window !== "undefined") {
-      const sessionId = localStorage.getItem("sessionId");
-      const intervals = setInterval(() => {
-        if (sessionId === null) {
-          if (chatToServer.length > 0) {
-            window.onbeforeunload = function () {
-              emailChatHistory();
-              setTab(false);
-            };
-          }
-          if (tab === false) {
-            clearInterval(intervals);
-            setTab(true);
-          }
-        }
-      }, 1000);
-    }
-  }
+  // if (tab) {
+  //   if (typeof window !== "undefined") {
+  //     const sessionId = sessionStorage.getItem("sessionId");
+  //     const intervals = setInterval(() => {
+  //       if (sessionId === null) {
+  //         if (chatToServer.length > 0) {
+  //           window.onbeforeunload = function () {
+  //             emailChatHistory();
+  //             setTab(false);
+  //           };
+  //         }
+  //         if (tab === false) {
+  //           clearInterval(intervals);
+  //           setTab(true);
+  //         }
+  //       }
+  //     }, 1000);
+  //   }
+  // }
+
+  // useEffect(() => {
+  //   document.addEventListener("visibilitychange", () => {
+  //     if (document.visibilityState === "hidden") {
+  //       if (chatToServer.length > 0) {
+  //         emailChatHistory();
+  //       }
+  //     }
+  //   });
+  // });
 
   return (
     <Container>
