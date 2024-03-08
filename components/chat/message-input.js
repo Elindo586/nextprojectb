@@ -86,23 +86,19 @@ export default function MessageInput() {
     });
   };
   useEffect(() => {
-    if (ui && chatToEmailServer.length > 0) {
-      emailChatHistory();
-      dispatch(deleteConversations());
-
-      document.getElementById("chat-container-id").style.display = "none";
-      document.getElementById("chat-button-id").style.display = "block";
-      setUi(false);
-    }
-  }, [ui, dispatch]);
-
-  useEffect(() => {
     if (ui) {
+      if (chatToEmailServer.chatToServer.length > 0) {
+        emailChatHistory();
+        setFirstMsg(true);
+      }
+
+      dispatch(deleteConversations());
       document.getElementById("chat-container-id").style.display = "none";
       document.getElementById("chat-button-id").style.display = "block";
+
       setUi(false);
     }
-  }, [ui, dispatch]);
+  }, [ui, dispatch, chatToEmailServer.chatToServer, firstMsg]);
 
   const proceedMessage = async () => {
     const message = {
