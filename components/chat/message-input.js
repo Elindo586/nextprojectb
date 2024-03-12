@@ -78,6 +78,7 @@ export default function MessageInput() {
         "Content-Type": "application/json",
       },
       body: JSON.stringify(chatToEmailServer),
+      keepalive: true,
     }).then((res) => {
       console.log("response received");
       if (res.status === 200) {
@@ -99,6 +100,26 @@ export default function MessageInput() {
       setUi(false);
     }
   }, [ui, dispatch, chatToEmailServer.chatToServer, firstMsg]);
+
+  // useEffect(() => {
+  //   document.addEventListener("visibilitychange", () => {
+  //     if (document.visibilityState === "hidden") {
+  //       if (chatToEmailServer.chatToServer.length) {
+  //         emailChatHistory();
+  //         setFirstMsg(true);
+  //       }
+  //     }
+  //   });
+  // });
+
+  useEffect(() => {
+    window.addEventListener("beforeunload", () => {
+      if (chatToEmailServer.chatToServer.length > 0) {
+        emailChatHistory();
+        setFirstMsg(true);
+      }
+    });
+  }, [chatToEmailServer.chatToServer, firstMsg]);
 
   const proceedMessage = async () => {
     const message = {
