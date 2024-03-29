@@ -26,11 +26,12 @@ export default async function stuff(req, res) {
     .map(({ role, content }) => `role: ${role}${content}\n `)
     .join("\n");
 
-  console.log(typeof toString);
+  console.log(contents);
+
   const mailData = {
     from: "info@tu.biz",
     to: "info@tu.biz",
-    subject: "Chat History",
+    subject: "Chat History tb",
     text: contents,
     html: `<div><pre>${contents}</pre></div>`,
   };
