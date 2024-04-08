@@ -31,15 +31,18 @@ export default async function stuff(req, res) {
   const mailData = {
     from: "info@tu.biz",
     to: "info@tu.biz",
-    subject: "Chat History tb",
+    subject: "Chat History from EdgarLindo",
     text: contents,
     html: `<div><pre>${contents}</pre></div>`,
   };
 
   await new Promise((req, res) => {
     transporter.sendMail(mailData, function (err, info) {
-      // if (err) console.log(err);
-      // // else console.log(info);
+      if (err) console.log(err);
+      else {
+        console.log(info);
+      }
+      return res.status(200).json({ message: "Email sent!" });
     });
   });
 }
