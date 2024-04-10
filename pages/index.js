@@ -122,6 +122,7 @@ const Home = () => {
               alt="maintenance lubrication"
               width={700}
               height={400}
+              priority={true} // {false} | {true}
             />
           </span>
           <span>

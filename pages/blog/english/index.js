@@ -157,6 +157,7 @@ const BloggerFrontEnglish = ({ db }) => {
                     alt={item.alt}
                     width={600}
                     height={315}
+                    priority={true} // {false} | {true}
                   ></Image>
                   <div>
                     {" "}

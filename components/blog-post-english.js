@@ -122,7 +122,7 @@ function Blogger2(props) {
             </a>
           </Link>{" "}
           <br /> <br />
-          <AdBanner />
+          {/* <AdBanner /> */}
         </div>
       </div>
     </div>

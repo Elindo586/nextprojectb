@@ -81,6 +81,7 @@ const Laboratory = () => {
                 alt="oil-analysis"
                 width={700}
                 height={400}
+                priority={true} // {false} | {true}
               />
 
               <p className="oil-analysis-text">
