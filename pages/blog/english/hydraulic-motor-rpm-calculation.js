@@ -74,18 +74,18 @@ const PostEnglish49 = ({ db }) => {
                     </p>
 
                     <p>
-                      In this article, we'll dive into the world of hydraulic
-                      motor RPM calculation, exploring why it's essential and
-                      how you can determine the right RPM for your specific
-                      application.
+                      In this article, we&#39;ll dive into the world of
+                      hydraulic motor RPM calculation, exploring why it&#39;s
+                      essential and how you can determine the right RPM for your
+                      specific application.
                     </p>
 
                     <h4>Understanding RPM in Hydraulic Motors</h4>
                     <p>
                       RPM, or Revolutions Per Minute, is a measure of how fast a
-                      hydraulic motor's output shaft rotates. It's a fundamental
-                      parameter when it comes to understanding a motor's
-                      performance and its suitability for a given task.
+                      hydraulic motor&#39;s output shaft rotates. It&#39;s a
+                      fundamental parameter when it comes to understanding a
+                      motors performance and its suitability for a given task.
                       Different applications may require hydraulic motors to
                       operate at various RPM values to achieve optimal results.
                     </p>
@@ -103,14 +103,15 @@ const PostEnglish49 = ({ db }) => {
                         RPM.
                       </li>
                       <li>
-                        <strong>Displacement:</strong> The motor's displacement,
-                        typically measured in cubic inches or cubic centimeters
-                        per revolution, affects its RPM. Larger displacements
-                        result in lower RPM, and vice versa.
+                        <strong>Displacement:</strong> The motor&#39;s
+                        displacement, typically measured in cubic inches or
+                        cubic centimeters per revolution, affects its RPM.
+                        Larger displacements result in lower RPM, and vice
+                        versa.
                       </li>
                       <li>
                         <strong>Pressure:</strong> The pressure of the hydraulic
-                        fluid can impact a motor's RPM. Higher pressure can
+                        fluid can impact a motor&#39;s RPM. Higher pressure can
                         increase RPM, but this must be balanced with system
                         limitations and motor specifications.
                       </li>
@@ -134,7 +135,7 @@ const PostEnglish49 = ({ db }) => {
                         fluid in gallons per minute (GPM).
                       </li>
                       <li>
-                        <strong>Motor Displacement:</strong> The motor's
+                        <strong>Motor Displacement:</strong> The motor&#39;s
                         displacement in cubic inches per revolution (CIR).
                       </li>
                       <li>

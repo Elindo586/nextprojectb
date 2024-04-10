@@ -70,7 +70,7 @@ const PostEnglish39 = ({ db }) => {
                       prominent name in the hydraulic industry, offers a range
                       of hydraulic components that are trusted for their quality
                       and performance. However, in the dynamic world of
-                      hydraulics, it's not uncommon to encounter situations
+                      hydraulics, it&#39;s not uncommon to encounter situations
                       where components need to be replaced or upgraded.
                     </p>
 
@@ -78,9 +78,9 @@ const PostEnglish39 = ({ db }) => {
                       Enter the concept of Eaton Vickers crossovers. These
                       crossovers serve as the bridge between old and new
                       hydraulic components, ensuring that your system remains
-                      efficient and up to date. In this article, we'll explore
-                      the significance of Eaton Vickers crossovers and how they
-                      play a crucial role in hydraulic systems.
+                      efficient and up to date. In this article, we&#39;ll
+                      explore the significance of Eaton Vickers crossovers and
+                      how they play a crucial role in hydraulic systems.
                     </p>
 
                     <h4>Understanding Hydraulic Component Crossovers</h4>
@@ -137,7 +137,7 @@ const PostEnglish39 = ({ db }) => {
                       </li>
                       <li>
                         <strong>Efficiency and Performance:</strong> By using
-                        Vickers crossovers, you can upgrade your system's
+                        Vickers crossovers, you can upgrade your system&#39;s
                         efficiency and performance with minimal effort.
                       </li>
                     </ul>

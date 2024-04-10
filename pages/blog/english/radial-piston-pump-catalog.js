@@ -81,9 +81,9 @@ const PostEnglish23 = ({ db }) => {
                       Our catalog is a valuable resource for engineers,
                       technicians, and professionals working with hydraulic
                       systems. During the video call, we will guide you through
-                      the catalog's sections, highlighting the key features and
-                      specifications of our hydraulic radial piston pumps. From
-                      high-pressure applications in industrial machinery to
+                      the catalog&#39;s sections, highlighting the key features
+                      and specifications of our hydraulic radial piston pumps.
+                      From high-pressure applications in industrial machinery to
                       precise control in mobile equipment, our catalog covers a
                       wide range of solutions to meet your hydraulic needs.
                     </p>
@@ -128,7 +128,7 @@ const PostEnglish23 = ({ db }) => {
                       In conclusion, our video call on the Hydraulic Radial
                       Piston Pumps Catalog is an opportunity to gain a deeper
                       understanding of these essential hydraulic components. By
-                      the end of the session, you'll be equipped with the
+                      the end of the session, you&#39;ll be equipped with the
                       knowledge needed to make informed decisions regarding your
                       hydraulic system requirements. We look forward to your
                       participation and invite you to join us for an informative

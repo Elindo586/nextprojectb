@@ -89,7 +89,7 @@ const PostEnglish36 = ({ db }) => {
                   <article>
                     <h4>Practical Application:</h4>
                     <p>
-                      Let's take a practical example to illustrate the
+                      Let&#39;s take a practical example to illustrate the
                       significance of 231. Suppose you have a hydraulic system
                       with a flow rate of 10 GPM and an efficiency of 85%. To
                       find the pressure, you can use the formula: P = (10 GPM x
@@ -107,9 +107,9 @@ const PostEnglish36 = ({ db }) => {
                       vital for designing, analyzing, and maintaining hydraulic
                       systems across various industries. Precise calculations
                       are the key to ensuring that hydraulic systems function
-                      efficiently and safely, whether it's a heavy construction
-                      machine, an aircraft's landing gear, or a precision
-                      machining tool.
+                      efficiently and safely, whether it&#39;s a heavy
+                      construction machine, an aircraft&#39;s landing gear, or a
+                      precision machining tool.
                     </p>
                   </article>
                 </div>

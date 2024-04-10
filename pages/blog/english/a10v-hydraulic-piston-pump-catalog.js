@@ -80,10 +80,10 @@ const PostEnglish24 = ({ db }) => {
                     <p>
                       Our catalog is a valuable resource for professionals and
                       experts in the field of hydraulics. During the video call,
-                      we will navigate through the catalog's sections, offering
-                      insights into the specifications, features, and options
-                      available with our A-10V hydraulic piston pumps. Whether
-                      you are involved in industrial machinery, mobile
+                      we will navigate through the catalog&#39;s sections,
+                      offering insights into the specifications, features, and
+                      options available with our A-10V hydraulic piston pumps.
+                      Whether you are involved in industrial machinery, mobile
                       applications, or other hydraulic systems, our catalog
                       covers a spectrum of solutions tailored to your specific
                       needs.
@@ -122,7 +122,8 @@ const PostEnglish24 = ({ db }) => {
                       decisions based on factors such as flow rate, pressure
                       requirements, and environmental conditions. With our
                       catalog as your reference, you can confidently choose the
-                      pump that aligns with your application's unique demands.
+                      pump that aligns with your application&#39;s unique
+                      demands.
                     </p>
 
                     <h4>Conclusion</h4>

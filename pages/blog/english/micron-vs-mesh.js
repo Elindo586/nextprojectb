@@ -66,10 +66,10 @@ const PostEnglish50 = ({ db }) => {
                     <h4>Introduction</h4>
                     <p>
                       Welcome to our video call presentation where we will
-                      explore the crucial topic of "Micron vs. Mesh" in
-                      hydraulic fluid power filtration. Effective filtration is
-                      essential to maintain the cleanliness and performance of
-                      hydraulic systems, and understanding the differences
+                      explore the crucial topic of &quot;Micron vs. Mesh&quot;
+                      in hydraulic fluid power filtration. Effective filtration
+                      is essential to maintain the cleanliness and performance
+                      of hydraulic systems, and understanding the differences
                       between micron and mesh ratings is key to achieving this.
                       In this session, we will provide an in-depth comparison of
                       these filtration methods, their applications, and their
@@ -115,7 +115,7 @@ const PostEnglish50 = ({ db }) => {
                       can significantly impact the performance and maintenance
                       of your hydraulic system. We will offer guidance on how to
                       select the most suitable filtration method based on your
-                      system's requirements and operational conditions. This
+                      system&#39;s requirements and operational conditions. This
                       knowledge will enable you to make informed decisions that
                       ensure the longevity and efficiency of your hydraulic
                       machinery.
@@ -123,9 +123,9 @@ const PostEnglish50 = ({ db }) => {
 
                     <h4>Conclusion</h4>
                     <p>
-                      In conclusion, our video call on "Micron vs. Mesh in
-                      Hydraulic Fluid Power Filtration" is an opportunity to
-                      gain a comprehensive understanding of these critical
+                      In conclusion, our video call on &quot;Micron vs. Mesh in
+                      Hydraulic Fluid Power Filtration&quot; is an opportunity
+                      to gain a comprehensive understanding of these critical
                       filtration methods. By the end of the session, you will be
                       well-equipped to choose the appropriate filtration
                       technique for your hydraulic system, ensuring its optimal

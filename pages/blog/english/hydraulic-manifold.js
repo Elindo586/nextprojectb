@@ -68,7 +68,7 @@ const PostEnglish7 = ({ db }) => {
                       applications, providing the muscle behind heavy machinery,
                       manufacturing processes, and much more. One key element
                       that plays a pivotal role in hydraulic systems is the
-                      hydraulic manifold. In this article, we'll explore the
+                      hydraulic manifold. In this article, we&#39;ll explore the
                       significance of hydraulic manifolds in fluid power
                       applications and why they are essential for efficient and
                       reliable operations.
@@ -82,8 +82,8 @@ const PostEnglish7 = ({ db }) => {
                       plays a crucial role in directing and controlling the flow
                       of hydraulic fluid to various components such as hydraulic
                       pumps, valves, cylinders, and motors. Manifolds are
-                      designed to streamline the fluid's path, simplify the
-                      system's layout, and enhance overall efficiency.
+                      designed to streamline the fluid&#39;s path, simplify the
+                      system&#39;s layout, and enhance overall efficiency.
                     </p>
 
                     <h4>Advantages of Hydraulic Manifolds</h4>
