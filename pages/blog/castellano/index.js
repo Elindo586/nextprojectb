@@ -63,7 +63,7 @@ const BloggerFrontSpanish = ({ db }) => {
     <div>
       <div>
         <Head>
-          <meta charset="UTF-8" />
+          <meta charSet="UTF-8" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           <link
             rel="shortcut icon"
@@ -160,6 +160,7 @@ const BloggerFrontSpanish = ({ db }) => {
                     alt={item.alt}
                     width={600}
                     height={315}
+                    priority={true} // {false} | {true}
                   ></Image>
                   <div lang="es">
                     {" "}
