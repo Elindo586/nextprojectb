@@ -1,7 +1,7 @@
 import React from "react";
 import Head from "next/head";
 import Link from "next/link";
-import AdBanner from "./ad-blog";
+
 import Social2 from "./social-english";
 
 function Blogger2(props) {
