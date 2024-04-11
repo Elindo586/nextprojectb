@@ -128,12 +128,12 @@ function MyApp({ Component, pageProps }) {
           </Head>
         </div>
         <div>
-          <Script
+          {/* <Script
             strategy="afterInteractive"
             src="https://www.googletagmanager.com/gtag/js?id=UA-36867189-2"
-          />
+          /> */}
 
-          <Script
+          {/* <Script
             id="gtag-init"
             strategy="afterInteractive"
             dangerouslySetInnerHTML={{
@@ -144,7 +144,7 @@ function MyApp({ Component, pageProps }) {
               gtag('config', 'UA-36867189-2');
             `,
             }}
-          />
+          /> */}
           {/* <Script
             async
             src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8682017023658879"
