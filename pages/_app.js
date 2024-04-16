@@ -151,6 +151,24 @@ function MyApp({ Component, pageProps }) {
             crossOrigin="anonymous"
           /> */}
 
+          {/* <Script
+            id="gtag-init1"
+            strategy="afterInteractive"
+            dangerouslySetInnerHTML={{
+              __html: ` 
+              window.dataLayer = window.dataLayer || [];
+              unction gtag(){dataLayer.push(arguments);}
+              // Set default consent to 'denied' as a placeholder
+              // Determine actual values based on your own requirements
+              gtag('consent', 'default', {
+              'ad_storage': 'denied',
+              'ad_user_data': 'denied',
+              'ad_personalization': 'denied',
+              'analytics_storage': 'denied'
+              `,
+            }}
+          /> */}
+
           <Script
             strategy="afterInteractive"
             src="https://www.googletagmanager.com/gtag/js?id=G-4RB3V861V1"
