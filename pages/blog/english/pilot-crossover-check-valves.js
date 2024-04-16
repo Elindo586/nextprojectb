@@ -57,7 +57,40 @@ const PostEnglish30 = ({ db }) => {
               title={item.title}
               body={item.body}
               iTitle={item.iTitle}
-              description={item.description}
+              description={
+                <div>
+                  <br />
+                  <h4>Pilot Crossover Check Valves</h4>
+                  <br />
+                  <p>
+                    Join us in this video as we explore the operation of
+                    pilot-operated crossover check valves in hydraulic circuits.
+                  </p>
+                  <br />
+                  <ul>
+                    <li>
+                      Pilot crossover check valves play a critical role in
+                      hydraulic systems by allowing flow in one direction while
+                      preventing reverse flow.
+                    </li>
+                    <li>
+                      These valves consist of a main check valve and a
+                      pilot-operated control valve, providing reliable fluid
+                      control and directionality.
+                    </li>
+                    <li>
+                      Understanding the principles of operation of pilot
+                      crossover check valves is essential for optimizing
+                      hydraulic system performance and efficiency.
+                    </li>
+                    <li>
+                      We&#39;ll discuss the functionality of pilot crossover
+                      check valves, including how they maintain fluid pressure
+                      and prevent system instability.
+                    </li>
+                  </ul>
+                </div>
+              }
               previous={item.previous}
               next={item.next}
             />

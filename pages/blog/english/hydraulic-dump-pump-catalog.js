@@ -58,9 +58,52 @@ const PostEnglish34 = ({ db }) => {
               body={item.body}
               iTitle={item.iTitle}
               description={
-                <div
-                  dangerouslySetInnerHTML={{ __html: item.description }}
-                ></div>
+                <div>
+                  <br />
+                  <article>
+                    <h4>Hydraulic Dump Pump Catalog</h4>
+                    <p>
+                      Welcome to our comprehensive guide on hydraulic gear
+                      pumps, specifically focusing on dump pumps for series C101
+                      and C102. These pumps play a crucial role in various
+                      hydraulic systems, offering efficient fluid transfer and
+                      control.
+                    </p>
+                    <p>
+                      If you&#39;re seeking detailed technical information,
+                      range, and selection criteria for dump pumps, you&#39;re
+                      in the right place.
+                    </p>
+                    <p>In this video, we delve into:</p>
+                    <ul>
+                      <li>
+                        Technical specifications for dump pumps in series C101
+                        and C102.
+                      </li>
+                      <li>Range of applications where these pumps excel.</li>
+                      <li>
+                        Key selection considerations for matching the right pump
+                        to your hydraulic system.
+                      </li>
+                    </ul>
+                    <p>
+                      To further aid your exploration and decision-making
+                      process, we&#39;ve provided a catalog for the C101 and
+                      C102 gear pumps. You can access it{" "}
+                      <a href="https://www.tu.biz/pdf/dump-pumps.pdf">here</a>.
+                    </p>
+                    <p>
+                      Whether you&#39;re a hydraulic system enthusiast, a
+                      professional engineer, or a technician looking to enhance
+                      system performance, this video and catalog combination
+                      offer valuable insights and resources.
+                    </p>
+                    <p>
+                      Stay tuned, and let&#39;s dive deep into the world of
+                      hydraulic dump pumps!
+                    </p>
+                  </article>
+                </div>
               }
               previous={item.previous}
               next={item.next}

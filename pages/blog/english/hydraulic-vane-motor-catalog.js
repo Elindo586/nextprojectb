@@ -58,9 +58,54 @@ const PostEnglish31 = ({ db }) => {
               body={item.body}
               iTitle={item.iTitle}
               description={
-                <div
-                  dangerouslySetInnerHTML={{ __html: item.description }}
-                ></div>
+                <div>
+                  <br />
+                  <h4>Hydraulic Vane Motor Catalog</h4>
+                  <br />
+                  <p>
+                    Welcome to our comprehensive guide on hydraulic vane motors.
+                    In this video, we delve into the technical intricacies of
+                    hydraulic vane motors, providing essential information for
+                    proper sizing and selection to suit various hydraulic
+                    applications.
+                  </p>
+                  <br />
+                  <ul>
+                    <li>
+                      Hydraulic vane motors are widely used in industrial and
+                      mobile hydraulic systems due to their efficiency,
+                      reliability, and compact design.
+                    </li>
+                    <li>
+                      Understanding the technical specifications of hydraulic
+                      vane motors is crucial for ensuring optimal performance
+                      and longevity in hydraulic systems.
+                    </li>
+                    <li>
+                      Proper sizing and selection of hydraulic vane motors
+                      involve considerations such as torque requirements,
+                      operating speeds, pressure ratings, and mounting options.
+                    </li>
+                    <li>
+                      Referencing reliable catalogs and technical documents is
+                      essential for obtaining detailed information on various
+                      hydraulic vane motor models available in the market.
+                    </li>
+                  </ul>
+                  <br />
+                  <p>
+                    For a comprehensive catalog of hydraulic vane motors, we
+                    recommend consulting{" "}
+                    <a
+                      href="https://www.tu.biz/pdf/hydraulic-vane-motor-catalog.pdf"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      this PDF catalog
+                    </a>{" "}
+                    provided by a trusted hydraulic equipment supplier.
+                  </p>
+                </div>
               }
               previous={item.previous}
               next={item.next}

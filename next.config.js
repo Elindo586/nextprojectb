@@ -482,6 +482,7 @@ const nextConfig = {
       },
       {
         source: "/interactive.html",
+        source: "/Interactive",
         destination: "/interactive",
         permanent: true,
       },

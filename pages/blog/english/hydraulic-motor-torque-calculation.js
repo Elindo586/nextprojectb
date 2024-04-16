@@ -57,7 +57,76 @@ const PostEnglish32 = ({ db }) => {
               title={item.title}
               body={item.body}
               iTitle={item.iTitle}
-              description={item.description}
+              description={
+                <div>
+                  <br />
+                  <article>
+                    <h4>Hydraulic Motor Torque Calculation</h4>
+                    <p>
+                      Welcome to our educational video on hydraulic motor torque
+                      calculation. Understanding the torque requirements for a
+                      hydraulic motor is crucial for ensuring optimal
+                      performance and efficiency in hydraulic circuits.
+                    </p>
+                    <p>
+                      In this video, we provide a step-by-step guide on how to
+                      calculate the torque requirements for your hydraulic
+                      motor, tailored for proper application in hydraulic
+                      circuits.
+                    </p>
+                    <p>We cover the following key points:</p>
+                    <ul>
+                      <li>
+                        The significance of accurate torque calculation in
+                        hydraulic systems.
+                      </li>
+                      <li>
+                        Factors influencing torque requirements, including load,
+                        pressure, and speed.
+                      </li>
+                      <li>
+                        Detailed instructions and formulas for calculating
+                        torque based on specific application parameters.
+                      </li>
+                    </ul>
+                    <p>
+                      By mastering hydraulic motor torque calculation,
+                      you&#39;ll be equipped to:
+                    </p>
+                    <ul>
+                      <li>
+                        Select the appropriate hydraulic motor size for your
+                        application needs.
+                      </li>
+                      <li>
+                        Ensure efficient and reliable operation of your
+                        hydraulic system.
+                      </li>
+                      <li>
+                        Prevent issues such as overloading or underutilization
+                        of your hydraulic motor.
+                      </li>
+                    </ul>
+                    <p>
+                      At TU, we understand the importance of accurate torque
+                      calculation for hydraulic motors. That&#39;s why we&#39;re
+                      committed to providing educational resources and support
+                      to help you make informed decisions and optimize your
+                      hydraulic systems.
+                    </p>
+                    <p>
+                      Watch our video to learn how to calculate hydraulic motor
+                      torque effectively, and feel free to reach out to our
+                      expert team for further assistance or guidance.
+                    </p>
+                    <p>
+                      Empower yourself with the knowledge of hydraulic motor
+                      torque calculation for enhanced performance and
+                      reliability in your hydraulic applications!
+                    </p>
+                  </article>
+                </div>
+              }
               previous={item.previous}
               next={item.next}
             />

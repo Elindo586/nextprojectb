@@ -57,7 +57,51 @@ const PostEnglish33 = ({ db }) => {
               title={item.title}
               body={item.body}
               iTitle={item.iTitle}
-              description={item.description}
+              description={
+                <div>
+                  <br />
+                  <article>
+                    <h4>Coiled Electrical Cable</h4>
+                    <p>
+                      Welcome to our latest video showcasing the versatility and
+                      convenience of coiled electrical cables. If you&#39;re in
+                      need of reliable electrical cables that offer flexibility
+                      and ease of use, you&#39;re in the right place!
+                    </p>
+                    <p>In this video, we highlight:</p>
+                    <ul>
+                      <li>
+                        The benefits of coiled electrical cables in various
+                        applications.
+                      </li>
+                      <li>
+                        How these cables provide flexibility and reduce
+                        tangling.
+                      </li>
+                      <li>
+                        Examples of industries and scenarios where coiled cables
+                        excel.
+                      </li>
+                    </ul>
+                    <p>
+                      At TU.BIZ, we specialize in providing high-quality coiled
+                      electrical cables tailored to meet your specific needs.
+                      Whether you require custom lengths, different gauge sizes,
+                      or specialized connectors, we&#39;ve got you covered.
+                    </p>
+                    <p>
+                      Don&#39;t hesitate to contact us today to discuss your
+                      requirements and to purchase coiled electrical cables that
+                      perfectly suit your application. Our team of experts is
+                      ready to assist you every step of the way.
+                    </p>
+                    <p>
+                      Experience the convenience and reliability of coiled
+                      electrical cables with TU.BIZ . Contact us now!
+                    </p>
+                  </article>
+                </div>
+              }
               previous={item.previous}
               next={item.next}
             />
