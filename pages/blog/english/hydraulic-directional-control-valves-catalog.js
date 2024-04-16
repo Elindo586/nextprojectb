@@ -58,9 +58,71 @@ const PostEnglish37 = ({ db }) => {
               body={item.body}
               iTitle={item.iTitle}
               description={
-                <div
-                  dangerouslySetInnerHTML={{ __html: item.description }}
-                ></div>
+                <div>
+                  <br />
+                  <article>
+                    <h4>Hydraulic Directional Control Valves Catalog</h4>
+                    <p>
+                      Hydraulic directional control valves are essential
+                      components in hydraulic systems, enabling precise control
+                      over the flow direction of hydraulic fluid. In this
+                      informative YouTube video, viewers are introduced to the
+                      range, configuration, and proper selection of hydraulic
+                      directional control valves.
+                    </p>
+                    <p>Here&#39;s what you&#39;ll learn in the video:</p>
+                    <ul>
+                      <li>
+                        An overview of the different types and configurations of
+                        hydraulic directional control valves available in the
+                        market.
+                      </li>
+                      <li>
+                        Explanation of the key features and specifications to
+                        consider when selecting directional control valves for
+                        specific applications.
+                      </li>
+                      <li>
+                        Guidance on how to navigate through a hydraulic
+                        directional control valves catalog to find the most
+                        suitable valve for your needs.
+                      </li>
+                      <li>
+                        Case studies illustrating real-world applications and
+                        scenarios where proper selection of directional control
+                        valves is critical for system performance and
+                        efficiency.
+                      </li>
+                    </ul>
+                    <p>
+                      If you&#39;re looking to explore a comprehensive catalog
+                      of hydraulic directional control valves, be sure to check
+                      out{" "}
+                      <a
+                        href="https://www.tu.biz/products/industrial-valves/directional-control-valves"
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        this link
+                      </a>
+                      .
+                    </p>
+                    <p>
+                      By understanding the range and configuration of available
+                      hydraulic directional control valves and learning how to
+                      properly select them for specific applications, viewers
+                      can enhance the functionality and performance of their
+                      hydraulic systems.
+                    </p>
+                    <p>
+                      Whether you&#39;re a hydraulic engineer, technician, or
+                      enthusiast, &#34;Hydraulic Directional Control Valves
+                      Catalog&#34; provides valuable insights and resources to
+                      help you make informed decisions when it comes to
+                      selecting directional control valves.
+                    </p>
+                  </article>
+                </div>
               }
               previous={item.previous}
               next={item.next}

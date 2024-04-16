@@ -57,7 +57,60 @@ const PostEnglish43 = ({ db }) => {
               title={item.title}
               body={item.body}
               iTitle={item.iTitle}
-              description={item.description}
+              description={
+                <div>
+                  <br />
+                  <article>
+                    <h4>How Does Fluid Power Work?</h4>
+                    <p>
+                      Fluid power is a fundamental principle underlying many
+                      engineering systems, particularly in hydraulic
+                      applications. Understanding how fluid power works is
+                      crucial for engineers and technicians working in various
+                      industries, from construction to manufacturing. In a
+                      recent YouTube video, we delve into the intricacies of
+                      fluid power and its real-life applications.
+                    </p>
+                    <p>Here are some key points covered in the video:</p>
+                    <ul>
+                      <li>The basic principles of hydraulic fluid power.</li>
+                      <li>
+                        How hydraulic systems utilize fluids to transmit power.
+                      </li>
+                      <li>
+                        The components of a typical hydraulic system, such as
+                        pumps, valves, actuators, and reservoirs.
+                      </li>
+                      <li>
+                        Real-life examples demonstrating the effectiveness of
+                        fluid power in various applications, including heavy
+                        machinery, automotive systems, and aircraft.
+                      </li>
+                      <li>
+                        The advantages of using fluid power systems, including
+                        high power density, precise control, and ability to
+                        operate in harsh environments.
+                      </li>
+                      <li>
+                        Challenges and considerations in designing and
+                        maintaining hydraulic systems.
+                      </li>
+                    </ul>
+                    <p>
+                      By illustrating these concepts and examples, the video
+                      offers viewers a comprehensive understanding of fluid
+                      power and its practical significance in modern
+                      engineering.
+                    </p>
+                    <p>
+                      Whether you&#39;re a seasoned engineer or a curious
+                      enthusiast, &#34;How Does Fluid Power Work?&#34; provides
+                      valuable insights into this essential aspect of mechanical
+                      engineering.
+                    </p>
+                  </article>
+                </div>
+              }
               previous={item.previous}
               next={item.next}
             />
