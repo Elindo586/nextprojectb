@@ -36,6 +36,7 @@ const nextConfig = {
     return [
       {
         source: "/ContactUs",
+        source: "/contact",
         destination: "/contact-us", // Matched parameters can be used in the destination
         permanent: true,
       },
