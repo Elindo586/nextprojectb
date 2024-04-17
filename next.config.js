@@ -460,7 +460,7 @@ const nextConfig = {
         permanent: true,
       },
       {
-        source: "/blog/calculo-de-area-de-un-cilindro/",
+        source: "/blog/calculo-de-area-de-un-cilindro",
         destination: "/blog/castellano/calculo-de-area-de-cilindro-hidraulico",
         permanent: true,
       },
@@ -1002,6 +1002,7 @@ const nextConfig = {
       },
       {
         source: "/products/directional-control-valves",
+        source: "/directional-control-valves",
         destination: "products/industrial-valves/directional-control-valves",
         permanent: true,
       },
