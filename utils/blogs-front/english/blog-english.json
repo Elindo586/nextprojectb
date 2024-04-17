@@ -1055,12 +1055,12 @@
     "description": "Learn to recognize and draw hydraulic symbols for directional control valves.",
     "more": "See more of this blog",
     "link": "/blog/english/hydraulic-symbols-for-directional-control-valves",
-    "next": "/blog/english/c101-c102-dump-pumps-catalog",
+    "next": "/blog/english/radial-piston-pump-selection",
     "previous": "/blog/english/hydraulic-pump-test"
   },
   {
-    "id": "13",
-    "metaTitle": "TU | Video | C101 and C102 dump pumps | Catalog",
+    "id": "13 ",
+    "metaTitle": "This page has been deleted due to repeated content",
     "metaDescription": "Find a full video catalog for C101 and C102 hydraulic dump pumps.",
     "metaKeywords": "tu,c101, c102",
     "ogTitle": "C101 and C102 dump pumps | Catalog",
@@ -1101,8 +1101,8 @@
     "description": "Learn about the details of a hydraulic radial piston pump for proper pump selection.",
     "more": "See more of this blog",
     "link": "/blog/english/radial-piston-pump-selection",
-    "next": "/blog/english/pilot-operated-relief-valve",
-    "previous": "/blog/english/c101-c102-dump-pumps-catalog"
+    "next": "/blog/english/pilot-operated-relief-valve-vs-direct-acting-relief-valve",
+    "previous": "/blog/english/hydraulic-symbols-for-directional-control-valves"
   },
   {
     "id": "11",
@@ -1123,7 +1123,7 @@
     "alt": "Pilot operated relief valve vs. direct acting relief valve.",
     "description": "Understanding the differences between a pilot operated relief valve vs. a direct acting relief valve.",
     "more": "See more of this blog",
-    "link": "/blog/english/pilot-operated-relief-valve",
+    "link": "/blog/english/pilot-operated-relief-valve-vs-direct-acting-relief-valve",
     "next": "/blog/english/fluid-power-formulas",
     "previous": "/blog/english/radial-piston-pump-selection"
   },
@@ -1148,7 +1148,7 @@
     "more": "See more of this blog",
     "link": "/blog/english/fluid-power-formulas",
     "next": "/blog/english/fixed-displacement-pump-vs-variable-displacement-pump",
-    "previous": "/blog/english/pilot-operated-relief-valve"
+    "previous": "/blog/english/pilot-operated-relief-valve-vs-direct-acting-relief-valve"
   },
   {
     "id": "9",
@@ -1163,7 +1163,7 @@
     "twitterDescription": "Understanding the difference between a fixed displacement pump vs. a variable displacement pump.",
     "twitterImage": "https://www.tu.biz/blog-images-english/fixed-displacement-pump-vs-variable-displacement-pump.png",
     "title": "Video | Fixed displacement hydraulic pump vs. variable displacement hydraulic pump.",
-    "body": "ttps://www.youtube-nocookie.com/embed/_ScaHQIqnx8?si=iagxFaAgeyAKtIRA",
+    "body": "https://www.youtube-nocookie.com/embed/_ScaHQIqnx8?si=iagxFaAgeyAKtIRA",
     "iTitle": "Fixed displacement hydraulic pump vs. variable displacement hydraulic pump.",
     "picture": "/video-blog-images-english/fixed-displacement-pump-vs-variable-displacement-pump.png",
     "alt": "Fixed displacement hydraulic pump vs. variable displacement hydraulic pump.",

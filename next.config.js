@@ -41,6 +41,17 @@ const nextConfig = {
         permanent: true,
       },
       {
+        source: "/blog/english/c101-c102-dump-pumps-catalog",
+        destination: "/blog/english/hydraulic-dump-pump-catalog",
+        permanent: true,
+      },
+      {
+        source: "/blog/english/pilot-operated-relief-valve",
+        destination:
+          "/blog/english/pilot-operated-relief-valve-vs-direct-acting-relief-valve",
+        permanent: true,
+      },
+      {
         source: "/blog/como-trabaja-un-control-de-load-sensing",
         destination: "/blog/castellano/control-de-load-sensing", // Matched parameters can be used in the destination
         permanent: true,

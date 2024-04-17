@@ -37,6 +37,8 @@ const PostEnglish13 = ({ db }) => {
 
   // const item = db.find(post);
 
+  //   THIS PAGE HAS BEEN DELETED DUE TO REPEATED CONTENT
+
   return (
     <div>
       <div>
