@@ -493,7 +493,7 @@ const nextConfig = {
       },
       {
         source: "/interactive.html",
-        source: "/Interactive",
+        // source: "/Interactive",  it causes too many redirects
         destination: "/interactive",
         permanent: true,
       },
