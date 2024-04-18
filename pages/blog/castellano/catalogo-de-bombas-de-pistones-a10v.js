@@ -58,9 +58,63 @@ const PostSpanish46 = ({ db }) => {
               body={item.body}
               iTitle={item.iTitle}
               description={
-                <div
-                  dangerouslySetInnerHTML={{ __html: item.description }}
-                ></div>
+                <div>
+                  <br />
+                  <h4>Catálogo de Bomba de Pistones A10V</h4>
+                  <p>
+                    En este video, presentamos nuestro catálogo para la
+                    selección de bombas de pistones hidráulicas de la serie
+                    A10V. Nuestro catálogo proporciona información detallada
+                    sobre las bombas de pistones A10V y cómo seleccionar la
+                    bomba adecuada para diversas aplicaciones hidráulicas.
+                  </p>
+
+                  <ul>
+                    <li>
+                      {" "}
+                      <strong>Variedad de Productos:</strong> Nuestro catálogo
+                      incluye una amplia gama de bombas de pistones A10V, que
+                      ofrecen diferentes tamaños, caudales y presiones de
+                      trabajo para adaptarse a diversas aplicaciones
+                      industriales y móviles.
+                    </li>
+                    <li>
+                      {" "}
+                      <strong>Información Técnica:</strong> Proporcionamos
+                      detalles técnicos completos sobre cada bomba de la serie
+                      A10V, incluyendo especificaciones de rendimiento,
+                      dimensiones, características y opciones de configuración.
+                    </li>
+                    <li>
+                      {" "}
+                      <strong>Selección de Bombas:</strong> Nuestro catálogo
+                      incluye pautas y recomendaciones sobre cómo seleccionar la
+                      bomba de pistones A10V adecuada para su aplicación
+                      específica, teniendo en cuenta factores como caudal,
+                      presión, velocidad y tipo de fluido.
+                    </li>
+                  </ul>
+
+                  <h4>Enlace al Catálogo</h4>
+
+                  <p>
+                    Para acceder a nuestro catálogo de bombas de pistones A10V y
+                    explorar nuestra amplia gama de productos, haga clic en el
+                    siguiente enlace:
+                  </p>
+
+                  <p>
+                    <a href="https://www.tu.biz/pdf/a10v-pump-catalog.pdf">
+                      Catálogo de Bomba de Pistones A10V
+                    </a>
+                  </p>
+
+                  <p>
+                    ¡Esperamos que nuestro catálogo sea útil para ayudarlo a
+                    seleccionar la bomba de pistones A10V perfecta para sus
+                    necesidades hidráulicas!
+                  </p>
+                </div>
               }
               previous={item.previous}
               next={item.next}

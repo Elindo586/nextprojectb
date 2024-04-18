@@ -58,9 +58,64 @@ const PostSpanish43 = ({ db }) => {
               body={item.body}
               iTitle={item.iTitle}
               description={
-                <div
-                  dangerouslySetInnerHTML={{ __html: item.description }}
-                ></div>
+                <div>
+                  <br />
+                  <h4>Catálogo de Bombas de Paletas Variables</h4>
+                  <p>
+                    En este video, presentamos nuestro catálogo para la
+                    selección adecuada de bombas hidráulicas de paletas
+                    variables de desplazamiento. Nuestro catálogo proporciona
+                    información detallada sobre las bombas de paletas variables
+                    y cómo seleccionar la bomba adecuada para diversas
+                    aplicaciones hidráulicas.
+                  </p>
+
+                  <ul>
+                    <li>
+                      {" "}
+                      <strong>Variedad de Productos:</strong> Nuestro catálogo
+                      incluye una amplia gama de bombas de paletas variables,
+                      que ofrecen diferentes capacidades de desplazamiento y
+                      presiones de trabajo para adaptarse a una variedad de
+                      aplicaciones industriales y móviles.
+                    </li>
+                    <li>
+                      {" "}
+                      <strong>Información Técnica:</strong> Proporcionamos
+                      detalles técnicos completos sobre cada bomba de paletas
+                      variable, incluyendo especificaciones de rendimiento,
+                      dimensiones, características y opciones de configuración.
+                    </li>
+                    <li>
+                      {" "}
+                      <strong>Selección de Bombas:</strong> Nuestro catálogo
+                      incluye pautas y recomendaciones sobre cómo seleccionar la
+                      bomba de paletas variable adecuada para su aplicación
+                      específica, teniendo en cuenta factores como caudal,
+                      presión, velocidad y tipo de fluido.
+                    </li>
+                  </ul>
+
+                  <h4>Enlace al Catálogo</h4>
+
+                  <p>
+                    Para acceder a nuestro catálogo de bombas de paletas
+                    variables y explorar nuestra gama de productos, visite el
+                    siguiente enlace:
+                  </p>
+
+                  <p>
+                    <a href="https://www.tu.biz/pdf/variable-vane-pump-catalog.pdf">
+                      Catálogo de Bombas de Paletas Variables
+                    </a>
+                  </p>
+
+                  <p>
+                    ¡Esperamos que nuestro catálogo sea útil para ayudarlo a
+                    seleccionar la bomba de paletas variable adecuada para sus
+                    necesidades hidráulicas específicas!
+                  </p>
+                </div>
               }
               previous={item.previous}
               next={item.next}
