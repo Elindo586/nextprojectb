@@ -58,9 +58,71 @@ const PostSpanish27 = ({ db }) => {
               body={item.body}
               iTitle={item.iTitle}
               description={
-                <div
-                  dangerouslySetInnerHTML={{ __html: item.description }}
-                ></div>
+                <div>
+                  <br />
+                  <h4>Catálogo de Bombas Hidráulicas de Paletas</h4>
+                  <p>
+                    En este video, se presenta un catálogo técnico de bombas
+                    hidráulicas de paletas y se explica la selección adecuada de
+                    estas bombas según los detalles de psi, gpm y rpm. Las
+                    bombas de paletas son un componente fundamental en los
+                    sistemas hidráulicos, utilizadas para generar flujo de
+                    fluido a través del sistema y proporcionar la presión
+                    necesaria para el funcionamiento de los actuadores
+                    hidráulicos.
+                  </p>
+
+                  <ul>
+                    <li>
+                      <strong>Funcionamiento de las Bombas de Paletas:</strong>{" "}
+                      Las bombas de paletas funcionan mediante el desplazamiento
+                      de paletas dentro de una carcasa o anillo. Al girar el eje
+                      de la bomba, las paletas se deslizan hacia afuera debido a
+                      la fuerza centrífuga, creando una cámara de succión que
+                      aspira el fluido hidráulico. A medida que las paletas
+                      vuelven a entrar en la carcasa, el fluido es expulsado a
+                      alta presión.
+                    </li>
+                    <li>
+                      <strong>Selección de Bombas:</strong> La selección
+                      adecuada de bombas de paletas es crucial para garantizar
+                      un rendimiento óptimo del sistema hidráulico. Factores
+                      como la presión máxima de trabajo (psi), el caudal
+                      volumétrico (gpm) y la velocidad de rotación (rpm) deben
+                      tenerse en cuenta al elegir la bomba adecuada para una
+                      aplicación específica.
+                    </li>
+                    <li>
+                      <strong>Catálogo Técnico:</strong> El catálogo técnico
+                      proporciona información detallada sobre las diferentes
+                      series y modelos de bombas de paletas disponibles,
+                      incluidas las especificaciones de rendimiento, dimensiones
+                      y opciones de montaje. Este recurso es invaluable para los
+                      ingenieros y diseñadores que necesitan seleccionar la
+                      bomba adecuada para sus proyectos.
+                    </li>
+                  </ul>
+
+                  <h4>Enlace al Catálogo Técnico de Bombas de Paletas</h4>
+                  <p>
+                    Para obtener más información sobre las bombas hidráulicas de
+                    paletas y explorar el catálogo técnico completo, puedes
+                    visitar el siguiente enlace:{" "}
+                    <a href="https://www.tu.biz/products/vane-pumps">
+                      Catálogo de Bombas de Paletas
+                    </a>
+                    .
+                  </p>
+
+                  <p>
+                    En resumen, el catálogo de bombas hidráulicas de paletas
+                    proporciona una amplia gama de opciones para satisfacer las
+                    necesidades específicas de diversas aplicaciones
+                    industriales y móviles. Al seleccionar la bomba adecuada
+                    según los requisitos técnicos del proyecto, se garantiza un
+                    rendimiento confiable y eficiente del sistema hidráulico.
+                  </p>
+                </div>
               }
               previous={item.previous}
               next={item.next}

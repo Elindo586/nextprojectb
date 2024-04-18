@@ -58,9 +58,65 @@ const PostSpanish40 = ({ db }) => {
               body={item.body}
               iTitle={item.iTitle}
               description={
-                <div
-                  dangerouslySetInnerHTML={{ __html: item.description }}
-                ></div>
+                <div>
+                  <br />
+                  <h4>Catálogo de Válvulas Hidráulicas de Aguja</h4>
+                  <p>
+                    En este video, presentamos nuestro catálogo para la
+                    selección adecuada de válvulas hidráulicas de aguja. Nuestro
+                    catálogo proporciona información detallada sobre las
+                    válvulas de aguja y cómo seleccionar la válvula adecuada
+                    para diversas aplicaciones hidráulicas.
+                  </p>
+
+                  <ul>
+                    <li>
+                      {" "}
+                      <strong>Variedad de Productos:</strong> Nuestro catálogo
+                      incluye una amplia gama de válvulas hidráulicas de aguja,
+                      que ofrecen diferentes tamaños, presiones y
+                      configuraciones de puerto para adaptarse a una variedad de
+                      aplicaciones industriales y móviles.
+                    </li>
+                    <li>
+                      {" "}
+                      <strong>Información Técnica:</strong> Proporcionamos
+                      detalles técnicos completos sobre cada válvula de aguja,
+                      incluyendo especificaciones de rendimiento, tales como psi
+                      (libras por pulgada cuadrada), gpm (galones por minuto),
+                      número de puertos y otras características importantes.
+                    </li>
+                    <li>
+                      {" "}
+                      <strong>Selección de Válvulas:</strong> Nuestro catálogo
+                      incluye pautas y recomendaciones sobre cómo seleccionar la
+                      válvula de aguja adecuada para su aplicación específica,
+                      teniendo en cuenta factores como la presión de trabajo, el
+                      flujo requerido, el tamaño de los puertos y otras
+                      necesidades técnicas.
+                    </li>
+                  </ul>
+
+                  <h4>Enlace a la Información Técnica</h4>
+
+                  <p>
+                    Para acceder a más información técnica sobre nuestras
+                    válvulas hidráulicas de aguja y explorar nuestra gama de
+                    productos, visite el siguiente enlace:
+                  </p>
+
+                  <p>
+                    <a href="https://www.tu.biz/products/industrial-valves/flow-control-valves">
+                      Información Técnica sobre Válvulas Hidráulicas de Aguja
+                    </a>
+                  </p>
+
+                  <p>
+                    ¡Esperamos que nuestro catálogo sea útil para ayudarlo a
+                    seleccionar la válvula de aguja adecuada para sus
+                    necesidades hidráulicas específicas!
+                  </p>
+                </div>
               }
               previous={item.previous}
               next={item.next}

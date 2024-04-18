@@ -4,7 +4,7 @@ import Link from "next/link";
 
 import Social2 from "./social-english";
 
-function Blogger2(props) {
+function VideoBlogger2(props) {
   return (
     <div>
       <div>
@@ -126,4 +126,4 @@ function Blogger2(props) {
   );
 }
 
-export default Blogger2;
+export default VideoBlogger2;

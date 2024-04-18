@@ -1,6 +1,6 @@
 import React from "react";
 // import { useEffect } from "react";
-import Blogger2 from "../../../components/blog-post-english";
+import VideoBlogger2 from "../../../components/blog-post-english";
 
 import db from "../../../utils/blogs-front/english/blog-english.json";
 
@@ -42,7 +42,7 @@ const PostEnglish58 = ({ db }) => {
         .filter((item) => item.id === "58")
         .map((item) => {
           return (
-            <Blogger2
+            <VideoBlogger2
               key={item.id}
               metaTitle={item.metaTitle}
               metaDescription={item.metaDescription}
