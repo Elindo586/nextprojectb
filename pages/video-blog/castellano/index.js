@@ -100,7 +100,7 @@ const BloggerFrontSpanish = ({ db }) => {
           />
           <meta
             property="og:url"
-            content="https://www.tu.biz/blog/castellano"
+            content="https://www.tu.biz/video-blog/castellano"
             id="meta-og-url"
           />
           <meta property="og:locale" content="es" />
@@ -108,7 +108,7 @@ const BloggerFrontSpanish = ({ db }) => {
           <meta
             name="image"
             property="og:image"
-            content="https://www.tu.biz//blog-images-spanish/blog-index-spanish.png"
+            content="https://www.tu.biz//video-blog-images-spanish/blog-index-spanish.png"
             id="meta-og-image"
           />
 
@@ -125,7 +125,7 @@ const BloggerFrontSpanish = ({ db }) => {
           />
           <meta
             name="twitter:image"
-            content="https://www.tu.biz/blog-images-spanish/blog-index-spanish.png"
+            content="https://www.tu.biz/video-blog-images-spanish/blog-index-spanish.png"
           />
         </Head>
       </div>
