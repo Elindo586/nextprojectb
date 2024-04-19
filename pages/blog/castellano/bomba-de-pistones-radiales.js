@@ -57,7 +57,88 @@ const PostSpanish15 = ({ db }) => {
               title={item.title}
               body={item.body}
               iTitle={item.iTitle}
-              description={item.description}
+              description={
+                <div>
+                  <br />
+                  <h4>
+                    La Bomba de Pistones Radiales: Una Guía para Seleccionarla
+                    Correctamente
+                  </h4>
+                  <br />
+                  <p>
+                    En el mundo de la ingeniería hidráulica, la selección
+                    adecuada de una bomba de pistones radiales es crucial para
+                    garantizar un rendimiento óptimo en sistemas de fluidos de
+                    potencia. Estas bombas son componentes esenciales en una
+                    variedad de aplicaciones industriales, desde maquinaria
+                    pesada hasta sistemas de control de procesos.
+                  </p>
+                  <br />
+                  <p>
+                    Para comprender cómo seleccionar correctamente una bomba de
+                    pistones radiales, es fundamental tener en cuenta varios
+                    parámetros técnicos clave, como psi (libras por pulgada
+                    cuadrada), gpm (galones por minuto) y rpm (revoluciones por
+                    minuto). Estos parámetros determinan la capacidad de la
+                    bomba para generar presión y caudal en el sistema
+                    hidráulico.
+                  </p>
+                  <br />
+                  <p>
+                    Para obtener información técnica detallada sobre bombas de
+                    pistones radiales, se puede consultar el siguiente enlace:{" "}
+                    <a href="https://www.tu.biz/products/piston-pumps">
+                      www.tu.biz/products/piston-pumps
+                    </a>
+                    .
+                  </p>
+                  <br />
+                  <h4>
+                    Parámetros a Considerar al Seleccionar una Bomba de Pistones
+                    Radiales:
+                  </h4>
+                  <ul>
+                    <li>
+                      Presión de Trabajo (psi): La presión de trabajo es la
+                      presión máxima que la bomba puede generar en el sistema.
+                      Es importante seleccionar una bomba con una capacidad de
+                      psi adecuada para las demandas del sistema.
+                    </li>
+                    <li>
+                      Caudal (gpm): El caudal se refiere a la cantidad de fluido
+                      que la bomba puede suministrar por minuto. Es crucial
+                      elegir una bomba que pueda proporcionar el caudal
+                      necesario para mantener el funcionamiento eficiente del
+                      sistema.
+                    </li>
+                    <li>
+                      Velocidad de Operación (rpm): La velocidad de operación de
+                      la bomba, medida en revoluciones por minuto, afecta
+                      directamente su rendimiento y vida útil. Es importante
+                      seleccionar una velocidad de operación que sea compatible
+                      con los requisitos de la aplicación y que garantice una
+                      operación suave y confiable.
+                    </li>
+                  </ul>
+                  <br />
+                  <p>
+                    Al seleccionar una bomba de pistones radiales, también es
+                    fundamental considerar otros factores, como la viscosidad
+                    del fluido, la temperatura de operación y la compatibilidad
+                    con otros componentes del sistema.
+                  </p>
+                  <br />
+                  <p>
+                    En resumen, la selección adecuada de una bomba de pistones
+                    radiales es crucial para garantizar un rendimiento óptimo en
+                    sistemas hidráulicos. Al considerar cuidadosamente los
+                    parámetros técnicos clave y consultar recursos como el
+                    enlace proporcionado, los ingenieros pueden tomar decisiones
+                    informadas que maximicen la eficiencia y la fiabilidad del
+                    sistema.
+                  </p>
+                </div>
+              }
               previous={item.previous}
               next={item.next}
             />
