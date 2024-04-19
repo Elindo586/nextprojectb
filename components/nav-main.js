@@ -124,9 +124,9 @@ function MainNav() {
             </Link>
           </li>
           <li className="nav-item">
-            <Link legacyBehavior href="/blog/english">
+            <Link legacyBehavior href="/video-blog/english">
               <a className="nav-link" onClick={title}>
-                Blogs
+                Video-Blogs
               </a>
             </Link>
           </li>

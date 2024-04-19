@@ -204,7 +204,7 @@ const BloggerFrontEnglish = ({ db }) => {
         </div>
         <div className="col-md-3">
           {" "}
-          <Link legacyBehavior href="/blog/castellano">
+          <Link legacyBehavior href="/video-blog/castellano">
             <a
               className="btn btn-info d-flex justify-content-center"
               target="blank"
