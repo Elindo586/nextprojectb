@@ -884,12 +884,12 @@ const nextConfig = {
       },
       {
         source: "/blog/tag/:rest*",
-        destination: "/blog/english",
+        destination: "/video-blog/english",
         permanent: true,
       },
       {
         source: "/blog/category/:rest*",
-        destination: "/blog/english",
+        destination: "/video-blog/english",
         permanent: true,
       },
       {
@@ -972,7 +972,7 @@ const nextConfig = {
       },
       {
         source: "/blog/hydac",
-        destination: "/blog/english",
+        destination: "/video-blog/english",
         permanent: true,
       },
       // {
