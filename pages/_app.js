@@ -6,6 +6,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import "../styles/general.css";
 import "../styles/pagination.scss";
 import Head from "next/head";
+import GoogleTags from "../components/google-tags";
 import MainNav from "../components/nav-main";
 import Footer from "../components/footer";
 import Script from "next/script";
@@ -192,10 +193,9 @@ function MyApp({ Component, pageProps }) {
             crossOrigin="anonymous"
           /> */}
         </div>
-
         <nav>
           <MainNav />
-        </nav>
+        </nav>{" "}
         <Component {...pageProps} />
         <div>
           <ChatContainer />

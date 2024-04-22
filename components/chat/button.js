@@ -37,7 +37,6 @@ const Button = () => {
           </button>
         </div>
       </Row>
-      <Row></Row>
     </Container>
   );
 };

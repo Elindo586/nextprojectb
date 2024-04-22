@@ -1399,7 +1399,7 @@ const nextConfig = {
       {
         source: "/products/directional-control-valves",
         source: "/directional-control-valves",
-        destination: "products/industrial-valves/directional-control-valves",
+        destination: "/products/industrial-valves/directional-control-valves",
         permanent: true,
       },
       {
