@@ -5,6 +5,18 @@ import Link from "next/link";
 import Social1 from "./social-spanish";
 
 function Blogger1(props) {
+  const displayText = () => {
+    document.getElementById("text").style.display = "block";
+    document.getElementById("less").style.display = "block";
+    document.getElementById("more").style.display = "none";
+  };
+
+  const hideText = () => {
+    document.getElementById("text").style.display = "none";
+    document.getElementById("less").style.display = "none";
+    document.getElementById("more").style.display = "block";
+  };
+
   return (
     <div>
       <div>
@@ -107,7 +119,17 @@ function Blogger1(props) {
             )}
           </div>
           <br />
-          <div className=""> {props.description} </div>
+          <div className="see-more" onClick={displayText} id="more">
+            <h4>Ver más información ... </h4>
+          </div>
+          <div className="video-blog-description" id="text">
+            {" "}
+            {props.description}{" "}
+          </div>
+          <div className="see-less" id="less" onClick={hideText}>
+            {" "}
+            <h4>Ver menos...</h4>
+          </div>
         </div>
         <div className="col-md-3">
           {" "}
