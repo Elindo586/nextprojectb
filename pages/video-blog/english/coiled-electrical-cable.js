@@ -60,6 +60,14 @@ const PostEnglish33 = ({ db }) => {
               description={
                 <div>
                   <br />
+
+                  <br />
+                  <p>
+                    {" "}
+                    Join us in this video to understand more about coiled
+                    electrical cable products.{" "}
+                  </p>
+                  <br />
                   <article>
                     <h4>Coiled Electrical Cable</h4>
                     <p>

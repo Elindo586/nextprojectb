@@ -62,6 +62,12 @@ const PostEnglish24 = ({ db }) => {
                   <br></br>
                   <article>
                     <h4>A-10V Hydraulic Piston Pumps Catalog</h4>
+                    <br />
+                    <p>
+                      {" "}
+                      Join us in this video as we explore the A10V catalog{" "}
+                    </p>
+                    <br />
 
                     <h4>Introduction</h4>
                     <p>

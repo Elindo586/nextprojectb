@@ -62,6 +62,12 @@ const PostEnglish29 = ({ db }) => {
                   <br />
                   <h4>Aluminum Gear Pump Catalog</h4>
                   <br />
+
+                  <p>
+                    {" "}
+                    Join us in this video as we explore Aluminum pump catalogs.{" "}
+                  </p>
+                  <br />
                   <p>
                     Welcome to our detailed exploration of aluminum gear pumps,
                     presented through our comprehensive catalog. In this video,

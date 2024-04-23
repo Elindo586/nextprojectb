@@ -60,6 +60,13 @@ const PostEnglish18 = ({ db }) => {
               description={
                 <div>
                   <br />
+                  <p>
+                    {" "}
+                    Join us in this video as we explore Hydraulic Check valves
+                    in hydraulics.{" "}
+                  </p>
+
+                  <br />
                   <h4>Understanding Hydraulic Check Valves</h4>
                   <p>
                     Welcome to our educational video on hydraulic check valves!

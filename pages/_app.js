@@ -170,7 +170,7 @@ function MyApp({ Component, pageProps }) {
             }}
           /> */}
 
-          {/* <Script
+          <Script
             strategy="afterInteractive"
             src="https://www.googletagmanager.com/gtag/js?id=G-4RB3V861V1"
           />
@@ -186,12 +186,12 @@ function MyApp({ Component, pageProps }) {
               gtag('config', 'G-4RB3V861V1');
             `,
             }}
-          /> */}
-          {/* <Script
+          />
+          <Script
             async
             src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8682017023658879"
             crossOrigin="anonymous"
-          /> */}
+          />
         </div>
         <nav>
           <MainNav />
