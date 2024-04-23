@@ -60,13 +60,7 @@ const PostEnglish9 = ({ db }) => {
               description={
                 <div>
                   <br />
-                  <br />
-                  <p>
-                    {" "}
-                    Join us in this video to learn more about fixed and variable
-                    pump displacements.{" "}
-                  </p>
-                  <br />
+
                   <h4>
                     Choosing Between Fixed Displacement and Variable
                     Displacement Hydraulic Pumps

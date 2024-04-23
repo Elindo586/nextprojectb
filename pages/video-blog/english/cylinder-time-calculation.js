@@ -61,12 +61,6 @@ const PostEnglish41 = ({ db }) => {
                 <div>
                   <br />
 
-                  <p>
-                    {" "}
-                    Join us in this video to understand cylinder time
-                    calculation for hydraulics.{" "}
-                  </p>
-                  <br />
                   <article>
                     <h4>Cylinder Time Calculation</h4>
                     <p>

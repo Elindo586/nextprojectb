@@ -1,10 +1,22 @@
-import React from "react";
+import React, { useEffect } from "react";
 import Head from "next/head";
 import Link from "next/link";
 
 import Social2 from "./social-english";
 
 function VideoBlogger2(props) {
+  const displayText = () => {
+    document.getElementById("text").style.display = "block";
+    document.getElementById("less").style.display = "block";
+    document.getElementById("more").style.display = "none";
+  };
+
+  const hideText = () => {
+    document.getElementById("text").style.display = "none";
+    document.getElementById("less").style.display = "none";
+    document.getElementById("more").style.display = "block";
+  };
+
   return (
     <div>
       <div>
@@ -105,7 +117,18 @@ function VideoBlogger2(props) {
             )}
           </div>
           <br />
-          <div className=""> {props.description} </div>
+          <br />
+          <div className="see-more" onClick={displayText} id="more">
+            <h4>See more information... </h4>
+          </div>
+          <div className="video-blog-description" id="text">
+            {" "}
+            {props.description}{" "}
+          </div>
+          <div className="see-less" id="less" onClick={hideText}>
+            {" "}
+            <h4>See Less...</h4>
+          </div>
         </div>
         <div className="col-md-3">
           {" "}

@@ -61,12 +61,6 @@ const PostEnglish39 = ({ db }) => {
                 <div>
                   <br />
 
-                  <p>
-                    {" "}
-                    Join us in this video to learn about our Eaton/Vickers
-                    crossovers.{" "}
-                  </p>
-                  <br />
                   <article>
                     <h4>Eaton Vickers Crossovers</h4>
 

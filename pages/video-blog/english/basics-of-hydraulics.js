@@ -61,12 +61,6 @@ const PostEnglish58 = ({ db }) => {
                 <div>
                   <br />
 
-                  <p>
-                    {" "}
-                    Join us in this video as we explore the Basics of
-                    Hydraulics.{" "}
-                  </p>
-                  <br />
                   <article>
                     <h4>The Basics of Hydraulics: Understanding Fluid Power</h4>
                     <p>

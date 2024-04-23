@@ -61,13 +61,6 @@ const PostEnglish54 = ({ db }) => {
                 <div>
                   <br />
 
-                  <p>
-                    {" "}
-                    Join us in this video as we explore Beata Ratio for
-                    Hydraulic Filtration.{" "}
-                  </p>
-                  <br />
-
                   <article>
                     <h4>
                       Understanding the Beta Ratio in Hydraulic Filtration:
