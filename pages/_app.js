@@ -1,12 +1,12 @@
 import { Provider } from "react-redux";
 import { store } from "./../components/chat/store";
-
+import GoogleTags from "../components/google-tags";
 import { useEffect } from "react";
 import "bootstrap/dist/css/bootstrap.css";
 import "../styles/general.css";
 import "../styles/pagination.scss";
 import Head from "next/head";
-import GoogleTags from "../components/google-tags";
+
 import MainNav from "../components/nav-main";
 import Footer from "../components/footer";
 import Script from "next/script";
@@ -170,7 +170,7 @@ function MyApp({ Component, pageProps }) {
             }}
           /> */}
 
-          <Script
+          {/* <Script
             strategy="afterInteractive"
             src="https://www.googletagmanager.com/gtag/js?id=G-4RB3V861V1"
           />
@@ -186,7 +186,7 @@ function MyApp({ Component, pageProps }) {
               gtag('config', 'G-4RB3V861V1');
             `,
             }}
-          />
+          /> */}
           {/* <Script
             async
             src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8682017023658879"
@@ -198,6 +198,7 @@ function MyApp({ Component, pageProps }) {
         </nav>{" "}
         <Component {...pageProps} />
         <div>
+          {/* <GoogleTags /> */}
           <ChatContainer />
           <Button />
         </div>

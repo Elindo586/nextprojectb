@@ -1028,13 +1028,14 @@
 /* Google tags */
 
 .main-cookies {
-  background-color: #555;
+  display: none;
+  background-color: whitesmoke;
   color: black;
+  margin: auto;
   padding: 10px 20px;
-  border: 3px solid #f1f1f1;
+  border: 5px solid black;
   cursor: pointer;
   position: fixed;
-  bottom: 100px;
-  left: 280px;
-  width: 500px;
+  top: 50%;
+  left: 5%;
 }
