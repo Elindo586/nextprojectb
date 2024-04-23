@@ -672,6 +672,7 @@ const nextConfig = {
         permanent: true,
       },
       {
+        source: "/gear-pumps/C101",
         source: "/download/dump-pumps.pdf",
         destination: "/pdf/dump-pumps.pdf",
         permanent: true,
