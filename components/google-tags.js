@@ -8,9 +8,9 @@ import { useEffect, useState } from "react";
 const GoogleTags = () => {
   const [load, setLoad] = useState(true);
 
-  const handleYes = () => {
-    document.getElementById("main-cookies-id").style.display = "none";
-  };
+  // const handleYes = () => {
+  //   document.getElementById("main-cookies-id").style.display = "none";
+  // };
   const handleNo = () => {
     document.getElementById("main-cookies-id").style.display = "none";
   };
@@ -28,30 +28,28 @@ const GoogleTags = () => {
     <Container id="main-cookies-id" className="main-cookies">
       <Row>
         {" "}
-        {/* <Script
-          id="gtag-init1"
+        <Script
+          id="google-tag1"
           strategy="afterInteractive"
           dangerouslySetInnerHTML={{
-            __html: ` 
+            __html: `      
               window.dataLayer = window.dataLayer || [];
-              unction gtag(){dataLayer.push(arguments);}
-              // Set default consent to 'denied' as a placeholder
-              // Determine actual values based on your own requirements
+              function gtag(){dataLayer.push(arguments);}
               gtag('consent', 'default', {
-              'ad_storage': 'denied',
-              'wait_for_update': 500,
-              'ad_user_data': 'denied',
-              'ad_personalization': 'denied',
-              'analytics_storage': 'denied'
-              `,
+                'ad_storage': 'denied',
+                'ad_user_data': 'denied',
+                'ad_personalization': 'denied',
+                'analytics_storage': 'denied'
+              });`,
           }}
-        /> */}
-        <Script
-          strategy="afterInteractive"
-          src="https://www.googletagmanager.com/gtag/js?id=G-4RB3V861V1"
         />
         {/* <Script
-          id="gtag-init"
+          id="google-tag2"
+          strategy="afterInteractive"
+          src="https://www.googletagmanager.com/gtag/js?id=G-4RB3V861V1"
+        /> */}
+        <Script
+          id="google-tag3"
           strategy="afterInteractive"
           dangerouslySetInnerHTML={{
             __html: `
@@ -59,24 +57,25 @@ const GoogleTags = () => {
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
               gtag('config', 'G-4RB3V861V1');
-              
             `,
           }}
-        /> */}
-        {/* <Script
-          id="gtag-function-update"
+        />
+        <Script
+          id="google-tag4"
           strategy="afterInteractive"
           dangerouslySetInnerHTML={{
-            __html: `function allConsentGranted() {
-  gtag('consent', 'update', {
-    'ad_user_data': 'granted',
-    'ad_personalization': 'granted',
-    'ad_storage': 'granted',
-    'analytics_storage': 'granted'
-  });
-}`,
+            __html: `
+            function allConsentGranted() {
+              gtag('consent', 'update', {
+                'ad_user_data': 'granted',
+                'ad_personalization': 'granted',
+                'ad_storage': 'granted',
+                'analytics_storage': 'granted'
+              });
+              document.getElementById("main-cookies-id").style.display = "none";
+            }`,
           }}
-        /> */}
+        />
       </Row>
       <Row>
         <div>
@@ -85,7 +84,7 @@ const GoogleTags = () => {
       </Row>
       <Row>
         <Col>
-          <button onClick={handleYes}>Yes</button>{" "}
+          <button onClick={allConsentGranted}>Yes</button>{" "}
         </Col>
         <Col>
           <button onClick={handleNo}>No</button>{" "}

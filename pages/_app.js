@@ -129,54 +129,9 @@ function MyApp({ Component, pageProps }) {
           </Head>
         </div>
         <div>
-          {/* <Script
-            strategy="afterInteractive"
-            src="https://www.googletagmanager.com/gtag/js?id=UA-36867189-2"
-          /> */}
-
-          {/* <Script
-            id="gtag-init"
-            strategy="afterInteractive"
-            dangerouslySetInnerHTML={{
-              __html: `
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-              gtag('config', 'UA-36867189-2');
-            `,
-            }}
-          /> */}
-          {/* <Script
-            async
-            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8682017023658879"
-            crossOrigin="anonymous"
-          /> */}
-
-          {/* <Script
-            id="gtag-init1"
-            strategy="afterInteractive"
-            dangerouslySetInnerHTML={{
-              __html: ` 
-              window.dataLayer = window.dataLayer || [];
-              unction gtag(){dataLayer.push(arguments);}
-              // Set default consent to 'denied' as a placeholder
-              // Determine actual values based on your own requirements
-              gtag('consent', 'default', {
-              'ad_storage': 'denied',
-              'ad_user_data': 'denied',
-              'ad_personalization': 'denied',
-              'analytics_storage': 'denied'
-              `,
-            }}
-          /> */}
-
+          {/* <GoogleTags /> */}
           <Script
-            strategy="afterInteractive"
-            src="https://www.googletagmanager.com/gtag/js?id=G-4RB3V861V1"
-          />
-
-          <Script
-            id="gtag-init"
+            id="google-tag3"
             strategy="afterInteractive"
             dangerouslySetInnerHTML={{
               __html: `
@@ -187,18 +142,17 @@ function MyApp({ Component, pageProps }) {
             `,
             }}
           />
-          <Script
+          {/* <Script
             async
             src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8682017023658879"
             crossOrigin="anonymous"
-          />
+          /> */}
         </div>
         <nav>
           <MainNav />
         </nav>{" "}
         <Component {...pageProps} />
         <div>
-          {/* <GoogleTags /> */}
           <ChatContainer />
           <Button />
         </div>
