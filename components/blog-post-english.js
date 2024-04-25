@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import Head from "next/head";
 import Link from "next/link";
+import Script from "next/script";
 
 import Social2 from "./social-english";
 
@@ -72,6 +73,7 @@ function VideoBlogger2(props) {
           <meta name="twitter:image" content={`${props.twitterImage}`} />
         </Head>
       </div>
+      <div></div>
       <div className="row">
         <div className="col-md-9">
           <div className="text-center">
