@@ -73,12 +73,38 @@ function VideoBlogger2(props) {
           <meta name="twitter:image" content={`${props.twitterImage}`} />
         </Head>
       </div>
-      <div></div>
+      <div>
+        <Script
+          id="video-script"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: ` type: "application/ld+json", {
+              
+      "@context": "https://schema.org",
+      "@type": "VideoObject",
+      "name": "${props.iTitle}",
+      "description": "${props.description}",
+      "thumbnailUrl": [
+        "${props.ogImage}",
+        
+       ],
+     
+      "contentUrl": "${props.ogURL}",
+      "embedUrl": "${props.body}",
+      "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": { "@type": "WatchAction" },
+        "userInteractionCount": 5647018
+      },
+            }`,
+          }}
+        />
+      </div>
       <div className="row">
         <div className="col-md-9">
           <div className="text-center">
             {" "}
-            <h3>{props.title}</h3> <br />
+            <h2>{props.title}</h2> <br />
           </div>
           <div className="ratio ratio-16x9">
             {" "}
@@ -121,7 +147,7 @@ function VideoBlogger2(props) {
           <br />
           <br />
           <div className="see-more" onClick={displayText} id="more">
-            <h4>See more information... </h4>
+            <h2>See more information... </h2>
           </div>
           <div className="video-blog-description" id="text">
             {" "}
@@ -129,7 +155,7 @@ function VideoBlogger2(props) {
           </div>
           <div className="see-less" id="less" onClick={hideText}>
             {" "}
-            <h4>See Less...</h4>
+            <h2>See Less...</h2>
           </div>
         </div>
         <div className="col-md-3">

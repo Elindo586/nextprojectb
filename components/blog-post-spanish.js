@@ -76,7 +76,7 @@ function Blogger1(props) {
         <div className="col-md-9">
           <div className="text-center">
             {" "}
-            <h3 lang="es">{props.title}</h3> <br />
+            <h2 lang="es">{props.title}</h2> <br />
           </div>
           <div className="ratio ratio-16x9">
             {" "}
@@ -120,7 +120,7 @@ function Blogger1(props) {
           </div>
           <br />
           <div className="see-more" onClick={displayText} id="more">
-            <h4>Ver más información ... </h4>
+            <h2>Ver más información ... </h2>
           </div>
           <div className="video-blog-description" id="text">
             {" "}
@@ -128,7 +128,7 @@ function Blogger1(props) {
           </div>
           <div className="see-less" id="less" onClick={hideText}>
             {" "}
-            <h4>Ver menos...</h4>
+            <h2>Ver menos...</h2>
           </div>
         </div>
         <div className="col-md-3">
