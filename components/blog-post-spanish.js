@@ -1,6 +1,7 @@
 import React from "react";
 import Head from "next/head";
 import Link from "next/link";
+import Script from "next/script";
 
 import Social1 from "./social-spanish";
 
@@ -71,6 +72,33 @@ function Blogger1(props) {
           />
           <meta name="twitter:image" content={`${props.twitterImage}`} />
         </Head>
+      </div>
+      <div>
+        <Script
+          id="video-script"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: ` type: "application/ld+json", {
+              
+      "@context": "https://schema.org",
+      "@type": "VideoObject",
+      "name": "${props.iTitle}",
+      "description": "${props.description}",
+      "thumbnailUrl": [
+        "${props.ogImage}",
+        
+       ],
+     
+      "contentUrl": "${props.ogURL}",
+      "embedUrl": "${props.body}",
+      "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": { "@type": "WatchAction" },
+        "userInteractionCount": 5647018
+      },
+            }`,
+          }}
+        />
       </div>
       <div className="row">
         <div className="col-md-9">
