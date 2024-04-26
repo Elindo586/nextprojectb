@@ -865,6 +865,7 @@ const nextConfig = {
         source: "/blog/dump-pump-catalog",
         source: "/blog/english/c101-c102-dump-pumps-catalog",
         source: "/blog/english/hydraulic-dump-pump-catalog",
+        source: "/video-blog/english/c101-c102-dump-pumps-catalog",
         destination: "/video-blog/english/hydraulic-dump-pump-catalog",
         permanent: true,
       },

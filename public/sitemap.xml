@@ -80,7 +80,7 @@
 
 
 <url>
-  <loc>https://www.tu.biz/blog/english</loc>
+  <loc>https://www.tu.biz/video-blog/english</loc>
   <image:image><image:loc>https://www.tu.biz/_next/image?url=%2Fblog-images-english%2Fhydraulic-circuit-simulation.png&amp;w=1200&amp;q=75</image:loc></image:image>
 <image:image><image:loc>https://www.tu.biz/_next/image?url=%2Fblog-images-english%2Fbasics-of-hydraulics.png&amp;w=1200&amp;q=75</image:loc></image:image>
 <image:image><image:loc>https://www.tu.biz/_next/image?url=%2Fblog-images-english%2Fhigh-low-hydraulic-circuit.png&amp;w=1200&amp;q=75</image:loc></image:image>
@@ -260,30 +260,106 @@
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/hydraulic-circuit-simulation</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/hydraulic-circuit-simulation.png
+  </video:thumbnail_loc>
+  <video:title>
+      Interactive Animation of a hydraulic circuit simulation.
+  </video:title>
+  <video:description>
+     Understanding a basic hydraulic circuit through interactive animated simulation.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/etnyttztS8Y?si=n64e80WNCj7zQ-OP
+  </video:player_loc>
+  
+</video:video>
+
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/basics-of-hydraulics</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/basics-of-hydraulics.png
+  </video:thumbnail_loc>
+  <video:title>
+      Basics of Hydraulics.
+  </video:title>
+  <video:description>
+     Understanding the secrets on how hydraulics work.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/nNOdH9OpJgE?si=1OuZ-EZGehSfXe8C
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/high-low-hydraulic-circuit</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/high-low-hydraulic-circuit.png
+  </video:thumbnail_loc>
+  <video:title>
+      High Low Hydraulic System Circuit.
+  </video:title>
+  <video:description>
+     Understanding how a high low hydraulic circuit works
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/WYtOSU4iEdQ?si=9Jgn7rudFo7ysikW
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/hydraulic-heat-removal-calculation</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/hydraulic-heat-removal-calculation.png
+  </video:thumbnail_loc>
+  <video:title>
+    Hydraulic heat removal calculation.
+  </video:title>
+  <video:description>
+     Learn how to calculate heat removal from your hydraulic system.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/jl1UOps7YAc?si=-ufKiqjfI09SbZjT
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/hydraulic-symbols-for-pumps-and-motors</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/hydraulic-symbols-for-pumps-and-motors.png
+  </video:thumbnail_loc>
+  <video:title>
+      Hydraulic symbols for pumps and motors.
+  </video:title>
+  <video:description>
+     Learn how to read and draw hydraulic schematic symbols for pump and motors.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/HvLanRZBP28?si=RWaH3Tn5ZhzBbbno
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.64</priority>
@@ -455,522 +531,1828 @@
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/beta-ratio</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/beta-ratio.png
+  </video:thumbnail_loc>
+  <video:title>
+      What is the Beta Ratio in hydraulic filtration?
+  </video:title>
+  <video:description>
+     Understanding Beta Ratio in hydraulic filtration.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/W7aeuDsh6uc?si=KfAq1um5gCaIgVO4
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/motores-hidraulicos-de-paletas</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/circuito-hidraulico-para-ahorrar-caballos-de-fuerza</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/simulacion-de-circuito-hidraulico</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/seleccion-de-motor-hidraulico</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/seleccion-de-bomba-hidraulica</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/how-does-a-needle-valve-work</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/how-does-a-needle-valve-work.png
+  </video:thumbnail_loc>
+  <video:title>
+      How does a hydraulic needle valve work?
+  </video:title>
+  <video:description>
+     Learn the secrets on how a needle valve work.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/6YINwa8rBcg?si=iwmz1lDjj3iICD_V
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/como-saber-si-tu-cilindro-hidraulico-funciona</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/parker-hannifin-and-denison-alternatives</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/parker-hannifin-and-denison-alternatives.png
+  </video:thumbnail_loc>
+  <video:title>
+      Parker Hannifin and Denison hydraulic alternatives.
+  </video:title>
+  <video:description>
+     List of hydraulic products to replace Parker Hannifin and Denison for other alternatives.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/U-tgcaHz-lE?si=cYtzqJKVfLu0Ku95
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/calculo-de-velocidad-de-cilindro-hidraulico</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/what-is-1714-in-hydraulics</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/exportador-industrial</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/what-is-1714-in-hydraulics.png
+  </video:thumbnail_loc>
+  <video:title>
+      What is 1714 in hydraulics?
+  </video:title>
+  <video:description>
+     Learn where does the 1714 constant is coming from in a hydraulic formula
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/H2UbkcLUKek?si=MbFlHtL1tUDFfAi8
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/micron-vs-mesh</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/micron-vs-mesh.png
+  </video:thumbnail_loc>
+  <video:title>
+      Micron vs. Mesh.
+  </video:title>
+  <video:description>
+     Understanding the differences between Micron and Mesh.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/DI1Gdoo8Rj0?si=WeIG-VCHrWY-nISD
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/calculo-de-tiempo-de-recorrido-de-cilindro-hidraulico</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/hydraulic-motor-rpm-calculation</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/hydraulic-motor-rpm-calculation.png
+  </video:thumbnail_loc>
+  <video:title>
+      Hydraulic Motor RPM Calculation.
+  </video:title>
+  <video:description>
+     Learn how to calculate the RPM of a hydraulic motor.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/vMz-Xg9GXvI?si=_umghppUS2bUk7EX
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/calculo-de-caballos-de-fuerza-para-cilindro-hidraulico</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/hybrid-pumps</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/hybrid-pumps.png
+  </video:thumbnail_loc>
+  <video:title>
+      Hydraulic Hybrid Pumps
+  </video:title>
+  <video:description>
+     Understanding how a hybrid pump works, and we can replace them too!!
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/Q4YfHnhrKN8?si=LXsu42rnHWNOpoue
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/como-funciona-una-valvula-aguja</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/how-does-a-gear-pump-work</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/how-does-a-gear-pump-work.png
+  </video:thumbnail_loc>
+  <video:title>
+      How does a gear pump work?
+  </video:title>
+  <video:description>
+     Understanding how a gear pump works.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/i3gjHycFRZg?si=cgLYN3yuGgjeOEZa
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/cable-electrico-espiralado</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/v10-v20-vane-pump-catalog</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/v10-v20-vane-pump-catalog.png
+  </video:thumbnail_loc>
+  <video:title>
+      V10 and V20 hydraulic vane pump catalog.
+  </video:title>
+  <video:description>
+     Catalog for proper selection of V10 and V20 hydraulic vane pump series.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/7UcHLtpSQ0Q?si=wJ99p-gHftPxGIDx
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/motores-hidraulicos-de-baja-velocidad-alto-torque</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/how-does-a-hydraulic-winch-work</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/filtracion-fuera-de-linea</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/how-does-a-hydraulic-winch-work.png
+  </video:thumbnail_loc>
+  <video:title>
+      How does a hydraulic winch work?
+  </video:title>
+  <video:description>
+     Understanding how a hydraulic winch work in a hydraulic machine.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/0Xmv_ac5y-c?si=nm9VPo1wVgIMlB8E
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/geroler-orbital-hydraulic-motor-catalog</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/geroler-orbital-hydraulic-motor-catalog.png
+  </video:thumbnail_loc>
+  <video:title>
+     Hydraulic Geroler / Orbital motor catalog.
+      
+  </video:title>
+  <video:description>
+     Find catalog for proper selection of hydraulic geroler / orbital motors
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/5xhYtB7LlJQ?si=MtzjDICnWHZqdNld
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/calculo-de-desplazamiento-de-bomba-hidraulica</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/how-does-fluid-power-work</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/how-does-fluid-power-work.png
+  </video:thumbnail_loc>
+  <video:title>
+      How does Fluid Power work?
+  </video:title>
+  <video:description>
+     Learn the basics and secrets on how Fluid Power works.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/M0ydq4GJyVY?si=QY6VwlzsneM8SUT8
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/reemplazos-de-valvulas-hidraulicas-direccionales</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/hydraulic-pump-retrofit</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/hydraulic-pump-retrofit.png
+  </video:thumbnail_loc>
+  <video:title>
+      Hydraulic Pump Retrofit.
+  </video:title>
+  <video:description>
+     Learn how to replace / retrofit any hydraulic pump from any brand.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/JkIjC-TO4PM?si=b8aUelZVaE8fRp0F
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/bosch-rexroth-vs-parker-hannifin-vs-eaton-vickers</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/cylinder-time-calculation</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/cylinder-time-calculation.png
+  </video:thumbnail_loc>
+  <video:title>
+      Cylinder time calculation.
+  </video:title>
+  <video:description>
+     Fluid Power formula to calculate hydraulic cylinder time.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/uviPQOJigc0?si=NRhq06PzTsGJBWah
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/calculo-de-rpm-de-motor-hidraulico</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/hydraulic-cylinder-horsepower-calculation</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/hydraulic-cylinder-horsepower-calculation.png
+  </video:thumbnail_loc>
+  <video:title>
+      Hydraulic cylinder horsepower calculation.
+  </video:title>
+  <video:description>
+     Learn to calculate horsepower for a hydraulic cylinder.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/WGpdNhfqiXE?si=0W3gnXxUks6hzC2T
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/calculo-de-torque-para-motor-hidraulico</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/eaton-vickers-crossovers</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/eaton-vickers-crossovers.png
+  </video:thumbnail_loc>
+  <video:title>
+      Eaton Vickers Crossovers.
+  </video:title>
+  <video:description>
+     List of hydraulic products to interchange with Eaton-Vickers.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/4pgiic8xQ-0?si=YPjP0K_m3ROPjnYl
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/catalogo-de-bombas-de-engranes-de-aluminio</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/hydraulic-directional-control-valves-replacements</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/hydraulic-directional-control-valves-replacements.png
+  </video:thumbnail_loc>
+  <video:title>
+      Hydraulic Directional Control Valves Replacements.
+  </video:title>
+  <video:description>
+     Learn how to replace hydraulic directional control valves from different brands.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/bq-Tyy8kXbE?si=afComKqdI-15B-N1
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/calculo-de-area-de-cilindro-hidraulico</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/hydraulic-directional-control-valves-catalog</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/hydraulic-directional-control-valves-catalog.png
+  </video:thumbnail_loc>
+  <video:title>
+      Hydraulic Directional Control Valves catalog.
+  </video:title>
+  <video:description>
+     Find catalog for proper selection of hydraulic directional control valves.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/PDj6oslPNVU?si=J1ztXaXX_bvQ24Br
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/codigos-iso-4406</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/what-is-231-in-hydraulics</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/what-is-231-in-hydraulics.png
+  </video:thumbnail_loc>
+  <video:title>
+      What is 231 in hydraulics?
+  </video:title>
+  <video:description>
+     Learn where is the 231 coming from in a hydraulic formula.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/OZrweSWujes?si=8PzoXumU3jWy-hb5
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/catalogo-de-bombas-de-pistones-a10v</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/hydraulic-pump-displacement-calculation</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/hydraulic-pump-displacement-calculation.png
+  </video:thumbnail_loc>
+  <video:title>
+      Hydraulic pump displacement calculation.
+  </video:title>
+  <video:description>
+     Learn how to calculate displacement for a hydraulic pump.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/j1K3HlpthPs?si=8q3Dmhq9Qlx9auzj
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/catalogo-de-motores-hidraulicos-geroler-orbitrol</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/hydraulic-dump-pump-catalog</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/hydraulic-dump-pump-catalog.png
+  </video:thumbnail_loc>
+  <video:title>
+      Hydraulic Dump Pump catalog.
+  </video:title>
+  <video:description>
+     Find catalog for proper selection of hydraulic dump pumps for your hydraulic system.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/4khMoF3QQxo?si=UwCPn5xYuSY2znJC
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/micron-vs-mesh</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/coiled-electrical-cable</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/coiled-electrical-cable.png
+  </video:thumbnail_loc>
+  <video:title>
+      Coiled electrical cable.
+  </video:title>
+  <video:description>
+     We handle coiled electrical cables for different industrial applications.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/nG4hB6YhJ20?si=pTvRPZju_N_vLHmp
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/catalogo-de-bombas-de-paletas-variable</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/hydraulic-motor-torque-calculation</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/hydraulic-motor-torque-calculation.png
+  </video:thumbnail_loc>
+  <video:title>
+      Hydraulic Motor Torque calculation.
+  </video:title>
+  <video:description>
+     Learn to calculate torque for a hydraulic motor.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/vqACiqOG2tQ?si=Qj-3awIaDKBQrudr
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/catalogo-de-valvulas-direccionales</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/hydraulic-vane-motor-catalog</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/hydraulic-vane-motor-catalog.png
+  </video:thumbnail_loc>
+  <video:title>
+      Hydraulic Vane Motor Catalog.
+  </video:title>
+  <video:description>
+     Catalog for proper selection of hydraulic vane motors.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/RNPFUt3ZhpA?si=-N7eAu4wEkuU6Prl
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/catalogo-de-bombas-de-pistones-radiales</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/pilot-crossover-check-valves</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/pilot-crossover-check-valves.png
+  </video:thumbnail_loc>
+  <video:title>
+      Pilot crossover check valves.
+  </video:title>
+  <video:description>
+     Understand how pilot crossover check valves work in your hydraulic system.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/buORPq1fbVE?si=WpNn4bKg3RwVWCGe
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/catalogo-de-valvulas-hidraulicas-de-aguja</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/aluminum-gear-pumps-catalog</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/aluminum-gear-pumps-catalog.png
+  </video:thumbnail_loc>
+  <video:title>
+      Aluminum Gear Pump catalog.
+  </video:title>
+  <video:description>
+     Find catalog for proper selection of hydraulic aluminum  gear pumps.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/_fbBU2wx6ZM?si=aguVlceHl62ft7Da
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/que-es-1714-en-hidraulica</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/iso-4406-codes</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/iso-4406-codes.png
+  </video:thumbnail_loc>
+  <video:title>
+      ISO 4406 codes.
+  </video:title>
+  <video:description>
+     Understanding the ISO 4406 codes for proper filtration.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/DTUdQ-m0WvA?si=081x92I6jK_IL-Ep
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/que-es-231-en-hidraulica</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/hydraulic-kidney-loop-off-line-filtration</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/hydraulic-kidney-loop-off-line-filtration.png
+  </video:thumbnail_loc>
+  <video:title>
+      Hydraulic kidney loop or Off Line filtration.
+  </video:title>
+  <video:description>
+     Understand how a hydraulic kidney loop / off line filtration system works.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/ob4EZEjWnSc?si=py2Ox2Jf8rC0hh93
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/como-funciona-la-hidraulica-de-potencia</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/variable-displacement-vane-pump-catalog</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/variable-displacement-vane-pump-catalog.png
+  </video:thumbnail_loc>
+  <video:title>
+      Variable Displacement Vane Pump Catalog.
+  </video:title>
+  <video:description>
+     Find catalog for proper selection of variable displacement hydraulic vane pumps.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/hKD7ToXdf1M?si=keakWYHH9t16YjAT
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/como-trabaja-un-winche-hidraulico</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/hydraulic-cylinder-area-calculation</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/hydraulic-cylinder-area-calculation.png
+  </video:thumbnail_loc>
+  <video:title>
+      Hydraulic cylinder area calculation.
+  </video:title>
+  <video:description>
+     Learn how to calculate the working area of your hydraulic cylinder.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/XtzW_5DgkWo?si=P-LTpDyJDhI-MmRR
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/hidraulica-vs-neumatica</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/a10v-hydraulic-piston-pump-catalog</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/a10v-hydraulic-piston-pump-catalog.png
+  </video:thumbnail_loc>
+  <video:title>
+      A10V Piston pump catalog from TU
+  </video:title>
+  <video:description>
+     Learn about the A10V piston pump catalog very easily.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/JAuYW_aG6lM?si=a6T_FrbIxARrOf4o
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/reemplazos-para-parker-hannifin-y-denison</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/radial-piston-pump-catalog</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/radial-piston-pump-catalog.png
+  </video:thumbnail_loc>
+  <video:title>
+      Radial Piston Pump Catalog.
+  </video:title>
+  <video:description>
+     Catalog for proper selection of hydraulic radial piston pumps.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/dmHqabM37rc?si=bRR_jKE-PMjjXGFH
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/circuito-de-seguridad-para-acumulador-hidraulico</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/hydraulic-fluid-power-symbols-for-hydraulic-pumps</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/hydraulic-fluid-power-symbols-for-hydraulic-pumps.png
+  </video:thumbnail_loc>
+  <video:title>
+      Hydraulic Fluid Power symbols for hydraulic pumps.
+  </video:title>
+  <video:description>
+     Learn to identified and draw hydraulic fluid power symbols for hydraulic pumps.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/-mJMn_qIkt8?si=cL990CBXzpBgfBp3
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/esquemas-de-bombas-y-motores-hidraulicos</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/hydraulic-fluid-power-symbols-for-pressure-valves</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/hydraulic-fluid-power-symbols-for-pressure-valves.png
+  </video:thumbnail_loc>
+  <video:title>
+      Fluid Power symbols for hydraulic pressure valves.
+  </video:title>
+  <video:description>
+     Learn to identified and draw hydraulic fluid power symbols for pressure relief valves.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/WicErqr0jlQ?si=Qv9w9ZHr1kKr7As
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/bombas-hidraulicas-hibridas</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/hydraulic-cylinder-speed-calculation</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/hydraulic-cylinder-speed-calculation.png
+  </video:thumbnail_loc>
+  <video:title>
+       Hydraulic cylinder speed calculation.
+  </video:title>
+  <video:description>
+     Learn how to calculate speed of a hydraulic cylinder for you hydraulic machine.
+  </video:description>
+  <video:player_loc>
+     https://www.youtube-nocookie.com/embed/VyVhTkji3tU?si=HO_R82mCOV6smpBe 
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/circuito-hidraulico-de-alta-y-baja</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/flow-control-valve-catalog</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/flow-control-valve-catalog.png
+  </video:thumbnail_loc>
+  <video:title>
+      Hydraulic Flow Control Valve | Catalogs
+  </video:title>
+  <video:description>
+     Learn to properly select a hydraulic flow control for your hydraulic system.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/vURbx__Q164?si=Kj6-lH0KOzjUoJeX
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/calculo-para-remover-calor-en-un-sistema-hidraulico</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/check-valves</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/check-valves.png
+  </video:thumbnail_loc>
+  <video:title>
+      Hydraulic Check Valves.
+  </video:title>
+  <video:description>
+     Learn how a hydraulic check valve works.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/WPFWiY1opR8?si=94S-H6NTT4L0jO_G
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/valvulas-check-crossover-pilotadas</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/catalogo-de-bombas-hidraulicas-de-paletas</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/how-to-interchange-hydraulic-pumps</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/how-to-interchange-hydraulic-pumps.png
+  </video:thumbnail_loc>
+  <video:title>
+      How to interchange hydraulic pumps.
+  </video:title>
+  <video:description>
+     Learn to replace and interchange any hydraulic pump for an alternative pump unit.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/y0d0EL7wiSU?si=5RsC4PIk7eX_WTgY
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/simbolos-hidraulicos-para-bombas-hidraulicas</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/vented-relief-valve</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/vented-relief-valve-circuit.png
+  </video:thumbnail_loc>
+  <video:title>
+      Vented Relief Valve.
+  </video:title>
+  <video:description>
+     Understanding how a vented relief valve works in a hydraulic circuit.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/2cqanoQfDKA?si=hvGoe6bieK-M0Nsw
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/simbolos-hidraulicos-para-valvulas-de-presion</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/hydraulic-pump-test</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/hydraulic-pump-test.png
+  </video:thumbnail_loc>
+  <video:title>
+      Hydraulic pump test.
+  </video:title>
+  <video:description>
+     Learn how to properly test a hydraulic pump.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/APtFsOWVsNw?si=7tUZv05rXy3gWJ8b
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/como-comprar-productos-industriales-en-estados-unidos</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/hydraulic-symbols-for-directional-control-valves</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/hydraulic-symbols-for-directional-control-valves.png
+  </video:thumbnail_loc>
+  <video:title>
+      Hydraulic symbols for directional control valves.
+  </video:title>
+  <video:description>
+     Learn to recognize and draw hydraulic symbols for directional control valves.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/cQ-9Wn7tBw8?si=mOvIpFO6G3tKKlxt
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/valvula-antiretorno-valvula-check</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
@@ -978,210 +2360,735 @@
 
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/como-intercambiar-bombas-hidraulicas</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/radial-piston-pump-selection</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/radial-piston-pump-selection.png
+  </video:thumbnail_loc>
+  <video:title>
+      Details for selection of a hydraulic radial piston pump.
+  </video:title>
+  <video:description>
+     Learn about the details of a hydraulic radial piston pump for proper pump selection.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/N1yjf0HCnGo?si=WTrtP1m1DtoVVfHe
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/reemplazos-para-eaton-vickers</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/pilot-operated-relief-valve-vs-direct-acting-relief-valve</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/pilot-operated-relief-valve.png
+  </video:thumbnail_loc>
+  <video:title>
+      Pilot operated relief valve vs. direct acting relief valve.
+  </video:title>
+  <video:description>
+     Understanding the differences between a pilot operated relief valve vs. a direct acting relief valve.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/_6ie5bMEl50?si=W3RPQQ4TyZtTuW6r
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/circuito-hidraulico-de-valvula-de-alivio-ventilada</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/fluid-power-formulas</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/fluid-power-formulas.png
+  </video:thumbnail_loc>
+  <video:title>
+      Fluid Power Formulas
+  </video:title>
+  <video:description>
+     Make sure to interact with our Fluid Power Calculator to solve your hydraulic formulas.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/8C3MTzsYE4s?si=dbogW2ufaDne-oEE
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/como-solucionar-problemas-en-un-circuito-hidraulico</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/fixed-displacement-pump-vs-variable-displacement-pump</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/fixed-displacement-pump-vs-variable-displacement-pump.png
+  </video:thumbnail_loc>
+  <video:title>
+      Fixed displacement hydraulic pump vs. variable displacement hydraulic pump.
+  </video:title>
+  <video:description>
+     Understanding the difference between a fixed displacement pump vs. a variable displacement pump.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/_ScaHQIqnx8?si=iagxFaAgeyAKtIRA
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/prueba-de-bomba-hidraulica</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/meter-in-meter-out-hydraulic-circuit</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/hydraulic-circuit-meter-in-meter-out.png
+  </video:thumbnail_loc>
+  <video:title>
+      Meter-in Meter-out Hydraulic circuit.
+  </video:title>
+  <video:description>
+     Understanding how a meter-in meter-out circuit works in a hydraulic system.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/gc_O9PwRiok?si=TIwFZVSYYe9FHKHr
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/simbolos-hidraulicos-para-valvulas-direccionales</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/hydraulic-manifold</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/hydraulic-manifold-catalog.png
+  </video:thumbnail_loc>
+  <video:title>
+      Hydraulic Manifold Catalogs
+  </video:title>
+  <video:description>
+     Catalogs for proper selection of hydraulic manifolds.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/LWGY917kHGk?si=9Vcy2fQCJ0s7dOil
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/catalogo-de-bombas-hidraulicas-c101-c102</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/load-sensing-control</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/load-sensing-control.png
+  </video:thumbnail_loc>
+  <video:title>
+      Load Sensing Control
+  </video:title>
+  <video:description>
+     how a load sensing control for a hydraulic pump works.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/hfxwjT1rB44?si=G55Bh7vZet-rwQE_
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/bomba-de-pistones-radiales</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/pressure-compensated-pump-control-adjustment</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/pressure-compensated-pump-control.png
+  </video:thumbnail_loc>
+  <video:title>
+      Adjustment of a pressure compensated control for a hydraulic pump
+  </video:title>
+  <video:description>
+     Learn how to properly adjust a pressure compensated control of a hydraulic pump.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/vq5TyJBKIbM?si=CuZ7kQ02yrJPMyVT
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/como-saber-si-tu-bomba-hidraulica-funciona</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2023-11-01 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/hydraulic-cylinder-force-calculation</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/cylinder-force-calculation.png
+  </video:thumbnail_loc>
+  <video:title>
+      Hydraulic Cylinder Force Calculation
+  </video:title>
+  <video:description>
+     Learn how to calculate the cylinder force for your hydraulic system.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/M-wsllOxfeA?si=BOVYhMEVMnmn_E7B
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/como-seleccionar-un-cilindro-hidraulico</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/horsepower-fluid-power-calculation</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/HP-English.png
+  </video:thumbnail_loc>
+  <video:title>
+      How to calculate hydraulic horsepower
+  </video:title>
+  <video:description>
+     Learn how to properly calculate hydraulic horsepower needed for your hydraulic system.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/82sEwGEgIs8?si=HoWL4X60neI_JIzf
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/calculo-de-caballos-de-fuerza-para-hidraulica</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/how-to-test-a-pressure-compensated-pump</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/pressure-comp-pump-test.png
+  </video:thumbnail_loc>
+  <video:title>
+      How to test a pressure compensated pump
+  </video:title>
+  <video:description>
+     Here is where you can learn how to test a pressure compensated pump quick and easy.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/Dnwom8tI7FA?si=Hk3NKFBNho3hSCy0
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/valvula-de-alivio-pilotada</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/english/what-is-a-pressure-relief-valve</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      https://www.tu.biz/video-blog-images-english/pressure-relief-valve.png
+  </video:thumbnail_loc>
+  <video:title>
+      What is a pressure relief valve?
+  </video:title>
+  <video:description>
+     Understanding a pressure relief valve, uses, requirements, and why it is important in the hydraulic system.
+  </video:description>
+  <video:player_loc>
+      https://www.youtube-nocookie.com/embed/Z4sLwGu1Xdk?si=EPZ8rofdclxKl7Pq
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/beta-en-filtracion-industrial</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/formulas-de-hidraulica</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/bomba-de-caudal-fijo-vs-bomba-de-caudal-variable</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/circuito-hidraulico-meter-in-meter-out</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/manifold-hidraulico</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/control-de-load-sensing</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/ajuste-de-control-para-bomba-de-presion-compensada</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/fuerza-hidraulica-de-un-cilindro</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/calculo-de-potencia-hidraulica</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/valvula-de-alivio</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://www.tu.biz/video-blog/castellano/prueba-de-bomba-hidraulica-de-presion-compensada</loc>
+  <video:video>
+  <video:thumbnail_loc>
+      
+  </video:thumbnail_loc>
+  <video:title>
+      
+  </video:title>
+  <video:description>
+     
+  </video:description>
+  <video:player_loc>
+      
+  </video:player_loc>
+  
+</video:video>
   <lastmod> 2024-04-17 </lastmod>
 
   <priority>0.33</priority>
