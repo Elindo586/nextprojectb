@@ -106,7 +106,7 @@ function VideoBlogger2(props) {
             {" "}
             <h2>{props.title}</h2> <br />
           </div>
-          <div className="ratio ratio-16x9">
+          <div className="ratio ratio-16x9 col-md-9">
             {" "}
             <iframe
               width="560"
@@ -117,9 +117,10 @@ function VideoBlogger2(props) {
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
             ></iframe>{" "}
-          </div>{" "}
-          <br />
-          <div>
+            <br />
+            <br />
+          </div>
+          <div className="col-md-12">
             <Social2 /> <br />
           </div>
           <div className="col-md-12 centering-btn">
@@ -160,7 +161,7 @@ function VideoBlogger2(props) {
         </div>
         <div className="col-md-3">
           {" "}
-          <Link legacyBehavior href="/blog/castellano">
+          <Link legacyBehavior href="/video-blog/castellano">
             <a
               className="btn btn-info d-flex justify-content-center"
               target="blank"

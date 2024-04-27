@@ -25,7 +25,7 @@ const GoogleTags = () => {
   }, []);
 
   return (
-    <Container id="main-cookies-id" className="main-cookies">
+    <Container md={8} xs={8} id="main-cookies-id" className="main-cookies ">
       <Row>
         {" "}
         <Script

@@ -106,7 +106,7 @@ function Blogger1(props) {
             {" "}
             <h2 lang="es">{props.title}</h2> <br />
           </div>
-          <div className="ratio ratio-16x9">
+          <div className="ratio ratio-16x9 col-md-9">
             {" "}
             <iframe
               width="560"
@@ -119,7 +119,7 @@ function Blogger1(props) {
             ></iframe>{" "}
           </div>{" "}
           <br />
-          <div>
+          <div className="col-md-12">
             <Social1 /> <br />
           </div>
           <div className="col-md-12 centering-btn">
@@ -161,7 +161,7 @@ function Blogger1(props) {
         </div>
         <div className="col-md-3">
           {" "}
-          <Link legacyBehavior href="/blog/english">
+          <Link legacyBehavior href="/video-blog/english">
             <a
               className="btn btn-info d-flex justify-content-center"
               target="blank"
