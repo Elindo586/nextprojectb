@@ -155,13 +155,16 @@ const BloggerFrontSpanish = ({ db }) => {
                     {" "}
                     <h4 lang="es">{item.title}</h4>
                   </div>
-                  <Image
-                    src={item.picture}
-                    alt={item.alt}
-                    width={600}
-                    height={315}
-                    priority={true} // {false} | {true}
-                  ></Image>
+                  <span className="d-flex justify-content-center">
+                    <Image
+                      src={item.picture}
+                      alt={item.alt}
+                      width={600}
+                      height={315}
+                      priority={true} // {false} | {true}
+                    ></Image>
+                  </span>
+                  <br />
                   <div lang="es">
                     {" "}
                     <Link legacyBehavior href={item.link}>

@@ -115,7 +115,7 @@ const Home = () => {
           </div>
         </div>
         <div className="col-md-6" lang="en">
-          <span>
+          <span className="d-flex justify-content-center">
             <Image
               src="/images/maintenance-1.png"
               id="maintenance1"
@@ -124,7 +124,7 @@ const Home = () => {
               height={400}
             />
           </span>
-          <span>
+          <span className="d-flex justify-content-center">
             <Image
               src="/images/oil-analysis2.png"
               id="oilanalysis2"
