@@ -77,6 +77,7 @@ const GerolerMotor = () => {
                 alt="hydraulic geroloer motors"
                 width={168}
                 height={137}
+                priority={true}
               />
             </span>
             <br />

@@ -76,6 +76,7 @@ const HydraulicManifolds = () => {
                 alt="hydraulic manifolds"
                 width={250}
                 height={187}
+                priority={true}
               />
             </span>
             <br />

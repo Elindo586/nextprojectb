@@ -79,6 +79,7 @@ const GearPumps = () => {
                 alt="hydraulic gear pumps"
                 width={316}
                 height={105}
+                priority={true}
               />
             </span>
             <br />

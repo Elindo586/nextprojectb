@@ -19,7 +19,7 @@ const CarouselMain = () => {
             alt="tu world"
             width={1710}
             height={315}
-            priority={true} // {false} | {true}
+            priority={true}
           />
         </Carousel.Item>
         <Carousel.Item className="carousel-item">
@@ -29,7 +29,6 @@ const CarouselMain = () => {
             alt="hydraulic pumps"
             width={1710}
             height={315}
-            priority={true} // {false} | {true}
           />
         </Carousel.Item>
         <Carousel.Item className="carousel-item ">
@@ -39,7 +38,6 @@ const CarouselMain = () => {
             alt="mobile hydraulic valves"
             width={1710}
             height={315}
-            priority={true} // {false} | {true}
           />
         </Carousel.Item>
         <Carousel.Item className="carousel-item">
@@ -49,7 +47,6 @@ const CarouselMain = () => {
             alt="hydraulic motors"
             width={1710}
             height={315}
-            priority={true} // {false} | {true}
           />
         </Carousel.Item>
         <Carousel.Item className="carousel-item">
@@ -59,7 +56,6 @@ const CarouselMain = () => {
             alt="hydraulic manifolds"
             width={1710}
             height={315}
-            priority={true} // {false} | {true}
           />
         </Carousel.Item>
         <Carousel.Item className="carousel-item ">
@@ -69,7 +65,6 @@ const CarouselMain = () => {
             alt="everything industrial"
             width={1710}
             height={315}
-            priority={true} // {false} | {true}
           />
         </Carousel.Item>
       </Carousel>
