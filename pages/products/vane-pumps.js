@@ -77,6 +77,7 @@ const VanePumps = () => {
                 alt="hydraulic vane pumps"
                 width={264}
                 height={117}
+                priority={true}
               />
             </span>
             <br />

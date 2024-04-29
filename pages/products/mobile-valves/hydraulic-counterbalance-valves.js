@@ -90,6 +90,7 @@ const MobileCounterbalanceValves = () => {
                 alt="mobile hydraulic counterbalance valve"
                 width={180.5}
                 height={150}
+                priority={true}
               />
             </span>
             <br />

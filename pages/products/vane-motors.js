@@ -70,6 +70,7 @@ const VaneMotors = () => {
                 alt="hydraulic vane motors"
                 width={268}
                 height={132}
+                priority={true}
               />
             </span>
             <br />

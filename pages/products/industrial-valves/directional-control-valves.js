@@ -84,6 +84,7 @@ const DirectionalControlValves = () => {
                 alt="directional control valves"
                 width={272}
                 height={85}
+                priority={true}
               />
             </span>
             <br />

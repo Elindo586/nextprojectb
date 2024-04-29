@@ -77,6 +77,7 @@ const FlowControlValves = () => {
                 alt="flow control valves"
                 width={236}
                 height={128}
+                priority={true}
               />
             </span>
             <br />
