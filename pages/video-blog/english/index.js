@@ -131,7 +131,7 @@ const BloggerFrontEnglish = ({ db }) => {
       </div>
       {db.map((item, id) => (
         <div key={id}>
-          {/* {console.log(item.twitterImage)} */}
+          {console.log(item.twitterImage)}
           <ImageMetadata
             contentUrl={item.twitterImage}
             acquireLicensePage="https://www.tu.biz/video-blog/english"

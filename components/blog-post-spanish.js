@@ -77,8 +77,9 @@ function Blogger1(props) {
         <Script
           id="video-script"
           strategy="afterInteractive"
+          type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: ` type: "application/ld+json", {
+            __html: `  {
               
       "@context": "https://schema.org",
       "@type": "VideoObject",
