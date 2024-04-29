@@ -4,6 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 import Head from "next/head";
 import Pagination from "../../../components/pagination";
+import ImageMetadata from "../../../components/data-structure/image-metadata";
 
 import db from "../../../utils/blogs-front/english/blog-english";
 
@@ -128,6 +129,16 @@ const BloggerFrontEnglish = ({ db }) => {
           />
         </Head>
       </div>
+      {db.map((item, id) => (
+        <div key={id}>
+          {console.log(item.twitterImage)}
+          <ImageMetadata
+            contentUrl={item.twitterImage}
+            acquireLicensePage="https://www.tu.biz/video-blog/english"
+          />
+        </div>
+      ))}
+
       <div className="row">
         <div className="col-md-9">
           <div>
