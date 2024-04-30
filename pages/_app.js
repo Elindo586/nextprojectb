@@ -157,7 +157,7 @@ function MyApp({ Component, pageProps }) {
         </nav>{" "}
         <Component {...pageProps} />
         <div>
-          <GoogleTags />
+          {/* <GoogleTags /> */}
           <ChatContainer />
           <Button />
         </div>
