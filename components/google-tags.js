@@ -53,7 +53,7 @@ const GoogleTags = () => {
             `,
           }}
         />
-        <Script
+        {/* <Script
           id="check-cookies"
           strategy="afterInteractive"
           dangerouslySetInnerHTML={{
@@ -83,7 +83,7 @@ const GoogleTags = () => {
     })();
     `,
           }}
-        />
+        /> */}
         <Script
           id="google-tag4"
           strategy="afterInteractive"
