@@ -130,6 +130,11 @@ function MyApp({ Component, pageProps }) {
         </div>
         <div>
           {/* <Script
+            id="google-tag2"
+            strategy="afterInteractive"
+            src="https://www.googletagmanager.com/gtag/js?id=G-4RB3V861V1"
+          /> */}
+          {/* <Script
             id="google-tag3"
             strategy="afterInteractive"
             dangerouslySetInnerHTML={{
@@ -152,7 +157,7 @@ function MyApp({ Component, pageProps }) {
         </nav>{" "}
         <Component {...pageProps} />
         <div>
-          <GoogleTags />
+          {/* <GoogleTags /> */}
           <ChatContainer />
           <Button />
         </div>
