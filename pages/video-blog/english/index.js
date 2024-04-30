@@ -129,15 +129,8 @@ const BloggerFrontEnglish = ({ db }) => {
           />
         </Head>
       </div>
-      {db.map((item, id) => (
-        <div key={id}>
-          {/* {console.log(item.twitterImage)} */}
-          <ImageMetadata
-            contentUrl={item.twitterImage}
-            acquireLicensePage="https://www.tu.biz/video-blog/english"
-          />
-        </div>
-      ))}
+
+      <ImageMetadata acquireLicensePage="https://www.tu.biz/video-blog/english" />
 
       <div className="row">
         <div className="col-md-9">

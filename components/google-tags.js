@@ -5,6 +5,8 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import { useEffect } from "react";
 
+// Define allConsentGranted outside the component
+
 const GoogleTags = () => {
   const handleNo = () => {
     document.getElementById("main-cookies-id").style.display = "none";
@@ -19,13 +21,14 @@ const GoogleTags = () => {
       setTimeout(() => {
         document.getElementById("main-cookies-id").style.display = "block";
       }, 2000);
+    } else if (localStorage.getItem("theTags1") === "tagsAccepted") {
+      window.allConsentGranted();
     }
   }, []);
 
   return (
-    <Container md={8} xs={8} id="main-cookies-id" className="main-cookies ">
+    <Container md={10} xs={10} id="main-cookies-id" className="main-cookies ">
       <Row>
-        {" "}
         <Script
           id="google-tag1"
           strategy="afterInteractive"
@@ -41,6 +44,7 @@ const GoogleTags = () => {
               });`,
           }}
         />
+
         <Script
           id="google-tag3"
           strategy="afterInteractive"
@@ -53,37 +57,6 @@ const GoogleTags = () => {
             `,
           }}
         />
-        {/* <Script
-          id="check-cookies"
-          strategy="afterInteractive"
-          dangerouslySetInnerHTML={{
-            __html: `
-    (function() {
-      function allConsentGrantedCheck() {
-        if (localStorage.getItem("theTags1") === "tagsAccepted") {
-          gtag('consent', 'update', {
-            'ad_user_data': 'granted',
-            'ad_personalization': 'granted',
-            'ad_storage': 'granted',
-            'analytics_storage': 'granted'
-          }); 
-          document.getElementById("main-cookies-id").style.display = "none";
-          console.log("tagsAccepted");
-         
-        }
-        
-        if (localStorage.getItem("theTags2") === "tagsNotAccepted") {
-          document.getElementById("main-cookies-id").style.display = "none";
-         
-        }
-      }
-      
-      // Call the function immediately
-      allConsentGrantedCheck();
-    })();
-    `,
-          }}
-        /> */}
         <Script
           id="google-tag4"
           strategy="afterInteractive"
@@ -102,39 +75,40 @@ const GoogleTags = () => {
           }}
         />
       </Row>
-
-      <Row>
-        <div>
-          <h4>Privacy Preferences</h4>
-          <p>
-            We use cookies and similar methods to recognize visitors and
-            remember their preferences.{" "}
-          </p>
-          <p>
-            We also use them to measure ad campaign effectiveness, target ads
-            and analyze site traffic.
-          </p>
-          <br />
-        </div>
-      </Row>
-      <Row>
-        <Col>
-          <button
-            onClick={() => {
-              if (typeof window.allConsentGranted !== "undefined") {
-                window.allConsentGranted();
-              } else {
-                console.log("allConsentGranted not found in global scope");
-              }
-            }}
-          >
-            Accept All
-          </button>{" "}
-        </Col>
-        <Col>
-          <button onClick={handleNo}>Decline All</button>{" "}
-        </Col>
-      </Row>
+      <div>
+        <Row>
+          <div>
+            <h4>Privacy Preferences</h4>
+            <p>
+              We use cookies and similar methods to recognize visitors and
+              remember their preferences.{" "}
+            </p>
+            <p>
+              We also use them to measure ad campaign effectiveness, target ads
+              and analyze site traffic.
+            </p>
+            <br />
+          </div>
+        </Row>
+        <Row>
+          <Col>
+            <button
+              onClick={() => {
+                if (typeof window.allConsentGranted !== "undefined") {
+                  window.allConsentGranted();
+                } else {
+                  console.log("allConsentGranted not found in global scope");
+                }
+              }}
+            >
+              Accept All
+            </button>{" "}
+          </Col>
+          <Col>
+            <button onClick={handleNo}>Decline All</button>{" "}
+          </Col>
+        </Row>
+      </div>
     </Container>
   );
 };

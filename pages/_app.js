@@ -134,7 +134,7 @@ function MyApp({ Component, pageProps }) {
             strategy="afterInteractive"
             src="https://www.googletagmanager.com/gtag/js?id=G-4RB3V861V1"
           /> */}
-          <Script
+          {/* <Script
             id="google-tag3"
             strategy="afterInteractive"
             dangerouslySetInnerHTML={{
@@ -145,7 +145,7 @@ function MyApp({ Component, pageProps }) {
               gtag('config', 'G-4RB3V861V1');
             `,
             }}
-          />
+          /> */}
           {/* <Script
             async
             src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8682017023658879"
@@ -157,7 +157,7 @@ function MyApp({ Component, pageProps }) {
         </nav>{" "}
         <Component {...pageProps} />
         <div>
-          {/* <GoogleTags /> */}
+          <GoogleTags />
           <ChatContainer />
           <Button />
         </div>
