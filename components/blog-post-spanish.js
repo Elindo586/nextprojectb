@@ -84,7 +84,7 @@ function Blogger1(props) {
       "@context": "https://schema.org",
       "@type": "VideoObject",
       "name": "${props.iTitle}",
-      "description": "${props.description}",
+      "description": "${props.metaDescription}",
       "thumbnailUrl": [
         "${props.ogImage}",
         
