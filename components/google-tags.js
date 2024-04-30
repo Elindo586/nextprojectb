@@ -19,8 +19,6 @@ const GoogleTags = () => {
       setTimeout(() => {
         document.getElementById("main-cookies-id").style.display = "block";
       }, 2000);
-    } else if (localStorage.getItem("theTags1") === "tagsAccepted") {
-      window.allConsentGranted();
     }
   }, []);
 
@@ -42,11 +40,6 @@ const GoogleTags = () => {
                 'analytics_storage': 'denied'
               });`,
           }}
-        />
-        <Script
-          id="google-tag2"
-          strategy="afterInteractive"
-          src="https://www.googletagmanager.com/gtag/js?id=G-4RB3V861V1"
         />
         <Script
           id="google-tag3"
