@@ -470,7 +470,7 @@ const Formulas = () => {
     "@type": ["MathSolver", "LearningResource"],
     "name": "An awesome Fluid Power Formulas solver",
     "url": "https://www.tu.biz/fluid-power-formulas",
-    
+    "usageInfo": "https://www.tu.biz/fluid-power-formulas",
     "inLanguage": "en",
     "potentialAction": [{
       "@type": "SolveMathAction",
@@ -485,7 +485,7 @@ const Formulas = () => {
     "@type": ["MathSolver", "LearningResource"],
     "name": "Un solucionador formulas para hidráulica",
     "url": "https://www.tu.biz/fluid-power-formulas",
-
+    "usageInfo": "https://www.tu.biz/fluid-power-formulas",
     "inLanguage": "es",
     "potentialAction": [{
       "@type": "SolveMathAction",
