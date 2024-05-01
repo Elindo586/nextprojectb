@@ -85,10 +85,10 @@ function VideoBlogger2(props) {
       "@type": "VideoObject",
       "name": "${props.iTitle}",
       "description": "${props.metaDescription}",
-      "thumbnailUrl": [
+      "thumbnailUrl": 
         "${props.ogImage}",
         
-       ]
+       
      
       "contentUrl": "${props.ogURL}",
       "embedUrl": "${props.body}",
