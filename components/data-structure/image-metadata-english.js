@@ -17,6 +17,7 @@ const ImageMetadataEnglish = () => {
   return (
     <Script
       id="image-metadata"
+      strategy="afterInteractive"
       type="application/ld+json"
       dangerouslySetInnerHTML={{
         __html: JSON.stringify(content, null, 2),

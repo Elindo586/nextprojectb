@@ -4,6 +4,7 @@ import Head from "next/head";
 import Link from "next/link";
 import PumpForm from "../../components/pump-form";
 import ProductNav from "../../components/nav-products";
+import PistonPumpVariable from "../../components/data-structure/products/piston-pump-variable";
 
 const PistonPumps = () => {
   return (
@@ -64,6 +65,7 @@ const PistonPumps = () => {
           />
         </Head>
       </div>
+      <PistonPumpVariable />
 
       <div className="row">
         <div className="col-md-9">

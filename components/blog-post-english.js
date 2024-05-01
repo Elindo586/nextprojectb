@@ -100,6 +100,28 @@ function VideoBlogger2(props) {
             }`,
           }}
         />
+        <Script
+          id="video-article"
+          strategy="afterInteractive"
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: `"@context": "https://schema.org",
+    "@type": "Article",
+    headline: "${props.iTitle}",
+    image: [
+      "${props.twitterImage}",
+      
+    ],
+    
+    author: [
+      {
+        "@type": "Person",
+        name: "Edgar Lindo",
+        url: "https://www.edgarlindo.com/",
+      },
+    ],`,
+          }}
+        />
       </div>
       <div className="row">
         <div className="col-md-9">
