@@ -105,21 +105,21 @@ function Blogger1(props) {
           strategy="afterInteractive"
           type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: `{
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "${props.iTitle}",
-      "image": 
-        "${props.twitterImage}",
-       
-      "datePublished": "2024-01-05T08:00:00+08:00",
-      "dateModified": "2024-02-05T09:20:00+08:00",
-      "author": {
-          "@type": "Person",
-          "name": "Edgar Lindo",
-          "url": "https://www.edgarlindo.com"
-        },
-    }
+            __html: `
+            {
+              "@context": "https://schema.org",
+               "@type": "Article",
+                "headline": "${props.iTitle}",
+                "image": "${props.twitterImage}",
+               "datePublished": "2024-01-05T08:00:00+08:00",
+               "dateModified": "2024-02-05T09:20:00+08:00",
+               "author": 
+                {
+                  "@type": "Person",
+                  "name": "Edgar Lindo",
+                  "url": "https://www.edgarlindo.com"
+                 }
+            }
           `,
           }}
         />
