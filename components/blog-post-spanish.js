@@ -111,7 +111,7 @@ function Blogger1(props) {
     image: [
       "${props.twitterImage}",
       
-    ],
+    ]
     
     author: [
       {
