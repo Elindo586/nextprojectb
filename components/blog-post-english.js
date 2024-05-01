@@ -80,36 +80,13 @@ function VideoBlogger2(props) {
           type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: `  
-            {
-              
-      "@context": "https://schema.org",
-      "@type": "VideoObject",
-      "name": "${props.iTitle}",
-      "description": "${props.metaDescription}",
-      "thumbnailUrl":  "${props.ogImage}",
-      "contentUrl": "${props.ogURL}",
-      "embedUrl": "${props.body}",
-      "interactionStatistic": {
-        "@type": "InteractionCounter",
-        "interactionType": { "@type": "WatchAction" },
-        "userInteractionCount": 5647018
-      },
-            }`,
-          }}
-        />
-        <Script
-          id="video-article"
-          strategy="afterInteractive"
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: `
-            {
+            [
+  {
     "@context": "https://schema.org",
     "@type": "VideoObject",
     "name": "${props.iTitle}",
     "description": "${props.metaDescription}",
     "thumbnailUrl": "${props.ogImage}",
-
     "contentUrl": "${props.ogURL}",
     "embedUrl": "${props.body}",
     "interactionStatistic": {
@@ -117,10 +94,47 @@ function VideoBlogger2(props) {
       "interactionType": { "@type": "WatchAction" },
       "userInteractionCount": 5647018
     }
+  },
+
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "${props.iTitle}",
+    "image": "${props.twitterImage}",
+    "datePublished": "2024-01-05T08:00:00+08:00",
+    "dateModified": "2024-02-05T09:20:00+08:00",
+    "author": {
+      "@type": "Person",
+      "name": "Edgar Lindo",
+      "url": "https://www.edgarlindo.com"
+    }
+  }
+]
+`,
+          }}
+        />
+        {/* <Script
+          id="video-article"
+          strategy="afterInteractive"
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: `
+            {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "${props.iTitle}",
+    "image": "${props.twitterImage}",
+    "datePublished": "2024-01-05T08:00:00+08:00",
+    "dateModified": "2024-02-05T09:20:00+08:00",
+    "author": {
+      "@type": "Person",
+      "name": "Edgar Lindo",
+      "url": "https://www.edgarlindo.com"
+    }
   }
           `,
           }}
-        />
+        /> */}
       </div>
       <div className="row">
         <div className="col-md-9">
