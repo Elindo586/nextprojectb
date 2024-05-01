@@ -88,7 +88,7 @@ function Blogger1(props) {
       "thumbnailUrl": [
         "${props.ogImage}",
         
-       ],
+       ]
      
       "contentUrl": "${props.ogURL}",
       "embedUrl": "${props.body}",
