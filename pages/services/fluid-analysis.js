@@ -76,29 +76,29 @@ const Laboratory = () => {
         strategy="afterInteractive"
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: `{
-            "@context": "https://schema.org",
-            "@type": "WebPage",
-            name: "Fluid Analysis",
-            description:
-              "TU provides a full range of oil analysis services to monitor your fluids working conditions. As a pro-active maintenance practice, oil analysis is crucial to detect problems within your machinery before a problem becomes bigger and more expensive issue to deal in your plant.",
+          __html: `
+          {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Fluid Analysis",
+    "description": "TU provides a full range of oil analysis services to monitor your fluids working conditions. As a pro-active maintenance practice, oil analysis is crucial to detect problems within your machinery before a problem becomes bigger and more expensive issue to deal in your plant.",
 
-            url: "https://www.tu.biz/fluid-analysis",
-            inLanguage: "en",
-            author: {
-              "@type": "Person",
-              name: "Edgar Lindo",
-            },
-            publisher: {
-              "@type": "Organization",
-              name: "TU",
-              url: "https://www.tu.biz",
-              logo: {
-                "@type": "ImageObject",
-                url: "https://www.tu.biz/images/tu-favicon.png",
-              },
-            },
-          }`,
+    "url": "https://www.tu.biz/fluid-analysis",
+    "inLanguage": "en",
+    "author": {
+      "@type": "Person",
+      "name": "Edgar Lindo"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TU",
+      "url": "https://www.tu.biz",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.tu.biz/images/tu-favicon.png"
+      }
+    }
+  }`,
         }}
       />
 

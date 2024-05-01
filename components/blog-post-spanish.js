@@ -80,24 +80,20 @@ function Blogger1(props) {
           type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: `  {
-              
-      "@context": "https://schema.org",
-      "@type": "VideoObject",
-      "name": "${props.iTitle}",
-      "description": "${props.metaDescription}",
-      "thumbnailUrl": 
-        "${props.ogImage}",
-        
-       
-     
-      "contentUrl": "${props.ogURL}",
-      "embedUrl": "${props.body}",
-      "interactionStatistic": {
-        "@type": "InteractionCounter",
-        "interactionType": { "@type": "WatchAction" },
-        "userInteractionCount": 5647018
-      },
-            }`,
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "${props.iTitle}",
+    "description": "${props.metaDescription}",
+    "thumbnailUrl": "${props.ogImage}",
+
+    "contentUrl": "${props.ogURL}",
+    "embedUrl": "${props.body}",
+    "interactionStatistic": {
+      "@type": "InteractionCounter",
+      "interactionType": { "@type": "WatchAction" },
+      "userInteractionCount": 5647018
+    }
+  }`,
           }}
         />
         <Script
