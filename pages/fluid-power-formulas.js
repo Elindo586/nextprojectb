@@ -1,6 +1,7 @@
 import React from "react";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import Head from "next/head";
+import Script from "next/script";
 
 const Formulas = () => {
   // state for Force
@@ -428,6 +429,77 @@ const Formulas = () => {
           />
         </Head>
       </div>
+      <Script
+        id="fluid-power-formulas-web-page"
+        strategy="afterInteractive"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: `{
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "name": "Fluid Power Formulas Calculator",
+            "description": "Fluid Power calculator | PSI, Force, GPM, Speed, etc.. fluid power calculation at your finger tips.",
+            "url": "https://www.tu.biz/fluid-power-formulas",
+            "inLanguage": "en",
+            "author": {
+              "@type": "Person",
+              "name": "Edgar Lindo"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "TU",
+              "url": "https://www.tu.biz",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.tu.biz/images/tu-favicon.png"
+              }
+            }
+          }`,
+        }}
+      />
+
+      <Script
+        id="fluid-power-formulas-calculator"
+        strategy="afterInteractive"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: `
+          [
+  {
+    "@context": "https://schema.org",
+    "@type": ["MathSolver", "LearningResource"],
+    "name": "An awesome Fluid Power Formulas solver",
+    "url": "https://www.tu.biz/fluid-power-formulas",
+    
+    "inLanguage": "en",
+    "potentialAction": [{
+      "@type": "SolveMathAction",
+      "target": "https://www.tu.biz/fluid-power-formulas",
+      "mathExpression-input": ["psi", "rpm", "hp", "area", "force", "speed", "torque"],
+      "eduQuestionType": ["hydraulic equations","fluid power formulas"]
+     }],
+    "learningResourceType": "Math solver"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": ["MathSolver", "LearningResource"],
+    "name": "Un solucionador formulas para hidráulica",
+    "url": "https://www.tu.biz/fluid-power-formulas",
+
+    "inLanguage": "es",
+    "potentialAction": [{
+      "@type": "SolveMathAction",
+      "target": "https://www.tu.biz/fluid-power-formulas",
+      "mathExpression-input": ["psi", "rpm", "hp", "area", "fuerza", "velocidad", "torque"],
+      "eduQuestionType": ["ecuaciones hidráulicas","fórmulas de potencia de fluidos"]
+     }],
+    "learningResourceType": "Math solver"
+  }
+]
+          `,
+        }}
+      />
+
       <div className="row" lang="en">
         <div className="col-md-12">
           <div className="formulas-title">
