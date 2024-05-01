@@ -115,7 +115,7 @@ function VideoBlogger2(props) {
                   "@type": "Person",
                   "name": "Edgar Lindo",
                   "url": "https://www.edgarlindo.com"
-                 }
+                 },
             }
           `,
           }}

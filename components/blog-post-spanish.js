@@ -118,7 +118,7 @@ function Blogger1(props) {
                   "@type": "Person",
                   "name": "Edgar Lindo",
                   "url": "https://www.edgarlindo.com"
-                 }
+                 },
             }
           `,
           }}
