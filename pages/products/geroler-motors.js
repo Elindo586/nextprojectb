@@ -4,6 +4,7 @@ import Head from "next/head";
 import Link from "next/link";
 import MotorForm from "../../components/Motor-form";
 import ProductNav from "../../components/nav-products";
+import GerolerMotorScript from "../../components/data-structure/products/motor-geroler-script";
 
 const GerolerMotor = () => {
   return (
@@ -66,6 +67,7 @@ const GerolerMotor = () => {
           />
         </Head>
       </div>
+      <GerolerMotorScript />
       <div className="row">
         <div className="col-md-9 table-responsive">
           <div className="col-md-12">
