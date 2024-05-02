@@ -1,4 +1,13 @@
-[
+import Script from "next/script";
+
+const VaneMotorScript = () => (
+  <Script
+    id="product-metadata"
+    strategy="afterInteractive"
+    type="application/ld+json"
+    dangerouslySetInnerHTML={{
+      __html: `
+      [
   {
     "@context": "https://schema.org/",
     "@type": "Product",
@@ -49,3 +58,10 @@
     }
   }
 ]
+
+      `,
+    }}
+  />
+);
+
+export default VaneMotorScript;
