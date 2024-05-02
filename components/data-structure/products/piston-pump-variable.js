@@ -103,6 +103,26 @@ const PistonPumpVariable = () => (
         "name": "Edgar Lindo"
       }
     }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "ImageObject",
+    "contentUrl": "https://www.tu.biz/images/rexrothpump-1.png",
+    "acquireLicensePage": "https://www.tu.biz/products/piston-pumps",
+    "creator": {
+      "@type": "Person",
+      "name": "Edgar Lindo"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "ImageObject",
+    "contentUrl": "https://www.tu.biz//images/radial-piston-pump.png",
+    "acquireLicensePage": "https://www.tu.biz/products/piston-pumps",
+    "creator": {
+      "@type": "Person",
+      "name": "Edgar Lindo"
+    }
   }
 ]
 
