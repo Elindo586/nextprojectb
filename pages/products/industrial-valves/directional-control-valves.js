@@ -3,6 +3,7 @@ import Image from "next/image";
 import Head from "next/head";
 import Link from "next/link";
 import ProductNav from "../../../components/nav-products";
+import IndustrialValvesDirectionalScript from "../../../components/data-structure/products/industrial-valves-directional-script";
 
 const DirectionalControlValves = () => {
   return (
@@ -72,6 +73,7 @@ const DirectionalControlValves = () => {
           />
         </Head>
       </div>
+      <IndustrialValvesDirectionalScript />
       <div className="row" lang="en">
         <div className="col-md-9 table-responsive">
           <div className="col-md-12">
