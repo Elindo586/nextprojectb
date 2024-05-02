@@ -17,6 +17,18 @@ const PistonPumpVariable = () => (
     "brand": {
       "@type": "Brand",
       "name": "TU piston pump"
+    },
+    "review": {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 4.5,
+        "bestRating": 5
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Edgar Lindo"
+      }
     }
   },
   {
@@ -29,6 +41,18 @@ const PistonPumpVariable = () => (
     "brand": {
       "@type": "Brand",
       "name": "TU piston pump"
+    },
+    "review": {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 4.5,
+        "bestRating": 5
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Edgar Lindo"
+      }
     }
   },
   {
@@ -41,6 +65,18 @@ const PistonPumpVariable = () => (
     "brand": {
       "@type": "Brand",
       "name": "TU piston pump"
+    },
+    "review": {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 4.5,
+        "bestRating": 5
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Edgar Lindo"
+      }
     }
   },
   {
@@ -53,9 +89,22 @@ const PistonPumpVariable = () => (
     "brand": {
       "@type": "Brand",
       "name": "TU piston pump"
+    },
+    "review": {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 4.5,
+        "bestRating": 5
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Edgar Lindo"
+      }
     }
   }
 ]
+
 `,
     }}
   />
