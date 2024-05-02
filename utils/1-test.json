@@ -3,9 +3,9 @@
     "@context": "https://schema.org/",
     "@type": "Product",
     "inLanguage": "en",
-    "image": "https://www.tu.biz/images/directional-control-valves.png",
-    "name": "Hydraulic Directional Control Valves",
-    "description": "D03 and D05 directional control valves with solenoid and manual actuation",
+    "image": "https://www.tu.biz/images/flow-control-valves.png",
+    "name": "Hydraulic Flow Control Valves | Needle Valves",
+    "description": "NPT and SAE flow control valves for hydraulic systems",
     "brand": {
       "@type": "Brand",
       "name": "TU valves"
@@ -28,9 +28,9 @@
     "@context": "https://schema.org/",
     "@type": "Product",
     "inLanguage": "es",
-    "image": "https://www.tu.biz/images/directional-control-valves.png",
-    "name": "Válvulas de control direccional hidráulicas",
-    "description": "Válvulas de control direccional D03 y D05 con accionamiento solenoide y manual",
+    "image": "https://www.tu.biz/images/flow-control-valves.png",
+    "name": "Válvulas de control de flujo hidráulico | Válvulas de aguja",
+    "description": "Válvulas de control de flujo NPT y SAE para sistemas hidráulicos",
     "brand": {
       "@type": "Brand",
       "name": "TU valves"

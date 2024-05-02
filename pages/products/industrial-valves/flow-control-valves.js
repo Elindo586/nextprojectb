@@ -3,6 +3,7 @@ import Image from "next/image";
 import Head from "next/head";
 import Link from "next/link";
 import ProductNav from "../../../components/nav-products";
+import IndustrialValvesFlowControlScript from "../../../components/data-structure/products/industrial-valves-flow-control";
 
 const FlowControlValves = () => {
   return (
@@ -62,10 +63,11 @@ const FlowControlValves = () => {
           />
           <meta
             name="twitter:image"
-            content="https://www.tu.biz/oppictures/directional-control-valves.png"
+            content="https://www.tu.biz/oppictures/flow-control-valves.png"
           />
         </Head>
       </div>
+      <IndustrialValvesFlowControlScript />
       <div className="row" lang="en">
         <div className="col-md-9 table-responsive">
           <div className="col-md-12">
