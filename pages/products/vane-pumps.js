@@ -4,6 +4,7 @@ import Link from "next/link";
 import Head from "next/head";
 import PumpForm from "../../components/pump-form";
 import ProductNav from "../../components/nav-products";
+import VanePump from "../../components/data-structure/products/vane-pump";
 
 const VanePumps = () => {
   return (
@@ -66,6 +67,7 @@ const VanePumps = () => {
           />
         </Head>
       </div>
+      <VanePump />
       <div className="row">
         <div className="col-md-9 table-responsive">
           <div className="col-md-12">

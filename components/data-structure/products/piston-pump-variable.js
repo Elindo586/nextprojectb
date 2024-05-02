@@ -31,6 +31,7 @@ const PistonPumpVariable = () => (
       }
     }
   },
+  
   {
     "@context": "https://schema.org/",
     "@type": "Product",
