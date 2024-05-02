@@ -4,6 +4,7 @@ import Head from "next/head";
 import Link from "next/link";
 import MotorForm from "../../components/Motor-form";
 import ProductNav from "../../components/nav-products";
+import VaneMotorScript from "../../components/data-structure/products/motor-vane-script";
 
 const VaneMotors = () => {
   return (
@@ -58,6 +59,7 @@ const VaneMotors = () => {
           />
         </Head>
       </div>
+      <VaneMotorScript />
       <div className="row">
         <div className="col-md-9 table-responsive">
           <div className="col-md-12"></div>
