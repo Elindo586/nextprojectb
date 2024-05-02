@@ -3,6 +3,7 @@ import Image from "next/image";
 import Head from "next/head";
 import Link from "next/link";
 import ProductNav from "../../components/nav-products";
+import ManifoldScript from "../../components/data-structure/products/manifold-script";
 
 const HydraulicManifolds = () => {
   return (
@@ -65,6 +66,7 @@ const HydraulicManifolds = () => {
           />
         </Head>
       </div>
+      <ManifoldScript />
       <div className="row">
         <div className="col-md-9 table-responsive">
           <div className="col-md-12">
