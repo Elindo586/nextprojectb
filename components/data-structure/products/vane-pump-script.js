@@ -40,13 +40,13 @@ const VanePump = () => (
     "description": "VQ, VHO series double and triple vane pump",
     "brand": {
       "@type": "Brand",
-      "name": "TU vane pump"
+      "name": "TU vane pumps"
     },
     "review": {
       "@type": "Review",
       "reviewRating": {
         "@type": "Rating",
-        "ratingValue": 4.5,
+        "ratingValue": 4,
         "bestRating": 5
       },
       "author": {
@@ -64,13 +64,13 @@ const VanePump = () => (
     "description": "Series SV-10, SV-15, variable displacement vane pump",
     "brand": {
       "@type": "Brand",
-      "name": "TU vane pump"
+      "name": "TU vane pumps"
     },
     "review": {
       "@type": "Review",
       "reviewRating": {
         "@type": "Rating",
-        "ratingValue": 4.5,
+        "ratingValue": 4,
         "bestRating": 5
       },
       "author": {
@@ -94,7 +94,7 @@ const VanePump = () => (
       "@type": "Review",
       "reviewRating": {
         "@type": "Rating",
-        "ratingValue": 4.5,
+        "ratingValue": 4,
         "bestRating": 5
       },
       "author": {
@@ -112,7 +112,7 @@ const VanePump = () => (
     "description": "Bomba de paletas doble y triple de las series VQ, VHO",
     "brand": {
       "@type": "Brand",
-      "name": "TU Vane pumps"
+      "name": "TU vane pumps"
     },
     "review": {
       "@type": "Review",
@@ -136,7 +136,7 @@ const VanePump = () => (
     "description": "Bomba series SV-10, SV-15 de paletas de desplazamiento variable",
     "brand": {
       "@type": "Brand",
-      "name": "TU Vane pumps
+      "name": "TU vane pumps"
     },
     "review": {
       "@type": "Review",
@@ -152,8 +152,6 @@ const VanePump = () => (
     }
   }
 ]
-
-
 `,
     }}
   />

@@ -4,7 +4,7 @@ import Link from "next/link";
 import Head from "next/head";
 import PumpForm from "../../components/pump-form";
 import ProductNav from "../../components/nav-products";
-import VanePump from "../../components/data-structure/products/vane-pump";
+import VanePump from "../../components/data-structure/products/vane-pump-script";
 
 const VanePumps = () => {
   return (
