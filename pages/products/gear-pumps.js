@@ -4,6 +4,7 @@ import Head from "next/head";
 import Link from "next/link";
 import PumpForm from "../../components/pump-form";
 import ProductNav from "../../components/nav-products";
+import GearPumpScript from "../../components/data-structure/products/gear-pump-script";
 
 const GearPumps = () => {
   return (
@@ -68,6 +69,7 @@ const GearPumps = () => {
           />
         </Head>
       </div>
+      <GearPumpScript />
       <div className="row">
         <div className="col-md-9 table-responsive">
           <div className="col-md-12">
