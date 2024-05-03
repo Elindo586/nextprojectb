@@ -103,6 +103,26 @@ const GearPumpScript = () => (
         "name": "Edgar Lindo"
       }
     }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "ImageObject",
+    "contentUrl": "https://www.tu.biz/images/gear-pumps.png",
+    "acquireLicensePage": "https://www.tu.biz/products/gear-pumps",
+    "creator": {
+      "@type": "Person",
+      "name": "Edgar Lindo"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "ImageObject",
+    "contentUrl": "https://www.tu.biz/images/dump-pump.png",
+    "acquireLicensePage": "https://www.tu.biz/products/gear-pumps",
+    "creator": {
+      "@type": "Person",
+      "name": "Edgar Lindo"
+    }
   }
 ]
 `,
