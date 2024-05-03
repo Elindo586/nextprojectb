@@ -8,23 +8,21 @@ import { useEffect } from "react";
 // Define allConsentGranted outside the component
 
 const GoogleTags = () => {
-  const handleNo = () => {
-    document.getElementById("main-cookies-id").style.display = "none";
-    localStorage.setItem("theTags2", "tagsNotAccepted");
-  };
-
   useEffect(() => {
     if (
-      !localStorage.getItem("theTags1") &&
-      !localStorage.getItem("theTags2")
+      !sessionStorage.getItem("theTags1") &&
+      !sessionStorage.getItem("theTags2")
     ) {
       setTimeout(() => {
         document.getElementById("main-cookies-id").style.display = "block";
       }, 2000);
-    } else if (localStorage.getItem("theTags1") === "tagsAccepted") {
-      window.allConsentGranted();
     }
   }, []);
+
+  const handleNo = () => {
+    document.getElementById("main-cookies-id").style.display = "none";
+    sessionStorage.setItem("theTags2", "tagsNotAccepted");
+  };
 
   return (
     <Container md={10} xs={10} id="main-cookies-id" className="main-cookies ">
@@ -75,7 +73,7 @@ const GoogleTags = () => {
               
 
               document.getElementById("main-cookies-id").style.display = "none";
-              localStorage.setItem("theTags1", "tagsAccepted");
+              sessionStorage.setItem("theTags1", "tagsAccepted");
             }`,
           }}
         />
