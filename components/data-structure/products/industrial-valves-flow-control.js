@@ -56,6 +56,15 @@ const IndustrialValvesFlowControlScript = () => (
         "name": "Edgar Lindo"
       }
     }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "ImageObject",
+    "contentUrl": "https://www.tu.biz/images/flow-control-valves.png",
+    "creator": {
+      "@type": "Person",
+      "name": "Edgar Lindo"
+    }
   }
 ]
 

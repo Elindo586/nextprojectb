@@ -56,6 +56,15 @@ const IndustrialValvesDirectionalScript = () => (
         "name": "Edgar Lindo"
       }
     }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "ImageObject",
+    "contentUrl": "https://www.tu.biz/images/directional-control-valves.png",
+    "creator": {
+      "@type": "Person",
+      "name": "Edgar Lindo"
+    }
   }
 ]
 
