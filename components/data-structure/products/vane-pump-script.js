@@ -150,6 +150,36 @@ const VanePump = () => (
         "name": "Edgar Lindo"
       }
     }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "ImageObject",
+    "contentUrl": "https://www.tu.biz/images/single-vane-pumps.png",
+    "acquireLicensePage": "https://www.tu.biz/products/vane-pumps",
+    "creator": {
+      "@type": "Person",
+      "name": "Edgar Lindo"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "ImageObject",
+    "contentUrl": "https://www.tu.biz/images/variable-displacement-vane-pump.png",
+    "acquireLicensePage": "https://www.tu.biz/products/vane-pumps",
+    "creator": {
+      "@type": "Person",
+      "name": "Edgar Lindo"
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "ImageObject",
+    "contentUrl": "https://www.tu.biz//images/vq-vho-vane-pumps.png",
+    "acquireLicensePage": "https://www.tu.biz/products/vane-pumps",
+    "creator": {
+      "@type": "Person",
+      "name": "Edgar Lindo"
+    }
   }
 ]
 `,
