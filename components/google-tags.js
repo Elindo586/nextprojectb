@@ -41,7 +41,10 @@ const GoogleTags = () => {
                 'ad_user_data': 'denied',
                 'ad_personalization': 'denied',
                 'analytics_storage': 'denied'
-              });`,
+              });
+              gtag('set', 'url_passthrough', true);
+              gtag('set', 'ads_data_redaction', true);
+              `,
           }}
         />
 
@@ -69,6 +72,8 @@ const GoogleTags = () => {
                 'ad_storage': 'granted',
                 'analytics_storage': 'granted'
               });
+              
+
               document.getElementById("main-cookies-id").style.display = "none";
               localStorage.setItem("theTags1", "tagsAccepted");
             }`,
