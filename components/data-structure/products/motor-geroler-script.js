@@ -56,6 +56,15 @@ const GerolerMotorScript = () => (
         "name": "Edgar Lindo"
       }
     }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "ImageObject",
+    "contentUrl": "https://www.tu.biz/images/geroloer-motors.png",
+    "creator": {
+      "@type": "Person",
+      "name": "Edgar Lindo"
+    }
   }
 ]
 
