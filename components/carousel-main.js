@@ -13,59 +13,70 @@ const CarouselMain = () => {
     <div className=" tu-world">
       <Carousel>
         <Carousel.Item className="carousel-item active">
-          <Image
-            className="c-image"
-            src={TuWorld}
-            alt="tu world"
-            width={1710}
-            height={315}
-            priority={true}
-          />
+          <span className="d-flex justify-content-center">
+            <Image
+              id="carousel-inner"
+              src={TuWorld}
+              alt="tu world"
+              width={1710}
+              height={315}
+              priority={true}
+            />
+          </span>
         </Carousel.Item>
         <Carousel.Item className="carousel-item">
-          <Image
-            className="c-image"
-            src={HydraulicPumps}
-            alt="hydraulic pumps"
-            width={1710}
-            height={315}
-          />
+          <span className="d-flex justify-content-center">
+            <Image
+              src={HydraulicPumps}
+              alt="hydraulic pumps"
+              width={1710}
+              height={315}
+            />
+          </span>
         </Carousel.Item>
         <Carousel.Item className="carousel-item ">
-          <Image
-            className="c-image"
-            src={MobileValves}
-            alt="mobile hydraulic valves"
-            width={1710}
-            height={315}
-          />
+          <span className="d-flex justify-content-center">
+            <Image
+              id="carousel-inner"
+              src={MobileValves}
+              alt="mobile hydraulic valves"
+              width={1710}
+              height={315}
+            />
+          </span>
         </Carousel.Item>
         <Carousel.Item className="carousel-item">
-          <Image
-            className="c-image"
-            src={HydraulicMotors}
-            alt="hydraulic motors"
-            width={1710}
-            height={315}
-          />
+          <span className="d-flex justify-content-center">
+            <Image
+              id="carousel-inner"
+              src={HydraulicMotors}
+              alt="hydraulic motors"
+              width={1710}
+              height={315}
+            />
+          </span>
         </Carousel.Item>
         <Carousel.Item className="carousel-item">
-          <Image
-            className="c-image"
-            src={ValvesManifolds}
-            alt="hydraulic manifolds"
-            width={1710}
-            height={315}
-          />
+          <span className="d-flex justify-content-center">
+            <Image
+              id="carousel-inner"
+              src={ValvesManifolds}
+              alt="hydraulic manifolds"
+              width={1710}
+              height={315}
+            />
+          </span>
         </Carousel.Item>
         <Carousel.Item className="carousel-item ">
-          <Image
-            className="c-image"
-            src={Everything}
-            alt="everything industrial"
-            width={1710}
-            height={315}
-          />
+          <span className="d-flex justify-content-center">
+            <Image
+              id="carousel-inner"
+              src={Everything}
+              alt="everything industrial"
+              width={1710}
+              height={315}
+            />
+          </span>
         </Carousel.Item>
       </Carousel>
     </div>

@@ -77,8 +77,7 @@ const Home = () => {
         <CarouselMain />
       </div>
       <div className="row">
-        <div className="row" lang="en"></div>
-        <div className="col-md-6" lang="en">
+        <div className="col-md-6 index-padding" lang="en">
           <p className="maintext">
             <strong> TU </strong> is your single source for industrial
             components in the areas of hydraulics, pneumatics, electrical, and
@@ -115,7 +114,7 @@ const Home = () => {
           </div>
         </div>
         <div className="col-md-6" lang="en">
-          <span className="d-flex justify-content-center">
+          <span className=" justify-content-center">
             <Image
               src="/images/maintenance-1.png"
               id="maintenance1"
@@ -124,11 +123,12 @@ const Home = () => {
               height={400}
             />
           </span>
-          <span className="d-flex justify-content-center">
+          <span className=" justify-content-center">
             <Image
               src="/images/oil-analysis2.png"
               id="oilanalysis2"
               alt="oil analysis sample"
+              // sizes="(max-width: 250px) 100vw, (max-width: 350px) 50vw, 33vw"
               width={700}
               height={400}
             />

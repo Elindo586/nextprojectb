@@ -159,6 +159,7 @@ const BloggerFrontSpanish = ({ db }) => {
                   </div>
                   <span className="d-flex justify-content-center">
                     <Image
+                      id="blog-image"
                       src={item.picture}
                       alt={item.alt}
                       width={600}
