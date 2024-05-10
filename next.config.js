@@ -23,6 +23,7 @@
 //     ],
 //   };
 // };
+
 const nextConfig = {
   reactStrictMode: true,
   productionBrowserSourceMaps: true,

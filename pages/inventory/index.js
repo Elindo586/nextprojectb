@@ -1,10 +1,6 @@
 import React from "react";
-import { useEffect, useState } from "react";
 import Head from "next/head";
 import Link from "next/link";
-import Pagination from "react-bootstrap/Pagination";
-
-import db from "../../utils/parts-charlynn.json";
 
 const Inventory2 = () => {
   return (

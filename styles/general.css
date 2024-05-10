@@ -975,7 +975,7 @@
 }
 
 /* Carousel */
-.carousel-inner img {
+#carousel-inner {
   max-width: 100%;
   height: auto;
 }
