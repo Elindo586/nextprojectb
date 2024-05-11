@@ -29,6 +29,7 @@
     "uuid": "^9.0.1"
   },
   "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^6.0.0",
     "eslint": "8.15.0",
     "eslint-config-next": "^13.1.1"
   }
