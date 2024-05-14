@@ -3,7 +3,7 @@ import Image from "next/image";
 import Head from "next/head";
 import CarouselMain from "../components/carousel-main";
 
-const Home = () => {
+const Home2 = () => {
   return (
     <div lang="en">
       <div>
@@ -72,7 +72,6 @@ const Home = () => {
           />
         </Head>
       </div>
-      {/* <CarouselMain /> */}
 
       <div className="row">
         <div className="col-md-6 index-padding" lang="en">
@@ -112,28 +111,29 @@ const Home = () => {
           </div>
         </div>
         <div className="col-md-6" lang="en">
-          <span className="  row justify-content-center">
+          <div className=" image row ">
             <Image
+              fill={true}
               src="/images/maintenance-1.png"
-              id="maintenance1"
               alt="maintenance lubrication"
-              width={700}
-              height={400}
+              sizes="100vw"
+              style={{ width: "100%", height: "100%" }}
             />
-          </span>
-          <span className=" row justify-content-center">
+          </div>
+
+          <div className=" image row ">
             <Image
+              fill={true}
               src="/images/oil-analysis2.png"
-              id="oilanalysis2"
               alt="oil analysis sample"
-              width={700}
-              height={400}
+              sizes="25vw"
+              style={{ width: "100%", height: "100%" }}
             />
-          </span>
+          </div>
         </div>
       </div>
     </div>
   );
 };
 
-export default Home;
+export default Home2;

@@ -1,7 +1,6 @@
 import React from "react";
 import Image from "next/image";
 import Head from "next/head";
-import Link from "next/link";
 import ServicesNav from "../../components/nav-services";
 import Script from "next/script";
 
@@ -104,34 +103,28 @@ const Laboratory = () => {
 
       <div className="row">
         <div className="col-md-9">
-          <div className="row">
-            <div>
-              <Image
-                className="oil-analysis2"
-                src="/images/oil-analysis2.png"
-                alt="oil-analysis"
-                width={700}
-                height={400}
-                priority={true} // {false} | {true}
-              />
+          <span className="oil-analysis-span">
+            <Image
+              id="oil-analysis2"
+              src="/images/oil-analysis2.png"
+              alt="oil-analysis"
+              width={700}
+              height={400}
+            />
+          </span>
 
-              <p className="oil-analysis-text">
-                As a pro-active maintenance practice, oil analysis is crucial to
-                detect problems within your machinery before a problem becomes
-                bigger and more expensive issue to deal in your plant. <br />{" "}
-                <br />
-                By knowing and monitoring the type of contamination and / or
-                actual working conditions of your fluids, it is possible to pin
-                point the source of possible problems and take proper actions to
-                correct an unwanted situation before it becomes a costly
-                production issue. <br /> <br />
-                We provide a full range of oil analysis services to monitor your
-                fluids working conditions.
-              </p>
-
-              <br />
-            </div>
-          </div>
+          <p className="oil-analysis-text">
+            As a pro-active maintenance practice, oil analysis is crucial to
+            detect problems within your machinery before a problem becomes
+            bigger and more expensive issue to deal in your plant. <br /> <br />
+            By knowing and monitoring the type of contamination and / or actual
+            working conditions of your fluids, it is possible to pin point the
+            source of possible problems and take proper actions to correct an
+            unwanted situation before it becomes a costly production issue.{" "}
+            <br /> <br />
+            We provide a full range of oil analysis services to monitor your
+            fluids working conditions.
+          </p>
 
           <div className="row">
             <div className="col-md-6">
