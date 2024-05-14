@@ -22,7 +22,7 @@ const Laboratory = () => {
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
 
-          <title> TU | Services </title>
+          <title> TU | Services. </title>
 
           <meta
             name="description"
