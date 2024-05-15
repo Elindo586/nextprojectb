@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import Head from "next/head";
+import Carousel from "../components/carousel";
 
 const Home = () => {
   return (
@@ -70,6 +71,9 @@ const Home = () => {
             content="https://www.tu.biz/oppictures/Tubiz-contact.png"
           />
         </Head>
+      </div>
+      <div className="row">
+        <Carousel />
       </div>
 
       <div className="row">

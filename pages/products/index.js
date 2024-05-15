@@ -3,7 +3,6 @@ import Head from "next/head";
 import Link from "next/link";
 import { useEffect } from "react";
 import Carousel from "../../components/carousel";
-import OldCarousel from "../../components/old-carousel";
 
 const Ind = () => {
   //  This is another function to open and close the myDropdown1 div.
@@ -220,7 +219,6 @@ toggle between hiding and showing the dropdown content */
       </div>{" "}
       <div className="row">
         <Carousel />
-        <OldCarousel />
       </div>
       <div>
         <div className="row">

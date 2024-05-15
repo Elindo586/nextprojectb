@@ -10,28 +10,27 @@ import { useEffect } from "react";
 
 const Carousel = () => {
   useEffect(() => {
-    const carouselItems = document.querySelectorAll(".carousel_item");
-    let i = 1;
-    setInterval(() => {
-      // Accessing All the carousel Items
-      Array.from(carouselItems).forEach((item, index) => {
-        if (i < carouselItems.length) {
-          item.style.transform = `translateX(-${i * 100}%)`;
-        }
-      });
-
-      if (i < carouselItems.length) {
-        i++;
-      } else {
-        i = 0;
+    let slideIndex = 0;
+    const carouselItems = document.querySelectorAll("#carousel-inner");
+    console.log(carouselItems);
+    showSlides();
+    function showSlides() {
+      for (let i = 0; i < carouselItems.length; i++) {
+        carouselItems[i].style.display = "none";
       }
-    }, 2000);
+      slideIndex++;
+      if (slideIndex > carouselItems.length) {
+        slideIndex = 1;
+      }
+      carouselItems[slideIndex - 1].style.display = "block";
+      setTimeout(showSlides, 4000);
+    }
   }, []);
 
   return (
     <div className="row tu-world">
-      <div className="carousel-items">
-        <span className="carousel-item ">
+      <div className="ncarousel-items">
+        <span className="ncarousel-item">
           <Image
             id="carousel-inner"
             src={TuWorld}
@@ -41,50 +40,54 @@ const Carousel = () => {
             priority={true}
           />
         </span>
-        <span className="carousel-item ">
+        <span className="ncarousel-item ">
           <Image
             id="carousel-inner"
             src={Everything}
             alt="Everything Industrial"
             width={1710}
             height={315}
+            priority={false}
           />
         </span>
-        <span className="carousel-item ">
+        <span className="ncarousel-item ">
           <Image
             id="carousel-inner"
             src={HydraulicMotors}
             alt="Hydraulic Motors"
             width={1710}
             height={315}
+            priority={false}
           />
         </span>
-        <span className="carousel-item ">
+        <span className="ncarousel-item ">
           <Image
             id="carousel-inner"
             src={HydraulicPumps}
             alt="Hydraulic Pumps"
             width={1710}
             height={315}
+            priority={false}
           />
         </span>
-        <span className="carousel-item item1">
+        <span className="ncarousel-item ">
           <Image
             id="carousel-inner"
             src={ValvesManifolds}
             alt="Hydraulic Manifolds"
             width={1710}
             height={315}
-            priority={true}
+            priority={false}
           />
         </span>
-        <span className="carousel-item item1">
+        <span className="ncarousel-item">
           <Image
             id="carousel-inner"
             src={MobileValves}
             alt="Hydraulic mobile valves"
             width={1710}
             height={315}
+            priority={false}
           />
         </span>
       </div>

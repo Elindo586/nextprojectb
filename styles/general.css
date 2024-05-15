@@ -1092,24 +1092,37 @@
 
 /* Carousel */
 
-.carousel_items {
-  display: block;
-  overflow: hidden;
+.tu-world {
+  padding-top: 0.2em;
+  background-color: 273668;
+  width: 100vw;
 }
-.carousel_item {
+
+.ncarousel_items {
+  overflow: hidden;
+  width: 100%;
+}
+.ncarousel_item {
+  width: 100%;
   position: relative;
-  min-width: 100%;
-  height: auto;
-  transition: all 0.5s linear;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
+  max-width: 100%;
 }
 
 #carousel-inner {
-  display: block;
+  display: none;
   max-width: 100%;
   height: auto;
+  animation-name: carousel-inner;
+  animation-duration: 1.5s;
+}
+
+@keyframes carousel-inner {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
 }
 
 .c-image {
