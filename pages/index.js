@@ -72,9 +72,8 @@ const Home = () => {
           />
         </Head>
       </div>
-      <div className="row">
-        <Carousel />
-      </div>
+
+      <Carousel />
 
       <div className="row">
         <div className="col-md-6 index-padding" lang="en">
