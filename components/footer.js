@@ -1,7 +1,4 @@
 import React from "react";
-import Container from "react-bootstrap/Container";
-import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/Col";
 
 const Footer = () => {
   function fullYear() {
@@ -11,19 +8,19 @@ const Footer = () => {
   return (
     <div>
       <footer className="main-footer">
-        <Container>
-          <Row>
-            <Col className="footer-privacy">PRIVACY POLICY</Col>
-          </Row>
-          <Row>
-            <Col>
+        <div className="container">
+          <div className="row ">
+            <div className=" col footer-privacy">PRIVACY POLICY</div>
+          </div>
+          <div className="row">
+            <div className="col">
               <p className="copyright">
                 Copyright © {fullYear()} TU - All Rights Reserved{" "}
               </p>
-            </Col>
-            <Col className="dev-by">
-              <Row>
-                <Col>
+            </div>
+            <div className="dev-by">
+              <div className="row">
+                <div className="col">
                   <span className="dev-by2">Developed by:</span>{" "}
                   <a
                     className="edgar"
@@ -32,8 +29,8 @@ const Footer = () => {
                   >
                     Edgar Lindo
                   </a>
-                </Col>
-              </Row>
+                </div>
+              </div>
               {/* <Row>
                 <Col className="social-icon-col">
                   <a
@@ -110,9 +107,9 @@ const Footer = () => {
                   </a>
                 </Col>
               </Row> */}
-            </Col>
-          </Row>
-        </Container>
+            </div>
+          </div>
+        </div>
       </footer>
     </div>
   );

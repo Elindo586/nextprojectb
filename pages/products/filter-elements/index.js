@@ -1,12 +1,5 @@
 import React from "react";
-import Image from "next/image";
 import Head from "next/head";
-import Link from "next/link";
-import ProductNav from "../../../components/nav-products";
-
-import Container from "react-bootstrap/Container";
-import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/Col";
 
 const FilterElements = () => {
   return (
@@ -77,9 +70,9 @@ const FilterElements = () => {
           />
         </Head>
       </div>
-      <Container>
-        <Row>
-          <Col className="filter-elements-first-col">
+      <div className="container">
+        <div className="row">
+          <div className=" col filter-elements-first-col">
             We offer interchange elements with other popular hydraulic filter
             brands. Below you will find a list of different manufacturer&#39;s
             names. If you do not find the elements you are looking for you
@@ -128,9 +121,9 @@ const FilterElements = () => {
             <br /> <br />
             <br /> <br />
             <br /> <br />
-          </Col>
-        </Row>
-      </Container>
+          </div>
+        </div>
+      </div>
     </div>
   );
 };

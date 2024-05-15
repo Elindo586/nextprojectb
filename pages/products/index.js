@@ -1,12 +1,9 @@
 import React from "react";
-import Image from "next/image";
 import Head from "next/head";
 import Link from "next/link";
 import { useEffect } from "react";
-import Container from "react-bootstrap/Container";
-import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/Col";
-import CarouselMain from "../../components/carousel-main";
+import Carousel from "../../components/carousel";
+import OldCarousel from "../../components/old-carousel";
 
 const Ind = () => {
   //  This is another function to open and close the myDropdown1 div.
@@ -151,7 +148,7 @@ toggle between hiding and showing the dropdown content */
   });
 
   return (
-    <div>
+    <div className="conatainer">
       <div>
         <Head>
           {/* Main */}
@@ -221,20 +218,21 @@ toggle between hiding and showing the dropdown content */
           />
         </Head>
       </div>{" "}
-      <div>
-        <CarouselMain />
+      <div className="row">
+        <Carousel />
+        <OldCarousel />
       </div>
-      <Container>
-        <Row>
-          <Col className="product-centering">
+      <div>
+        <div className="row">
+          <div className=" col product-centering">
             {" "}
             <b>Products</b>
-          </Col>
-        </Row>
-      </Container>
-      <Container>
-        <Row>
-          <Col className="product-col">
+          </div>
+        </div>
+      </div>
+      <div className="container">
+        <div className="row">
+          <div className=" col product-col">
             <div className="dropdown1">
               <button onClick={myFunction1} className="dropbtn1">
                 Pumps
@@ -257,8 +255,8 @@ toggle between hiding and showing the dropdown content */
                 </div>
               </div>
             </div>
-          </Col>
-          <Col>
+          </div>
+          <div className="col">
             <div className="dropdown2">
               <button onClick={myFunction2} className="dropbtn2">
                 Motors
@@ -272,8 +270,8 @@ toggle between hiding and showing the dropdown content */
                 </div>
               </div>
             </div>
-          </Col>
-          <Col>
+          </div>
+          <div className="col">
             <div className="dropdown3">
               <button onClick={myFunction3} className="dropbtn3">
                 Valves
@@ -328,10 +326,10 @@ toggle between hiding and showing the dropdown content */
                 </div>
               </div>
             </div>
-          </Col>
-        </Row>
-        <Row>
-          <Col>
+          </div>
+        </div>
+        <div className="row">
+          <div className="col">
             <div className="dropdown4">
               <button onClick={myFunction4} className="dropbtn4">
                 Flowmeters
@@ -342,8 +340,8 @@ toggle between hiding and showing the dropdown content */
                 </div>
               </div>
             </div>
-          </Col>
-          <Col>
+          </div>
+          <div className="col">
             <div className="dropdown5">
               <button onClick={myFunction5} className="dropbtn5">
                 Manifolds
@@ -354,8 +352,8 @@ toggle between hiding and showing the dropdown content */
                 </div>
               </div>
             </div>
-          </Col>
-          <Col>
+          </div>
+          <div className="col">
             <div className="dropdown6">
               <button onClick={myFunction6} className="dropbtn6">
                 Filters
@@ -366,12 +364,12 @@ toggle between hiding and showing the dropdown content */
                 </div>
               </div>
             </div>
-          </Col>
-        </Row>
-        <Row>
+          </div>
+        </div>
+        <div className="row">
           <div className="footer-spacer-products"></div>
-        </Row>
-      </Container>
+        </div>
+      </div>
     </div>
   );
 };

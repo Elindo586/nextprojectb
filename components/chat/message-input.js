@@ -3,18 +3,14 @@
 import React, { useState, useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
 
-import Container from "react-bootstrap/Container";
-import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/Col";
-
 import { v4 as uuid } from "uuid";
 import {
+  //  setConversationHistory,
+  //  setConversations,
   addMessage,
   addBotMessage,
   setSelectedConversationId,
   addChatHistory,
-  setConversationHistory,
-  setConversations,
   deleteConversations,
 } from "./dashboard-slice";
 
@@ -270,8 +266,8 @@ export default function MessageInput() {
   // });
 
   return (
-    <Container>
-      <Row>
+    <div className="container ">
+      <div className="row">
         <input
           className="input-container"
           type="text"
@@ -282,9 +278,9 @@ export default function MessageInput() {
           onChange={(e) => setText(e.target.value)}
           onKeyDown={handleKeyPressed}
         ></input>
-      </Row>
-      <Row className="btn-container">
-        <Col>
+      </div>
+      <div className=" row btn-container">
+        <div className="col">
           <button
             disabled={ui}
             onClick={() => setUi(true)}
@@ -292,13 +288,13 @@ export default function MessageInput() {
           >
             Close
           </button>
-        </Col>
-        <Col>
+        </div>
+        <div className="col">
           <button className="btn-send" onClick={handleSendMessage}>
             Send
           </button>
-        </Col>
-      </Row>
-    </Container>
+        </div>
+      </div>
+    </div>
   );
 }

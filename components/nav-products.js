@@ -1,8 +1,6 @@
 import React from "react";
 import { useState, useEffect } from "react";
 import Link from "next/link";
-import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/Col";
 
 function ProductNav() {
   function showPumps() {
@@ -37,21 +35,21 @@ function ProductNav() {
   return (
     <div className=" col-md-3">
       <div className="nav2">
-        <Row>
+        <div className="row">
           {" "}
           <p className="nav2title">
             <b>Products</b>
           </p>
-        </Row>
-        <Row>
+        </div>
+        <div className="row">
           {" "}
           <button onClick={showPumps} className="link1">
             {" "}
             <b>Pumps</b>
           </button>{" "}
-        </Row>
-        <Col id="pumpDropdown" className="pumpHidden">
-          <Row>
+        </div>
+        <div id="pumpDropdown" className=" col pumpHidden">
+          <div className="row">
             <Link
               href="/products/piston-pumps"
               className={
@@ -62,8 +60,8 @@ function ProductNav() {
             >
               Piston Pumps
             </Link>
-          </Row>
-          <Row>
+          </div>
+          <div className="row">
             <Link
               href="/products/vane-pumps"
               className={
@@ -72,8 +70,8 @@ function ProductNav() {
             >
               Vane Pumps
             </Link>
-          </Row>
-          <Row>
+          </div>
+          <div className="row">
             <Link
               href="/products/gear-pumps"
               className={
@@ -82,16 +80,16 @@ function ProductNav() {
             >
               Gear Pumps
             </Link>
-          </Row>
-        </Col>
+          </div>
+        </div>
 
-        <Row>
+        <div className="row">
           <button onClick={showMotors} className="link1">
             <b>Motors</b>
           </button>
-        </Row>
-        <Col id="motorDropdown" className="pumpHidden">
-          <Row>
+        </div>
+        <div id="motorDropdown" className=" col pumpHidden">
+          <div className="row">
             <Link
               href="/products/geroler-motors"
               className={
@@ -102,8 +100,8 @@ function ProductNav() {
             >
               Geroler Motors
             </Link>
-          </Row>
-          <Row>
+          </div>
+          <div className="row">
             <Link
               href="/products/vane-motors"
               className={
@@ -112,17 +110,17 @@ function ProductNav() {
             >
               Vane Motors
             </Link>
-          </Row>
-        </Col>
-        <Row>
+          </div>
+        </div>
+        <div className="row">
           <button onClick={showValves} className="link1">
             {" "}
             <b>Valves</b>
           </button>
-        </Row>
-        <Col id="valveDropdown" className="pumpHidden">
-          <Row className="link2Tittle">Industrial Valves</Row>
-          <Row>
+        </div>
+        <div id="valveDropdown" className=" col pumpHidden">
+          <div className=" row link2Tittle">Industrial Valves</div>
+          <div className="row">
             <Link
               href="/products/industrial-valves/directional-control-valves"
               className={
@@ -134,8 +132,8 @@ function ProductNav() {
             >
               Directional Control
             </Link>
-          </Row>
-          <Row>
+          </div>
+          <div className="row">
             <Link
               href="/products/industrial-valves/flow-control-valves"
               className={
@@ -146,10 +144,10 @@ function ProductNav() {
             >
               Flow Control
             </Link>
-          </Row>
-          <Row className="link2Tittle">Mobile Valves</Row>
-          <Col>
-            <Row>
+          </div>
+          <div className=" row link2Tittle">Mobile Valves</div>
+          <div className="col">
+            <div className="row">
               <Link
                 href="/products/mobile-valves/hydraulic-counterbalance-valves"
                 className={
@@ -161,8 +159,8 @@ function ProductNav() {
               >
                 Counterbalance
               </Link>
-            </Row>
-            <Row>
+            </div>
+            <div className="row">
               <Link
                 href="/products/mobile-valves/hydraulic-sequence-valves"
                 className={
@@ -174,8 +172,8 @@ function ProductNav() {
               >
                 Sequence
               </Link>
-            </Row>
-            <Row>
+            </div>
+            <div className="row">
               <Link
                 href="/products/mobile-valves/hydraulic-relief-valves"
                 className={
@@ -186,8 +184,8 @@ function ProductNav() {
               >
                 Relief
               </Link>
-            </Row>
-            <Row>
+            </div>
+            <div className="row">
               <Link
                 href="/products/mobile-valves/hydraulic-check-valves"
                 className={
@@ -198,8 +196,8 @@ function ProductNav() {
               >
                 Check
               </Link>
-            </Row>
-            <Row>
+            </div>
+            <div className="row">
               <Link
                 href="/products/mobile-valves/hydraulic-shuttle-valves"
                 className={
@@ -211,8 +209,8 @@ function ProductNav() {
               >
                 Shuttle
               </Link>
-            </Row>
-            <Row>
+            </div>
+            <div className="row">
               <Link
                 href="/products/mobile-valves/hydraulic-hose-burst-valves"
                 className={
@@ -224,8 +222,8 @@ function ProductNav() {
               >
                 Hose Burts
               </Link>
-            </Row>
-            <Row>
+            </div>
+            <div className="row">
               <Link
                 href="/products/mobile-valves/hydraulic-flow-divider-valves"
                 className={
@@ -237,16 +235,16 @@ function ProductNav() {
               >
                 Flow Divider
               </Link>
-            </Row>
-          </Col>
-        </Col>
-        <Row>
+            </div>
+          </div>
+        </div>
+        <div className="row">
           <button onClick={showFlowmeters} className="link1">
             <b>Flowmeters</b>
           </button>
-        </Row>
-        <Col id="flowmeterDropdown" className="pumpHidden">
-          <Row>
+        </div>
+        <div id="flowmeterDropdown" className=" col pumpHidden">
+          <div className="row">
             {" "}
             <Link
               href="/products/flowmeters"
@@ -256,16 +254,16 @@ function ProductNav() {
             >
               Flowmeters
             </Link>
-          </Row>
-        </Col>
-        <Row>
+          </div>
+        </div>
+        <div className="row">
           <button onClick={showManifolds} className="link1">
             {" "}
             <b>Manifolds</b>
           </button>
-        </Row>
-        <Col id="manifoldDropdown" className="pumpHidden">
-          <Row>
+        </div>
+        <div id="manifoldDropdown" className=" col pumpHidden">
+          <div className="row">
             <Link
               href="/products/hydraulic-manifolds"
               className={
@@ -276,16 +274,16 @@ function ProductNav() {
             >
               Manifolds
             </Link>
-          </Row>
-        </Col>
-        <Row>
+          </div>
+        </div>
+        <div className="row">
           {" "}
           <button onClick={showFilters} className="link1">
             <b>Filters</b>
           </button>
-        </Row>
-        <Col id="filterDropdown" className="pumpHidden">
-          <Row>
+        </div>
+        <div id="filterDropdown" className=" col pumpHidden">
+          <div className="row">
             {" "}
             <Link
               href="/products/filter-elements"
@@ -297,8 +295,8 @@ function ProductNav() {
             >
               Filter Elements
             </Link>
-          </Row>
-        </Col>
+          </div>
+        </div>
       </div>
     </div>
   );

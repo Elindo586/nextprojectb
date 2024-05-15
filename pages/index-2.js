@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import Head from "next/head";
-import CarouselMain from "../components/carousel-main";
+import OldCarousel from "../components/old-carousel";
 
 const Home2 = () => {
   return (
@@ -72,6 +72,7 @@ const Home2 = () => {
           />
         </Head>
       </div>
+      <OldCarousel />
 
       <div className="row">
         <div className="col-md-6 index-padding" lang="en">

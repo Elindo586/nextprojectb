@@ -25,8 +25,8 @@ const GoogleTags = () => {
   };
 
   return (
-    <Container md={10} xs={10} id="main-cookies-id" className="main-cookies ">
-      <Row>
+    <div id="main-cookies-id" className=" container-md main-cookies ">
+      <div className="row">
         <Script
           id="google-tag1"
           strategy="afterInteractive"
@@ -77,9 +77,9 @@ const GoogleTags = () => {
             }`,
           }}
         />
-      </Row>
+      </div>
       <div>
-        <Row>
+        <div className="row">
           <div>
             <h4>Privacy Preferences</h4>
             <p>
@@ -92,9 +92,9 @@ const GoogleTags = () => {
             </p>
             <br />
           </div>
-        </Row>
-        <Row>
-          <Col>
+        </div>
+        <div className="row">
+          <div className="col">
             <button
               onClick={() => {
                 if (typeof window.allConsentGranted !== "undefined") {
@@ -106,13 +106,13 @@ const GoogleTags = () => {
             >
               Accept All
             </button>{" "}
-          </Col>
-          <Col>
+          </div>
+          <div className="col">
             <button onClick={handleNo}>Decline All</button>{" "}
-          </Col>
-        </Row>
+          </div>
+        </div>
       </div>
-    </Container>
+    </div>
   );
 };
 

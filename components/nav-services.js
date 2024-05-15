@@ -1,8 +1,6 @@
 import React from "react";
 import { useState, useEffect } from "react";
 import Link from "next/link";
-import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/Col";
 
 function ServicesNav() {
   const [pathName, setPathName] = useState();
@@ -15,18 +13,18 @@ function ServicesNav() {
   return (
     <div className="col-md-3 ">
       <div className="nav2">
-        <Row>
+        <div>
           <p className="nav2title">
             <b>Services</b>
           </p>
-        </Row>
-        <Row>
-          <Col className="link1" href="">
+        </div>
+        <div>
+          <div className=" col link1" href="">
             Oil Analysis
-          </Col>
-        </Row>
+          </div>
+        </div>
 
-        <Row>
+        <div>
           <Link legacyBehavior href="/services/fluid-analysis" passHref>
             <a
               className={
@@ -38,14 +36,14 @@ function ServicesNav() {
               Laboratory Testing
             </a>
           </Link>
-        </Row>
+        </div>
 
-        <Row>
-          <Col className="link1" href="#">
+        <div>
+          <div className="col link1" href="#">
             Preventive Maintenance
-          </Col>
-        </Row>
-        <Row>
+          </div>
+        </div>
+        <div>
           <Link
             legacyBehavior
             href="/services/preventive-maintenance-programs"
@@ -61,7 +59,7 @@ function ServicesNav() {
               Programs
             </a>
           </Link>
-        </Row>
+        </div>
       </div>
     </div>
   );

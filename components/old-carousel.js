@@ -1,6 +1,6 @@
 import React from "react";
 import Carousel from "react-bootstrap/Carousel";
-import Image from "next/legacy/image";
+import Image from "next/image";
 import TuWorld from "../public/carousel-main/tu-world.png";
 import Everything from "../public/carousel-main/carousel-everything.png";
 import HydraulicMotors from "../public/carousel-main/carousel-hydraulic-motors.png";
@@ -8,9 +8,9 @@ import HydraulicPumps from "../public/carousel-main/carousel-pumps.png";
 import ValvesManifolds from "../public/carousel-main/carousel-valves-manifolds.png";
 import MobileValves from "../public/carousel-main/mobile-valves.png";
 
-const CarouselMain = () => {
+const OldCarousel = () => {
   return (
-    <div className="tu-world">
+    <div className=" tu-world">
       <Carousel>
         <Carousel.Item className="carousel-item active">
           <Image
@@ -72,4 +72,4 @@ const CarouselMain = () => {
   );
 };
 
-export default CarouselMain;
+export default OldCarousel;

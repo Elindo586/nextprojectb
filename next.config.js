@@ -24,9 +24,17 @@
 //   };
 // };
 
+const withBundleAnalyzer = require("@next/bundle-analyzer")({
+  enabled: process.env.ANALYZE === "true",
+});
+
 const nextConfig = {
   reactStrictMode: true,
   productionBrowserSourceMaps: true,
+
+  compiler: {
+    styledComponents: true,
+  },
 
   async rewrites() {
     return {
@@ -1413,9 +1421,7 @@ const nextConfig = {
     ];
   },
 };
-
-module.exports = nextConfig;
-
+module.exports = withBundleAnalyzer(nextConfig);
 // module.exports = withPWA({
 //   pwa: {
 //     ...nextConfig,
