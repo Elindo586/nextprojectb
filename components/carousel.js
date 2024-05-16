@@ -29,7 +29,7 @@ const Carousel = () => {
 
   return (
     <div className="row tu-world">
-      <div className="ncarousel-items">
+      <div className=" col-md-12 ncarousel-items">
         <span className="ncarousel-item">
           <Image
             id="carousel-inner"
