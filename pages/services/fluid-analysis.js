@@ -105,7 +105,7 @@ const Laboratory = () => {
         <div className="col-md-9">
           <span className="oil-analysis-span">
             <Image
-              // fill
+              // fill={true}
               id="oil-analysis2"
               src="/images/oil-analysis2.png"
               alt="oil-analysis"

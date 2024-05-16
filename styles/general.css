@@ -38,6 +38,8 @@
   padding-bottom: 2em;
 }
 
+/* from index  */
+
 #maintenance1 {
   padding-top: 1em;
   padding-bottom: 1em;
@@ -53,11 +55,8 @@
   display: block;
   margin-left: 2em;
   margin-right: 3em;
-  margin-top: 1em;
   max-width: 700px;
   height: auto;
-  width: 100%;
-  max-width: 100%;
 }
 .image1 {
   position: "relative";
@@ -384,12 +383,15 @@
   position: relative;
   object-fit: contain;
   object-position: center;
+  /* height: 400px;
+  width: 700px; */
 }
 
 #oil-analysis2 {
   height: auto;
   width: 50%;
   margin-right: 1em;
+  /* object-fit: contain; */
 }
 
 .oil-analysis-text {
