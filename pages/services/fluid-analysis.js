@@ -105,9 +105,11 @@ const Laboratory = () => {
         <div className="col-md-9">
           <span className="oil-analysis-span">
             <Image
+              // fill
               id="oil-analysis2"
               src="/images/oil-analysis2.png"
               alt="oil-analysis"
+              // sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
               width={700}
               height={400}
             />
