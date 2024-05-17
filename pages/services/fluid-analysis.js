@@ -103,7 +103,7 @@ const Laboratory = () => {
 
       <div className="row">
         <div className="col-md-9">
-          <span className="oil-analysis-span">
+          <div className=" oil-analysis-span">
             <Image
               // fill={true}
               id="oil-analysis2"
@@ -113,7 +113,7 @@ const Laboratory = () => {
               width={700}
               height={400}
             />
-          </span>
+          </div>
 
           <p className="oil-analysis-text">
             As a pro-active maintenance practice, oil analysis is crucial to

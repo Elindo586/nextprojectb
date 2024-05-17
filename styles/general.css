@@ -381,17 +381,15 @@
 .oil-analysis-span {
   padding-left: 2em;
   position: relative;
-  object-fit: contain;
-  object-position: center;
-  /* height: 400px;
-  width: 700px; */
 }
 
 #oil-analysis2 {
   height: auto;
   width: 50%;
+  /* position: absolute; */
+  object-fit: contain;
+  object-position: center;
   margin-right: 1em;
-  /* object-fit: contain; */
 }
 
 .oil-analysis-text {
