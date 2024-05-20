@@ -22,73 +22,79 @@ const Carousel = () => {
       if (slideIndex > carouselItems.length) {
         slideIndex = 1;
       }
-      carouselItems[slideIndex - 1].style.display = "flex";
+      carouselItems[slideIndex - 1].style.display = "block";
       setTimeout(showSlides, 5000);
     }
   }, []);
 
   return (
-    <div className=" tu-world justify-content-center">
-      <div className="myslide-item ">
-        <Image
-          id="carousel-inner"
-          src={TuWorld}
-          alt="tu world"
-          width={1710}
-          height={315}
-          priority={true}
-        />
-      </div>
-      <div className="myslide-item mx-auto  ">
-        <Image
-          id="carousel-inner"
-          src={Everything}
-          alt="Everything Industrial"
-          width={1710}
-          height={315}
-          priority={false}
-        />
-      </div>
-      <div className="myslide-item mx-auto ">
-        <Image
-          id="carousel-inner"
-          src={HydraulicMotors}
-          alt="Hydraulic Motors"
-          width={1710}
-          height={315}
-          priority={false}
-        />
-      </div>
-      <div className="myslide-item  mx auto">
-        <Image
-          id="carousel-inner"
-          src={HydraulicPumps}
-          alt="Hydraulic Pumps"
-          width={1710}
-          height={315}
-          priority={false}
-        />
-      </div>
-      <div className="myslide-item mx-auto">
-        <Image
-          id="carousel-inner"
-          src={ValvesManifolds}
-          alt="Hydraulic Manifolds"
-          width={1710}
-          height={315}
-          priority={false}
-        />
-      </div>
-      <div className="myslide-item mx-auto ">
-        <Image
-          id="carousel-inner"
-          src={MobileValves}
-          alt="Hydraulic mobile valves"
-          width={1710}
-          height={315}
-          priority={false}
-        />
-      </div>
+    <div className=" tu-world ">
+      <Image
+        fill={true}
+        id="carousel-inner"
+        src={TuWorld}
+        alt="tu world"
+        // width={1710}
+        // height={315}
+        sizes="100vw"
+        priority={true}
+      />
+
+      <Image
+        fill={true}
+        id="carousel-inner"
+        src={Everything}
+        alt="Everything Industrial"
+        // width={1710}
+        // height={315}
+        sizes="100vw"
+        priority={false}
+      />
+
+      <Image
+        fill={true}
+        id="carousel-inner"
+        src={HydraulicMotors}
+        alt="Hydraulic Motors"
+        // width={1710}
+        // height={315}
+        sizes="100vw"
+        priority={false}
+      />
+
+      <Image
+        fill={true}
+        id="carousel-inner"
+        src={HydraulicPumps}
+        alt="Hydraulic Pumps"
+        // width={1710}
+        // height={315}
+        sizes="100vw"
+        priority={false}
+      />
+
+      <Image
+        fill={true}
+        id="carousel-inner"
+        src={ValvesManifolds}
+        alt="Hydraulic Manifolds"
+        // width={1710}
+        // height={315}
+        sizes="100vw"
+        priority={false}
+      />
+
+      <Image
+        fill={true}
+        id="carousel-inner"
+        src={MobileValves}
+        alt="Hydraulic mobile valves"
+        // width={1710}
+        // height={315}
+        sizes="100vw"
+        // sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+        priority={false}
+      />
     </div>
   );
 };

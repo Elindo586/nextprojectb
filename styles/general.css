@@ -40,23 +40,38 @@
 
 /* from index  */
 
+.index-img {
+  position: relative;
+  height: 400px;
+}
+
+/* @media (320px < width < 480px) {
+  .index-img {
+    height: 500px;
+  }
+} */
+
 #maintenance1 {
   padding-top: 1em;
   padding-bottom: 1em;
   display: block;
   margin-left: 2em;
-  margin-right: 3em;
-  max-width: 700px;
   height: auto;
+  width: 50%;
+  position: absolute;
+  object-fit: contain;
+  object-position: left center;
 }
 #oilanalysis2 {
   padding-top: 1em;
   padding-bottom: 1em;
   display: block;
   margin-left: 2em;
-  margin-right: 3em;
-  max-width: 700px;
   height: auto;
+  width: 50%;
+  position: absolute;
+  object-fit: contain;
+  object-position: left center;
 }
 .image1 {
   position: "relative";
@@ -381,15 +396,17 @@
 .oil-analysis-span {
   padding-left: 2em;
   position: relative;
+  height: 400px;
 }
 
 #oil-analysis2 {
   height: auto;
   width: 50%;
-  /* position: absolute; */
+  position: absolute;
   object-fit: contain;
-  object-position: center;
+  object-position: left center;
   margin-right: 1em;
+  margin-left: 1.5em;
 }
 
 .oil-analysis-text {
@@ -1097,28 +1114,61 @@
 /* Carousel */
 
 .tu-world {
-  padding-top: 0.2em;
-  margin: auto;
-  background-color: white;
+  position: relative;
+  height: 315px;
 }
+@media (319px < width < 481px) {
+  .tu-world {
+    position: relative;
+    height: 100px;
+  }
+}
+
+@media (481px < width < 769px) {
+  .tu-world {
+    position: relative;
+    height: 145px;
+  }
+}
+@media (769px < width < 1025px) {
+  .tu-world {
+    position: relative;
+    height: 193px;
+  }
+}
+@media (1025px < width < 1200px) {
+  .tu-world {
+    position: relative;
+    height: 230px;
+  }
+}
+@media (min-width: 1200px) {
+  .tu-world {
+    position: relative;
+    height: 390px;
+  }
+}
+
 .fill-carousel {
   background-color: #1e4474;
 }
 
-.myslide-item {
-  object-fit: contain;
-  margin: auto;
-}
+/* .myslide-item-1,
+.myslide-item-2,
+.myslide-item-3,
+.myslide-item-4,
+.myslide-item-5,
+.myslide-item-6 {
+  position: absolute;
+  height: 315px;
+} */
 
 #carousel-inner {
-  display: none;
-  margin-left: auto;
-  margin-right: auto;
-  width: 100%;
-  max-width: 100%;
-  height: auto;
   animation-name: carousel-inner;
   animation-duration: 3s;
+  position: absolute;
+  object-fit: contain;
+  object-position: 50% top;
 }
 
 @keyframes carousel-inner {

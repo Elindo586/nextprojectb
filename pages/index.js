@@ -113,24 +113,28 @@ const Home = () => {
           </div>
         </div>
         <div className="col-md-6" lang="en">
-          <span className="  row justify-content-center">
+          <div className=" index-img row ">
             <Image
+              fill={true}
               src="/images/maintenance-1.png"
               id="maintenance1"
               alt="maintenance lubrication"
-              width={700}
-              height={400}
+              sizes="(max-width: 768px) 50vw, (max-width: 1200px) 50vw, 33vw"
+              // width={700}
+              // height={400}
             />
-          </span>
-          <span className=" row justify-content-center">
+          </div>
+          <div className="index-img row ">
             <Image
+              fill={true}
               src="/images/oil-analysis2.png"
               id="oilanalysis2"
               alt="oil analysis sample"
-              width={700}
-              height={400}
+              sizes="(max-width: 768px) 50vw, (max-width: 1200px) 50vw, 33vw"
+              // width={700}
+              // height={400}
             />
-          </span>
+          </div>
         </div>
       </div>
     </div>
