@@ -10,7 +10,7 @@ export default function Document() {
         <NextScript />
         <Script
           id="google-tag2"
-          strategy="worker"
+          strategy="beforeInteractive"
           src="https://www.googletagmanager.com/gtag/js?id=G-4RB3V861V1"
         />
       </body>

@@ -1115,7 +1115,7 @@
 
 .tu-world {
   position: relative;
-  height: 315px;
+  /* height: 315px; */
 }
 @media (319px < width < 481px) {
   .tu-world {
