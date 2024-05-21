@@ -15,6 +15,34 @@ export async function getStaticProps() {
 }
 
 const BloggerFrontSpanish = ({ db }) => {
+  useEffect(() => {
+    function setHeight() {
+      const screenWidth = window.innerWidth;
+      const divHeight = screenWidth * 0.4;
+      const theDivs = document.querySelectorAll(".blog-div-image");
+
+      for (let i = 0; i < theDivs.length; i++) {
+        const theDiv = theDivs[i];
+        if (screenWidth <= 1100) {
+          theDiv.style.height = `${divHeight}px`;
+        } else {
+          theDiv.style.height = `315px`;
+        }
+      }
+    }
+
+    // Call setHeight initially
+    setHeight();
+
+    // Add a listener to resize event
+    window.addEventListener("resize", setHeight);
+
+    // Cleanup function to remove the resize event listener
+    return () => {
+      window.removeEventListener("resize", setHeight);
+    };
+  }, []); // Empty dependency array means this effect runs once after initial render
+
   let PageSize = 5;
 
   const [currentPage, setCurrentPage] = useState(1);
@@ -157,16 +185,18 @@ const BloggerFrontSpanish = ({ db }) => {
                     {" "}
                     <h4 lang="es">{item.title}</h4>
                   </div>
-                  <span className="d-flex justify-content-center">
+                  <div className="blog-div-image">
                     <Image
+                      fill={true}
                       id="blog-image"
                       src={item.picture}
                       alt={item.alt}
-                      width={600}
-                      height={315}
+                      sizes="100vw"
+                      // width={600}
+                      // height={315}
                       priority={true} // {false} | {true}
                     ></Image>
-                  </span>
+                  </div>
                   <br />
                   <div lang="es">
                     {" "}

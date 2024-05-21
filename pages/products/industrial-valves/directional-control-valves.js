@@ -79,16 +79,18 @@ const DirectionalControlValves = () => {
           <div className="col-md-12">
             <h6 className="product-title-text"> Directional Control Valves</h6>{" "}
             <br />
-            <span className="product-pic d-flex justify-content-center">
+            <div className="directional-control-valves-div">
               <Image
+                fill={true}
                 src="/images/directional-control-valves.png"
                 id="directional-control-valves"
                 alt="directional control valves"
-                width={272}
-                height={85}
+                sizes="100vw"
+                // width={272}
+                // height={85}
                 priority={true}
               />
-            </span>
+            </div>
             <br />
             <Link
               className="btn btn-info d-flex justify-content-center"

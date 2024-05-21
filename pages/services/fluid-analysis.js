@@ -1,10 +1,34 @@
-import React from "react";
+import React, { useEffect } from "react";
 import Image from "next/image";
 import Head from "next/head";
 import ServicesNav from "../../components/nav-services";
 import Script from "next/script";
 
 const Laboratory = () => {
+  useEffect(() => {
+    function setHeight() {
+      const screenWidth = window.innerWidth;
+      const divHeight = screenWidth * 0.4;
+      const theDiv = document.querySelector(".oil-analysis-span");
+      if (screenWidth <= 1000) {
+        theDiv.style.height = `${divHeight}px`;
+      } else {
+        theDiv.style.height = `400px`;
+      }
+    }
+
+    // Call setHeight initially
+    setHeight();
+
+    // Add a listener to resize event
+    window.addEventListener("resize", setHeight);
+
+    // Cleanup function to remove the resize event listener
+    return () => {
+      window.removeEventListener("resize", setHeight);
+    };
+  }, []); // Empty dependency array means this effect runs once after initial render
+
   return (
     <div>
       <div>
@@ -109,7 +133,7 @@ const Laboratory = () => {
               id="oil-analysis2"
               src="/images/oil-analysis2.png"
               alt="oil-analysis"
-              sizes="(max-width: 768px) 50vw, (max-width: 1200px) 50vw, 33vw"
+              sizes="50vw"
               // width={700}
               // height={400}
             />

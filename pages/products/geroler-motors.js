@@ -72,16 +72,18 @@ const GerolerMotor = () => {
         <div className="col-md-9 table-responsive">
           <div className="col-md-12">
             <h6 className="product-title-text"> Geroler Motors</h6> <br />
-            <span className="product-pic d-flex justify-content-center">
+            <div className="geroler-motors-div">
               <Image
+                fill={true}
                 src="/images/geroloer-motors.png"
                 id="geroler-motors"
                 alt="hydraulic geroloer motors"
-                width={168}
-                height={137}
+                sizes="100vw"
+                // width={168}
+                // height={137}
                 priority={true}
               />
-            </span>
+            </div>
             <br />
             <Link
               legacyBehavior

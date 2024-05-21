@@ -72,16 +72,18 @@ const FlowControlValves = () => {
         <div className="col-md-9 table-responsive">
           <div className="col-md-12">
             <h6 className="product-title-text"> Needle Valves </h6> <br />
-            <span className="product-pic d-flex justify-content-center">
+            <div className="flow-control-valves-div">
               <Image
+                fill={true}
                 src="/images/flow-control-valves.png"
                 id="flow-control-valves"
                 alt="flow control valves"
-                width={236}
-                height={128}
+                sizes="100vw"
+                // width={236}
+                // height={128}
                 priority={true}
               />
-            </span>
+            </div>
             <br />
             <Link
               className="btn btn-info d-flex justify-content-center"

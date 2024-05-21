@@ -65,16 +65,18 @@ const VaneMotors = () => {
           <div className="col-md-12"></div>
           <div className="col-md-12">
             <h6 className="product-title-text"> Vane Motors</h6> <br />
-            <span className="product-pic d-flex justify-content-center">
+            <div className="vane-motors-div">
               <Image
+                fill={true}
                 src="/images/vane-motors.png"
                 id="vane-motors"
                 alt="hydraulic vane motors"
-                width={268}
-                height={132}
+                sizes="100vw"
+                // width={268}
+                // height={132}
                 priority={true}
               />
-            </span>
+            </div>
             <br />
             <Link legacyBehavior href="/pdf/hydraulic-vane-motor-catalog.pdf">
               <a

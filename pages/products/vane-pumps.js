@@ -72,16 +72,18 @@ const VanePumps = () => {
         <div className="col-md-9 table-responsive">
           <div className="col-md-12">
             <h6 className="product-title-text"> Vane Pumps</h6> <br />
-            <span className="product-pic d-flex justify-content-center">
+            <div className="vane-pump-div">
               <Image
+                fill={true}
                 src="/images/single-vane-pumps.png"
-                id="oilanalysis2"
+                id="vane-pump"
                 alt="hydraulic vane pumps"
-                width={264}
-                height={117}
+                sizes="100vw"
+                // width={264}
+                // height={117}
                 priority={true}
               />
-            </span>
+            </div>
             <br />
             <Link legacyBehavior href="/pdf/v10-v20-vane-pump-catalog.pdf">
               <a
@@ -152,15 +154,17 @@ const VanePumps = () => {
             <br />
           </div>
           <div className="col-md-12">
-            <span className="product-pic d-flex justify-content-center">
+            <div className="double-vane-pump-div">
               <Image
+                fill={true}
                 src="/images/vq-vho-vane-pumps.png"
-                id="oilanalysis2"
+                id="double-vane-pump"
                 alt="hydraulic VHO VQ vane pumps"
-                width={272}
-                height={129}
+                sizes="100vw"
+                // width={272}
+                // height={129}
               />
-            </span>
+            </div>
             <br />
             <Link legacyBehavior href="/pdf/vho-vq-hydraulic-pumps-catalog.pdf">
               <a
@@ -465,15 +469,17 @@ const VanePumps = () => {
             <br />
           </div>
           <div className="col-md-12">
-            <span className="product-pic d-flex justify-content-center">
+            <div className="variable-displacement-vane-pump-div">
               <Image
+                fill={true}
                 src="/images/variable-displacement-vane-pump.png"
-                id="oilanalysis2"
+                id="variable-displacement-vane-pump"
                 alt="variable displacement vane pumps"
-                width={169}
-                height={120}
+                sizes="100vw"
+                // width={169}
+                // height={120}
               />
-            </span>
+            </div>
             <br />
             <Link legacyBehavior href="/pdf/variable-vane-pump-catalog.pdf">
               <a

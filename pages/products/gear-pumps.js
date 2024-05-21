@@ -74,16 +74,17 @@ const GearPumps = () => {
         <div className="col-md-9 table-responsive">
           <div className="col-md-12">
             <h6 className="product-title-text"> Gear Pumps </h6> <br />
-            <span className="product-pic d-flex justify-content-center">
+            <div className="gear-pump-div">
               <Image
+                fill={true}
                 src="/images/gear-pumps.png"
-                id="gear-pumps"
+                id="gear-pump"
                 alt="hydraulic gear pumps"
-                width={316}
-                height={105}
+                // width={316}
+                // height={105}
                 priority={true}
               />
-            </span>
+            </div>
             <br />
             <Link legacyBehavior href="/pdf/hydraulic-gear-pumps-catalog.pdf">
               <a
@@ -155,15 +156,17 @@ const GearPumps = () => {
             <br />
           </div>
           <div className="col-md-12">
-            <span className="product-pic d-flex justify-content-center">
+            <div className="dump-pump-div">
               <Image
+                fill={true}
                 src="/images/dump-pump.png"
                 id="dump-pump"
                 alt="hydraulic dump pumps"
-                width={168}
-                height={108}
+                sizes="100vw"
+                //    width={168}
+                //     height={108}
               />
-            </span>
+            </div>
             <br />
             <Link legacyBehavior href="/pdf/dump-pumps.pdf">
               <a

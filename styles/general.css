@@ -82,108 +82,6 @@
   display: flex;
 }
 
-/* @media (320px < width < 480px) {
-  #maintenance1 {
-    padding-top: 1em;
-    padding-bottom: 1em;
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin-left: 2em;
-  }
-}
-@media (480px < width < 768px) {
-  #maintenance1 {
-    padding-top: 1em;
-    padding-bottom: 1em;
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin-left: 2em;
-  }
-}
-@media (768px < width < 1024px) {
-  #maintenance1 {
-    padding-top: 1em;
-    padding-bottom: 1em;
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin-left: 2em;
-  }
-}
-@media (1024px < width < 1199px) {
-  #maintenance1 {
-    padding-top: 1em;
-    padding-bottom: 1em;
-    width: 600px;
-    height: auto;
-    display: block;
-    margin-left: 2em;
-  }
-}
-@media (min-with: 1200px) {
-  #maintenance1 {
-    padding-top: 1em;
-    padding-bottom: 1em;
-    width: 700px;
-    height: auto;
-    display: block;
-    margin-left: 2em;
-  }
-}
-
-@media (320px < width < 480px) {
-  #oilanalysis2 {
-    padding-top: 1em;
-    padding-bottom: 1em;
-    width: 400px;
-    height: auto;
-    display: block;
-    margin-left: 2em;
-  }
-}
-@media (480px < width < 768px) {
-  #oilanalysis2 {
-    padding-top: 1em;
-    padding-bottom: 1em;
-    width: 500px;
-    height: auto;
-    display: block;
-    margin-left: 2em;
-  }
-}
-@media (768px < width < 1024px) {
-  #oilanalysis2 {
-    padding-top: 1em;
-    padding-bottom: 1em;
-    width: 400px;
-    height: auto;
-    display: block;
-    margin-left: 2em;
-  }
-}
-@media (1024px < width < 1199px) {
-  #oilanalysis2 {
-    padding-top: 1em;
-    padding-bottom: 1em;
-    width: 600px;
-    height: auto;
-    display: block;
-    margin-left: 2em;
-  }
-}
-@media (min-with: 1200px) {
-  #oilanalysis2 {
-    padding-top: 1em;
-    padding-bottom: 1em;
-    width: 700x;
-    height: auto;
-    display: block;
-    margin-left: 2em;
-  }
-} */
-
 /* Footer */
 
 .footer-privacy {
@@ -378,30 +276,32 @@
   padding-top: 1em;
   padding-left: 2.5em;
 }
+.maintenance-2-span {
+  padding-left: 2em;
+  position: relative;
+}
 
-.maintenance-2 {
-  width: 55%;
-  height: auto;
-  float: left;
-  margin-right: 30px;
-  margin-bottom: 15px;
+#maintenance-2 {
+  position: absolute;
+  object-fit: contain;
+  object-position: left center;
+  margin-right: 1em;
+  margin-left: 1.5em;
 }
 
 .preventive-maintenance-text {
-  padding-top: 2em;
+  padding-top: 1em;
   padding-left: 2em;
+  padding-right: 1em;
   padding-bottom: 10em;
 }
 
 .oil-analysis-span {
   padding-left: 2em;
   position: relative;
-  height: 400px;
 }
 
 #oil-analysis2 {
-  height: auto;
-  width: 50%;
   position: absolute;
   object-fit: contain;
   object-position: left center;
@@ -410,10 +310,91 @@
 }
 
 .oil-analysis-text {
-  padding-top: 0.5em;
+  padding-top: 1em;
   padding-left: 2em;
   padding-right: 1em;
 }
+
+/* Product Folder */
+
+.directional-control-valves-div {
+  position: relative;
+  height: 85px;
+}
+
+#directional-control-valves,
+#flow-control-valves,
+#piston-pump,
+#radial-piston-pump,
+#vane-pump,
+#double-vane-pump,
+#variable-displacement-vane-pump,
+#gear-pump,
+#dump-pump,
+#geroler-motors,
+#vane-motors {
+  position: absolute;
+  object-fit: contain;
+  object-position: center;
+}
+
+/* Flow Control Valves */
+
+.flow-control-valves-div {
+  position: relative;
+  height: 128px;
+}
+
+/* Piston Pumps */
+
+.piston-pump-div {
+  position: relative;
+  height: 287px;
+}
+
+.radial-piston-pump-div {
+  position: relative;
+  height: 130px;
+}
+
+/* Vane Pumps */
+
+.vane-pump-div {
+  position: relative;
+  height: 117px;
+}
+
+.double-vane-pump-div {
+  position: relative;
+  height: 129px;
+}
+
+.variable-displacement-vane-pump-div {
+  position: relative;
+  height: 120px;
+}
+
+/* Gear Pumps */
+
+.gear-pump-div {
+  position: relative;
+  height: 105px;
+}
+.gear-pump-div {
+  position: relative;
+  height: 105px;
+}
+
+/* Motors */
+.geroler-motors-div {
+  position: relative;
+  height: 137px;
+}
+.vane-motors-div {
+  position: relative;
+  height: 132px;
+}
+
 .piston-pump,
 .fixed-piston-pump,
 .gear-pump-title-text,
@@ -956,13 +937,15 @@
 }
 
 /* Blog index */
+
+.blog-div-image {
+  position: relative;
+}
+
 #blog-image {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: fit-content;
-  width: 100%;
-  height: auto;
+  position: absolute;
+  object-fit: contain;
+  object-position: center;
 }
 
 /* Product Index */
@@ -1115,6 +1098,7 @@
 
 .tu-world {
   position: relative;
+  margin-top: 0.05em;
   /* height: 315px; */
 }
 /* @media (319px < width < 481px) {
@@ -1152,16 +1136,6 @@
 .fill-carousel {
   background-color: #1e4474;
 }
-
-/* .myslide-item-1,
-.myslide-item-2,
-.myslide-item-3,
-.myslide-item-4,
-.myslide-item-5,
-.myslide-item-6 {
-  position: absolute;
-  height: 315px;
-} */
 
 #carousel-inner {
   animation-name: carousel-inner;

@@ -72,12 +72,15 @@ const PistonPumps = () => {
           <div className="col-md-12">
             <h6 className="piston-pump"> Variable Displacement piston pumps</h6>
             <br />
-            <div className="d-flex justify-content-center">
+            <div className="piston-pump-div">
               <Image
+                fill={true}
+                id="piston-pump"
                 src="/images/rexrothpump-1.png"
                 alt="piston-pump"
-                width={395}
-                height={287}
+                sizes="100vw"
+                // width={395}
+                // height={287}
                 priority={true}
               />
             </div>
@@ -157,12 +160,15 @@ const PistonPumps = () => {
               Fixed Displacement Radial Piston Pumps
             </h6>
             <br />
-            <div className="d-flex justify-content-center">
+            <div className="radial-piston-pump-div">
               <Image
+                fill
+                id="radial-piston-pump"
                 src="/images/radial-piston-pump.png"
                 alt="fixed-piston-pump"
-                width={168}
-                height={130}
+                sizes="100vw"
+                // width={168}
+                // height={130}
               />
             </div>
             <br />
