@@ -10,6 +10,24 @@ import { useEffect } from "react";
 
 const Carousel = () => {
   useEffect(() => {
+    function setHeight() {
+      const screenWidth = window.innerWidth;
+      const divHeight = screenWidth * 0.188;
+      const theDiv = document.querySelector(".tu-world");
+      theDiv.style.height = `${divHeight}px`;
+    }
+
+    // Call setHeight initially and add a listener to resize event
+    setHeight();
+    window.addEventListener("resize", setHeight);
+
+    // Cleanup function to remove the resize event listener
+    return () => {
+      window.removeEventListener("resize", setHeight);
+    };
+  }, []);
+
+  useEffect(() => {
     let slideIndex = 0;
     const carouselItems = document.querySelectorAll("#carousel-inner");
     console.log(carouselItems);

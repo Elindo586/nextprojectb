@@ -1117,7 +1117,7 @@
   position: relative;
   /* height: 315px; */
 }
-@media (319px < width < 481px) {
+/* @media (319px < width < 481px) {
   .tu-world {
     position: relative;
     height: 100px;
@@ -1133,7 +1133,7 @@
 @media (769px < width < 1025px) {
   .tu-world {
     position: relative;
-    height: 193px;
+    height: 190px;
   }
 }
 @media (1025px < width < 1200px) {
@@ -1147,7 +1147,7 @@
     position: relative;
     height: 390px;
   }
-}
+} */
 
 .fill-carousel {
   background-color: #1e4474;
