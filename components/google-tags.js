@@ -45,6 +45,12 @@ const GoogleTags = () => {
         />
 
         <Script
+          id="google-tag2"
+          strategy="afterInteractive"
+          src="https://www.googletagmanager.com/gtag/js?id=G-4RB3V861V1"
+        />
+
+        <Script
           id="google-tag3"
           strategy="afterInteractive"
           dangerouslySetInnerHTML={{
