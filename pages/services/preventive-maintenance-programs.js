@@ -99,7 +99,7 @@ const Preventive = () => {
       </div>
       <div className="row">
         <div className="col-md-9">
-          <div className="maintenance-2-span">
+          <div className="maintenance-2-span row ">
             <Image
               fill={true}
               id="maintenance-2"
@@ -110,20 +110,23 @@ const Preventive = () => {
               // height={400}
             />
           </div>
-          <p className="preventive-maintenance-text">
-            In order to obtain the most productivity out of your machinery, it
-            is important to follow proper preventive maintenance practices to
-            keep your machinery working in optimum conditions.
-            <br /> <br />
-            Keeping your hydraulic oil working clean, cool, and dry will extend
-            the life and efficiency of your hydraulic components to provide a
-            better machine performance at lower maintenance cost. <br /> <br />
-            We work with machine builders and End Users on engineering and
-            sizing of proper machine components such as oil and air filtration
-            units, heat exchangers, water and humidity control solutions to
-            maintain complete control of your fluids working conditions and
-            obtain higher productivity with a lower maintenance cost.
-          </p>
+          <div className="row">
+            <p className="preventive-maintenance-text">
+              In order to obtain the most productivity out of your machinery, it
+              is important to follow proper preventive maintenance practices to
+              keep your machinery working in optimum conditions.
+              <br /> <br />
+              Keeping your hydraulic oil working clean, cool, and dry will
+              extend the life and efficiency of your hydraulic components to
+              provide a better machine performance at lower maintenance cost.{" "}
+              <br /> <br />
+              We work with machine builders and End Users on engineering and
+              sizing of proper machine components such as oil and air filtration
+              units, heat exchangers, water and humidity control solutions to
+              maintain complete control of your fluids working conditions and
+              obtain higher productivity with a lower maintenance cost.
+            </p>
+          </div>
           <br /> <br />
         </div>
         <div className="col-md-3">

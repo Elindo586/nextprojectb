@@ -127,30 +127,32 @@ const Laboratory = () => {
 
       <div className="row">
         <div className="col-md-9">
-          <div className=" oil-analysis-span">
+          <div className=" row oil-analysis-span">
             <Image
               fill={true}
               id="oil-analysis2"
               src="/images/oil-analysis2.png"
               alt="oil-analysis"
-              sizes="50vw"
+              sizes="100vw"
               // width={700}
               // height={400}
             />
           </div>
-
-          <p className="oil-analysis-text">
-            As a pro-active maintenance practice, oil analysis is crucial to
-            detect problems within your machinery before a problem becomes
-            bigger and more expensive issue to deal in your plant. <br /> <br />
-            By knowing and monitoring the type of contamination and / or actual
-            working conditions of your fluids, it is possible to pin point the
-            source of possible problems and take proper actions to correct an
-            unwanted situation before it becomes a costly production issue.{" "}
-            <br /> <br />
-            We provide a full range of oil analysis services to monitor your
-            fluids working conditions.
-          </p>
+          <div className="row">
+            <p className="oil-analysis-text">
+              As a pro-active maintenance practice, oil analysis is crucial to
+              detect problems within your machinery before a problem becomes
+              bigger and more expensive issue to deal in your plant. <br />{" "}
+              <br />
+              By knowing and monitoring the type of contamination and / or
+              actual working conditions of your fluids, it is possible to pin
+              point the source of possible problems and take proper actions to
+              correct an unwanted situation before it becomes a costly
+              production issue. <br /> <br />
+              We provide a full range of oil analysis services to monitor your
+              fluids working conditions.
+            </p>
+          </div>
 
           <div className="row">
             <div className="col-md-6">

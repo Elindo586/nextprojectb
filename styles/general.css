@@ -279,6 +279,7 @@
 .maintenance-2-span {
   padding-left: 2em;
   position: relative;
+  aspect-ratio: 1.75;
 }
 
 #maintenance-2 {
@@ -299,6 +300,7 @@
 .oil-analysis-span {
   padding-left: 2em;
   position: relative;
+  aspect-ratio: 1.75;
 }
 
 #oil-analysis2 {
@@ -385,6 +387,11 @@
   height: 105px;
 }
 
+.dump-pump-div {
+  position: relative;
+  height: 108px;
+}
+
 /* Motors */
 .geroler-motors-div {
   position: relative;
@@ -427,7 +434,7 @@
 .product-title-table-text {
   text-align: center;
   background-color: #016698 !important;
-  color: white;
+  color: white !important;
 }
 .inside-table-text {
   vertical-align: middle;
@@ -940,6 +947,7 @@
 
 .blog-div-image {
   position: relative;
+  aspect-ratio: 1.9047;
 }
 
 #blog-image {
