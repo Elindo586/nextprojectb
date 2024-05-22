@@ -17,12 +17,12 @@ const BloggerFrontEnglish = ({ db }) => {
   useEffect(() => {
     function setHeight() {
       const screenWidth = window.innerWidth;
-      const divHeight = screenWidth * 0.4;
+      const divHeight = screenWidth * 0.36;
       const theDivs = document.querySelectorAll(".blog-div-image");
 
       for (let i = 0; i < theDivs.length; i++) {
         const theDiv = theDivs[i];
-        if (screenWidth <= 1100) {
+        if (screenWidth <= 875) {
           theDiv.style.height = `${divHeight}px`;
         } else {
           theDiv.style.height = `315px`;

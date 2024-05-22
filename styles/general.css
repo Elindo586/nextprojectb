@@ -204,14 +204,17 @@
   background-color: white;
 }
 .nav2title {
+  text-align: center;
   display: block;
   background-color: #169ee3;
-  color: black;
+  color: rgb(53, 39, 39);
   padding: 10px;
   padding-left: 10px;
   text-decoration: none;
   border: 1px solid #555;
   margin-bottom: 5px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .col-md-9 {
   padding-left: 3em;
@@ -948,6 +951,7 @@
 .blog-div-image {
   position: relative;
   aspect-ratio: 1.9047;
+  margin: auto;
 }
 
 #blog-image {
@@ -1106,40 +1110,11 @@
 
 .tu-world {
   position: relative;
-  margin-top: 0.05em;
-  /* height: 315px; */
+  margin-top: 0.2em;
+  aspect-ratio: 5.41;
+  margin-left: auto;
+  margin-right: auto;
 }
-/* @media (319px < width < 481px) {
-  .tu-world {
-    position: relative;
-    height: 100px;
-  }
-}
-
-@media (481px < width < 769px) {
-  .tu-world {
-    position: relative;
-    height: 145px;
-  }
-}
-@media (769px < width < 1025px) {
-  .tu-world {
-    position: relative;
-    height: 190px;
-  }
-}
-@media (1025px < width < 1200px) {
-  .tu-world {
-    position: relative;
-    height: 230px;
-  }
-}
-@media (min-width: 1200px) {
-  .tu-world {
-    position: relative;
-    height: 390px;
-  }
-} */
 
 .fill-carousel {
   background-color: #1e4474;
