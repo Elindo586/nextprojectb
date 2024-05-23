@@ -1,7 +1,6 @@
 import React from "react";
 import { useEffect, useState, useMemo } from "react";
 import Head from "next/head";
-
 import Pagination from "../../../components/pagination";
 
 import db from "../../../utils/elements-pall.json";

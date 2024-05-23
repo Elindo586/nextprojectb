@@ -54,18 +54,16 @@ const BloggerFrontSpanish = ({ db }) => {
         if (searchTerm === "") {
           return val;
         }
-        return (
-          val.title
-            .toLowerCase()
-            .normalize("NFD")
-            .replace(/[\u0300-\u036f]/g, "")
-            .includes(searchTerm.toLowerCase()) ||
-          val.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-          `${val.title}`
-            .normalize("NFD")
-            .replace(/[\u0300-\u036f]/g, "")
-            .includes(searchTerm)
-        );
+        return val.title
+          .toLowerCase()
+          .normalize("NFD")
+          .replace(/[\u0300-\u036f]/g, "")
+          .includes(searchTerm.toLowerCase()) ||
+        val.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        `${val.title}`
+          .normalize("NFD")
+          .replace(/[\u0300-\u036f]/g, "")
+          .includes(searchTerm);
       }),
     [searchTerm, db]
   );

@@ -146,7 +146,7 @@ const HydacElements = ({ db }) => {
             Hydac / Hycon filters. If you have any requirements on these
             components, or you are looking for a filter element that you do not
             find, you can always{" "}
-            <Link href="/contact-us" className="contact-us">
+            <Link href="/contact-us" className="contact-us" legacyBehavior>
               {" "}
               contact us{" "}
             </Link>{" "}
