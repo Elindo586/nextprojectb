@@ -99,34 +99,34 @@ const Inventory2 = () => {
       <div className="col-md-12 footer-margin">
         <ul>
           <li>
-            <Link legacyBehavior href="/inventory/vickers">
+            <Link legacyBehavior href="/inventory/vickers" prefetch={false}>
               <a className="inventory-list">Eaton-Vickers</a>
             </Link>
           </li>
           <li>
-            <Link legacyBehavior href="/inventory/charlynn">
+            <Link legacyBehavior href="/inventory/charlynn" prefetch={false}>
               <a className="inventory-list">Eaton-Charlynn</a>
             </Link>{" "}
           </li>
           <li>
             {" "}
-            <Link legacyBehavior href="/inventory/rexroth">
+            <Link legacyBehavior href="/inventory/rexroth" prefetch={false}>
               <a className="inventory-list">Bosch-Rexroth</a>
             </Link>
           </li>
           <li>
             {" "}
-            <Link legacyBehavior href="/inventory/racine">
+            <Link legacyBehavior href="/inventory/racine" prefetch={false}>
               <a className="inventory-list">Bosch-Racine</a>
             </Link>
           </li>
           <li>
-            <Link legacyBehavior href="/inventory/parker">
+            <Link legacyBehavior href="/inventory/parker" prefetch={false}>
               <a className="inventory-list">Parker</a>
             </Link>{" "}
           </li>
           <li>
-            <Link legacyBehavior href="/inventory/denison">
+            <Link legacyBehavior href="/inventory/denison" prefetch={false}>
               <a className="inventory-list">Parker Denison</a>
             </Link>{" "}
           </li>

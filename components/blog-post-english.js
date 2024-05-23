@@ -140,7 +140,7 @@ function VideoBlogger2(props) {
           </div>
           <div className="col-md-12 centering-btn">
             {props.previous && (
-              <Link legacyBehavior href={props.previous}>
+              <Link legacyBehavior href={props.previous} prefetch={false}>
                 <a
                   className="btn btn-info d-flex justify-content-center"
                   target=""
@@ -150,7 +150,7 @@ function VideoBlogger2(props) {
               </Link>
             )}
             {props.previous && (
-              <Link legacyBehavior href={props.next}>
+              <Link legacyBehavior href={props.next} prefetch={false}>
                 <a
                   className="btn btn-info d-flex justify-content-center"
                   target=""
@@ -176,7 +176,7 @@ function VideoBlogger2(props) {
         </div>
         <div className="col-md-3">
           {" "}
-          <Link legacyBehavior href="/video-blog/castellano">
+          <Link legacyBehavior href="/video-blog/castellano" prefetch={false}>
             <a
               className="btn btn-info d-flex justify-content-center"
               target="blank"

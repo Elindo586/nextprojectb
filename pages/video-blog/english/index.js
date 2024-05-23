@@ -199,7 +199,7 @@ const BloggerFrontEnglish = ({ db }) => {
                   <br />
                   <div>
                     {" "}
-                    <Link legacyBehavior href={item.link}>
+                    <Link legacyBehavior href={item.link} prefetch={false}>
                       <a className="btn btn-info d-flex justify-content-center">
                         {item.more}
                       </a>
@@ -242,7 +242,7 @@ const BloggerFrontEnglish = ({ db }) => {
         </div>
         <div className="col-md-3">
           {" "}
-          <Link legacyBehavior href="/video-blog/castellano">
+          <Link legacyBehavior href="/video-blog/castellano" prefetch={false}>
             <a
               className="btn btn-info d-flex justify-content-center"
               target="blank"

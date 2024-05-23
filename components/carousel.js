@@ -30,7 +30,7 @@ const Carousel = () => {
   useEffect(() => {
     let slideIndex = 0;
     const carouselItems = document.querySelectorAll("#carousel-inner");
-    console.log(carouselItems);
+
     showSlides();
     function showSlides() {
       for (let i = 0; i < carouselItems.length; i++) {

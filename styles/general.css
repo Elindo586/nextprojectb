@@ -952,6 +952,7 @@
   position: relative;
   aspect-ratio: 1.9047;
   margin: auto;
+  max-height: 315px;
 }
 
 #blog-image {
@@ -1116,9 +1117,9 @@
   margin-right: auto;
 }
 
-.fill-carousel {
+/* .fill-carousel {
   background-color: #1e4474;
-}
+} */
 
 #carousel-inner {
   animation-name: carousel-inner;
