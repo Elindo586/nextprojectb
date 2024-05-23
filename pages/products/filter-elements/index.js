@@ -77,11 +77,7 @@ const FilterElements = () => {
             brands. Below you will find a list of different manufacturer&#39;s
             names. If you do not find the elements you are looking for you
             always{" "}
-            <a
-              href="https://www.tu.biz/contact-us"
-              target="blank"
-              className="contact-us"
-            >
+            <a href="https://www.tu.biz/contact-us" className="contact-us">
               contact us
             </a>{" "}
             for more details. <br /> <br />
@@ -92,7 +88,6 @@ const FilterElements = () => {
                 <a
                   href="https://www.tu.biz/products/filter-elements/pall"
                   className="filter-element"
-                  target="blank"
                 >
                   {" "}
                   Pall
@@ -102,7 +97,6 @@ const FilterElements = () => {
                 <a
                   href="https://www.tu.biz/products/filter-elements/hydac"
                   className="filter-element"
-                  target="blank"
                 >
                   Hydac
                 </a>
