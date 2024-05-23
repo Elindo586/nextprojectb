@@ -14,33 +14,33 @@ export async function getStaticProps() {
   };
 }
 const BloggerFrontEnglish = ({ db }) => {
-  useEffect(() => {
-    function setHeight() {
-      const screenWidth = window.innerWidth;
-      const divHeight = screenWidth * 0.36;
-      const theDivs = document.querySelectorAll(".blog-div-image");
+  // useEffect(() => {
+  //   function setHeight() {
+  //     const screenWidth = window.innerWidth;
+  //     const divHeight = screenWidth * 0.36;
+  //     const theDivs = document.querySelectorAll(".blog-div-image");
 
-      for (let i = 0; i < theDivs.length; i++) {
-        const theDiv = theDivs[i];
-        if (screenWidth <= 875) {
-          theDiv.style.height = `${divHeight}px`;
-        } else {
-          theDiv.style.height = `315px`;
-        }
-      }
-    }
+  //     for (let i = 0; i < theDivs.length; i++) {
+  //       const theDiv = theDivs[i];
+  //       if (screenWidth <= 875) {
+  //         theDiv.style.height = `${divHeight}px`;
+  //       } else {
+  //         theDiv.style.height = `315px`;
+  //       }
+  //     }
+  //   }
 
-    // Call setHeight initially
-    setHeight();
+  //   // Call setHeight initially
+  //   setHeight();
 
-    // Add a listener to resize event
-    window.addEventListener("resize", setHeight);
+  //   // Add a listener to resize event
+  //   window.addEventListener("resize", setHeight);
 
-    // Cleanup function to remove the resize event listener
-    return () => {
-      window.removeEventListener("resize", setHeight);
-    };
-  }, []); // Empty dependency array means this effect runs once after initial render
+  //   // Cleanup function to remove the resize event listener
+  //   return () => {
+  //     window.removeEventListener("resize", setHeight);
+  //   };
+  // }, []); // Empty dependency array means this effect runs once after initial render
 
   let PageSize = 5;
 
@@ -53,18 +53,20 @@ const BloggerFrontEnglish = ({ db }) => {
         if (searchTerm === "") {
           return val;
         }
-        return val.title.normalize("NFKD").includes(searchTerm.toLowerCase()) ||
-        val.title.normalize("NFKC").includes(searchTerm.toLowerCase()) ||
-        val.title
-          .normalize("NFD")
-          .replace(/[\u0300-\u036f]/g, "")
-          .includes(searchTerm.toLowerCase()) ||
-        val.title.normalize("NFC").includes(searchTerm.toLowerCase()) ||
-        val.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        `${val.title}`.normalize("NFKD").includes(searchTerm) ||
-        `${val.title}`.normalize("NFKC").includes(searchTerm) ||
-        `${val.title}`.normalize("NFD").includes(searchTerm) ||
-        `${val.title}`.normalize("NFC").includes(searchTerm);
+        return (
+          val.title.normalize("NFKD").includes(searchTerm.toLowerCase()) ||
+          val.title.normalize("NFKC").includes(searchTerm.toLowerCase()) ||
+          val.title
+            .normalize("NFD")
+            .replace(/[\u0300-\u036f]/g, "")
+            .includes(searchTerm.toLowerCase()) ||
+          val.title.normalize("NFC").includes(searchTerm.toLowerCase()) ||
+          val.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
+          `${val.title}`.normalize("NFKD").includes(searchTerm) ||
+          `${val.title}`.normalize("NFKC").includes(searchTerm) ||
+          `${val.title}`.normalize("NFD").includes(searchTerm) ||
+          `${val.title}`.normalize("NFC").includes(searchTerm)
+        );
       }),
     [searchTerm, db]
   );
@@ -191,7 +193,7 @@ const BloggerFrontEnglish = ({ db }) => {
                       sizes="100vw"
                       // width={600}
                       // height={315}
-                      priority={true} // {false} | {true}
+                      priority={true}
                     ></Image>
                   </div>
                   <br />

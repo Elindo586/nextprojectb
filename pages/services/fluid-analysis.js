@@ -133,7 +133,7 @@ const Laboratory = () => {
               id="oil-analysis2"
               src="/images/oil-analysis2.png"
               alt="oil-analysis"
-              sizes="100vw"
+              sizes="50vw"
               // width={700}
               // height={400}
             />

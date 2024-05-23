@@ -952,7 +952,16 @@
   position: relative;
   aspect-ratio: 1.9047;
   margin: auto;
-  max-height: 315px;
+  height: 315px;
+}
+
+@media (320px < width < 810px) {
+  .blog-div-image {
+    height: 230px;
+    position: relative;
+    aspect-ratio: 1.9047;
+    margin: auto;
+  }
 }
 
 #blog-image {
