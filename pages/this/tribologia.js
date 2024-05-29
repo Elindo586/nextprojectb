@@ -1,7 +1,5 @@
 import React from "react";
-import Image from "next/image";
 import Head from "next/head";
-import Link from "next/link";
 import ProductNav from "../../components/nav-products";
 
 const Tribologia = () => {
@@ -27,7 +25,7 @@ const Tribologia = () => {
               name="facebook-domain-verification"
               content="fzctnjbrtlybvytmamk8glkng9af7p"
             />
-            <title>Trigologia</title>
+            <title>Tribologia</title>
             <meta name="description" content="La casa de Tribologia" />
             <meta name="keywords" content="tribologia" />
             <meta name="author" content="Edgar Lindo" />
