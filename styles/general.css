@@ -207,7 +207,7 @@
   text-align: center;
   display: block;
   background-color: #169ee3;
-  color: rgb(53, 39, 39);
+  color: rgb(48, 12, 12);
   padding: 10px;
   padding-left: 10px;
   text-decoration: none;
@@ -337,7 +337,9 @@
 #gear-pump,
 #dump-pump,
 #geroler-motors,
-#vane-motors {
+#vane-motors,
+#linear-guides,
+#ball-screws {
   position: absolute;
   object-fit: contain;
   object-position: center;
@@ -461,6 +463,21 @@
 /* MANIFOLD `<a>` ELEMENTS */
 .pdf-btns {
   display: inline-block !important;
+}
+
+/* Products - Linear Guides */
+.linear-guides-div {
+  position: relative;
+  height: 346px;
+}
+/* 
+Products - ball screws  */
+.ball-screws-div {
+  position: relative;
+  height: 300px;
+  aspect-ratio: 1.728135693;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* PUMP FORM */
@@ -977,7 +994,9 @@
 .dropbtn3,
 .dropbtn4,
 .dropbtn5,
-.dropbtn6 {
+.dropbtn6,
+.dropbtn7,
+.dropbtn8 {
   background-color: #0a567f;
   color: white;
   padding: 16px;
@@ -999,7 +1018,10 @@
 .dropbtn5:hover,
 .dropbtn5:focus,
 .dropbtn6:hover,
-.dropbtn6:focus {
+.dropbtn6:focus,
+.dropbtn7:hover,
+.dropbtn7:focus,
+.dropbtn8:hover {
   background-color: #2980b9;
 }
 
@@ -1009,7 +1031,9 @@
 .dropdown3,
 .dropdown4,
 .dropdown5,
-.dropdown6 {
+.dropdown6,
+.dropdown7,
+.dropdown8 {
   position: relative;
   display: inline-block;
 }
@@ -1020,7 +1044,9 @@
 .dropdown-content3,
 .dropdown-content4,
 .dropdown-content5,
-.dropdown-content6 {
+.dropdown-content6,
+.dropdown-content7,
+.dropdown-content8 {
   display: none;
 
   background-color: #f1f1f1;
@@ -1035,7 +1061,9 @@
 .dropdown-content3 a,
 .dropdown-content4 a,
 .dropdown-content5 a,
-.dropdown-content6 a {
+.dropdown-content6 a,
+.dropdown-content7 a,
+.dropdown-content8 a {
   color: black;
   padding: 10px 10px;
   text-decoration: none;
@@ -1050,7 +1078,12 @@
 .dropdown-content3 a:hover,
 .dropdown-content4 a:hover,
 .dropdown-content5 a:hover,
-.dropdown-content6 a:hover {
+.dropdown-content6 a:hover,
+.dropdown-content7 a:hover,
+.dropdown-content8 a:hover {
+  background-color: #ddd;
+}
+. {
   background-color: #ddd;
 }
 .dropdown-title {
@@ -1063,12 +1096,40 @@
 }
 
 /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+
+.hydraulic-class-items,
+.mechanical-class-items {
+  display: block;
+  text-decoration: none;
+  transition: max-height 0.2s ease-out;
+  overflow: hidden;
+}
+.do-not-show-hydraulics,
+.do-not-show-mechanical {
+  display: none;
+  z-index: 1;
+}
+
+.hydraulic-button-wrap-div,
+.mechanical-button-wrap-div {
+  margin-bottom: 0.5em;
+  border-bottom: double;
+}
+
+.hydraulic-drop-button:hover,
+.mechanical-drop-button:hover {
+  color: rgb(44, 68, 134);
+  text-decoration: underline dotted rgb(44, 68, 134);
+}
+
 .show1,
 .show2,
 .show3,
 .show4,
 .show5,
 .show6,
+.show7,
+.show8,
 .showPumps {
   display: block;
   color: black;

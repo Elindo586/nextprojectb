@@ -25,6 +25,16 @@ function ProductNav() {
     document.getElementById("filterDropdown").classList.toggle("showPumps");
   }
 
+  function showLinearBearings() {
+    document
+      .getElementById("linearBearingsDropdown")
+      .classList.toggle("showPumps");
+  }
+
+  function showBallScrews() {
+    document.getElementById("ballScrewsDropdown").classList.toggle("showPumps");
+  }
+
   const [pathName, setPathName] = useState();
 
   useEffect(() => {
@@ -145,8 +155,8 @@ function ProductNav() {
               Flow Control
             </Link>
           </div>
-          <div className=" row link2Tittle">Mobile Valves</div>
-          <div className="col">
+          {/* <div className=" row link2Tittle">Mobile Valves</div> */}
+          {/* <div className="col">
             <div className="row">
               <Link
                 href="/products/mobile-valves/hydraulic-counterbalance-valves"
@@ -236,9 +246,9 @@ function ProductNav() {
                 Flow Divider
               </Link>
             </div>
-          </div>
+          </div> */}
         </div>
-        <div className="row">
+        {/* <div className="row">
           <button onClick={showFlowmeters} className="link1">
             <b>Flowmeters</b>
           </button>
@@ -255,7 +265,7 @@ function ProductNav() {
               Flowmeters
             </Link>
           </div>
-        </div>
+        </div> */}
         <div className="row">
           <button onClick={showManifolds} className="link1">
             {" "}
@@ -294,6 +304,48 @@ function ProductNav() {
               }
             >
               Filter Elements
+            </Link>
+          </div>
+        </div>
+        <div className="row">
+          {" "}
+          <button onClick={showLinearBearings} className="link1">
+            <b>Linear Bearings</b>
+          </button>
+        </div>
+        <div id="linearBearingsDropdown" className=" col pumpHidden">
+          <div className="row">
+            {" "}
+            <Link
+              href="/products/mechanical/linear-bearings"
+              className={
+                pathName === "/products/mechanical/linear-bearings"
+                  ? "link2 active2"
+                  : "link2"
+              }
+            >
+              Linear Bearings
+            </Link>
+          </div>
+        </div>
+        <div className="row">
+          {" "}
+          <button onClick={showBallScrews} className="link1">
+            <b>Ball Screws</b>
+          </button>
+        </div>
+        <div id="ballScrewsDropdown" className=" col pumpHidden">
+          <div className="row">
+            {" "}
+            <Link
+              href="/products/mechanical/ball-screws"
+              className={
+                pathName === "/products/mechanical/ball-screws"
+                  ? "link2 active2"
+                  : "link2"
+              }
+            >
+              Ball Screws
             </Link>
           </div>
         </div>

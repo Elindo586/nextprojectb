@@ -20,6 +20,54 @@ const Ind = () => {
   /* When the user clicks on the button,
 toggle between hiding and showing the dropdown content */
 
+  function myFunctionHydraulics() {
+    document
+      .getElementById("hydraulic-id-items")
+      .classList.toggle("do-not-show-hydraulics");
+  }
+
+  // Close the dropdown menu if the user clicks outside of it
+
+  useEffect(() => {
+    window.onclick = function (event) {
+      if (!event.target.matches(".hydraulic-drop-button")) {
+        var dropdowns = document.getElementsByClassName("hydraulic-drop-items");
+        var i;
+        for (i = 0; i < dropdowns.length; i++) {
+          var openDropdown = dropdowns[i];
+          if (openDropdown.classList.contains("do-not-show-hydraulics")) {
+            openDropdown.classList.remove("do-not-show-hydraulics");
+          }
+        }
+      }
+    };
+  });
+
+  function myFunctionMechanical() {
+    document
+      .getElementById("mechanical-id-items")
+      .classList.toggle("do-not-show-mechanical");
+  }
+
+  // Close the dropdown menu if the user clicks outside of it
+
+  useEffect(() => {
+    window.onclick = function (event) {
+      if (!event.target.matches(".mechanical-drop-button")) {
+        var dropdowns = document.getElementsByClassName(
+          "mechancial-drop-items"
+        );
+        var i;
+        for (i = 0; i < dropdowns.length; i++) {
+          var openDropdown = dropdowns[i];
+          if (openDropdown.classList.contains("do-not-show-mechanical")) {
+            openDropdown.classList.remove("do-not-show-mechanical");
+          }
+        }
+      }
+    };
+  });
+
   function myFunction1() {
     document.getElementById("myDropdown1").classList.toggle("show1");
   }
@@ -146,6 +194,48 @@ toggle between hiding and showing the dropdown content */
     };
   });
 
+  function myFunction7() {
+    document.getElementById("myDropdown7").classList.toggle("show7");
+  }
+
+  // Close the dropdown menu if the user clicks outside of it
+
+  useEffect(() => {
+    window.onclick = function (event) {
+      if (!event.target.matches(".dropbtn7")) {
+        var dropdowns = document.getElementsByClassName("dropdown-content7");
+        var i;
+        for (i = 0; i < dropdowns.length; i++) {
+          var openDropdown = dropdowns[i];
+          if (openDropdown.classList.contains("show7")) {
+            openDropdown.classList.remove("show7");
+          }
+        }
+      }
+    };
+  });
+
+  function myFunction8() {
+    document.getElementById("myDropdown8").classList.toggle("show8");
+  }
+
+  // Close the dropdown menu if the user clicks outside of it
+
+  useEffect(() => {
+    window.onclick = function (event) {
+      if (!event.target.matches(".dropbtn8")) {
+        var dropdowns = document.getElementsByClassName("dropdown-content8");
+        var i;
+        for (i = 0; i < dropdowns.length; i++) {
+          var openDropdown = dropdowns[i];
+          if (openDropdown.classList.contains("show8")) {
+            openDropdown.classList.remove("show8");
+          }
+        }
+      }
+    };
+  });
+
   return (
     <div className="conatainer">
       <div>
@@ -228,145 +318,196 @@ toggle between hiding and showing the dropdown content */
           </div>
         </div>
       </div>
+      <div className="container ">
+        {" "}
+        <div className="hydraulic-button-wrap-div">
+          <b onClick={myFunctionHydraulics} className="hydraulic-drop-button">
+            Hydraulics
+          </b>{" "}
+        </div>
+        <div id="hydraulic-id-items" className="hydraulic-class-items">
+          <div className="row">
+            <div className=" col product-col">
+              <div className="dropdown1">
+                <button onClick={myFunction1} className="dropbtn1">
+                  Pumps
+                </button>
+                <div id="myDropdown1" className="dropdown-content1">
+                  <div>
+                    <Link legacyBehavior href="/products/piston-pumps">
+                      Piston
+                    </Link>
+                  </div>
+                  <div>
+                    <Link legacyBehavior href="/products/vane-pumps">
+                      Vane
+                    </Link>
+                  </div>
+                  <div>
+                    <Link legacyBehavior href="/products/gear-pumps">
+                      Gear
+                    </Link>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="col">
+              <div className="dropdown2">
+                <button onClick={myFunction2} className="dropbtn2">
+                  Motors
+                </button>
+                <div id="myDropdown2" className="dropdown-content2">
+                  <div>
+                    <Link href="/products/geroler-motors">Geroler Motors</Link>
+                  </div>
+                  <div>
+                    <Link href="/products/vane-motors">Vane Motors</Link>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="col">
+              <div className="dropdown3">
+                <button onClick={myFunction3} className="dropbtn3">
+                  Valves
+                </button>
+                <div id="myDropdown3" className="dropdown-content3">
+                  <div className="dropdown-title"> Industrial Valves</div>
+                  <div>
+                    <Link href="/products/industrial-valves/directional-control-valves">
+                      Directional Control
+                    </Link>
+                  </div>
+                  <div>
+                    <Link href="/products/industrial-valves/flow-control-valves">
+                      Flow Control
+                    </Link>
+                  </div>
+                  {/* <div className="dropdown-title"> Mobile Valves</div>
+                  <div>
+                    <Link href="/products/mobile-valves/hydraulic-counterbalance-valves">
+                      Counter Balance
+                    </Link>
+                  </div>
+                  <div>
+                    <Link href="/products/mobile-valves/hydraulic-sequence-valves">
+                      Sequence
+                    </Link>
+                  </div>
+                  <div>
+                    <Link href="/products/mobile-valves/hydraulic-relief-valves">
+                      Relief
+                    </Link>
+                  </div>
+                  <div>
+                    <Link href="/products/mobile-valves/hydraulic-check-valves">
+                      Check
+                    </Link>
+                  </div>
+                  <div>
+                    <Link href="/products/mobile-valves/hydraulic-shuttle-valves">
+                      Shuttle
+                    </Link>
+                  </div>{" "}
+                  <div>
+                    <Link href="/products/mobile-valves/hydraulic-hose-burst-valves">
+                      Hose Burts
+                    </Link>
+                  </div>{" "}
+                  <div>
+                    <Link href="/products/mobile-valves/hydraulic-flow-divider-valves">
+                      Flow Divider
+                    </Link>
+                  </div> */}
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="row">
+            <div className="col">
+              <div className="dropdown6">
+                <button onClick={myFunction6} className="dropbtn6">
+                  Filters
+                </button>
+                <div id="myDropdown6" className="dropdown-content6">
+                  <div>
+                    <Link href="/products/filter-elements">
+                      Filter Elements
+                    </Link>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="col">
+              <div className="dropdown5">
+                <button onClick={myFunction5} className="dropbtn5">
+                  Manifolds
+                </button>
+                <div id="myDropdown5" className="dropdown-content5">
+                  <div>
+                    <Link href="/products/hydraulic-manifolds">Manifolds</Link>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="col">
+              <div className="dropdown4">
+                {/* <button onClick={myFunction4} className="dropbtn4">
+                    Flowmeters
+                  </button> */}
+                <div id="myDropdown4" className="dropdown-content4">
+                  <div>
+                    <Link href="/products/flowmeters">Flowmeter</Link>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
       <div className="container">
-        <div className="row">
-          <div className=" col product-col">
-            <div className="dropdown1">
-              <button onClick={myFunction1} className="dropbtn1">
-                Pumps
-              </button>
-              <div id="myDropdown1" className="dropdown-content1">
-                <div>
-                  <Link legacyBehavior href="/products/piston-pumps">
-                    Piston
-                  </Link>
-                </div>
-                <div>
-                  <Link legacyBehavior href="/products/vane-pumps">
-                    Vane
-                  </Link>
-                </div>
-                <div>
-                  <Link legacyBehavior href="/products/gear-pumps">
-                    Gear
-                  </Link>
+        <div className="mechanical-button-wrap-div">
+          <b onClick={myFunctionMechanical} className="mechanical-drop-button">
+            Mechanical
+          </b>{" "}
+        </div>
+        <div id="mechanical-id-items" className="mechanical-class-items">
+          <div className="row">
+            <div className="col">
+              <div className="dropdown7">
+                <button onClick={myFunction7} className="dropbtn7">
+                  Linear Bearings
+                </button>
+                <div id="myDropdown7" className="dropdown-content7">
+                  <div>
+                    <Link href="/products/mechanical/linear-bearings">
+                      Linear Bearings
+                    </Link>
+                  </div>
                 </div>
               </div>
             </div>
-          </div>
-          <div className="col">
-            <div className="dropdown2">
-              <button onClick={myFunction2} className="dropbtn2">
-                Motors
-              </button>
-              <div id="myDropdown2" className="dropdown-content2">
-                <div>
-                  <Link href="/products/geroler-motors">Geroler Motors</Link>
-                </div>
-                <div>
-                  <Link href="/products/vane-motors">Vane Motors</Link>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="col">
-            <div className="dropdown3">
-              <button onClick={myFunction3} className="dropbtn3">
-                Valves
-              </button>
-              <div id="myDropdown3" className="dropdown-content3">
-                <div className="dropdown-title"> Industrial Valves</div>
-                <div>
-                  <Link href="/products/industrial-valves/directional-control-valves">
-                    Directional Control
-                  </Link>
-                </div>
-                <div>
-                  <Link href="/products/industrial-valves/flow-control-valves">
-                    Flow Control
-                  </Link>
-                </div>
-                <div className="dropdown-title"> Mobile Valves</div>
-                <div>
-                  <Link href="/products/mobile-valves/hydraulic-counterbalance-valves">
-                    Counter Balance
-                  </Link>
-                </div>
-                <div>
-                  <Link href="/products/mobile-valves/hydraulic-sequence-valves">
-                    Sequence
-                  </Link>
-                </div>
-                <div>
-                  <Link href="/products/mobile-valves/hydraulic-relief-valves">
-                    Relief
-                  </Link>
-                </div>
-                <div>
-                  <Link href="/products/mobile-valves/hydraulic-check-valves">
-                    Check
-                  </Link>
-                </div>
-                <div>
-                  <Link href="/products/mobile-valves/hydraulic-shuttle-valves">
-                    Shuttle
-                  </Link>
-                </div>{" "}
-                <div>
-                  <Link href="/products/mobile-valves/hydraulic-hose-burst-valves">
-                    Hose Burts
-                  </Link>
-                </div>{" "}
-                <div>
-                  <Link href="/products/mobile-valves/hydraulic-flow-divider-valves">
-                    Flow Divider
-                  </Link>
+            <div className="col">
+              <div className="dropdown8">
+                <button onClick={myFunction8} className="dropbtn8">
+                  Ball Screws
+                </button>
+                <div id="myDropdown8" className="dropdown-content8">
+                  <div>
+                    <Link href="/products/mechanical/ball-screws">
+                      Ball Screws
+                    </Link>
+                  </div>
                 </div>
               </div>
             </div>
+            <div className="col"></div>
           </div>
         </div>
-        <div className="row">
-          <div className="col">
-            <div className="dropdown4">
-              <button onClick={myFunction4} className="dropbtn4">
-                Flowmeters
-              </button>
-              <div id="myDropdown4" className="dropdown-content4">
-                <div>
-                  <Link href="/products/flowmeters">Flowmeter</Link>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="col">
-            <div className="dropdown5">
-              <button onClick={myFunction5} className="dropbtn5">
-                Manifolds
-              </button>
-              <div id="myDropdown5" className="dropdown-content5">
-                <div>
-                  <Link href="/products/hydraulic-manifolds">Manifolds</Link>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="col">
-            <div className="dropdown6">
-              <button onClick={myFunction6} className="dropbtn6">
-                Filters
-              </button>
-              <div id="myDropdown6" className="dropdown-content6">
-                <div>
-                  <Link href="/products/filter-elements">Filter Elements</Link>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div className="row">
-          <div className="footer-spacer-products"></div>
-        </div>
+      </div>
+      <div className="row">
+        <div className="footer-spacer-products"></div>
       </div>
     </div>
   );
