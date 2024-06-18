@@ -52,6 +52,22 @@
 </url>
 
 <url>
+  <loc>https://www.tu.biz/products/mechanical/linear-bearings</loc>
+  <image:image><image:loc>https://www.tu.biz/_next/image?url=%2Fimages%2Fmechanical%2Flinear-guides.png&amp;w=1920&amp;q=75</image:loc></image:image>
+  
+  <lastmod>2024-06-18</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
+  <loc>https://www.tu.biz/products/mechanical/ball-screws</loc>
+  <image:image><image:loc>https://www.tu.biz/_next/image?url=%2Fimages%2Fmechanical%2Fball-screws.png&amp;w=1920&amp;q=75</image:loc></image:image>
+  
+  <lastmod>2024-06-18</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
   <loc>https://www.tu.biz/products/piston-pumps</loc>
   <image:image><image:loc>https://www.tu.biz/_next/image?url=%2Fimages%2Frexrothpump-1.png&amp;w=640&amp;q=75</image:loc></image:image>
   <image:image><image:loc>https://www.tu.biz/_next/image?url=%2Fimages%2Fradial-piston-pump.png&amp;w=256&amp;q=75</image:loc></image:image>

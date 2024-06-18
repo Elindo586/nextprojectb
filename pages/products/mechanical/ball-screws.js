@@ -46,11 +46,11 @@ const BallScrews = () => {
           />
           <meta
             property="og:image"
-            content="https://www.tu.biz//oppictures/geroler-motors.png"
+            content="https://www.tu.biz//oppictures/ball-screws.png"
           />
           <meta
             property="og:url"
-            content="https://www.tu.biz/products/geroler-motors"
+            content="https://www.tu.biz/products/mechanical/ball-screws"
           />
           {/* Twitter tags */}
 
@@ -65,7 +65,7 @@ const BallScrews = () => {
           />
           <meta
             name="twitter:image"
-            content="https:www.tu.biz/oppictures/geroler-motors.png"
+            content="https:www.tu.biz/oppictures/ball-screws.png"
           />
         </Head>
       </div>

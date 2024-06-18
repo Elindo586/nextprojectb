@@ -46,11 +46,11 @@ const LinearGuides = () => {
           />
           <meta
             property="og:image"
-            content="https://www.tu.biz//oppictures/geroler-motors.png"
+            content="https://www.tu.biz//oppictures/linear-bearings.png"
           />
           <meta
             property="og:url"
-            content="https://www.tu.biz/products/geroler-motors"
+            content="https://www.tu.biz/products/mechanical/linear-bearings"
           />
           {/* Twitter tags */}
 
@@ -65,7 +65,7 @@ const LinearGuides = () => {
           />
           <meta
             name="twitter:image"
-            content="https:www.tu.biz/oppictures/geroler-motors.png"
+            content="https:www.tu.biz/oppictures/linear-bearings.png"
           />
         </Head>
       </div>
