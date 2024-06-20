@@ -92,16 +92,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-KXZRG4LK'); `,
           }}
         />
-        <Script
-          id="google-tag-manager-2"
-          strategy="afterInteractive"
-          dangerouslySetInnerHTML={{
-            __html: `
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KXZRG4LK"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    `,
-          }}
-        />
+
+        <noscript>
+          <iframe
+            src="https://www.googletagmanager.com/ns.html?id=GTM-KXZRG4LK"
+            height="0"
+            width="0"
+            style={{ display: "none", visibility: "hidden" }}
+          ></iframe>
+        </noscript>
       </div>
       <div>
         <div className="row">
