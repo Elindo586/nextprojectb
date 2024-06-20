@@ -737,6 +737,10 @@ Products - ball screws  */
 
 /* Contact Us beginning */
 
+.svg-drawing-container {
+  padding-top: 1em;
+}
+
 .contact-iframe {
   border: 0;
   padding-right: 2em;
@@ -887,7 +891,10 @@ Products - ball screws  */
   padding-left: 1em;
 }
 .get-in-touch {
-  padding-left: 1em;
+  padding-left: 3em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  text-align: center;
 }
 
 .inventory-list {
@@ -1090,9 +1097,6 @@ Products - ball screws  */
   color: #2980b9;
   padding: 10px;
   text-decoration: none;
-}
-.footer-spacer-products {
-  padding-bottom: 200px;
 }
 
 /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
@@ -1324,4 +1328,11 @@ Products - ball screws  */
   position: fixed;
   top: 30%;
   left: 5%;
+}
+
+/* Quick Contact English  */
+.quick-contact-english-text {
+  text-align: center;
+  background-color: #f4f4f4;
+  margin-top: 0.5em;
 }

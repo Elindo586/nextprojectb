@@ -4,6 +4,7 @@ import Link from "next/link";
 import Script from "next/script";
 
 import Social2 from "./social-english";
+import ContactQuickEnglish from "./contact-quick-english";
 
 function VideoBlogger2(props) {
   const displayText = () => {
@@ -136,6 +137,7 @@ function VideoBlogger2(props) {
             <br />
           </div>
           <div className="col-md-12">
+            <ContactQuickEnglish />
             <Social2 /> <br />
           </div>
           <div className="col-md-12 centering-btn">

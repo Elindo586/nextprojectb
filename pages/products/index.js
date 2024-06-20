@@ -2,7 +2,10 @@ import React from "react";
 import Head from "next/head";
 import Link from "next/link";
 import { useEffect } from "react";
+
 import Carousel from "../../components/carousel";
+import ContactQuickEnglish from "../../components/contact-quick-english";
+import ContactForm from "../../components/contact-form";
 
 const Ind = () => {
   //  This is another function to open and close the myDropdown1 div.
@@ -506,8 +509,12 @@ toggle between hiding and showing the dropdown content */
           </div>
         </div>
       </div>
+      <br /> <br /> <br />
       <div className="row">
-        <div className="footer-spacer-products"></div>
+        <ContactQuickEnglish />
+      </div>
+      <div className="row">
+        <ContactForm />
       </div>
     </div>
   );

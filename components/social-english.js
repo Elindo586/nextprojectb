@@ -3,8 +3,7 @@ import Link from "next/link";
 
 const Social2 = () => {
   return (
-    <div className="container">
-      <br />
+    <div>
       <div className="row">
         <div className="col-md-6  d-flex" target="">
           <Link

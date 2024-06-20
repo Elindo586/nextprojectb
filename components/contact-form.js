@@ -55,7 +55,7 @@ export default function ContactForm() {
   };
 
   return (
-    <div className="col-md-6 bg-light">
+    <div className="col bg-light">
       <h4 className="get-in-touch">Get in touch with us.</h4>
       <form className="contact-us-form">
         <input

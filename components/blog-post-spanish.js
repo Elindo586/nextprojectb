@@ -4,6 +4,7 @@ import Link from "next/link";
 import Script from "next/script";
 
 import Social1 from "./social-spanish";
+import ContactQuickSpanish from "./contact-quick-spanish";
 
 function Blogger1(props) {
   const displayText = () => {
@@ -135,6 +136,7 @@ function Blogger1(props) {
           </div>{" "}
           <br />
           <div className="col-md-12">
+            <ContactQuickSpanish />
             <Social1 /> <br />
           </div>
           <div className="col-md-12 centering-btn">
