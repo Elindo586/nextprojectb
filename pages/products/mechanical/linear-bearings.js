@@ -1,4 +1,5 @@
 import React from "react";
+import { useEffect } from "react";
 import Image from "next/image";
 import Head from "next/head";
 
@@ -9,6 +10,30 @@ import ContactForm from "../../../components/contact-form";
 // import GerolerMotorScript from "../../components/data-structure/products/motor-geroler-script";
 
 const LinearGuides = () => {
+  useEffect(() => {
+    function setHeight() {
+      const screenWidth = window.innerWidth;
+      const divHeight = screenWidth * 0.3;
+      const theDiv = document.querySelector(".linear-guides-div");
+      if (screenWidth <= 1000) {
+        theDiv.style.height = `${divHeight}px`;
+      } else {
+        theDiv.style.height = `346px`;
+      }
+    }
+
+    // Call setHeight initially
+    setHeight();
+
+    // Add a listener to resize event
+    window.addEventListener("resize", setHeight);
+
+    // Cleanup function to remove the resize event listener
+    return () => {
+      window.removeEventListener("resize", setHeight);
+    };
+  }, []); // Empty dependency array means this effect runs once after initial render
+
   return (
     <div>
       <div>
@@ -73,20 +98,19 @@ const LinearGuides = () => {
       <div className="row">
         <div className="col-md-9 table-responsive">
           <div className="col-md-12">
-            <h6 className="product-title-text"> Linear Guides</h6> <br />
+            <h6 className="product-title-text"> Linear Guides</h6>
             <div className="linear-guides-div">
               <Image
                 fill={true}
                 src="/images/mechanical/linear-guides.png"
                 id="linear-guides"
-                alt="hydraulic geroloer motors"
+                alt="Linear Guides"
                 sizes="100vw"
                 // width={551}
                 // height={346}
                 priority={true}
               />
             </div>
-            <br />
             {/* <Link
               legacyBehavior
               href="/pdf/hi-torque-low-speed-hydraulic-motors.pdf"

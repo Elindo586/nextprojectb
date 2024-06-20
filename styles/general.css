@@ -468,13 +468,14 @@
 /* Products - Linear Guides */
 .linear-guides-div {
   position: relative;
-  height: 346px;
+  aspect-ratio: 1.5924855491;
+  margin-left: auto;
+  margin-right: auto;
 }
 /* 
 Products - ball screws  */
 .ball-screws-div {
   position: relative;
-  height: 300px;
   aspect-ratio: 1.728135693;
   margin-left: auto;
   margin-right: auto;
