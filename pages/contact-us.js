@@ -95,7 +95,7 @@ const Contact = () => {
               <div className="col-9">
                 <p>
                   <strong>PHONE:</strong> <br />
-                  <a href="+15862213095">+1-586-221-3095</a>
+                  <a href="tel:+15862213095">+1-586-221-3095</a>
                 </p>
               </div>
             </div>
