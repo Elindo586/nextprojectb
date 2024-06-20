@@ -2,7 +2,7 @@ import React from "react";
 import { useState } from "react";
 import { useRouter } from "next/router";
 
-export default function ContactForm() {
+export default function ContactFormSpanish() {
   const [firstName, setFirstName] = useState("");
   const [company, setCompany] = useState("");
   const [email, setEmail] = useState("");
@@ -30,7 +30,7 @@ export default function ContactForm() {
       };
       router.replace("/thank-you");
 
-      fetch("/api/contact", {
+      fetch("/api/contact-spanish", {
         method: "POST",
         headers: {
           Accept: "application/json, text/plain, */*",
@@ -55,7 +55,7 @@ export default function ContactForm() {
 
   return (
     <div className="col bg-light">
-      <h4 className="get-in-touch">Get in touch with us.</h4>
+      <h4 className="get-in-touch">Contáctenos.</h4>
       <form className="contact-us-form">
         <input
           type="hidden"
@@ -64,7 +64,7 @@ export default function ContactForm() {
         />
 
         <label htmlFor="firstname" className="form-label">
-          * Name:{" "}
+          * Nombre:{" "}
         </label>
         <input
           className="form-control"
@@ -81,7 +81,7 @@ export default function ContactForm() {
 
         <label htmlFor="company" className="form-label">
           {" "}
-          Company:{" "}
+          Empresa:{" "}
         </label>
         <input
           className="form-control"
@@ -114,7 +114,7 @@ export default function ContactForm() {
 
         <label htmlFor="country" className="form-label">
           {" "}
-          * Country:{" "}
+          * País:{" "}
         </label>
         <input
           className="form-control"
@@ -129,7 +129,7 @@ export default function ContactForm() {
         />
         <br />
 
-        <label htmlFor="notes"> * Your Message: </label>
+        <label htmlFor="notes"> * Mensaje: </label>
 
         <textarea
           className="form-control"
@@ -155,7 +155,7 @@ export default function ContactForm() {
         <input
           type="submit"
           name="submit"
-          value="submit"
+          value="enviar"
           className="btn btn-primary"
           onClick={(e) => {
             checkSubmit(e);
