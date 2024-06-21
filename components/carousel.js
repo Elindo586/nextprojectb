@@ -6,6 +6,8 @@ import HydraulicMotors from "../public/carousel-main/carousel-hydraulic-motors.p
 import HydraulicPumps from "../public/carousel-main/carousel-pumps.png";
 import ValvesManifolds from "../public/carousel-main/carousel-valves-manifolds.png";
 import MobileValves from "../public/carousel-main/mobile-valves.png";
+import LinearBearings from "../public/carousel-main/linear-bearings.png";
+import BallScrews from "../public/carousel-main/ball-screws.png";
 import { useEffect } from "react";
 
 const Carousel = () => {
@@ -94,6 +96,18 @@ const Carousel = () => {
       <Image
         fill={true}
         id="carousel-inner"
+        src={LinearBearings}
+        alt="Hydraulic mobile valves"
+        // width={1710}
+        // height={315}
+        sizes="100vw"
+        // sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+        priority={false}
+      />
+
+      <Image
+        fill={true}
+        id="carousel-inner"
         src={ValvesManifolds}
         alt="Hydraulic Manifolds"
         // width={1710}
@@ -105,7 +119,7 @@ const Carousel = () => {
       <Image
         fill={true}
         id="carousel-inner"
-        src={MobileValves}
+        src={BallScrews}
         alt="Hydraulic mobile valves"
         // width={1710}
         // height={315}
