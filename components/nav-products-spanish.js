@@ -317,9 +317,9 @@ function ProductNavSpanish() {
           <div className="row">
             {" "}
             <Link
-              href="/products/mechanical/linear-bearings"
+              href="/castellano/productos/mecanicos/guias-lineales"
               className={
-                pathName === "/products/mechanical/linear-bearings"
+                pathName === "/castellano/productos/mecanicos/guias-lineales"
                   ? "link2 active2"
                   : "link2"
               }
@@ -338,9 +338,9 @@ function ProductNavSpanish() {
           <div className="row">
             {" "}
             <Link
-              href="/products/mechanical/ball-screws"
+              href="/castellano/productos/mecanicos/husillos-de-bolas"
               className={
-                pathName === "/products/mechanical/ball-screws"
+                pathName === "/castellano/productos/mecanicos/husillos-de-bolas"
                   ? "link2 active2"
                   : "link2"
               }
