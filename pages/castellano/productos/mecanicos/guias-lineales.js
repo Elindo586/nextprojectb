@@ -68,13 +68,13 @@ const LinearGuides = ({ pages }) => {
       <div className="row">
         <div className="col-md-9 table-responsive">
           <div className="col-md-12">
-            <h6 className="product-title-text"> Linear Guides</h6>
+            <h6 className="product-title-text"> Guías Lineales</h6>
             <div className="linear-guides-div">
               <Image
                 fill={true}
                 src="/images/mechanical/linear-guides.png"
                 id="linear-guides"
-                alt="Linear Guides"
+                alt="Guías Lineales"
                 sizes="100vw"
                 // width={551}
                 // height={346}
@@ -118,10 +118,13 @@ const LinearGuides = ({ pages }) => {
                   <td>Movimiento lineal</td>
                   <td>
                     <ul>
-                      <li>World Standard ball linear bearing.</li>
-                      <li>4 direction equal load with 45° contact angel.</li>
-                      <li>Error-absorb ability.</li>
-                      <li>High rigidity and precision.</li>
+                      <li>Rodamiento lineal de bolas estándar mundial.</li>
+                      <li>
+                        Carga igual en 4 direcciones con ángulo de contacto de
+                        45°.
+                      </li>
+                      <li>Capacidad de absorción de errores.</li>
+                      <li>Alta rigidez y precisión.</li>
                     </ul>
                   </td>
                 </tr>
@@ -130,10 +133,15 @@ const LinearGuides = ({ pages }) => {
                   <td>Movimiento lineal ancho</td>
                   <td>
                     <ul>
-                      <li>4 direction equal load with 45° contact angel.</li>
-                      <li>Low centered structure with wide short tail.</li>
                       <li>
-                        Usable as one-axis where high rigidity is required.
+                        Carga igual en 4 direcciones con ángulo de contacto de
+                        45°.
+                      </li>
+                      <li>
+                        Estructura baja y centrada con cola ancha y corta.
+                      </li>
+                      <li>
+                        Utilizable como monoeje donde se requiere alta rigidez.
                       </li>
                     </ul>
                   </td>
@@ -143,11 +151,14 @@ const LinearGuides = ({ pages }) => {
                   <td>Cadena espaciadora</td>
                   <td>
                     <ul>
-                      <li>World Standard ball linear bearing.</li>
+                      <li>Rodamiento lineal de bolas estándar mundial</li>
                       <li> 4 direction equal load with 45° contact angel.</li>
-                      <li>Error-absorb ability.</li>
-                      <li>Spacer ball based retainer type.</li>
-                      <li>Low noise and low dust.</li>
+                      <li>
+                        Carga igual en 4 direcciones con ángulo de contacto de
+                        45°.
+                      </li>
+                      <li>Tipo retenedor con base de bola espaciadora.</li>
+                      <li>Bajo nivel de ruido y poco polvo .</li>
                     </ul>
                   </td>
                 </tr>
@@ -156,10 +167,10 @@ const LinearGuides = ({ pages }) => {
                   <td>Carga miniatura</td>
                   <td>
                     <ul>
-                      <li>Miniature with high rigidity.</li>
-                      <li>Wide range of shape and sizes.</li>
-                      <li>Compact design.</li>
-                      <li>High durability and reliability.</li>
+                      <li>Miniatura con alta rigidez.</li>
+                      <li>Amplia gama de formas y tamaños.</li>
+                      <li>Diseño compacto.</li>
+                      <li>Alta durabilidad y confiabilidad.</li>
                     </ul>
                   </td>
                 </tr>
@@ -168,11 +179,14 @@ const LinearGuides = ({ pages }) => {
                   <td>Rodamiento lineal</td>
                   <td>
                     <ul>
-                      <li>Roller enable with rigid guide.</li>
-                      <li>4 direction equal load with 45° contact angel.</li>
-                      <li>Wide contact surface.</li>
-                      <li>High loads.</li>
-                      <li>High rigidity and precision.</li>
+                      <li>Habilitación de rodillos con guía rígida.</li>
+                      <li>
+                        Carga igual en 4 direcciones con ángulo de contacto de
+                        45°.
+                      </li>
+                      <li>Amplia superficie de contacto.</li>
+                      <li>Cargas altas.</li>
+                      <li>Alta rigidez y precisión.</li>
                     </ul>
                   </td>
                 </tr>
@@ -181,8 +195,8 @@ const LinearGuides = ({ pages }) => {
             <br />{" "}
             <div>
               <p>
-                * We are able to interchange and provide replacements for most
-                linear bearing brands available in the market.{" "}
+                * Podemos intercambiar y proporcionar reemplazos para la mayoría
+                marcas de guías lineales disponibles en el mercado.{" "}
               </p>
             </div>
             <div>

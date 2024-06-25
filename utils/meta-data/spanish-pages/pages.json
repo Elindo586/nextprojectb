@@ -1,17 +1,26 @@
 [
   {
+    "id": "x",
+    "metaTitle": "TU |. ",
+    "metaDescription": ".",
+    "metaKeywords": ".",
+    "ogURL": "https://www.tu.biz/castellano/",
+    "ogImage": "https://www.tu.biz//oppictures-spanish/.png",
+    "twitterImage": "https://www.tu.biz/oppictures-spanish/.png"
+  },
+  {
     "id": "2",
-    "metaTitle": "TU | Video | Interactive Animation of a hydraulic circuit simulation.",
-    "metaDescription": "Understanding a basic hydraulic circuit through interactive animated simulation.",
-    "metaKeywords": "tu, hydraulic, animation ",
-    "ogURL": "https://www.tu.biz/",
-    "ogImage": "https://www.tu.biz//oppictures-spanish/tu-spanish.png",
-    "twitterImage": "https://www.tu.biz/oppictures-spanish/tu-spanish.png"
+    "metaTitle": "TU | Guías Lineales. ",
+    "metaDescription": "Intercambios de guías lineales / rodamientos lineales para todas las marcas.",
+    "metaKeywords": "guías lineales, rodamientos lineales, intercambios de guías lineales, intercambios de rodamientos lineales, intercambios de guías lineales para todas las marcas.",
+    "ogURL": "https://www.tu.biz/castellano/productos/mecanicos/guias-lineales",
+    "ogImage": "https://www.tu.biz//oppictures-spanish/guias-lineales.png",
+    "twitterImage": "https://www.tu.biz/oppictures-spanish/guias-lineales.png"
   },
   {
     "id": "1",
     "metaTitle": "TU | Productos Industriales.",
-    "metaDescription": "Productos en hidráulica, neumática, mecánica, electrónica.",
+    "metaDescription": "Exportador industrial en roductos en hidráulica, neumática, mecánica, electrónica.",
     "metaKeywords": "tu, hidráulica, neumática, mecánica, electrónica.",
     "ogURL": "https://www.tu.biz/castellano/productos",
     "ogImage": "https://www.tu.biz//oppictures-spanish/tu-spanish.png",
