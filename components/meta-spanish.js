@@ -1,53 +1,60 @@
 import React from "react";
-import Link from "next/link";
+import Head from "next/head";
 
 function MetaSpanish(props) {
   return (
     <div>
-      {/* Main */}
-      <meta charset="UTF-8" />
-      <meta name="viewport" content="width=device-width, initial-scale=1" />
-      <link
-        rel="shortcut icon"
-        type="image/png"
-        href="/images/tu-favicon.png"
-      />
+      <Head>
+        {/* Main */}
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link
+          rel="shortcut icon"
+          type="image/png"
+          href="/images/tu-favicon.png"
+        />
 
-      <meta
-        name="facebook-domain-verification"
-        content="fzctnjbrtlybvytmamk8glkng9af7p"
-      />
-      <title>TU</title>
-      <meta name="description" content="" />
-      <meta name="keywords" content="" />
-      <meta name="author" content="Edgar Lindo" />
+        <meta
+          name="facebook-domain-verification"
+          content="fzctnjbrtlybvytmamk8glkng9af7p"
+        />
+        <title>{props.metaTitle}</title>
+        <meta name="description" content={`${props.metaDescription}`} />
+        <meta name="keywords" content={`${props.metaKeywords}`} />
+        <meta name="author" content="Edgar Lindo" />
 
-      {/* Open Graph */}
+        {/* Open Graph */}
 
-      <meta property="og:title" content=" " id="meta-og-title" />
-      <meta property="og:description" content="" id="meta-og-desc" />
-      <meta property="og:url" content="https://www.tu.biz" id="meta-og-url" />
-      <meta property="og:locale" content="es" />
-      <meta property="site_name" content="TU" />
-      <meta
-        name="image"
-        property="og:image"
-        content="https://www.tu.biz//blog-images-spanish"
-        id="meta-og-image"
-      />
+        <meta
+          property="og:title"
+          content={`${props.metaTitle}`}
+          id="meta-og-title"
+        />
+        <meta
+          property="og:description"
+          content={`${props.metaDescription}`}
+          id="meta-og-desc"
+        />
+        <meta property="og:url" content={`${props.ogURL}`} id="meta-og-url" />
+        <meta property="og:locale" content="es" />
+        <meta property="site_name" content="TU" />
+        <meta
+          name="image"
+          property="og:image"
+          content={`${props.ogImage}`}
+          id="meta-og-image"
+        />
 
-      {/* Twitter card */}
+        {/* Twitter card */}
 
-      <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:creator" content="@MrEdgarLindo" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:creator" content="@MrEdgarLindo" />
 
-      <meta name="twitter:title" content=" " />
+        <meta name="twitter:title" content={`${props.metaTitle}`} />
 
-      <meta name="twitter:description" content="" />
-      <meta
-        name="twitter:image"
-        content="https://www.tu.biz/blog-images-spanish/"
-      />
+        <meta name="twitter:description" content={`${props.metaDescription}`} />
+        <meta name="twitter:image" content={`${props.twitterImage}`} />
+      </Head>
     </div>
   );
 }

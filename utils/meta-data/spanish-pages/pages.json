@@ -4,19 +4,17 @@
     "metaTitle": "TU | Video | Interactive Animation of a hydraulic circuit simulation.",
     "metaDescription": "Understanding a basic hydraulic circuit through interactive animated simulation.",
     "metaKeywords": "tu, hydraulic, animation ",
-
-    "ogURL": "https://www.tu.biz/video-blog/english/hydraulic-circuit-simulation",
-    "ogImage": "https://www.tu.biz//video-blog-images-english/hydraulic-circuit-simulation.png",
-
-    "twitterImage": "https://www.tu.biz/video-blog-images-english/hydraulic-circuit-simulation.png"
+    "ogURL": "https://www.tu.biz/",
+    "ogImage": "https://www.tu.biz//oppictures-spanish/tu-spanish.png",
+    "twitterImage": "https://www.tu.biz/oppictures-spanish/tu-spanish.png"
   },
   {
     "id": "1",
     "metaTitle": "TU | Productos Industriales.",
     "metaDescription": "Productos en hidráulica, neumática, mecánica, electrónica.",
     "metaKeywords": "tu, hidráulica, neumática, mecánica, electrónica.",
-    "ogURL": "https://www.tu.biz/castellano/products",
-    "ogImage": "https://www.tu.biz//video-blog-images-english/basics-of-hydraulics.png",
-    "twitterImage": "https://www.tu.biz/video-blog-images-english/basics-of-hydraulics.png"
+    "ogURL": "https://www.tu.biz/castellano/productos",
+    "ogImage": "https://www.tu.biz//oppictures-spanish/tu-spanish.png",
+    "twitterImage": "https://www.tu.biz/oppictures-spanish/tu-spanish.png"
   }
 ]

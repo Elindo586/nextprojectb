@@ -1,9 +1,37 @@
 import React from "react";
+import { useEffect } from "react";
 import Image from "next/image";
 import Head from "next/head";
 import Carousel from "../components/carousel";
 
 const Home = () => {
+  useEffect(() => {
+    function setHeight() {
+      const screenWidth = window.innerWidth;
+      const divHeight = screenWidth * 0.3;
+      const theDiv1 = document.querySelector(".index-img1");
+      const theDiv2 = document.querySelector(".index-img2");
+      if (screenWidth <= 1000) {
+        theDiv1.style.height = `${divHeight}px`;
+        theDiv2.style.height = `${divHeight}px`;
+      } else {
+        theDiv1.style.height = `350px`;
+        theDiv2.style.height = `350px`;
+      }
+    }
+
+    // Call setHeight initially
+    setHeight();
+
+    // Add a listener to resize event
+    window.addEventListener("resize", setHeight);
+
+    // Cleanup function to remove the resize event listener
+    return () => {
+      window.removeEventListener("resize", setHeight);
+    };
+  }, []); // Empty dependency array means this effect runs once after initial render
+
   return (
     <div lang="en">
       <div>
@@ -113,24 +141,24 @@ const Home = () => {
           </div>
         </div>
         <div className="col-md-6" lang="en">
-          <div className=" index-img row ">
+          <div className=" index-img1 row ">
             <Image
               fill={true}
               src="/images/maintenance-1.png"
               id="maintenance1"
               alt="maintenance lubrication"
-              sizes="(max-width: 768px) 50vw, (max-width: 1200px) 50vw, 33vw"
+              sizes="100vw"
               // width={700}
               // height={400}
             />
           </div>
-          <div className="index-img row ">
+          <div className="index-img2 row ">
             <Image
               fill={true}
               src="/images/oil-analysis2.png"
               id="oilanalysis2"
               alt="oil analysis sample"
-              sizes="(max-width: 768px) 50vw, (max-width: 1200px) 50vw, 33vw"
+              sizes="100vw"
               // width={700}
               // height={400}
             />

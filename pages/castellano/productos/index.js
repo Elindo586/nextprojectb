@@ -260,12 +260,11 @@ toggle between hiding and showing the dropdown content */
                 metaKeywords={item.metaKeywords}
                 ogTitle={item.metaTitle}
                 ogDescription={item.metaDescription}
-                ogURL={item.ogURL}
                 ogImage={item.ogImage}
+                ogURL={item.ogURL}
                 twitterTitle={item.metaTitle}
                 twitterDescription={item.itemMetaDescription}
                 twitterImage={item.twitterImage}
-                title={item.title}
               />
             );
           })}
