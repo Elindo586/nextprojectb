@@ -45,7 +45,7 @@ const BallScrews = ({ pages }) => {
     <div>
       <div className="row">
         {pages
-          .filter((item) => item.id === "2")
+          .filter((item) => item.id === "3")
           .map((item) => {
             return (
               <PageMetaData
