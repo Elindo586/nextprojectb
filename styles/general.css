@@ -74,11 +74,15 @@
 .main-footer2 {
   background-color: black;
   margin-top: 2em;
+  margin-bottom: 3em;
 }
+
 .main-footer {
   background-color: black;
   margin-top: 2em;
+  padding-bottom: 2em;
 }
+
 .copyright {
   color: gray;
   padding-left: 4em;

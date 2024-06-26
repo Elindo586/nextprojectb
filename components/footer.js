@@ -13,24 +13,23 @@ const Footer = () => {
             <div className=" col footer-privacy">PRIVACY POLICY</div>
           </div>
           <div className="row">
-            <div className="col">
+            <div className="col ">
               <p className="copyright">
                 Copyright © {fullYear()} TU - All Rights Reserved{" "}
               </p>
             </div>
+            <div className="col dev-by">
+              <span className="dev-by2">Developed by:</span>{" "}
+              <a
+                className="edgar"
+                href="https://www.edgarlindo.com/"
+                target="blank"
+              >
+                Edgar Lindo
+              </a>
+            </div>
+
             <div className="dev-by">
-              <div className="row">
-                <div className="col">
-                  <span className="dev-by2">Developed by:</span>{" "}
-                  <a
-                    className="edgar"
-                    href="https://www.edgarlindo.com/"
-                    target="blank"
-                  >
-                    Edgar Lindo
-                  </a>
-                </div>
-              </div>
               {/* <Row>
                 <Col className="social-icon-col">
                   <a
