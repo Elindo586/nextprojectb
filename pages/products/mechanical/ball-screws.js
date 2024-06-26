@@ -1,15 +1,22 @@
 import React from "react";
 import { useEffect } from "react";
 import Image from "next/image";
-import Head from "next/head";
 
+import pages from "../../../utils/meta-data/english-pages/pages.json";
+import PageMetaDataEnglish from "../../../components/meta-data/pages-english";
 import ProductNav from "../../../components/nav-products";
 import ContactForm from "../../../components/contact-form";
 
 // import ProductNav from "../../components/nav-products";
 // import GerolerMotorScript from "../../components/data-structure/products/motor-geroler-script";
 
-const BallScrews = () => {
+export async function getStaticProps() {
+  return {
+    props: { pages },
+  };
+}
+
+const BallScrews = ({ pages }) => {
   useEffect(() => {
     function setHeight() {
       const screenWidth = window.innerWidth;
@@ -36,63 +43,26 @@ const BallScrews = () => {
 
   return (
     <div>
-      <div>
-        <Head>
-          <meta charSet="UTF-8" />
-          <meta name="viewport" content="width=device-width, initial-scale=1" />
-          <link
-            rel="shortcut icon"
-            type="image/png"
-            href="/images/tu-favicon.png"
-          />
-
-          <meta
-            name="facebook-domain-verification"
-            content="fzctnjbrtlybvytmamk8glkng9af7p"
-          />
-          <title> TU | Ball Screws </title>
-
-          <meta
-            name="description"
-            content=" Find the the Ball Screws to fit your machine's application."
-          />
-          <meta name="keywords" content=" TU, Ball Screws" />
-          <meta name="author" content="Edgar Lindo" />
-
-          {/* OG Tags */}
-
-          <meta property="og:locale" content="en" />
-          <meta property="site_name" content="TU" />
-
-          <meta property="og:title" content=" TU | Ball Screws" />
-          <meta
-            property="og:description"
-            content=" Find the the Ball Screws to fit your machine's application."
-          />
-          <meta
-            property="og:image"
-            content="https://www.tu.biz//oppictures/ball-screws.png"
-          />
-          <meta
-            property="og:url"
-            content="https://www.tu.biz/products/mechanical/ball-screws"
-          />
-          {/* Twitter tags */}
-
-          <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:creator" content="@MrEdgarLindo" />
-
-          <meta name="twitter:title" content=" TU | Ball Screws" />
-
-          <meta
-            name="twitter:description"
-            content="Find the the Ball Screws to fit your machine's application."
-          />
-          <meta
-            name="twitter:image"
-            content="https:www.tu.biz/oppictures/ball-screws.png"
-          />
-        </Head>
+      <div className="row">
+        {pages
+          .filter((item) => item.id === "1")
+          .map((item) => {
+            return (
+              <PageMetaDataEnglish
+                key={item.id}
+                metaTitle={item.metaTitle}
+                metaDescription={item.metaDescription}
+                metaKeywords={item.metaKeywords}
+                ogTitle={item.metaTitle}
+                ogDescription={item.metaDescription}
+                ogImage={item.ogImage}
+                ogURL={item.ogURL}
+                twitterTitle={item.metaTitle}
+                twitterDescription={item.itemMetaDescription}
+                twitterImage={item.twitterImage}
+              />
+            );
+          })}
       </div>
 
       <div className="row">

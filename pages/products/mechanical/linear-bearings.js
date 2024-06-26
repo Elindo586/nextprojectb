@@ -1,15 +1,22 @@
 import React from "react";
 import { useEffect } from "react";
 import Image from "next/image";
-import Head from "next/head";
 
+import pages from "../../../utils/meta-data/english-pages/pages.json";
+import PageMetaDataEnglish from "../../../components/meta-data/pages-english";
 import ProductNav from "../../../components/nav-products";
 import ContactForm from "../../../components/contact-form";
 
 // import ProductNav from "../../components/nav-products";
 // import GerolerMotorScript from "../../components/data-structure/products/motor-geroler-script";
 
-const LinearGuides = () => {
+export async function getStaticProps() {
+  return {
+    props: { pages },
+  };
+}
+
+const LinearGuides = ({ pages }) => {
   useEffect(() => {
     function setHeight() {
       const screenWidth = window.innerWidth;
@@ -36,63 +43,26 @@ const LinearGuides = () => {
 
   return (
     <div>
-      <div>
-        <Head>
-          <meta charSet="UTF-8" />
-          <meta name="viewport" content="width=device-width, initial-scale=1" />
-          <link
-            rel="shortcut icon"
-            type="image/png"
-            href="/images/tu-favicon.png"
-          />
-
-          <meta
-            name="facebook-domain-verification"
-            content="fzctnjbrtlybvytmamk8glkng9af7p"
-          />
-          <title> TU | Linear Bearings </title>
-
-          <meta
-            name="description"
-            content=" Find Linear Bearings to meet your machine specific applications."
-          />
-          <meta name="keywords" content=" TU, linear bearings" />
-          <meta name="author" content="Edgar Lindo" />
-
-          {/* OG Tags */}
-
-          <meta property="og:locale" content="en" />
-          <meta property="site_name" content="TU" />
-
-          <meta property="og:title" content=" TU | Linear Bearings" />
-          <meta
-            property="og:description"
-            content=" Find Linear Bearings to meet your machine specific applications."
-          />
-          <meta
-            property="og:image"
-            content="https://www.tu.biz//oppictures/linear-bearings.png"
-          />
-          <meta
-            property="og:url"
-            content="https://www.tu.biz/products/mechanical/linear-bearings"
-          />
-          {/* Twitter tags */}
-
-          <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:creator" content="@MrEdgarLindo" />
-
-          <meta name="twitter:title" content=" TU | Linear Bearings" />
-
-          <meta
-            name="twitter:description"
-            content="Find Linear Bearings to meet your machine specific applications.."
-          />
-          <meta
-            name="twitter:image"
-            content="https:www.tu.biz/oppictures/linear-bearings.png"
-          />
-        </Head>
+      <div className="row">
+        {pages
+          .filter((item) => item.id === "2")
+          .map((item) => {
+            return (
+              <PageMetaDataEnglish
+                key={item.id}
+                metaTitle={item.metaTitle}
+                metaDescription={item.metaDescription}
+                metaKeywords={item.metaKeywords}
+                ogTitle={item.metaTitle}
+                ogDescription={item.metaDescription}
+                ogImage={item.ogImage}
+                ogURL={item.ogURL}
+                twitterTitle={item.metaTitle}
+                twitterDescription={item.itemMetaDescription}
+                twitterImage={item.twitterImage}
+              />
+            );
+          })}
       </div>
 
       <div className="row">
