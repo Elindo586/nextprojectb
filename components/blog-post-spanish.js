@@ -135,11 +135,11 @@ function Blogger1(props) {
             ></iframe>{" "}
           </div>{" "}
           <br />
-          <div className="col-md-12">
+          <div className="col">
             <ContactQuickSpanish />
-            <Social1 /> <br />
+            <br />
           </div>
-          <div className="col-md-12 centering-btn">
+          <div className="col centering-btn">
             {props.previous && (
               <Link legacyBehavior href={props.previous} prefetch={false}>
                 <a

@@ -3,7 +3,6 @@ import Head from "next/head";
 import Link from "next/link";
 import Script from "next/script";
 
-import Social2 from "./social-english";
 import ContactQuickEnglish from "./contact-quick-english";
 
 function VideoBlogger2(props) {
@@ -133,14 +132,13 @@ function VideoBlogger2(props) {
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
             ></iframe>{" "}
-            <br />
-            <br />
           </div>
-          <div className="col-md-12">
+          <br />
+          <div className="col">
             <ContactQuickEnglish />
-            <Social2 /> <br />
+            <br />
           </div>
-          <div className="col-md-12 centering-btn">
+          <div className="col centering-btn">
             {props.previous && (
               <Link legacyBehavior href={props.previous} prefetch={false}>
                 <a
