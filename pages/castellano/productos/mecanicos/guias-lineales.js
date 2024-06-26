@@ -58,7 +58,7 @@ const LinearGuides = ({ pages }) => {
                 ogImage={item.ogImage}
                 ogURL={item.ogURL}
                 twitterTitle={item.metaTitle}
-                twitterDescription={item.itemMetaDescription}
+                twitterDescription={item.metaDescription}
                 twitterImage={item.twitterImage}
               />
             );
