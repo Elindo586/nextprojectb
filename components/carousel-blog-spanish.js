@@ -4,6 +4,7 @@ import ExportadorIndusrial from "../public/carousel-blog-spanish/exportador-indu
 import GuiasHusillos from "../public/carousel-blog-spanish/guias-husillos.png";
 import BombasHidraulicas from "../public/carousel-blog-spanish/bombas-hidraulicas.png";
 import TodoLoIndustrial from "../public/carousel-blog-spanish/todo-lo-industrial.png";
+import ValvulasHidraulicas from "../public/carousel-blog-spanish/valvulas-hidraulicas.png";
 
 import { useEffect } from "react";
 
@@ -91,6 +92,16 @@ const CarouselBlogSpanish = () => {
         id="carousel-inner-spanish-blog"
         src={TodoLoIndustrial}
         alt="Compre todo lo industrial aquí"
+        // width={1600}
+        // height={900}
+        sizes="90vw"
+        priority={false}
+      />
+      <Image
+        fill={true}
+        id="carousel-inner-spanish-blog"
+        src={ValvulasHidraulicas}
+        alt="Válvulas hidráulicas"
         // width={1600}
         // height={900}
         sizes="90vw"
