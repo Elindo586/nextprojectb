@@ -3,7 +3,7 @@ import Head from "next/head";
 import Link from "next/link";
 import Script from "next/script";
 
-import Social1 from "./social-spanish";
+import CarouselBlogSpanish from "./carousel-blog-spanish";
 import ContactQuickSpanish from "./contact-quick-spanish";
 
 function Blogger1(props) {
@@ -163,7 +163,6 @@ function Blogger1(props) {
               </Link>
             )}
           </div>
-          <br />
           <div className="see-more" onClick={displayText} id="more">
             <h2>Ver más información ... </h2>
           </div>
@@ -186,7 +185,8 @@ function Blogger1(props) {
               Go to English Blogs
             </a>
           </Link>{" "}
-          <br /> <br />
+          <br />
+          <CarouselBlogSpanish />
           {/* <AdBanner /> */}
         </div>
       </div>

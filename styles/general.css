@@ -1196,6 +1196,37 @@ Products - ball screws  */
   }
 }
 
+/* Carousel blog Spanish */
+
+.carousel-spanish-div {
+  position: relative;
+  margin-top: 0.2em;
+  aspect-ratio: 1.7777777778;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* .fill-carousel {
+  background-color: #1e4474;
+} */
+
+#carousel-inner-spanish-blog {
+  animation-name: carousel-inner;
+  animation-duration: 3s;
+  position: absolute;
+  object-fit: contain;
+  object-position: 50% top;
+}
+
+@keyframes carousel-inner-spanish-blog {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
 .c-image {
   display: block;
   height: auto;
