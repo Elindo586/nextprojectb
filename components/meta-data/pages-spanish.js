@@ -24,16 +24,16 @@ function PageMetaData(props) {
         {/* Open Graph */}
         <meta
           property="og:title"
-          content={`${props.ogTitle}`}
+          content={`${props.metaTitle}`}
           id="meta-og-title"
         />
         <meta
           property="og:description"
-          content={`${props.ogDescription}`}
+          content={`${props.metaDescription}`}
           id="meta-og-desc"
         />
         <meta property="og:url" content={`${props.ogURL}`} id="meta-og-url" />
-        <meta property="og:locale" content="en" />
+        <meta property="og:locale" content="es_US" />
         <meta property="site_name" content="TU" />
         <meta
           name="image"
@@ -46,12 +46,9 @@ function PageMetaData(props) {
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:creator" content="@MrEdgarLindo" />
 
-        <meta name="twitter:title" content={`${props.twitterTitle}`} />
+        <meta name="twitter:title" content={`${props.metaTitle}`} />
 
-        <meta
-          name="twitter:description"
-          content={`${props.twitterDescription}`}
-        />
+        <meta name="twitter:description" content={`${props.metaDescription}`} />
         <meta name="twitter:image" content={`${props.twitterImage}`} />
       </Head>
     </div>

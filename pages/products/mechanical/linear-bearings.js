@@ -25,7 +25,7 @@ const LinearGuides = ({ pages }) => {
       if (screenWidth <= 1000) {
         theDiv.style.height = `${divHeight}px`;
       } else {
-        theDiv.style.height = `346px`;
+        theDiv.style.height = `300px`;
       }
     }
 
