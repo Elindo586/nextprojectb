@@ -25,7 +25,7 @@ const LinearGuides = ({ pages }) => {
       if (screenWidth <= 1000) {
         theDiv.style.height = `${divHeight}px`;
       } else {
-        theDiv.style.height = `300px`;
+        theDiv.style.height = `346px`;
       }
     }
 
@@ -75,7 +75,7 @@ const LinearGuides = ({ pages }) => {
                 src="/images/mechanical/linear-guides.png"
                 id="linear-guides"
                 alt="Linear Guides"
-                sizes="100vw"
+                sizes="90vw"
                 // width={551}
                 // height={346}
                 priority={true}
