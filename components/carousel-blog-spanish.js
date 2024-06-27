@@ -18,7 +18,7 @@ const CarouselBlogSpanish = () => {
       if (screenWidth <= 767) {
         theDiv.style.height = `${divHeight}px`;
       } else {
-        theDiv.style.height = `200px`;
+        theDiv.style.height = screenWidth * 0.3;
       }
     }
 
