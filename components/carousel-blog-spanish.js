@@ -49,7 +49,7 @@ const CarouselBlogSpanish = () => {
         slideIndex = 1;
       }
       carouselItems[slideIndex - 1].style.display = "block";
-      setTimeout(showSlides, 5000);
+      setTimeout(showSlides, 2500);
     }
   }, []);
 
