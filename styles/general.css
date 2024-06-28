@@ -1212,7 +1212,7 @@ Products - ball screws  */
 
 #carousel-inner-spanish-blog {
   animation-name: carousel-inner;
-  animation-duration: 3s;
+  animation-duration: 1.5s;
   position: absolute;
   object-fit: contain;
   object-position: 50% top;
