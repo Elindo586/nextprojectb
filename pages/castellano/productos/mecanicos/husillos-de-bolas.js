@@ -114,7 +114,7 @@ const BallScrews = ({ pages }) => {
 
               <tbody>
                 <tr className="inside-table-text">
-                  <td>Easy to transport</td>
+                  <td>Fácil de mover</td>
                   <td>
                     Reducción de la fricción al movimiento de rodadura de las
                     bolas y permite alimentación fina y precisa.
