@@ -5,6 +5,7 @@ import Script from "next/script";
 
 import CarouselBlogSpanish from "./carousel-blog-spanish";
 import ContactQuickSpanish from "./contact-quick-spanish";
+import ContactFormSpanishQuick from "./contact-form-spanish-quick";
 
 function Blogger1(props) {
   const displayText = () => {
@@ -137,6 +138,7 @@ function Blogger1(props) {
           <br />
           <div className="col">
             <ContactQuickSpanish />
+            <ContactFormSpanishQuick />
             <br />
           </div>
           <div className="col centering-btn">
