@@ -138,7 +138,10 @@ function Blogger1(props) {
           <br />
           <div className="col">
             <ContactQuickSpanish />
-            <ContactFormSpanishQuick />
+            <div className="blog-post-spanish-space">
+              {" "}
+              <ContactFormSpanishQuick />
+            </div>
             <br />
           </div>
           <div className="col centering-btn">

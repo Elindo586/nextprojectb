@@ -978,6 +978,12 @@ Products - ball screws  */
   object-position: center;
 }
 
+/* Blog-post-spanish */
+
+.blog-post-spanish-space {
+  margin-top: 0.2em;
+}
+
 /* Product Index */
 /* Dropdown Button */
 .dropbtn1,
@@ -1349,5 +1355,8 @@ Products - ball screws  */
 .quick-contact-english-text {
   text-align: center;
   background-color: #f4f4f4;
-  margin-top: 0.5em;
+  margin-top: 0.2em;
+}
+.quick-contact-english-text2 {
+  margin-bottom: 10em;
 }
