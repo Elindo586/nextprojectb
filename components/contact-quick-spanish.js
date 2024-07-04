@@ -26,7 +26,7 @@ const ContactQuickSpanish = () => {
             </svg>
           </div>
           <div className="row ">
-            <a href="https://wa.me/15862213095">+1-586-612-5270</a>
+            <a href="https://wa.me/1586125270">+1-586-612-5270</a>
           </div>
         </div>
         <div className="col quick-contact-english-text">
