@@ -439,12 +439,12 @@ toggle between hiding and showing the dropdown content */
             <div className="col">
               <div className="dropdown7">
                 <button onClick={myFunction7} className="dropbtn7">
-                  Rodamientos Lineales
+                  Guías Lineales
                 </button>
                 <div id="myDropdown7" className="dropdown-content7">
                   <div>
-                    <Link href="/products/mechanical/linear-bearings">
-                      Rodamientos Lineales
+                    <Link href="/castellano/productos/mecanicos/guias-lineales">
+                      Guías Lineales
                     </Link>
                   </div>
                 </div>
@@ -453,12 +453,12 @@ toggle between hiding and showing the dropdown content */
             <div className="col">
               <div className="dropdown8">
                 <button onClick={myFunction8} className="dropbtn8">
-                  Rodamientos de Tornillo
+                  Husillos de Bola
                 </button>
                 <div id="myDropdown8" className="dropdown-content8">
                   <div>
-                    <Link href="/products/mechanical/ball-screws">
-                      Rodamientos de Tornillo
+                    <Link href="/castellano/productos/mecanicos/husillos-de-bolas">
+                      Husillos de Bola
                     </Link>
                   </div>
                 </div>
