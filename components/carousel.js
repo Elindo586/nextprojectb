@@ -63,6 +63,18 @@ const Carousel = () => {
       <Image
         fill={true}
         id="carousel-inner"
+        src={LinearBearings}
+        alt="Hydraulic mobile valves"
+        // width={1710}
+        // height={315}
+        sizes="100vw"
+        // sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+        priority={false}
+      />
+
+      <Image
+        fill={true}
+        id="carousel-inner"
         src={Everything}
         alt="Everything Industrial"
         // width={1710}

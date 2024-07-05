@@ -55,69 +55,81 @@ const CarouselBlogSpanish = () => {
 
   return (
     <div className=" carousel-spanish-div ">
-      <Image
-        fill={true}
-        id="carousel-inner-spanish-blog"
-        src={ExportadorIndusrial}
-        alt="Exportador industrial"
-        // width={1600}
-        // height={900}
-        sizes="90vw"
-        priority={true}
-      />
+      <a href="https://www.tu.biz/castellano/productos">
+        <Image
+          fill={true}
+          id="carousel-inner-spanish-blog"
+          src={GuiasHusillos}
+          alt="Guías lineales y husillos a bolas"
+          // width={1600}
+          // height={900}
+          sizes="90vw"
+          priority={false}
+        />
+        <Image
+          fill={true}
+          id="carousel-inner-spanish-blog"
+          src={ExportadorIndusrial}
+          alt="Exportador industrial"
+          // width={1600}
+          // height={900}
+          sizes="90vw"
+          priority={true}
+        />
 
-      <Image
-        fill={true}
-        id="carousel-inner-spanish-blog"
-        src={BombasHidraulicas}
-        alt="Bombas hidráulicas"
-        // width={1600}
-        // height={900}
-        sizes="90vw"
-        priority={false}
-      />
+        <Image
+          fill={true}
+          id="carousel-inner-spanish-blog"
+          src={BombasHidraulicas}
+          alt="Bombas hidráulicas"
+          // width={1600}
+          // height={900}
+          sizes="90vw"
+          priority={false}
+        />
 
-      <Image
-        fill={true}
-        id="carousel-inner-spanish-blog"
-        src={GuiasHusillos}
-        alt="Guías lineales y husillos a bolas"
-        // width={1600}
-        // height={900}
-        sizes="90vw"
-        priority={false}
-      />
+        <Image
+          fill={true}
+          id="carousel-inner-spanish-blog"
+          src={GuiasHusillos}
+          alt="Guías lineales y husillos a bolas"
+          // width={1600}
+          // height={900}
+          sizes="90vw"
+          priority={false}
+        />
 
-      <Image
-        fill={true}
-        id="carousel-inner-spanish-blog"
-        src={TodoLoIndustrial}
-        alt="Compre todo lo industrial aquí"
-        // width={1600}
-        // height={900}
-        sizes="90vw"
-        priority={false}
-      />
-      <Image
-        fill={true}
-        id="carousel-inner-spanish-blog"
-        src={ValvulasHidraulicas}
-        alt="Válvulas hidráulicas"
-        // width={1600}
-        // height={900}
-        sizes="90vw"
-        priority={false}
-      />
-      <Image
-        fill={true}
-        id="carousel-inner-spanish-blog"
-        src={MotoresHidraulicos}
-        alt="Válvulas hidráulicas"
-        // width={1600}
-        // height={900}
-        sizes="90vw"
-        priority={false}
-      />
+        <Image
+          fill={true}
+          id="carousel-inner-spanish-blog"
+          src={TodoLoIndustrial}
+          alt="Compre todo lo industrial aquí"
+          // width={1600}
+          // height={900}
+          sizes="90vw"
+          priority={false}
+        />
+        <Image
+          fill={true}
+          id="carousel-inner-spanish-blog"
+          src={ValvulasHidraulicas}
+          alt="Válvulas hidráulicas"
+          // width={1600}
+          // height={900}
+          sizes="90vw"
+          priority={false}
+        />
+        <Image
+          fill={true}
+          id="carousel-inner-spanish-blog"
+          src={MotoresHidraulicos}
+          alt="Válvulas hidráulicas"
+          // width={1600}
+          // height={900}
+          sizes="90vw"
+          priority={false}
+        />
+      </a>
     </div>
   );
 };
