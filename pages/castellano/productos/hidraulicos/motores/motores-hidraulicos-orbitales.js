@@ -4,7 +4,7 @@ import Link from "next/link";
 
 import PageMetaData from "../../../../../components/meta-data/pages-spanish";
 import pages from "../../../../../utils/meta-data/spanish-pages/pages.json";
-import MotorFormSpanish from "../../../../../components/motor-form-spanish";
+import MotorFormSpanish from "../../../../../components/Motor-form-spanish";
 import ProductNavSpanish from "../../../../../components/nav-products-spanish";
 
 // import GerolerMotorScript from "../../components/data-structure/products/motor-geroler-script";
