@@ -101,14 +101,15 @@ function ProductNavSpanish() {
         <div id="motorDropdown" className=" col pumpHidden">
           <div className="row">
             <Link
-              href="/products/geroler-motors"
+              href="/castellano/productos/hidraulicos/motores/motores-hidraulicos-orbitales"
               className={
-                pathName === "/products/geroler-motors"
+                pathName ===
+                "/castellano/productos/hidraulicos/motores/motores-hidraulicos-orbitales"
                   ? "link2 active2"
                   : "link2"
               }
             >
-              Motores Geroler
+              Motores Orbitales
             </Link>
           </div>
           <div className="row">
