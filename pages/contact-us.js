@@ -83,10 +83,13 @@ const Contact = () => {
         <div className="col ">
           <div className="container svg-drawing-container">
             <div className="row ">
-              <div className="col-3">
+              <div>
+                <br />
+                <br />
+                <br /> <br />
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  width="200"
+                  width="50"
                   height="40"
                   fill="currentColor"
                   className="bi bi-telephone-fill"
@@ -98,18 +101,19 @@ const Contact = () => {
                   />
                 </svg>
               </div>
-              <div className="col-9">
+              <div>
                 <p>
                   <strong>PHONE:</strong> <br />
                   <a href="tel:+15862213095">+1-586-221-3095</a>
                 </p>
               </div>
             </div>
+            <br />
             <div className="row">
-              <div className="col-3">
+              <div>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  width="200"
+                  width="50"
                   height="40"
                   fill="currentColor"
                   className="bi bi-envelope-fill"
@@ -118,16 +122,18 @@ const Contact = () => {
                   <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555ZM0 4.697v7.104l5.803-3.558L0 4.697ZM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757Zm3.436-.586L16 11.801V4.697l-5.803 3.546Z" />
                 </svg>
               </div>
-              <div className="col-9">
+
+              <div>
                 <strong>EMAIL:</strong> <br />
                 <a href="mailto:info@tu.biz">info@tu.biz</a>
               </div>
             </div>
+            <br /> <br />
             <div className="row">
-              <div className="col-3 ">
+              <div>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  width="200"
+                  width="50"
                   height="40"
                   fill="currentColor"
                   className="bi bi-compass-fill "
@@ -136,7 +142,7 @@ const Contact = () => {
                   <path d="M15.5 8.516a7.5 7.5 0 1 1-9.462-7.24A1 1 0 0 1 7 0h2a1 1 0 0 1 .962 1.276 7.503 7.503 0 0 1 5.538 7.24zm-3.61-3.905L6.94 7.439 4.11 12.39l4.95-2.828 2.828-4.95z" />
                 </svg>
               </div>
-              <div className="col-9">
+              <div>
                 <strong>ADDRESS:</strong> <br />
                 TU <br />
                 Farmington Hills, MI 48334 <br />
