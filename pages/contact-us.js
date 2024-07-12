@@ -76,11 +76,11 @@ const Contact = () => {
       </div>
 
       <div className="row ">
-        <div className="col">
+        <div className="col-9">
           <ContactForm />
         </div>
 
-        <div className="col ">
+        <div className="col-3 ">
           <div className="container svg-drawing-container">
             <div className="row ">
               <div>
