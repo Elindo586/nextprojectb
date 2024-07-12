@@ -67,7 +67,7 @@ const LinearGuides = ({ pages }) => {
 
       <div className="row">
         <div className="col-md-9 table-responsive">
-          <div className="col-md-12">
+          <div>
             <h6 className="product-title-text"> Guías Lineales</h6>
             <div className="linear-guides-div">
               <Image

@@ -320,7 +320,9 @@ toggle between hiding and showing the dropdown content */
                 </button>
                 <div id="myDropdown2" className="dropdown-content2">
                   <div>
-                    <Link href="/products/geroler-motors">Motores Geroler</Link>
+                    <Link href="/castellano/productos/hidraulicos/motores/motores-hidraulicos-orbitales">
+                      Motores Orbitales
+                    </Link>
                   </div>
                   <div>
                     <Link href="/products/vane-motors">Motores Paletas</Link>
