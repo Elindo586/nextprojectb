@@ -64,7 +64,7 @@ const MotorFormSpanish = () => {
   };
 
   return (
-    <div className="col-md-12 bg-light">
+    <div className=" bg-light">
       <p>
         <strong> No está seguro que motor seleccionar?</strong> Envienos sus
         requerimientos y le ayudaremos a seleccionar el motor correcto para su

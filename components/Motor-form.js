@@ -64,7 +64,7 @@ const MotorForm = () => {
   };
 
   return (
-    <div className="col-md-12 bg-light">
+    <div className=" bg-light">
       <p>
         <strong> Not sure what hydraulic motor to select?</strong> Send us your
         technical requirements and we will work with you to select the proper

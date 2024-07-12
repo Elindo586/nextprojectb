@@ -70,7 +70,7 @@ const GerolerMotor = () => {
       <GerolerMotorScript />
       <div className="row">
         <div className="col-md-9 table-responsive">
-          <div className="col-md-12">
+          <div>
             <h6 className="product-title-text"> Geroler Motors</h6> <br />
             <div className="geroler-motors-div">
               <Image
@@ -167,7 +167,7 @@ const GerolerMotor = () => {
             <br />
           </div>
 
-          <div className="col-md12">
+          <div>
             <MotorForm />
           </div>
         </div>

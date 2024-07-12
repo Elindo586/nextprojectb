@@ -62,8 +62,7 @@ const VaneMotors = () => {
       <VaneMotorScript />
       <div className="row">
         <div className="col-md-9 table-responsive">
-          <div className="col-md-12"></div>
-          <div className="col-md-12">
+          <div>
             <h6 className="product-title-text"> Vane Motors</h6> <br />
             <div className="vane-motors-div">
               <Image
@@ -88,7 +87,7 @@ const VaneMotors = () => {
             </Link>
             <br />
           </div>
-          <div className="col-md-12">
+          <div>
             <table className="table table-hover table-striped table-bordered">
               <thead>
                 <tr>
