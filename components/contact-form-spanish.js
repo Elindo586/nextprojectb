@@ -71,7 +71,7 @@ export default function ContactFormSpanish() {
           type="text"
           id="firstname"
           name="firstname"
-          placeholder=" Your Name"
+          placeholder="Nombre"
           required=""
           onChange={(e) => {
             setFirstName(e.target.value);
@@ -88,7 +88,7 @@ export default function ContactFormSpanish() {
           type="text"
           id="company"
           name="company"
-          placeholder="Your company"
+          placeholder="Empresa"
           onChange={(e) => {
             setCompany(e.target.value);
           }}
@@ -104,7 +104,7 @@ export default function ContactFormSpanish() {
           type="email"
           id="email"
           name="email"
-          placeholder="Your E-mail"
+          placeholder="E-mail"
           required=""
           onChange={(e) => {
             setEmail(e.target.value);
@@ -121,7 +121,7 @@ export default function ContactFormSpanish() {
           type="text"
           id="country"
           name="country"
-          placeholder="Your Country"
+          placeholder="país"
           required=""
           onChange={(e) => {
             setCountry(e.target.value);
@@ -136,7 +136,7 @@ export default function ContactFormSpanish() {
           type="text"
           id="notes"
           name="notes"
-          placeholder="Include any additional information"
+          placeholder="Su mensaje aquí."
           rows="5"
           required=""
           onChange={(e) => {
