@@ -67,22 +67,21 @@ const BallScrews = ({ pages }) => {
 
       <div className="row">
         <div className="col-md-9 table-responsive">
-          <div className="col-md-12">
-            <h6 className="product-title-text"> Ball Screws</h6>
-            <div className="ball-screws-div">
-              <Image
-                fill={true}
-                src="/images/mechanical/ball-screws.png"
-                id="ball-screws"
-                alt="ball screws"
-                sizes="100vw"
-                // width={586}
-                // height={339}
-                priority={true}
-              />
-            </div>
+          <h6 className="product-title-text"> Ball Screws</h6>
+          <div className="ball-screws-div">
+            <Image
+              fill={true}
+              src="/images/mechanical/ball-screws.png"
+              id="ball-screws"
+              alt="ball screws"
+              sizes="100vw"
+              // width={586}
+              // height={339}
+              priority={true}
+            />
+          </div>
 
-            {/* <Link
+          {/* <Link
               legacyBehavior
               href="/pdf/hi-torque-low-speed-hydraulic-motors.pdf"
             >
@@ -93,73 +92,71 @@ const BallScrews = ({ pages }) => {
                 Download PDF
               </a>
             </Link> */}
+          <br />
+          <table className="table table-hover table-striped table-bordered">
+            <thead>
+              <tr>
+                <th colSpan="2" className="product-title-table-text">
+                  Ball Screws{" "}
+                </th>
+              </tr>
+
+              <tr className="inside-table-text">
+                <td>
+                  <b>Characteristics</b>
+                </td>
+                <td>
+                  <b>Benefits</b>
+                </td>
+              </tr>
+            </thead>
+
+            <tbody>
+              <tr className="inside-table-text">
+                <td>Easy to transport</td>
+                <td>
+                  Reduced friction to rolling motion by balls and enables
+                  accurate fine feed.
+                </td>
+              </tr>
+
+              <tr className="inside-table-text">
+                <td>Long Life</td>
+                <td>
+                  Long rolling operation because the ball performs rolling
+                  motion.
+                </td>
+              </tr>
+
+              <tr className="inside-table-text">
+                <td>Simple Lubrication</td>
+                <td>
+                  Due to constant rolling motion, lubrication is possible in
+                  small quantities and can be supplemented with grease or
+                  lubricant.
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <br />
+          <div>
+            <p>
+              We offer a wide range of ball screws for your industrial needs.
+              Our ball screws are designed to provide high precision and
+              efficiency in your applications.
+            </p>
             <br />
-            <table className="table table-hover table-striped table-bordered">
-              <thead>
-                <tr>
-                  <th colSpan="2" className="product-title-table-text">
-                    Ball Screws{" "}
-                  </th>
-                </tr>
-
-                <tr className="inside-table-text">
-                  <td>
-                    <b>Characteristics</b>
-                  </td>
-                  <td>
-                    <b>Benefits</b>
-                  </td>
-                </tr>
-              </thead>
-
-              <tbody>
-                <tr className="inside-table-text">
-                  <td>Easy to transport</td>
-                  <td>
-                    Reduced friction to rolling motion by balls and enables
-                    accurate fine feed.
-                  </td>
-                </tr>
-
-                <tr className="inside-table-text">
-                  <td>Long Life</td>
-                  <td>
-                    Long rolling operation because the ball performs rolling
-                    motion.
-                  </td>
-                </tr>
-
-                <tr className="inside-table-text">
-                  <td>Simple Lubrication</td>
-                  <td>
-                    Due to constant rolling motion, lubrication is possible in
-                    small quantities and can be supplemented with grease or
-                    lubricant.
-                  </td>
-                </tr>
-              </tbody>
-            </table>
+            <p>
+              Our ball screws can be interchanged with other brands and can meet
+              your specific requirements.
+            </p>
             <br />
-            <div>
-              <p>
-                We offer a wide range of ball screws for your industrial needs.
-                Our ball screws are designed to provide high precision and
-                efficiency in your applications.
-              </p>
-              <br />
-              <p>
-                Our ball screws can be interchanged with other brands and can
-                meet your specific requirements.
-              </p>
-              <br />
-            </div>
-            <div>
-              <ContactForm />
-            </div>
           </div>
-
-          <div className="col-md12">{/* <MotorForm /> */}</div>
+          <div>
+            <ContactForm />
+          </div>
         </div>
+
         <div className="col-md-3">
           <ProductNav />
         </div>

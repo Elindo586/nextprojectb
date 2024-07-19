@@ -67,21 +67,20 @@ const LinearGuides = ({ pages }) => {
 
       <div className="row">
         <div className="col-md-9 table-responsive">
-          <div>
-            <h6 className="product-title-text"> Guías Lineales</h6>
-            <div className="linear-guides-div">
-              <Image
-                fill={true}
-                src="/images/mechanical/linear-guides.png"
-                id="linear-guides"
-                alt="Guías Lineales"
-                sizes="100vw"
-                // width={551}
-                // height={346}
-                priority={true}
-              />
-            </div>
-            {/* <Link
+          <h6 className="product-title-text"> Guías Lineales</h6>
+          <div className="linear-guides-div">
+            <Image
+              fill={true}
+              src="/images/mechanical/linear-guides.png"
+              id="linear-guides"
+              alt="Guías Lineales"
+              sizes="100vw"
+              // width={551}
+              // height={346}
+              priority={true}
+            />
+          </div>
+          {/* <Link
               legacyBehavior
               href="/pdf/hi-torque-low-speed-hydraulic-motors.pdf"
             >
@@ -92,120 +91,115 @@ const LinearGuides = ({ pages }) => {
                 Download PDF
               </a>
             </Link> */}
-            <br />
-            <table className="table table-hover table-striped table-bordered">
-              <thead>
-                <tr>
-                  <th colSpan="2" className="product-title-table-text">
-                    Guías Lineales / Rodamientos Lineales{" "}
-                  </th>
-                </tr>
-
-                <tr className="inside-table-text">
-                  <td>
-                    {" "}
-                    <b>Estilo</b>
-                  </td>
-                  <td>
-                    {" "}
-                    <b>Características</b>
-                  </td>
-                </tr>
-              </thead>
-
-              <tbody>
-                <tr className="inside-table-text">
-                  <td>Movimiento lineal</td>
-                  <td>
-                    <ul>
-                      <li>Rodamiento lineal de bolas estándar mundial.</li>
-                      <li>
-                        Carga igual en 4 direcciones con ángulo de contacto de
-                        45°.
-                      </li>
-                      <li>Capacidad de absorción de errores.</li>
-                      <li>Alta rigidez y precisión.</li>
-                    </ul>
-                  </td>
-                </tr>
-
-                <tr className="inside-table-text">
-                  <td>Movimiento lineal ancho</td>
-                  <td>
-                    <ul>
-                      <li>
-                        Carga igual en 4 direcciones con ángulo de contacto de
-                        45°.
-                      </li>
-                      <li>
-                        Estructura baja y centrada con cola ancha y corta.
-                      </li>
-                      <li>
-                        Utilizable como monoeje donde se requiere alta rigidez.
-                      </li>
-                    </ul>
-                  </td>
-                </tr>
-
-                <tr className="inside-table-text">
-                  <td>Cadena espaciadora</td>
-                  <td>
-                    <ul>
-                      <li>Rodamiento lineal de bolas estándar mundial</li>
-                      <li> 4 direction equal load with 45° contact angel.</li>
-                      <li>
-                        Carga igual en 4 direcciones con ángulo de contacto de
-                        45°.
-                      </li>
-                      <li>Tipo retenedor con base de bola espaciadora.</li>
-                      <li>Bajo nivel de ruido y poco polvo .</li>
-                    </ul>
-                  </td>
-                </tr>
-
-                <tr className="inside-table-text">
-                  <td>Carga miniatura</td>
-                  <td>
-                    <ul>
-                      <li>Miniatura con alta rigidez.</li>
-                      <li>Amplia gama de formas y tamaños.</li>
-                      <li>Diseño compacto.</li>
-                      <li>Alta durabilidad y confiabilidad.</li>
-                    </ul>
-                  </td>
-                </tr>
-
-                <tr className="inside-table-text">
-                  <td>Rodamiento lineal</td>
-                  <td>
-                    <ul>
-                      <li>Habilitación de rodillos con guía rígida.</li>
-                      <li>
-                        Carga igual en 4 direcciones con ángulo de contacto de
-                        45°.
-                      </li>
-                      <li>Amplia superficie de contacto.</li>
-                      <li>Cargas altas.</li>
-                      <li>Alta rigidez y precisión.</li>
-                    </ul>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-            <br />{" "}
-            <div>
-              <p>
-                * Podemos intercambiar y proporcionar reemplazos para la mayoría
-                marcas de guías lineales disponibles en el mercado.{" "}
-              </p>
-            </div>
-            <div>
-              <ContactFormSpanish />
-            </div>
-          </div>
-
           <br />
+          <table className="table table-hover table-striped table-bordered">
+            <thead>
+              <tr>
+                <th colSpan="2" className="product-title-table-text">
+                  Guías Lineales / Rodamientos Lineales{" "}
+                </th>
+              </tr>
 
+              <tr className="inside-table-text">
+                <td>
+                  {" "}
+                  <b>Estilo</b>
+                </td>
+                <td>
+                  {" "}
+                  <b>Características</b>
+                </td>
+              </tr>
+            </thead>
+
+            <tbody>
+              <tr className="inside-table-text">
+                <td>Movimiento lineal</td>
+                <td>
+                  <ul>
+                    <li>Rodamiento lineal de bolas estándar mundial.</li>
+                    <li>
+                      Carga igual en 4 direcciones con ángulo de contacto de
+                      45°.
+                    </li>
+                    <li>Capacidad de absorción de errores.</li>
+                    <li>Alta rigidez y precisión.</li>
+                  </ul>
+                </td>
+              </tr>
+
+              <tr className="inside-table-text">
+                <td>Movimiento lineal ancho</td>
+                <td>
+                  <ul>
+                    <li>
+                      Carga igual en 4 direcciones con ángulo de contacto de
+                      45°.
+                    </li>
+                    <li>Estructura baja y centrada con cola ancha y corta.</li>
+                    <li>
+                      Utilizable como monoeje donde se requiere alta rigidez.
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+
+              <tr className="inside-table-text">
+                <td>Cadena espaciadora</td>
+                <td>
+                  <ul>
+                    <li>Rodamiento lineal de bolas estándar mundial</li>
+                    <li> 4 direction equal load with 45° contact angel.</li>
+                    <li>
+                      Carga igual en 4 direcciones con ángulo de contacto de
+                      45°.
+                    </li>
+                    <li>Tipo retenedor con base de bola espaciadora.</li>
+                    <li>Bajo nivel de ruido y poco polvo .</li>
+                  </ul>
+                </td>
+              </tr>
+
+              <tr className="inside-table-text">
+                <td>Carga miniatura</td>
+                <td>
+                  <ul>
+                    <li>Miniatura con alta rigidez.</li>
+                    <li>Amplia gama de formas y tamaños.</li>
+                    <li>Diseño compacto.</li>
+                    <li>Alta durabilidad y confiabilidad.</li>
+                  </ul>
+                </td>
+              </tr>
+
+              <tr className="inside-table-text">
+                <td>Rodamiento lineal</td>
+                <td>
+                  <ul>
+                    <li>Habilitación de rodillos con guía rígida.</li>
+                    <li>
+                      Carga igual en 4 direcciones con ángulo de contacto de
+                      45°.
+                    </li>
+                    <li>Amplia superficie de contacto.</li>
+                    <li>Cargas altas.</li>
+                    <li>Alta rigidez y precisión.</li>
+                  </ul>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <br />{" "}
+          <div>
+            <p>
+              * Podemos intercambiar y proporcionar reemplazos para la mayoría
+              marcas de guías lineales disponibles en el mercado.{" "}
+            </p>
+          </div>
+          <div>
+            <ContactFormSpanish />
+          </div>
+          <br />
           <div className="col-md12">{/* <MotorForm /> */}</div>
         </div>
         <div className="col-md-3">

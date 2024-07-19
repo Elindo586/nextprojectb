@@ -69,126 +69,124 @@ const HydraulicManifolds = () => {
       <ManifoldScript />
       <div className="row">
         <div className="col-md-9 table-responsive">
-          <div className="col-md-12">
-            <h6 className="product-title-text"> Hydraulic Manifolds </h6> <br />
-            <span className="product-pic d-flex justify-content-center">
-              <Image
-                src="/images/hydraulic-manifolds.png"
-                id="hydraulic-manifolds"
-                alt="hydraulic manifolds"
-                width={250}
-                height={187}
-                priority={true}
-              />
-            </span>
-            <br />
-            <div className="centering-btn">
-              <Link
-                href="/pdf/d03-manifold.pdf"
-                className="btn btn-info d-flex justify-content-center"
-                target="blank"
-              >
-                Download PDF
-              </Link>
-              <Link
-                href="/pdf/d05-manifold.pdf"
-                className="btn btn-info d-flex justify-content-center"
-                target="blank"
-              >
-                Download PDF
-              </Link>{" "}
-              <Link
-                href="/pdf/d07-manifold.pdf"
-                className="btn btn-info d-flex justify-content-center"
-                target="blank"
-              >
-                Download PDF
-              </Link>{" "}
-              <Link
-                href="/pdf/d08-manifold.pdf"
-                className="btn btn-info d-flex justify-content-center"
-                target="blank"
-              >
-                Download PDF
-              </Link>
-            </div>
-            <br />
-            <table className="table table-hover table-striped table-bordered">
-              <thead>
-                <tr>
-                  <th colSpan="4" className="product-title-table-text">
-                    {" "}
-                    Hydraulic Manifolds{" "}
-                  </th>
-                </tr>
-
-                <tr className="inside-table-text">
-                  <td>Size</td>
-                  <td>PSI</td>
-                  <td>Material</td>
-                  <td> Stations</td>
-                </tr>
-              </thead>
-
-              <tbody>
-                <tr className="inside-table-text">
-                  <td>D03</td>
-                  <td>3,000</td>
-                  <td>Aluminum</td>
-                  <td>1-16</td>
-                </tr>
-
-                <tr className="inside-table-text">
-                  <td>D03</td>
-                  <td>5,000</td>
-                  <td>Ductile Iron</td>
-                  <td>1-16</td>
-                </tr>
-
-                <tr className="inside-table-text">
-                  <td>D05</td>
-                  <td>3,000</td>
-                  <td>Aluminum</td>
-                  <td>1-21</td>
-                </tr>
-
-                <tr className="inside-table-text">
-                  <td>D05</td>
-                  <td>5,000</td>
-                  <td>Ductile Iron</td>
-                  <td>1-21</td>
-                </tr>
-
-                <tr className="inside-table-text">
-                  <td>D07</td>
-                  <td>3,000</td>
-                  <td>Aluminum</td>
-                  <td>1-8</td>
-                </tr>
-
-                <tr className="inside-table-text">
-                  <td>D07</td>
-                  <td>5,000</td>
-                  <td>Ductile Iron</td>
-                  <td>1-8</td>
-                </tr>
-
-                <tr className="inside-table-text">
-                  <td>D08</td>
-                  <td>3,000</td>
-                  <td>Aluminum</td>
-                  <td>1-7</td>
-                </tr>
-
-                <tr className="inside-table-text">
-                  <td>D08</td>
-                  <td>5,000</td>
-                  <td>Ductile Iron</td>
-                  <td>1-7</td>
-                </tr>
-              </tbody>
-            </table>
+          <h6 className="product-title-text"> Hydraulic Manifolds </h6> <br />
+          <span className="product-pic d-flex justify-content-center">
+            <Image
+              src="/images/hydraulic-manifolds.png"
+              id="hydraulic-manifolds"
+              alt="hydraulic manifolds"
+              width={250}
+              height={187}
+              priority={true}
+            />
+          </span>
+          <br />
+          <div className="centering-btn">
+            <Link
+              href="/pdf/d03-manifold.pdf"
+              className="btn btn-info d-flex justify-content-center"
+              target="blank"
+            >
+              Download PDF
+            </Link>
+            <Link
+              href="/pdf/d05-manifold.pdf"
+              className="btn btn-info d-flex justify-content-center"
+              target="blank"
+            >
+              Download PDF
+            </Link>{" "}
+            <Link
+              href="/pdf/d07-manifold.pdf"
+              className="btn btn-info d-flex justify-content-center"
+              target="blank"
+            >
+              Download PDF
+            </Link>{" "}
+            <Link
+              href="/pdf/d08-manifold.pdf"
+              className="btn btn-info d-flex justify-content-center"
+              target="blank"
+            >
+              Download PDF
+            </Link>
           </div>
+          <br />
+          <table className="table table-hover table-striped table-bordered">
+            <thead>
+              <tr>
+                <th colSpan="4" className="product-title-table-text">
+                  {" "}
+                  Hydraulic Manifolds{" "}
+                </th>
+              </tr>
+
+              <tr className="inside-table-text">
+                <td>Size</td>
+                <td>PSI</td>
+                <td>Material</td>
+                <td> Stations</td>
+              </tr>
+            </thead>
+
+            <tbody>
+              <tr className="inside-table-text">
+                <td>D03</td>
+                <td>3,000</td>
+                <td>Aluminum</td>
+                <td>1-16</td>
+              </tr>
+
+              <tr className="inside-table-text">
+                <td>D03</td>
+                <td>5,000</td>
+                <td>Ductile Iron</td>
+                <td>1-16</td>
+              </tr>
+
+              <tr className="inside-table-text">
+                <td>D05</td>
+                <td>3,000</td>
+                <td>Aluminum</td>
+                <td>1-21</td>
+              </tr>
+
+              <tr className="inside-table-text">
+                <td>D05</td>
+                <td>5,000</td>
+                <td>Ductile Iron</td>
+                <td>1-21</td>
+              </tr>
+
+              <tr className="inside-table-text">
+                <td>D07</td>
+                <td>3,000</td>
+                <td>Aluminum</td>
+                <td>1-8</td>
+              </tr>
+
+              <tr className="inside-table-text">
+                <td>D07</td>
+                <td>5,000</td>
+                <td>Ductile Iron</td>
+                <td>1-8</td>
+              </tr>
+
+              <tr className="inside-table-text">
+                <td>D08</td>
+                <td>3,000</td>
+                <td>Aluminum</td>
+                <td>1-7</td>
+              </tr>
+
+              <tr className="inside-table-text">
+                <td>D08</td>
+                <td>5,000</td>
+                <td>Ductile Iron</td>
+                <td>1-7</td>
+              </tr>
+            </tbody>
+          </table>
         </div>
         <div className="col-md-3">
           <ProductNav />

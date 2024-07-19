@@ -67,22 +67,21 @@ const BallScrews = ({ pages }) => {
 
       <div className="row">
         <div className="col-md-9 table-responsive">
-          <div>
-            <h6 className="product-title-text"> Husillos de Bolas</h6>
-            <div className="ball-screws-div">
-              <Image
-                fill={true}
-                src="/images/mechanical/ball-screws.png"
-                id="ball-screws"
-                alt="Husillos de Bolas"
-                sizes="100vw"
-                // width={586}
-                // height={339}
-                priority={true}
-              />
-            </div>
+          <h6 className="product-title-text"> Husillos de Bolas</h6>
+          <div className="ball-screws-div">
+            <Image
+              fill={true}
+              src="/images/mechanical/ball-screws.png"
+              id="ball-screws"
+              alt="Husillos de Bolas"
+              sizes="100vw"
+              // width={586}
+              // height={339}
+              priority={true}
+            />
+          </div>
 
-            {/* <Link
+          {/* <Link
               legacyBehavior
               href="/pdf/hi-torque-low-speed-hydraulic-motors.pdf"
             >
@@ -93,73 +92,69 @@ const BallScrews = ({ pages }) => {
                 Download PDF
               </a>
             </Link> */}
+          <br />
+          <table className="table table-hover table-striped table-bordered">
+            <thead>
+              <tr>
+                <th colSpan="2" className="product-title-table-text">
+                  Husillos de Bolas{" "}
+                </th>
+              </tr>
+
+              <tr className="inside-table-text">
+                <td>
+                  <b>Características</b>
+                </td>
+                <td>
+                  <b>Beneficios</b>
+                </td>
+              </tr>
+            </thead>
+
+            <tbody>
+              <tr className="inside-table-text">
+                <td>Fácil de mover</td>
+                <td>
+                  Reducción de la fricción al movimiento de rodadura de las
+                  bolas y permite alimentación fina y precisa.
+                </td>
+              </tr>
+
+              <tr className="inside-table-text">
+                <td>Larga vida</td>
+                <td>
+                  Operación de rodamiento larga porque la bola rueda movimiento.
+                </td>
+              </tr>
+
+              <tr className="inside-table-text">
+                <td>Lubricación sencilla</td>
+                <td>
+                  Gracias al movimiento de rodadura constante, la lubricación es
+                  posible en pequeñas cantidades y se puede complementar con
+                  grasa o lubricante.
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <br />
+          <div>
+            <p>
+              Ofrecemos una amplia gama de husillos de bolas para sus
+              necesidades industriales. Nuestros husillos de bolas están
+              diseñados para proporcionar alta precisión y eficiencia en sus
+              aplicaciones.
+            </p>
             <br />
-            <table className="table table-hover table-striped table-bordered">
-              <thead>
-                <tr>
-                  <th colSpan="2" className="product-title-table-text">
-                    Husillos de Bolas{" "}
-                  </th>
-                </tr>
-
-                <tr className="inside-table-text">
-                  <td>
-                    <b>Características</b>
-                  </td>
-                  <td>
-                    <b>Beneficios</b>
-                  </td>
-                </tr>
-              </thead>
-
-              <tbody>
-                <tr className="inside-table-text">
-                  <td>Fácil de mover</td>
-                  <td>
-                    Reducción de la fricción al movimiento de rodadura de las
-                    bolas y permite alimentación fina y precisa.
-                  </td>
-                </tr>
-
-                <tr className="inside-table-text">
-                  <td>Larga vida</td>
-                  <td>
-                    Operación de rodamiento larga porque la bola rueda
-                    movimiento.
-                  </td>
-                </tr>
-
-                <tr className="inside-table-text">
-                  <td>Lubricación sencilla</td>
-                  <td>
-                    Gracias al movimiento de rodadura constante, la lubricación
-                    es posible en pequeñas cantidades y se puede complementar
-                    con grasa o lubricante.
-                  </td>
-                </tr>
-              </tbody>
-            </table>
+            <p>
+              Nuestros husillos de bolas se pueden intercambiar con otras marcas
+              y pueden cumplir con sus requisitos específicos.
+            </p>
             <br />
-            <div>
-              <p>
-                Ofrecemos una amplia gama de husillos de bolas para sus
-                necesidades industriales. Nuestros husillos de bolas están
-                diseñados para proporcionar alta precisión y eficiencia en sus
-                aplicaciones.
-              </p>
-              <br />
-              <p>
-                Nuestros husillos de bolas se pueden intercambiar con otras
-                marcas y pueden cumplir con sus requisitos específicos.
-              </p>
-              <br />
-            </div>
-            <div>
-              <ContactFormSpanish />
-            </div>
           </div>
-
-          <div className="col-md12">{/* <MotorForm /> */}</div>
+          <div>
+            <ContactFormSpanish />
+          </div>
         </div>
         <div className="col-md-3">
           <ProductNavSpanish />

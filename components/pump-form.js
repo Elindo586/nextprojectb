@@ -118,7 +118,7 @@ const PumpForm = () => {
   //       document.getElementById("p1controlselect").style.display = "block";
   //     }
   return (
-    <div className="col-md-12 bg-light">
+    <div className="col bg-light main-div-pump-form">
       <p>
         <strong> Not sure what hydraulic pump to select?</strong> Send us your
         technical requirements and we will work with you to select the proper
