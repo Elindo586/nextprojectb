@@ -8,6 +8,9 @@ export default async function BackMotor(req, res) {
     },
   });
 
+  const email1 = process.env.EMAIL;
+  const email2 = process.env.EMAIL2;
+
   await new Promise((resolve, reject) => {
     // verify connection configuration
     transporter.verify(function (error, success) {
@@ -22,19 +25,10 @@ export default async function BackMotor(req, res) {
   });
 
   const mailData = {
-    from: "info@tu.biz",
-    to: "info@tu.biz",
+    from: `${email1}`,
+    to: `${email2}`,
     subject: "Motor Form",
-    text:
-      req.body.company +
-      " | Sent from: " +
-      req.body.firstName +
-      req.body.lastName +
-      req.body.email +
-      req.body.notes +
-      req.body.torque +
-      req.body.pressure +
-      req.body.rpm,
+    text: "",
 
     html: `<div>${req.body.company}</div>
       <div> Name: ${req.body.firstName}</div>
@@ -48,8 +42,11 @@ export default async function BackMotor(req, res) {
 
   await new Promise((req, res) => {
     transporter.sendMail(mailData, function (err, info) {
-      // if (err) console.log(err);
-      // // else console.log(info);
+      if (err) {
+        console.log(err);
+      } else {
+        console.log("all good");
+      }
     });
   });
 }

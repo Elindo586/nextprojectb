@@ -24,7 +24,7 @@ export default async function stuff(req, res) {
   const mailData = {
     from: "info@tu.biz",
     to: "info@tu.biz",
-    subject: "contact form",
+    subject: "contact form main",
     text:
       req.body.company +
       " | Sent from: " +
