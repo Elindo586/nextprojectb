@@ -64,7 +64,7 @@ const Contact = () => {
             <iframe
               title="Find us on Google Maps"
               className="contact-iframe"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d216362.5009948874!2d-83.41793946346354!3d42.46945574124075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8824ae2f8c7e3c7f%3A0x1978ab227e003bbc!2sFarmington%20Hills%2C%20MI!5e0!3m2!1sen!2sus!4v1712859025858!5m2!1sen!2sus"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d94740.8598637305!2d-88.06815729416883!3d42.09350791224652!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fba3bce5cfa37%3A0xd764707ce5fdcac3!2sArlington%20Heights%2C%20IL!5e0!3m2!1sen!2sus!4v1736375302428!5m2!1sen!2sus"
               width="800"
               height="600"
               allowFullScreen=""
@@ -144,8 +144,8 @@ const Contact = () => {
               </div>
               <div>
                 <strong>ADDRESS:</strong> <br />
-                TU <br />
-                Farmington Hills, MI 48334 <br />
+                Technical Union <br />
+                Arglington Heights, IL 60004 <br />
                 USA <br />
               </div>
             </div>
