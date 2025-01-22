@@ -48,7 +48,7 @@ const Home = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>TU </title>
+          <title>TU - Technical Union </title>
           <meta
             name="description"
             content="Single source for industrial supplies. Hydraulics, Pneumatics, Electrical, Mechanical."

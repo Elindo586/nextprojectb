@@ -21,7 +21,7 @@ const MobileCounterbalanceValves = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title> TU | Hydraulic Mobile Counterbalance Valves</title>
+          <title> TU - Technical Union | Hydraulic Mobile Counterbalance Valves</title>
 
           <meta
             name="description"

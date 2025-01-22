@@ -378,7 +378,7 @@ const Formulas = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>TU | Fluid Power Formulas | Calculator </title>
+          <title>TU - Technical Union | Fluid Power Formulas | Calculator </title>
 
           <meta
             name="description"

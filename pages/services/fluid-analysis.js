@@ -46,7 +46,7 @@ const Laboratory = () => {
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
 
-          <title> TU | Services. </title>
+          <title> TU - Technical Union | Services. </title>
 
           <meta
             name="description"

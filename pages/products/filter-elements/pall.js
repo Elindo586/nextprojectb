@@ -74,7 +74,7 @@ const PallElements = ({ db }) => {
               name="facebook-domain-verification"
               content="fzctnjbrtlybvytmamk8glkng9af7p"
             />
-            <title>TU | Hydraulic element replacement for Pall filters. </title>
+            <title>TU - Technical Union | Hydraulic element replacement for Pall filters. </title>
 
             <meta
               name="description"

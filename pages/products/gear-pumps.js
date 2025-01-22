@@ -24,7 +24,7 @@ const GearPumps = () => {
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
 
-          <title> TU | Gear Pumps </title>
+          <title> TU - Technical Union | Gear Pumps </title>
 
           <meta
             name="description"

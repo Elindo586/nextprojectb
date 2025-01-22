@@ -180,7 +180,7 @@ const Interactive = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>TU | Interactive hydraulic animation</title>
+          <title>TU - Technical Union | Interactive hydraulic animation</title>
 
           <meta
             name="description"

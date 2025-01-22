@@ -22,7 +22,7 @@ const FlowControlValves = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title> TU | Hydraulic Flow Control Valves | Needle Valves </title>
+          <title> TU - Technical Union | Hydraulic Flow Control Valves | Needle Valves </title>
 
           <meta
             name="description"

@@ -86,7 +86,7 @@ const PallElements = ({ db }) => {
               content="fzctnjbrtlybvytmamk8glkng9af7p"
             />
             <title>
-              TU | Hydraulic element replacement for Schroeder filters.{" "}
+            TU - Technical Union | Hydraulic element replacement for Schroeder filters.{" "}
             </title>
 
             <meta

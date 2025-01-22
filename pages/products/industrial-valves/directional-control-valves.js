@@ -22,7 +22,7 @@ const DirectionalControlValves = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title> TU | Hydraulic Directional Control Valves </title>
+          <title> TU - Technical Union | Hydraulic Directional Control Valves </title>
 
           <meta
             name="description"

@@ -81,7 +81,7 @@ const RexrothList = ({ db }) => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>TU | Rexroth replacement components </title>
+          <title>TU - Technical Union | Rexroth replacement components </title>
 
           <meta
             name="description"

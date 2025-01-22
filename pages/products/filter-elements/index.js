@@ -19,7 +19,7 @@ const FilterElements = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>TU | Filter Elements </title>
+          <title>TU - Technical Union | Filter Elements </title>
           <meta
             name="description"
             content="List of hydraulic filter element interchanges."

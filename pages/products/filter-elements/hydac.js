@@ -75,7 +75,7 @@ const PallElements = ({ db }) => {
               content="fzctnjbrtlybvytmamk8glkng9af7p"
             />
             <title>
-              TU | Hydraulic element replacement for Hydac / Hycon filters.{" "}
+            TU - Technical Union | Hydraulic element replacement for Hydac / Hycon filters.{" "}
             </title>
 
             <meta

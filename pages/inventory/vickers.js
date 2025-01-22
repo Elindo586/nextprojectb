@@ -81,7 +81,7 @@ const VickersList = ({ db }) => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>TU | Alternative Vickers hydraulic parts. </title>
+          <title>TU - Technical Union | Alternative Vickers hydraulic parts. </title>
 
           <meta
             name="description"

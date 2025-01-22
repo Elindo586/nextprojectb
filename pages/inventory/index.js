@@ -20,7 +20,7 @@ const Inventory2 = () => {
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
           <title>
-            TU | Industrial exporters, hydraulics, pneumatics, electrical,
+            TU - Technical Union | Industrial exporters, hydraulics, pneumatics, electrical,
             mechanical products.{" "}
           </title>
 

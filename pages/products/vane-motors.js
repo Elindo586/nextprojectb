@@ -22,7 +22,7 @@ const VaneMotors = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />{" "}
-          <title>TU | Hydraulic Vane Motors </title>
+          <title> TU - Technical Union | Hydraulic Vane Motors </title>
           <meta
             name="description"
             content=" Find our hydraulic vane motor catalog. Everything from inventory for faster delivery times at competitive market pricing for your convenience. "

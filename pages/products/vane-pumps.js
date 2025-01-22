@@ -23,7 +23,7 @@ const VanePumps = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>TU | Hydraulic Vane Pumps </title>
+          <title>TU - Technical Union | Hydraulic Vane Pumps </title>
 
           <meta
             name="description"

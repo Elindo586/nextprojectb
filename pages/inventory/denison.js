@@ -81,7 +81,7 @@ const DenisonList = ({ db }) => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>TU | Denison hydraulic replacements.</title>
+          <title>TU - Technical Union | Denison hydraulic replacements.</title>
 
           <meta
             name="description"

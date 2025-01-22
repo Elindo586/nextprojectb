@@ -22,7 +22,7 @@ const HydraulicManifolds = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title> TU | Hydraulic Manifolds </title>
+          <title> TU - Technical Union | Hydraulic Manifolds </title>
 
           <meta
             name="description"

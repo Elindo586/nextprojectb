@@ -80,7 +80,7 @@ const CharlynnList = ({ db }) => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>TU | Hydraulic Inventory to replace Eaton - Charlynn. </title>
+          <title>TU - Technical Union | Hydraulic Inventory to replace Eaton - Charlynn. </title>
 
           <meta
             name="description"

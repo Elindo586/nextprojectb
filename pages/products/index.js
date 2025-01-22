@@ -256,7 +256,7 @@ toggle between hiding and showing the dropdown content */
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>TU | Products</title>
+          <title>TU - Technical Union | Products</title>
           <meta
             name="description"
             content="Large selection of industrial products for hydraulics, pneumatics, electrical and mechanical items."

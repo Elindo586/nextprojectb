@@ -44,7 +44,7 @@ const Preventive = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title> TU | Preventive Maintenance Programs</title>
+          <title>TU - Technical Union | Preventive Maintenance Programs</title>
 
           <meta
             name="description"

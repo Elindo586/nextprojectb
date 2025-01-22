@@ -22,7 +22,7 @@ const Flowmeters = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title> TU | Flowmeters </title>
+          <title> TU - Technical Union | Flowmeters </title>
 
           <meta
             name="description"

@@ -24,7 +24,7 @@ const PistonPumps = () => {
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
 
-          <title>TU | Piston Pumps </title>
+          <title>TU - Technical Union | Piston Pumps </title>
           <meta
             name="description"
             content=" Find all of our industrial product supply. "

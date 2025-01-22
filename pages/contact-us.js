@@ -7,7 +7,7 @@ const Contact = () => {
     <div>
       <div className="row">
         <Head>
-          <title>TU | Contact US.</title>
+          <title>TU- Technical Union | Contact US.</title>
           <meta charSet="UTF-8" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           <link

@@ -23,7 +23,7 @@ const GerolerMotor = () => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title> TU | Geroler Hydraulic Motors </title>
+          <title> TU - Technical Union | Geroler Hydraulic Motors </title>
 
           <meta
             name="description"

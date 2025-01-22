@@ -6,6 +6,12 @@ export default async function stuff(req, res) {
       user: process.env.EMAIL,
       pass: process.env.EPASSWORD,
     },
+    // secure: true,
+    
+    tls: {
+      rejectUnauthorized: false, // Allow self-signed certificates (development only)
+      
+    },
   });
 
   await new Promise((resolve, reject) => {

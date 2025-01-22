@@ -81,7 +81,7 @@ const ParkerList = ({ db }) => {
             name="facebook-domain-verification"
             content="fzctnjbrtlybvytmamk8glkng9af7p"
           />
-          <title>TU | Parker hydrauilc replacements.</title>
+          <title>TU - Technical Union | Parker hydrauilc replacements.</title>
 
           <meta
             name="description"
