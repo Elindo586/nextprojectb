@@ -106,7 +106,7 @@ const Home = () => {
       <div className="row">
         <div className="col-md-6 index-padding" lang="en">
           <p className="maintext">
-            <strong> TU </strong> is your single source for industrial
+            <strong> Technical Union </strong> is your single source for industrial
             components in the areas of hydraulics, pneumatics, electrical, and
             mechanical products. All around the world, whenever you are working
             on a new project or an existing industrial system, you need proven
@@ -115,7 +115,7 @@ const Home = () => {
             maintenance to maximize your company’s capital investment.
           </p>
           <p className="maintext" lang="en">
-            <strong>TU </strong> offers cost-effective technical industrial
+            <strong>Technical Union </strong> offers cost-effective technical industrial
             solutions that you can trust to help you increase efficient
             productivity, compact system design, and usage control of spare
             components for your industrial machinery.
