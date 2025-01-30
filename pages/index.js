@@ -125,7 +125,7 @@ const Home = () => {
             spare components for your industrial machinery.
           </p>
           <h4 className="listtittle">
-            <strong>Advantages for our Distributors and OEM's.</strong>
+            <strong>Advantages for our Distributors and OEM&apos;s.</strong>
           </h4>
           <div className="listitems">
             <ul>
