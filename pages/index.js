@@ -106,32 +106,33 @@ const Home = () => {
       <div className="row">
         <div className="col-md-6 index-padding" lang="en">
           <p className="maintext">
-            <strong> Technical Union </strong> is your single source for industrial
-            components in the areas of hydraulics, pneumatics, electrical, and
-            mechanical products. All around the world, whenever you are working
-            on a new project or an existing industrial system, you need proven
-            technical solutions to give you a competitive edge for improved
-            machine design, better production time, and optimal machine
-            maintenance to maximize your company’s capital investment.
+            <strong> Technical Union </strong> is your single source Independent
+            Sales Representative for industrial industrial machine automation in
+            the areas of hydraulics, pneumatics, electrical, mechanical, and
+            general industrial supplies.
+            <br />
+            <br /> All around the world, whenever you are working on a new
+            project or an existing industrial system, you need proven technical
+            solutions to give you a competitive edge for improved machine
+            design, better production time, and optimal machine maintenance to
+            maximize your company’s capital investment.
           </p>
           <p className="maintext" lang="en">
-            <strong>Technical Union </strong> offers cost-effective technical industrial
-            solutions that you can trust to help you increase efficient
-            productivity, compact system design, and usage control of spare
-            components for your industrial machinery.
+            Along with our industrial partners,{" "}
+            <strong>Technical Union </strong> offers competitive technical
+            industrial solutions that you can trust to help you increase
+            efficient productivity, compact system design, and usage control of
+            spare components for your industrial machinery.
           </p>
           <h4 className="listtittle">
-            <strong>Our Advantages</strong>
+            <strong>Advantages for our Distributors and OEM's.</strong>
           </h4>
           <div className="listitems">
             <ul>
-              <li>Engineered systems.</li>
-              <li>Hydraulic retrofits.</li>
+              <li>Factory technical support.</li>
               <li>Spare parts supply.</li>
-              <li>Hydraulic components remanufacture.</li>
-              <li>Alternative new components to replace main brand names.</li>
+              <li>Alternative components to replace other brand names.</li>
               <li>Competitive market prices.</li>
-              <li>Preventive maintenance programs.</li>
               <li>Technical Experience.</li>
               <li>Superior quality.</li>
               <li>Fast responds.</li>
@@ -139,7 +140,22 @@ const Home = () => {
               <li>Quick delivery.</li>
             </ul>
           </div>
+          <h4 className="listtittle">
+            <strong>Advantages for our industrial manufacturing partners.</strong>
+          </h4>
+          <div className="listitems">
+            <ul>
+              <li>Establish stronger relationships with distributors.</li>
+              <li>Increase the number of eyes and ears in the market place.</li>
+              <li>Promote the advantages of the technical solutions of your products.</li>
+              <li>Increase market share.</li>
+              
+              
+            </ul>
+          </div>
+          
         </div>
+        
         <div className="col-md-6" lang="en">
           <div className=" index-img1 row ">
             <Image
